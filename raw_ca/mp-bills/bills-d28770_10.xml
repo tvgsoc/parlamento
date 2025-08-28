@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2523</literal></binding>
+   <binding name="date"><literal>19880324</literal></binding>
+   <binding name="title"><literal>LUCCHESI ed altri: Provvedimenti per lo sviluppo della telematica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3776</literal></binding>
+   <binding name="date"><literal>19890330</literal></binding>
+   <binding name="title"><literal>AIARDI ed altri: Proroga di termini per la regolarizzazione di lavoratori extra-comunitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3777</literal></binding>
+   <binding name="date"><literal>19890330</literal></binding>
+   <binding name="title"><literal>AIARDI ed altri: Modifica degli articoli 17, 18, 48, 50, 51 e 54 della Costituzione per il riconoscimento agli stranieri residenti in Italia dei diritti di riunione, associazione, petizione e di elettorato attivo e passivo nelle elezioni amministrative</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2171</literal></binding>
+   <binding name="date"><literal>19880115</literal></binding>
+   <binding name="title"><literal>LUCCHESI ed altri: Interventi dello Stato per la realizzazione di infrastrutture intermodali per i trasporti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4906</literal></binding>
+   <binding name="date"><literal>19900615</literal></binding>
+   <binding name="title"><literal>SCOTTI ed altri: Nuova disciplina dell&#39;ente &quot;Ferrovie dello Stato&quot;</literal></binding>
+  </result>
+ </results>
+</sparql>

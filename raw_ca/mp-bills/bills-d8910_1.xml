@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2735</literal></binding>
+   <binding name="date"><literal>19520529</literal></binding>
+   <binding name="title"><literal>LOMBARDI COLINI ed altri: Provvedimento a favore delle mogli dei grandi invalidi di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1130</literal></binding>
+   <binding name="date"><literal>19500228</literal></binding>
+   <binding name="title"><literal>TOZZI CONDIVI e LOMBARDI COLINI: Modifica dell&#39;articolo 32 del decreto legislativo luogotenenziale 19 ottobre 1944, n. 384, in relazione al decreto del Capo provvisorio dello Stato 31 ottobre 1946, n. 382, articoli 1, ed al decreto legislativo 11 ottobre 1947, n. 1131, articolo 83, per l&#39;aumento dei limiti per l&#39;esenzione dalla imposta ordinaria e straordinaria sul patrimonio in favore delle famiglie numerose</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1511</literal></binding>
+   <binding name="date"><literal>19500728</literal></binding>
+   <binding name="title"><literal>CARCATERRA ed altri: Istituzione del grado VIII e abolizione del grado XIII nel gruppo C dei dipendenti delle Amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2435</literal></binding>
+   <binding name="date"><literal>19511219</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Esenzione fiscale all&#39;Associazione nazionale mutilati civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2852</literal></binding>
+   <binding name="date"><literal>19520718</literal></binding>
+   <binding name="title"><literal>DE MARIA ed altri: Istituzione dei collegi delle Infermiere Professionali e delle Assistenti Sanitarie Visitatrici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>311</literal></binding>
+   <binding name="date"><literal>19490131</literal></binding>
+   <binding name="title"><literal>CARONIA ed altri: Chiusura dei locali di meretricio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>699</literal></binding>
+   <binding name="date"><literal>19490716</literal></binding>
+   <binding name="title"><literal>LUCIFREDI ed altri: Proroga del termine per l&#39;effettuazione delle elezioni dei Consigli regionali e degli organi elettivi delle amministrazioni provinciali</literal></binding>
+  </result>
+ </results>
+</sparql>

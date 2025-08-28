@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2532</literal></binding>
+   <binding name="date"><literal>19650709</literal></binding>
+   <binding name="title"><literal>DE GRAZIA: Norme integrative della legge 7 dicembre 1961, n. 1264, per la sistemazione del personale di ruolo aggiunto delle Biblioteche statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2533</literal></binding>
+   <binding name="date"><literal>19650709</literal></binding>
+   <binding name="title"><literal>DE GRAZIA: Disposizione sull&#39;autorizzazione all&#39;acquisto di beni a titolo gratuito da parte di persone giuridiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2531</literal></binding>
+   <binding name="date"><literal>19650709</literal></binding>
+   <binding name="title"><literal>DE GRAZIA: Estensione della legge 20 febbraio 1958, n. 98 agli &quot;Archivisti di Pubblica sicurezza forniti del titolo di studio medio-superiore (2° grado)&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2255</literal></binding>
+   <binding name="date"><literal>19650409</literal></binding>
+   <binding name="title"><literal>LEVI ARIAN ed altri: Autorizzazione di spesa per la ricostruzione della linea ferroviaria Cuneo-Breil sur Roya-Ventimiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2425</literal></binding>
+   <binding name="date"><literal>19650603</literal></binding>
+   <binding name="title"><literal>ABATE ed altri: Determinazione della indennità spettante ai membri del Parlamento</literal></binding>
+  </result>
+ </results>
+</sparql>

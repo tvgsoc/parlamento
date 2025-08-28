@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5360</literal></binding>
+   <binding name="date"><literal>20120713</literal></binding>
+   <binding name="title"><literal>MOSELLA ed altri: &quot;Disposizioni in materia di gioco d&#39;azzardo, concernenti la cura della ludopatia, la pubblicità dei giochi e la tutela dei minori, nonché delega al Governo per la rideterminazione dell&#39;aliquota minima dei tributi sui giochi&quot; (5360)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5588</literal></binding>
+   <binding name="date"><literal>20121119</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Disposizioni concernenti la ricognizione e la demolizione degli immobili costruiti abusivamente, le sanzioni penali e i procedimenti di sanatoria, nonché disciplina dell&#39;attività dell&#39;Osservatorio nazionale sull&#39;abusivismo edilizio&quot; (5588)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5624</literal></binding>
+   <binding name="date"><literal>20121206</literal></binding>
+   <binding name="title"><literal>ZAZZERA e VATINNO: &quot;Modifiche all&#39;articolo 19 del decreto legislativo 25 novembre 1996, n. 625, in materia di aliquote di prodotto della coltivazione di idrocarburi liquidi e gassosi dovute allo Stato, e all&#39;articolo 25 del decreto legislativo 3 aprile 2006, n. 152, in materia di competenze delle regioni per la valutazione di impatto ambientale&quot; (5624)</literal></binding>
+  </result>
+ </results>
+</sparql>

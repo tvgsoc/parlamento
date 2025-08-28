@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3090</literal></binding>
+   <binding name="date"><literal>19521217</literal></binding>
+   <binding name="title"><literal>SPALLONE ed altri: Per la ricostruzione e lo sviluppo dei Comuni dell&#39;Alto Sangro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>113</literal></binding>
+   <binding name="date"><literal>19480929</literal></binding>
+   <binding name="title"><literal>DIAZ ed altri: Prestiti matrimoniali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1829</literal></binding>
+   <binding name="date"><literal>19510215</literal></binding>
+   <binding name="title"><literal>GERACI ed altri: Abbattimento delle baracche esistenti sul territorio dei comuni terremotati e costruzione di alloggi popolari in loro sostituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2680</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>DELLI CASTELLI ed altri: Concessione di un mutuo garantito dallo Stato al comune di Pescara</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>666</literal></binding>
+   <binding name="date"><literal>19490704</literal></binding>
+   <binding name="title"><literal>PAOLUCCI ed altri: Aumento del contributo dello Stato a favore dell&#39;Azienda di Stato per le foreste demaniali per il mantenimento del Parco Nazionale d&#39;Abruzzo</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1584</literal></binding>
+   <binding name="date"><literal>19550419</literal></binding>
+   <binding name="title"><literal>TOGNI: Costruzione di 1.200 appartamenti popolari per il risanamento edilizio del comune di Pisa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1938</literal></binding>
+   <binding name="date"><literal>19551213</literal></binding>
+   <binding name="title"><literal>TOGNI ed altri: Proroga delle agevolazioni fiscali e tributarie disposte dalla legge 12 luglio 1951, n. 561, a favore della zona industriale di Livorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>207</literal></binding>
+   <binding name="date"><literal>19531001</literal></binding>
+   <binding name="title"><literal>TOGNI e ANGELINI: Integrazione degli organici del personale insegnante e assistente universitario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>242</literal></binding>
+   <binding name="date"><literal>19531009</literal></binding>
+   <binding name="title"><literal>TOGNI: Istituzione della facoltà di economia e commercio, con sezione di lingue e letterature straniere, presso l&#39;Università degli studi di Pisa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>265</literal></binding>
+   <binding name="date"><literal>19531015</literal></binding>
+   <binding name="title"><literal>TOGNI ed altri: Provvedimenti per la zona industriale apuana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1130</literal></binding>
+   <binding name="date"><literal>19540804</literal></binding>
+   <binding name="title"><literal>DIECIDUE ed altri: Provvidenze a favore dell&#39;Opera di Santa Croce in Firenze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>251</literal></binding>
+   <binding name="date"><literal>19531013</literal></binding>
+   <binding name="title"><literal>DIAZ ed altri: Mutui per il risanamento edilizio di Livorno</literal></binding>
+  </result>
+ </results>
+</sparql>

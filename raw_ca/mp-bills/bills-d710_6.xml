@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>786</literal></binding>
+   <binding name="date"><literal>19720920</literal></binding>
+   <binding name="title"><literal>BENSI: Interpretazione autentica della legge 24 maggio 1970, n. 336, e successive modificazioni ed integrazioni concernente benefici a favore degli invalidi e mutilati di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1655</literal></binding>
+   <binding name="date"><literal>19730211</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Disciplina dell&#39;aborto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3387</literal></binding>
+   <binding name="date"><literal>19750117</literal></binding>
+   <binding name="title"><literal>GIOLITTI ed altri: Interpretazione autentica, integrazione e modifica della disciplina del trattamento economico del personale dirigente statale e del personale di magistratura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4034</literal></binding>
+   <binding name="date"><literal>19751003</literal></binding>
+   <binding name="title"><literal>ARTALI ed altri: Modifiche alla legge 15 dicembre 1972, n. 772, recante norme per il riconoscimento dell&#39;obiezione di coscienza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4052</literal></binding>
+   <binding name="date"><literal>19751010</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Norme sull&#39;abusivismo in edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>644</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>CATTANEO PETRINI ed altri: Contributo al Centro internazionale di studi per la divulgazione della musica italiana con sede in Venezia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>665</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>GUI ed altri: Statizzazione di scuole per sordomuti, materne, elementari e di istruzione secondaria di primo grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>666</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Disposizioni in materia di assistenza ai sordomuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>73</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Norme speciali di tutela del gruppo linguistico sloveno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1881</literal></binding>
+   <binding name="date"><literal>19730316</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Nuove norme per la repressione del traffico di stupefacenti e psicodroghe e per la prevenzione e cura delle tossicomanie</literal></binding>
+  </result>
+ </results>
+</sparql>

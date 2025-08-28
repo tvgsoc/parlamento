@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3763</literal></binding>
+   <binding name="date"><literal>19620414</literal></binding>
+   <binding name="title"><literal>MELLO GRAND: Concessione di un assegno mensile agli impiegati delle carriere direttive del Ministero degli affari esteri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2838</literal></binding>
+   <binding name="date"><literal>19610217</literal></binding>
+   <binding name="title"><literal>CERVONE ed altri: Riordinamento del Comitato olimpico nazionale italiano (C.O.N.I.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3209</literal></binding>
+   <binding name="date"><literal>19610715</literal></binding>
+   <binding name="title"><literal>FRANZO ed altri: Modifiche al Decreto Presidenziale 28 giugno 1946, n. 84, concernente il trattamento di quiescenza del personale delle stazioni sperimentali agrarie consorziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3237</literal></binding>
+   <binding name="date"><literal>19610721</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Modificazione dell&#39;articolo 2 della legge 21 maggio 1955, n. 463</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3328</literal></binding>
+   <binding name="date"><literal>19611013</literal></binding>
+   <binding name="title"><literal>ARMOSINO ed altri: Piano per l&#39;irrigazione integrale congiunta alla difesa idraulica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3661</literal></binding>
+   <binding name="date"><literal>19620312</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Norme concernenti l&#39;aeroporto di Torino Caselle</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4204</literal></binding>
+   <binding name="date"><literal>19621025</literal></binding>
+   <binding name="title"><literal>BIMA ed altri: Blocco dei licenziamenti del personale delle imposte di consumo e proroga dei contratti di appalto e di gestione per conto del servizio di riscossione delle imposte comunali di consumo</literal></binding>
+  </result>
+ </results>
+</sparql>

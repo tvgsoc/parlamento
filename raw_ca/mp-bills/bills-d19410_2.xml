@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1</literal></binding>
+   <binding name="date"><literal>19530625</literal></binding>
+   <binding name="title"><literal>NENNI ed altri: Abrogazione della legge 31 marzo 1953, n. 148, punti dal I al IV</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1953</literal></binding>
+   <binding name="date"><literal>19551215</literal></binding>
+   <binding name="title"><literal>NENNI ed altri: Abrogazione dell&#39;articolo 31 del testo unico 5 aprile 1951, n. 203, e delle norme ad esso correlative sul collegamento delle liste e sul premio di maggioranza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3397</literal></binding>
+   <binding name="date"><literal>19571219</literal></binding>
+   <binding name="title"><literal>NENNI ed altri: Stanziamento straordinario per la sistemazione del delta del Po e la bonifica e la trasformazione fondiaria dei terreni vallivi ed incolti in provincia di Rovigo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1056</literal></binding>
+   <binding name="date"><literal>19540723</literal></binding>
+   <binding name="title"><literal>SCOTTI ed altri: Disposizioni a favore dei combattenti antifranchisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1077</literal></binding>
+   <binding name="date"><literal>19540728</literal></binding>
+   <binding name="title"><literal>D&#39;AMBROSIO ed altri: Concessione di una pensione alla signora Vydia Morici, vedova di Giuseppe Donati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>740</literal></binding>
+   <binding name="date"><literal>19540330</literal></binding>
+   <binding name="title"><literal>TARGETTI ed altri: Inchiesta parlamentare su eventuali responsabilità amministrative o politiche in fatti illeciti</literal></binding>
+  </result>
+ </results>
+</sparql>

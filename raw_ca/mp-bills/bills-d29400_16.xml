@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5284</literal></binding>
+   <binding name="date"><literal>20120614</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: &quot;Modifiche alla legge 3 agosto 2007, n. 124, concernente il Sistema di informazione per la sicurezza della Repubblica e la disciplina del segreto&quot; (5284)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1191</literal></binding>
+   <binding name="date"><literal>20080528</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE LIVIA TURCO ed altri: &quot;Modifiche agli articoli 48, 50, 51 e 75 della Costituzione, in materia di diritti politici degli stranieri residenti in Italia&quot; (1191)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1228</literal></binding>
+   <binding name="date"><literal>20080603</literal></binding>
+   <binding name="title"><literal>VELTRONI ed altri: &quot;Misure a sostegno della partecipazione delle donne alla vita economica e sociale nonché deleghe al Governo in materia di tutela della maternità delle lavoratrici autonome e di rispetto della parità di genere in sede di aggiudicazione delle gare di appalto&quot; (1228)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1635</literal></binding>
+   <binding name="date"><literal>20080902</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE VELTRONI ed altri: &quot;Modifiche agli articoli 48, 50, 51 e 75 della Costituzione, in materia di diritti politici degli stranieri residenti in Italia&quot; (1635)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2649</literal></binding>
+   <binding name="date"><literal>20090727</literal></binding>
+   <binding name="title"><literal>LIVIA TURCO ed altri: &quot;Misure per il contrasto delle povertà&quot; (2649)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3244</literal></binding>
+   <binding name="date"><literal>20100224</literal></binding>
+   <binding name="title"><literal>BOCCHINO ed altri: &quot;Norme in materia di nomina del Comandante generale del Corpo della guardia di finanza e di attività di concorso del medesimo Corpo alle operazioni militari in caso di guerra e alle missioni militari all&#39;estero&quot; (3244)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4107</literal></binding>
+   <binding name="date"><literal>20110221</literal></binding>
+   <binding name="title"><literal>LOLLI ed altri: &quot;Disposizioni per la ricostruzione e lo sviluppo economico-sociale dei territori colpiti dal sisma del 6 aprile 2009, nonché per la prevenzione dei rischi sismici&quot; (4107)</literal></binding>
+  </result>
+ </results>
+</sparql>

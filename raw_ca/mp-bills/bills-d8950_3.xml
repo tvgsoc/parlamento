@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>546</literal></binding>
+   <binding name="date"><literal>19581110</literal></binding>
+   <binding name="title"><literal>LUCIFERO D&#39;APRIGLIANO: Modifica dell&#39;articolo 2 della legge 23 marzo 1956, n. 185, riguardante norme per la concessione dell&#39;autorizzazione a contrarre matrimonio ai sottufficiali e militari di truppa dell&#39;arma dei carabinieri e dei corpi della guardia di finanza, delle guardie di pubblica sicurezza e degli agenti di custodia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>837</literal></binding>
+   <binding name="date"><literal>19590129</literal></binding>
+   <binding name="title"><literal>LUCIFERO D&#39;APRIGLIANO: Provvedimenti per il personale militare della Croce Rossa Italiana che ha partecipato alla guerra di Spagna e di Corea</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>838</literal></binding>
+   <binding name="date"><literal>19590129</literal></binding>
+   <binding name="title"><literal>LUCIFERO D&#39;APRIGLIANO: Norme per il conferimento di posti di ruolo per i medici che tali posti occupano interinalmente da oltre dieci anni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>839</literal></binding>
+   <binding name="date"><literal>19590129</literal></binding>
+   <binding name="title"><literal>LUCIFERO D&#39;APRIGLIANO: Provvedimenti a favore dei sanitari allontanati dall&#39;impiego per ragioni politiche o razziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1858</literal></binding>
+   <binding name="date"><literal>19591218</literal></binding>
+   <binding name="title"><literal>CUTTITTA ed altri: Nuovo trattamento economico degli ufficiali delle forze armate</literal></binding>
+  </result>
+ </results>
+</sparql>

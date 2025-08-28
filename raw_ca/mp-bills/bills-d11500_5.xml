@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1337</literal></binding>
+   <binding name="date"><literal>19690418</literal></binding>
+   <binding name="title"><literal>BOLDRINI ed altri: Modifiche al decreto del Presidente della Repubblica 14 febbraio 1964, n. 237, concernente leva e reclutamento obbligatorio nell&#39;esercito, nella marina e nell&#39;aeronautica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1341</literal></binding>
+   <binding name="date"><literal>19690418</literal></binding>
+   <binding name="title"><literal>FASOLI ed altri: Concessione di un assegno speciale annuo a favore dei grandi invalidi di guerra fruenti di assegno di superinvalidità di cui alla lettera A ed alla lettera A-bis n. 1 e 3 della tabella E annessa alla legge 18 marzo 1968, n. 313</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1794</literal></binding>
+   <binding name="date"><literal>19690810</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Promozione al grado superiore, a titolo onorifico, degli ufficiali e sottufficiali che hanno partecipato alla lotta di liberazione nazionale, in Italia e all&#39;estero, e hanno avuto oltre al riconoscimento della qualifica di partigiano combattente anche quella gerarchica del grado per attività partigiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2226</literal></binding>
+   <binding name="date"><literal>19700121</literal></binding>
+   <binding name="title"><literal>BOLDRINI ed altri: Pagamento agli ex combattenti delle guerre 1914-18 e precedenti dell&#39;assegno vitalizio di cui alla legge 18 marzo 1968, n. 263</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Modifiche e integrazioni alla legge 18 marzo 1968, n. 238, ed al successivo decreto del Presidente della Repubblica 27 aprile 1968, n. 488 - Aumento e nuovo sistema di calcolo delle pensioni a carico dell&#39;assicurazione generale obbligatoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>287</literal></binding>
+   <binding name="date"><literal>19680726</literal></binding>
+   <binding name="title"><literal>D&#39;ALESSIO ed altri: Aumento del &quot;soldo&quot; ai militari e graduati di truppa delle forze armate e divieto del servizio di attendente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>450</literal></binding>
+   <binding name="date"><literal>19681003</literal></binding>
+   <binding name="title"><literal>BOLDRINI ed altri: Modifiche alla legge 5 marzo 1961, n. 212, per l&#39;aumento degli assegni annessi alle medaglie al valor militare ed alle decorazioni dell&#39;ordine militare d&#39;Italia</literal></binding>
+  </result>
+ </results>
+</sparql>

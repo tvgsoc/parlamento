@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1590</literal></binding>
+   <binding name="date"><literal>19800402</literal></binding>
+   <binding name="title"><literal>PICANO ed altri: Modifiche al regio decreto 9 luglio 1939, n. 1238, concernente l&#39;ordinamento dello stato civile per quanto concerne le nascite che avvengono negli stabilimenti ospedalieri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>165</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>LOMBARDO ed altri: Riforma della legislazione cooperativistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2343</literal></binding>
+   <binding name="date"><literal>19810212</literal></binding>
+   <binding name="title"><literal>CASALINUOVO ed altri: Interventi straordinari in favore delle zone della Calabria colpite dalle calamità naturali di eccezionale gravità e dagli eventi sismici verificatisi dal 23 novembre 1980 al 31 gennaio 1981</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3287</literal></binding>
+   <binding name="date"><literal>19820325</literal></binding>
+   <binding name="title"><literal>BUBBICO ed altri: Norme in materia di dirigenti e quadri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3425</literal></binding>
+   <binding name="date"><literal>19820521</literal></binding>
+   <binding name="title"><literal>ALIVERTI ed altri: Disciplina della ricerca e coltivazione delle risorse geotermiche</literal></binding>
+  </result>
+ </results>
+</sparql>

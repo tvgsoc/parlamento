@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>21</literal></binding>
+   <binding name="date"><literal>19480614</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Proroga della validità del decreto legislativo del Capo provvisorio dello Stato 1° aprile 1947, n. 273, riguardante la proroga dei contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2683</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Estensione ai mezzadri, coloni parziari e compartecipanti familiari, dell&#39;assicurazione obbligatoria per l&#39;invalidità, la vecchiaia e superstiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3188</literal></binding>
+   <binding name="date"><literal>19530211</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Abolizione dell&#39;imposta di consumo sui vini comuni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>345</literal></binding>
+   <binding name="date"><literal>19490217</literal></binding>
+   <binding name="title"><literal>SCAPPINI ed altri: Proroga dei contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>366</literal></binding>
+   <binding name="date"><literal>19490224</literal></binding>
+   <binding name="title"><literal>CAPALOZZA ed altri: Disposizione per la dilazione degli escomi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>622</literal></binding>
+   <binding name="date"><literal>19490614</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Provvedimenti in materia di contratti di affitto di fondi rustici e di vendita delle erbe per il pascolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>932</literal></binding>
+   <binding name="date"><literal>19491130</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Norme per la concessione delle pertinenze idrauliche demaniali</literal></binding>
+  </result>
+ </results>
+</sparql>

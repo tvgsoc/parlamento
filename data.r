@@ -22,7 +22,8 @@ yrs = c(
   "14" = "2001-2006",
   "15" = "2006-2008",
   "16" = "2008-2013",
-  "17" = "2013-2018"
+  "17" = "2013-2018",
+  "18" = "2018-2022" # added 18th legislature dates, according to wikipedia
 )
 
 cat("Parsing data for the Camera...\n")

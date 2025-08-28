@@ -1,0 +1,424 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2023</literal></binding>
+   <binding name="date"><literal>20081217</literal></binding>
+   <binding name="title"><literal>MELIS ed altri: &quot;Modifiche alla legge 24 gennaio 1979, n. 18. Istituzione delle circoscrizioni Sardegna e Sicilia per l&#39;elezione dei membri del Parlamento europeo spettanti all&#39;Italia&quot; (2023)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4314</literal></binding>
+   <binding name="date"><literal>20110428</literal></binding>
+   <binding name="title"><literal>MELIS ed altri: &quot;Istituzione della corte d&#39;appello e della procura generale della Repubblica di Sassari&quot; (4314)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5081</literal></binding>
+   <binding name="date"><literal>20120322</literal></binding>
+   <binding name="title"><literal>MELIS ed altri: &quot;Modifiche al decreto legislativo 12 aprile 1996, n. 197, in materia di diritto di elettorato nelle elezioni comunali e circoscrizionali per i cittadini di Stati dell&#39;Unione europea residenti in Italia&quot; (5081)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1234</literal></binding>
+   <binding name="date"><literal>20080604</literal></binding>
+   <binding name="title"><literal>TENAGLIA ed altri: &quot;Delega al Governo per l&#39;istituzione dell&#39;ufficio per il processo, l&#39;organizzazione e le funzioni del personale dell&#39;Amministrazione giudiziaria, il riordino delle circoscrizioni degli uffici giudiziari, l&#39;informatizzazione dei procedimenti, la notificazione e l&#39;esecuzione degli atti e la registrazione telematica dei provvedimenti giudiziari, nonché disposizioni in materia di depositi giudiziari, per promuovere l&#39;efficienza dei servizi della giustizia&quot; (1234)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1535</literal></binding>
+   <binding name="date"><literal>20080724</literal></binding>
+   <binding name="title"><literal>TENAGLIA ed altri: &quot;Istituzione delle camere di conciliazione presso i tribunali&quot; (1535)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1718</literal></binding>
+   <binding name="date"><literal>20080930</literal></binding>
+   <binding name="title"><literal>DUILIO e MELIS: &quot;Modifiche all&#39;articolo 110 del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, in materia di gioco&quot; (1718)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1784</literal></binding>
+   <binding name="date"><literal>20081013</literal></binding>
+   <binding name="title"><literal>TENAGLIA ed altri: &quot;Modifiche all&#39;articolo 41-bis della legge 26 luglio 1975, n. 354, concernente il regime penitenziario applicabile a detenuti e internati per gravi delitti, in caso di collegamento con un&#39;associazione criminale, terroristica o eversiva&quot; (1784)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2011</literal></binding>
+   <binding name="date"><literal>20081212</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Modifiche al codice di procedura penale, alla legge 26 luglio 1975, n. 354, e al testo unico delle disposizioni concernenti la disciplina dell&#39;immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, a tutela del rapporto tra detenute madri e figli minori&quot; (2011)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2015</literal></binding>
+   <binding name="date"><literal>20081216</literal></binding>
+   <binding name="title"><literal>LANZILLOTTA ed altri: &quot;Norme per rendere trasparenti i costi delle prestazioni delle amministrazioni pubbliche e dei servizi pubblici&quot; (2015)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2092</literal></binding>
+   <binding name="date"><literal>20090122</literal></binding>
+   <binding name="title"><literal>TENAGLIA ed altri: &quot;Modifiche al decreto legislativo 20 febbraio 2006, n. 106, e all&#39;articolo 86 dell&#39;ordinamento giudiziario, di cui al regio decreto 30 gennaio 1941, n. 12, in materia di determinazione delle priorità per l&#39;esercizio dell&#39;azione penale&quot; (2092)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2093</literal></binding>
+   <binding name="date"><literal>20090122</literal></binding>
+   <binding name="title"><literal>TENAGLIA ed altri: &quot;Modifiche al codice di procedura penale in materia di disciplina dell&#39;udienza preliminare e di richieste di prova&quot; (2093)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2094</literal></binding>
+   <binding name="date"><literal>20090122</literal></binding>
+   <binding name="title"><literal>TENAGLIA ed altri: &quot;Modifiche al codice di procedura penale per la definizione del processo penale nei casi di particolare tenuità del fatto&quot; (2094)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2095</literal></binding>
+   <binding name="date"><literal>20090122</literal></binding>
+   <binding name="title"><literal>TENAGLIA ed altri: &quot;Modifiche al codice di procedura penale in materia di ricorso per cassazione, al fine di assicurare la ragionevole durata dei giudizi penali&quot; (2095)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2185</literal></binding>
+   <binding name="date"><literal>20090210</literal></binding>
+   <binding name="title"><literal>TOUADI ed altri: &quot;Disciplina della professione di mediatore interculturale e delega al Governo in materia di ordinamento dei corsi di formazione per il suo esercizio&quot; (2185)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2267</literal></binding>
+   <binding name="date"><literal>20090309</literal></binding>
+   <binding name="title"><literal>PORTA ed altri: &quot;Norme per la conservazione e la diffusione della memoria dell&#39;emigrazione italiana&quot; (2267)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2421</literal></binding>
+   <binding name="date"><literal>20090506</literal></binding>
+   <binding name="title"><literal>ARTURO MARIO LUIGI PARISI ed altri: &quot;Abrogazione della legge 21 dicembre 2005, n. 270, recante modifiche alle norme per l&#39;elezione della Camera dei deputati e del Senato della Repubblica&quot; (2421)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2504</literal></binding>
+   <binding name="date"><literal>20090610</literal></binding>
+   <binding name="title"><literal>BENAMATI ed altri: &quot;Misure di equa riparazione in favore delle vittime delle stragi nazifasciste delle quali è stata rinvenuta documentazione negli archivi della Procura generale militare della Repubblica in Roma e delle vittime di altre stragi simili perpetrate durante la seconda guerra mondiale&quot; (2504)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2649</literal></binding>
+   <binding name="date"><literal>20090727</literal></binding>
+   <binding name="title"><literal>LIVIA TURCO ed altri: &quot;Misure per il contrasto delle povertà&quot; (2649)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2658</literal></binding>
+   <binding name="date"><literal>20090729</literal></binding>
+   <binding name="title"><literal>MOTTA ed altri: &quot;Disposizioni per la valorizzazione turistica, culturale e ambientale degli itinerari culturali italiani riconosciuti da parte del Consiglio d&#39;Europa&quot; (2658)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2668</literal></binding>
+   <binding name="date"><literal>20090730</literal></binding>
+   <binding name="title"><literal>VELTRONI ed altri: &quot;Norme per la prevenzione delle situazioni di conflitto di interessi dei titolari di cariche di governo e per l&#39;accesso alle cariche elettive in condizioni di eguaglianza&quot; (2668)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2670</literal></binding>
+   <binding name="date"><literal>20090730</literal></binding>
+   <binding name="title"><literal>SARUBBI e GRANATA: &quot;Modifiche alla legge 5 febbraio 1992, n. 91, recante nuove norme sulla cittadinanza&quot; (2670)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2802</literal></binding>
+   <binding name="date"><literal>20091014</literal></binding>
+   <binding name="title"><literal>SORO ed altri: &quot;Norme per la tutela delle vittime di reati per motivi di omofobia e transfobia&quot; (2802)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2840</literal></binding>
+   <binding name="date"><literal>20091020</literal></binding>
+   <binding name="title"><literal>VELTRONI ed altri: &quot;Riconoscimento e disciplina del diritto di elettorato attivo e passivo dei cittadini di Stati esteri non comunitari e degli apolidi nelle elezioni comunali e circoscrizionali. Ratifica ed esecuzione del capitolo C della Convenzione sulla partecipazione degli stranieri alla vita pubblica a livello locale, fatta a Strasburgo il 5 febbraio 1992&quot; (2840)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3017</literal></binding>
+   <binding name="date"><literal>20091203</literal></binding>
+   <binding name="title"><literal>MATTESINI ed altri: &quot;Modifica all&#39;articolo 67 della legge 26 luglio 1975, n. 354, in materia di visite agli istituti penitenziari&quot; (3017)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3046</literal></binding>
+   <binding name="date"><literal>20091215</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Modifiche al decreto legislativo 5 aprile 2006, n. 160, e al decreto legislativo 20 febbraio 2006, n. 106, in materia di destinazione dei magistrati ordinari al termine del tirocinio&quot; (3046)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3160</literal></binding>
+   <binding name="date"><literal>20100201</literal></binding>
+   <binding name="title"><literal>SCHIRRU ed altri: &quot;Disposizioni concernenti il limite di altezza per l&#39;ammissione ai concorsi per il reclutamento nelle Forze armate&quot; (3160)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3229</literal></binding>
+   <binding name="date"><literal>20100219</literal></binding>
+   <binding name="title"><literal>MARTELLA ed altri: &quot;Abrogazione del comma 5 dell&#39;articolo 5-bis del decreto-legge 7 settembre 2001, n. 343, convertito, con modificazioni, dalla legge 9 novembre 2001, n. 401, in materia di dichiarazione dei grandi eventi rientranti nella competenza del Dipartimento della protezione civile&quot; (3229)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3234</literal></binding>
+   <binding name="date"><literal>20100222</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Abrogazione del comma 5 dell&#39;articolo 5-bis del decreto-legge 7 settembre 2001, n. 343, convertito, con modificazioni, dalla legge 9 novembre 2001, n. 401, in materia di dichiarazione dei grandi eventi rientranti nella competenza del Dipartimento della protezione civile&quot; (3234)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3441</literal></binding>
+   <binding name="date"><literal>20100428</literal></binding>
+   <binding name="title"><literal>SCHIRRU ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sulla messa in sicurezza, la bonifica e il ripristino ambientale dei siti inquinati&quot; (3441)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3561</literal></binding>
+   <binding name="date"><literal>20100622</literal></binding>
+   <binding name="title"><literal>TULLO ed altri: &quot;Modifica all&#39;articolo 76 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, concernente il divieto di espropriazione immobiliare dell&#39;abitazione di residenza del debitore per la riscossione dei crediti tributari&quot; (3561)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3661</literal></binding>
+   <binding name="date"><literal>20100726</literal></binding>
+   <binding name="title"><literal>BINDI ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sull&#39;associazione cosiddetta P3&quot; (3661)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3682</literal></binding>
+   <binding name="date"><literal>20100730</literal></binding>
+   <binding name="title"><literal>DUILIO ed altri: &quot;Modifiche al codice civile in materia di disciplina del condominio negli edifici&quot; (3682)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3722</literal></binding>
+   <binding name="date"><literal>20100921</literal></binding>
+   <binding name="title"><literal>BERNARDINI ed altri: &quot;Modifiche all&#39;articolo 67 della legge 26 luglio 1975, n. 354, in materia di visite agli istituti penitenziari&quot; (3722)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3801</literal></binding>
+   <binding name="date"><literal>20101021</literal></binding>
+   <binding name="title"><literal>SCHIRRU ed altri: &quot;Modifiche alla legge 26 luglio 1975, n. 354, in materia di relazioni affettive e familiari dei detenuti&quot; (3801)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3802</literal></binding>
+   <binding name="date"><literal>20101021</literal></binding>
+   <binding name="title"><literal>SCHIRRU ed altri: &quot;Regime fiscale dei sussidi assegnati ai soggetti disabili per l&#39;inserimento lavorativo&quot; (3802)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3850</literal></binding>
+   <binding name="date"><literal>20101110</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Modifiche al codice penale e altre disposizioni per il contrasto della corruzione nella pubblica amministrazione e nel settore privato, nonché disposizioni in materia di incandidabilità, di ineleggibilità e di decadenza dalle cariche elettive negli enti locali&quot; (3850)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3912</literal></binding>
+   <binding name="date"><literal>20101129</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Norme sull&#39;ordinamento penitenziario minorile e sull&#39;esecuzione delle misure privative e limitative della libertà nei confronti dei minorenni, nonché modifiche al codice penale in materia di pene e di sanzioni sostitutive per i soggetti che hanno commesso reati nella minore età&quot; (3912)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3990</literal></binding>
+   <binding name="date"><literal>20101222</literal></binding>
+   <binding name="title"><literal>GHIZZONI ed altri: &quot;Dichiarazione di monumento nazionale del Campo di concentramento di Fossoli e misure di sostegno per le attività della Fondazione ex campo di Fossoli&quot; (3990)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4107</literal></binding>
+   <binding name="date"><literal>20110221</literal></binding>
+   <binding name="title"><literal>LOLLI ed altri: &quot;Disposizioni per la ricostruzione e lo sviluppo economico-sociale dei territori colpiti dal sisma del 6 aprile 2009, nonché per la prevenzione dei rischi sismici&quot; (4107)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4194</literal></binding>
+   <binding name="date"><literal>20110318</literal></binding>
+   <binding name="title"><literal>VELTRONI ed altri: &quot;Norme sulla democrazia interna dei partiti e sulla disciplina delle elezioni primarie&quot; (4194)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4280</literal></binding>
+   <binding name="date"><literal>20110412</literal></binding>
+   <binding name="title"><literal>GHIZZONI ed altri: &quot;Modifiche alla legge 30 dicembre 2010, n. 240, in materia di dottorato di ricerca, assegni di ricerca, ricercatori a tempo determinato e completamento dei concorsi banditi per l&#39;assunzione di ricercatori presso le università&quot; (4280)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4301</literal></binding>
+   <binding name="date"><literal>20110420</literal></binding>
+   <binding name="title"><literal>SORO ed altri: &quot;Modifica all&#39;articolo 139 del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, concernente l&#39;adozione di norme deontologiche relative al trattamento dei dati personali relativi a indagini di polizia e a procedimenti giurisdizionali, anche acquisiti mediante intercettazione di comunicazioni, nell&#39;ambito delle attività giornalistiche e tramite i mezzi d&#39;informazione&quot; (4301)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4336</literal></binding>
+   <binding name="date"><literal>20110504</literal></binding>
+   <binding name="title"><literal>ROSATO ed altri: &quot;Norme in materia di stabilizzazione dei vigili del fuoco volontari discontinui e delega al Governo per l&#39;adeguamento del ruolo organico e della pianta organica del Corpo nazionale dei vigili del fuoco&quot; (4336)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4382</literal></binding>
+   <binding name="date"><literal>20110525</literal></binding>
+   <binding name="title"><literal>GIOVANELLI ed altri: &quot;Disposizioni per la prevenzione e la repressione della corruzione nonché per la funzionalità e la razionalizzazione delle spese della pubblica amministrazione e delega al Governo in materia di economicità e trasparenza nell&#39;esecuzione delle opere pubbliche&quot; (4382)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4453</literal></binding>
+   <binding name="date"><literal>20110623</literal></binding>
+   <binding name="title"><literal>OLIVERIO ed altri: &quot;Modifiche al decreto legislativo 27 maggio 2005, n. 102, in materia di disciplina delle organizzazioni di prodotto nel settore agricolo&quot; (4453)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4497</literal></binding>
+   <binding name="date"><literal>20110708</literal></binding>
+   <binding name="title"><literal>ANDREA ORLANDO ed altri: &quot;Delega al Governo in materia di riordino delle circoscrizioni degli uffici giudiziari&quot; (4497)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4542</literal></binding>
+   <binding name="date"><literal>20110725</literal></binding>
+   <binding name="title"><literal>TOUADI ed altri: &quot;Abrogazione dell&#39;articolo 10-bis del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, riguardante il reato di ingresso e soggiorno illegale nel territorio dello Stato&quot; (4542)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4614</literal></binding>
+   <binding name="date"><literal>20110908</literal></binding>
+   <binding name="title"><literal>CAVALLARO ed altri: &quot;Attribuzione agli avvocati del potere di autenticazione delle scritture private&quot; (4614)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4698</literal></binding>
+   <binding name="date"><literal>20111019</literal></binding>
+   <binding name="title"><literal>NARDUCCI ed altri: &quot;Disposizioni per l&#39;organizzazione e il funzionamento del Museo nazionale dell&#39;emigrazione italiana&quot; (4698)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4777</literal></binding>
+   <binding name="date"><literal>20111112</literal></binding>
+   <binding name="title"><literal>OLIVERIO ed altri: &quot;Norme per la salvaguardia, il restauro e la valorizzazione del percorso storico-artistico denominato &#39;Itinerario basiliano&#39;&quot; (4777)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4782</literal></binding>
+   <binding name="date"><literal>20111115</literal></binding>
+   <binding name="title"><literal>OLIVERIO ed altri: &quot;Norme per la valorizzazione e la salvaguardia dell&#39;area della Magna Grecia&quot; (4782)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4823</literal></binding>
+   <binding name="date"><literal>20111202</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Istituzione e disciplina dell&#39;ufficio per il processo&quot; (4823)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4824</literal></binding>
+   <binding name="date"><literal>20111202</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Modifiche al codice di procedura penale e alle norme di attuazione, di coordinamento e transitorie del medesimo codice, di cui al decreto legislativo 28 luglio 1989, n. 271, in materia di sospensione del processo ovvero del procedimento con messa alla prova dell&#39;imputato&quot; (4824)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4825</literal></binding>
+   <binding name="date"><literal>20111205</literal></binding>
+   <binding name="title"><literal>ANDREA ORLANDO ed altri: &quot;Modifiche al codice penale, al codice di procedura penale e alle norme di attuazione, di coordinamento e transitorie del medesimo codice, di cui al decreto legislativo 28 luglio 1989, n. 271, in materia di accelerazione e razionalizzazione del processo penale, nonché alla legge 26 luglio 1975, n. 354, in materia di concessione di benefìci penitenziari. Istituzione dell&#39;ufficio per il processo e delega al Governo per l&#39;istituzione dell&#39;assistente di studio del giudice&quot; (4825)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4943</literal></binding>
+   <binding name="date"><literal>20120209</literal></binding>
+   <binding name="title"><literal>CALVISI ed altri: &quot;Modifiche al decreto del Presidente della Repubblica 29 settembre 1973, n. 602, e altre disposizioni in materia di riscossione coattiva delle imposte, di interessi e sanzioni, nonché di reclutamento dei messi notificatori esattoriali&quot; (4943)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4995</literal></binding>
+   <binding name="date"><literal>20120223</literal></binding>
+   <binding name="title"><literal>PES ed altri: &quot;Disposizioni per favorire la continuità didattica nelle scuole situate nei territori a bassa densità demografica e in presenza di minoranze linguistiche&quot; (4995)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5017</literal></binding>
+   <binding name="date"><literal>20120229</literal></binding>
+   <binding name="title"><literal>CAVALLARO ed altri: &quot;Modifiche all&#39;articolo 69 del decreto legislativo 30 marzo 2001, n. 165, in materia di controversie relative ai rapporti di lavoro alle dipendenze delle pubbliche amministrazioni, e all&#39;articolo 6 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, in materia di procedimenti relativi a infermità dipendenti da causa di servizio, equo indennizzo e pensione privilegiata&quot; (5017)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5184</literal></binding>
+   <binding name="date"><literal>20120509</literal></binding>
+   <binding name="title"><literal>DUILIO ed altri: &quot;Disposizioni per la promozione del commercio equo e solidale e la disciplina del suo esercizio&quot; (5184)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5222</literal></binding>
+   <binding name="date"><literal>20120518</literal></binding>
+   <binding name="title"><literal>CALVISI ed altri: &quot;Attuazione delle disposizioni della direttiva 2011/7/UE del Parlamento europeo e del Consiglio, del 16 febbraio 2011, in materia di pagamenti delle pubbliche amministrazioni, e norme in favore dei contribuenti soggetti a ritardi di pagamento da parte delle medesime&quot; (5222)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5267</literal></binding>
+   <binding name="date"><literal>20120607</literal></binding>
+   <binding name="title"><literal>ROSATO ed altri: &quot;Disposizioni per garantire la piena operatività del Corpo nazionale dei vigili del fuoco nonché norme e delega al Governo in materia di previdenza e di assistenza in favore del personale del medesimo Corpo&quot; (5267)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5292</literal></binding>
+   <binding name="date"><literal>20120618</literal></binding>
+   <binding name="title"><literal>SAMPERI ed altri: &quot;Modifiche al codice di procedura civile, alle disposizioni per la sua attuazione e al decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, concernenti la disciplina dell&#39;esecuzione civile e l&#39;ordinamento degli ufficiali giudiziari&quot; (5292)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5309</literal></binding>
+   <binding name="date"><literal>20120621</literal></binding>
+   <binding name="title"><literal>NARDUCCI ed altri: &quot;Concessione di un contributo al Centro Pio Rajna, in Roma, per il sostegno degli studi danteschi e delle attività di ricerca sulla lingua e sulla letteratura italiana&quot; (5309)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5326</literal></binding>
+   <binding name="date"><literal>20120628</literal></binding>
+   <binding name="title"><literal>CAVALLARO ed altri: &quot;Modifiche agli articoli 2 e 210 del testo unico delle disposizioni per l&#39;assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali, di cui al decreto del Presidente della Repubblica 30 giugno 1965, n. 1124, concernente gli infortuni nel percorso compiuto in bicicletta tra il luogo di abitazione e quello di lavoro&quot; (5326)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>54</literal></binding>
+   <binding name="date"><literal>20080429</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Misure per il sostegno e la valorizzazione dei comuni con popolazione pari o inferiore a 5.000 abitanti nonché dei comuni compresi nelle aree naturali protette&quot; (54)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5552</literal></binding>
+   <binding name="date"><literal>20121025</literal></binding>
+   <binding name="title"><literal>CALVISI ed altri: &quot;Disciplina della continuità territoriale marittima nel trasporto di merci e passeggeri tra la Sardegna e il continente&quot; (5552)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5608</literal></binding>
+   <binding name="date"><literal>20121128</literal></binding>
+   <binding name="title"><literal>VILLECCO CALIPARI ed altri: &quot;Disposizioni per la celebrazione del settantesimo anniversario della Resistenza e della guerra di liberazione&quot; (5608)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5615</literal></binding>
+   <binding name="date"><literal>20121130</literal></binding>
+   <binding name="title"><literal>SBROLLINI ed altri: &quot;Ratifica ed esecuzione della Convenzione del Consiglio d&#39;Europa sulla prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica, fatta a Istanbul l&#39;11 maggio 2011, e altre disposizioni per il contrasto della violenza e delle discriminazioni per motivazioni riferite al sesso o all&#39;orientamento sessuale nonché per la promozione della soggettività femminile&quot; (5615)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>580</literal></binding>
+   <binding name="date"><literal>20080429</literal></binding>
+   <binding name="title"><literal>GHIZZONI ed altri: &quot;Istituzione e disciplina della Giunta storica nazionale e disposizioni concernenti gli istituti storici nazionali&quot; (580)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>868</literal></binding>
+   <binding name="date"><literal>20080507</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE BACHELET ed altri: &quot;Modifiche all&#39;articolo 138 della Costituzione, concernenti la procedura per l&#39;approvazione delle leggi costituzionali&quot; (868)</literal></binding>
+  </result>
+ </results>
+</sparql>

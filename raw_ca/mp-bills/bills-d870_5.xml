@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2435</literal></binding>
+   <binding name="date"><literal>19700417</literal></binding>
+   <binding name="title"><literal>GIANNANTONI ed altri: Incremento dei fondi per l&#39;assegno di studio universitario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2846</literal></binding>
+   <binding name="date"><literal>19701119</literal></binding>
+   <binding name="title"><literal>TEDESCHI ed altri: Sospensione dell&#39;efficacia delle disposizioni dei comma sesto e successivi dell&#39;articolo 2 della legge 12 marzo 1968, n. 442, concernente l&#39;istituzione di una università statale in Calabria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3945</literal></binding>
+   <binding name="date"><literal>19720118</literal></binding>
+   <binding name="title"><literal>RAICICH ed altri: Nuovo ordinamento della scuola secondaria superiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4032</literal></binding>
+   <binding name="date"><literal>19720223</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Ordinamento delle gestioni portuali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4038</literal></binding>
+   <binding name="date"><literal>19720224</literal></binding>
+   <binding name="title"><literal>LODI FAUSTINI FUSTINI ed altri: Norme generali sull&#39;assistenza e beneficenza pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2787</literal></binding>
+   <binding name="date"><literal>19701023</literal></binding>
+   <binding name="title"><literal>TERRAROLI ed altri: Istituzione del servizio nazionale per la protezione civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1834</literal></binding>
+   <binding name="date"><literal>19690929</literal></binding>
+   <binding name="title"><literal>BRONZUTO ed altri: Interpretazione autentica del primo comma, lettera b), dell&#39;articolo 4 della legge 13 giugno 1969, n. 282, concernente il conferimento degli incarichi e delle supplenze negli istituti di istruzione secondaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1883</literal></binding>
+   <binding name="date"><literal>19691010</literal></binding>
+   <binding name="title"><literal>GIANNANTONI ed altri: Liberalizzazione degli accessi all&#39;università</literal></binding>
+  </result>
+ </results>
+</sparql>

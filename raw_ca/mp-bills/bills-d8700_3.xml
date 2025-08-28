@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2653</literal></binding>
+   <binding name="date"><literal>19601207</literal></binding>
+   <binding name="title"><literal>GRILLI ed altri: Modifiche al titolo VII (imposta sulle società) del testo unico delle leggi sulle imposte dirette, approvato con decreto del Presidente della Repubblica 29 gennaio 1958, n. 645</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>568</literal></binding>
+   <binding name="date"><literal>19581120</literal></binding>
+   <binding name="title"><literal>GRILLI ed altri: Riforma dell&#39;Istituto cotoniero italiano e sviluppo dell&#39;industria cotoniera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>118</literal></binding>
+   <binding name="date"><literal>19580718</literal></binding>
+   <binding name="title"><literal>ROMAGNOLI ed altri: Disposizione in favore degli operai dipendenti di aziende lino-canapiere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1903</literal></binding>
+   <binding name="date"><literal>19600115</literal></binding>
+   <binding name="title"><literal>AMENDOLA ed altri: Controllo sui monopoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>221</literal></binding>
+   <binding name="date"><literal>19580802</literal></binding>
+   <binding name="title"><literal>SCARPA ed altri: Soppressione dell&#39;E.N.A.L. e costituzione dell&#39;Ente nazionale attività ricreative (E.N.A.R.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2318</literal></binding>
+   <binding name="date"><literal>19600708</literal></binding>
+   <binding name="title"><literal>MAZZONI ed altri: Modifiche alle norme relative all&#39;imposta di ricchezza mobile sui redditi di lavoro dipendente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3003</literal></binding>
+   <binding name="date"><literal>19610505</literal></binding>
+   <binding name="title"><literal>SCARPA ed altri: Soppressione dell&#39;E.N.A.L. e costituzione dell&#39;Ente nazionale attività ricreative (E.N.A.R.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3115</literal></binding>
+   <binding name="date"><literal>19610622</literal></binding>
+   <binding name="title"><literal>INVERNIZZI ed altri: Proroga del termine utile per entrare in possesso della patente di guida dei motoveicoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3216</literal></binding>
+   <binding name="date"><literal>19610719</literal></binding>
+   <binding name="title"><literal>ARMAROLI ed altri: Nuove disposizioni in materia di imposta di ricchezza mobile per le minori aziende commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3710</literal></binding>
+   <binding name="date"><literal>19620331</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Aumento delle pensioni ai coltivatori diretti, coloni e mezzadri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>900</literal></binding>
+   <binding name="date"><literal>19590227</literal></binding>
+   <binding name="title"><literal>INVERNIZZI ed altri: Sulla navigabilità interna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4216</literal></binding>
+   <binding name="date"><literal>19621031</literal></binding>
+   <binding name="title"><literal>SOLIANO ed altri: Limitazione all&#39;impiego di benzolo e suoi derivati nelle lavorazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>894</literal></binding>
+   <binding name="date"><literal>19590227</literal></binding>
+   <binding name="title"><literal>MONASTERIO ed altri: Abolizione dell&#39;imposta sul bestiame per i coltivatori o allevatori diretti</literal></binding>
+  </result>
+ </results>
+</sparql>

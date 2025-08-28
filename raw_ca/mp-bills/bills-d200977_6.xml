@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1468</literal></binding>
+   <binding name="date"><literal>19730112</literal></binding>
+   <binding name="title"><literal>VISENTINI: Norme per la definizione delle pendenze tributarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2898</literal></binding>
+   <binding name="date"><literal>19740409</literal></binding>
+   <binding name="title"><literal>VISENTINI: Adeguamento delle detrazioni di cui agli articoli 15 e 16 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597, delle aliquote della tabella allegata al medesimo decreto, delle aliquote della tariffa allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 637, delle detrazioni ai fini dell&#39;applicazione dell&#39;imposta comunale sull&#39;incremento del valore degli immobili e delle imposte fisse di bollo, ipotecarie, catastali, sulle concessioni governative e di registro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2880</literal></binding>
+   <binding name="date"><literal>19740328</literal></binding>
+   <binding name="title"><literal>REALE ed altri: Inchiesta parlamentare su alcuni casi di liquidazione di indennizzi per danni di guerra</literal></binding>
+  </result>
+ </results>
+</sparql>

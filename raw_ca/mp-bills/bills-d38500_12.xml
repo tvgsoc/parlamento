@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1170</literal></binding>
+   <binding name="date"><literal>19940829</literal></binding>
+   <binding name="title"><literal>ROMANELLO: Norme per la regolamentazione della prostituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>176</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>BOSSI ed altri: Responsabilità civile dei partiti politici per illeciti penali commessi da loro esponenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2260</literal></binding>
+   <binding name="date"><literal>19950322</literal></binding>
+   <binding name="title"><literal>BASILE ed altri: Modifiche alla legge 11 gennaio 1979, n. 12, concernente l&#39;ordinamento della professione di consulente del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2751</literal></binding>
+   <binding name="date"><literal>19950622</literal></binding>
+   <binding name="title"><literal>PERALE ed altri: Norme per il potenziamento dell&#39;amministrazione giudiziaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3325</literal></binding>
+   <binding name="date"><literal>19951026</literal></binding>
+   <binding name="title"><literal>POLLI ed altri: Nuove norme concernenti la cremazione delle salme</literal></binding>
+  </result>
+ </results>
+</sparql>

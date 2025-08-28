@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1438</literal></binding>
+   <binding name="date"><literal>19510316</literal></binding>
+   <binding name="title"><literal>FANELLI: Istituzione del tribunale di Sora</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2888</literal></binding>
+   <binding name="date"><literal>19520923</literal></binding>
+   <binding name="title"><literal>FANELLI: Elevazione a comune autonomo della frazione di Posta Fibreno, in provincia di Frosinone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>410</literal></binding>
+   <binding name="date"><literal>19490312</literal></binding>
+   <binding name="title"><literal>FANELLI: Estensione alle province di Frosinone e Latina dei benefici previsti dal regio decreto 29 maggio 1946, n. 488, e successive modificazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19500722</literal></binding>
+   <binding name="title"><literal>DONATINI ed altri: Provvidenze per la fabbriceria di Santa Maria del Fiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1883</literal></binding>
+   <binding name="date"><literal>19510307</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Disciplina per l&#39;uso in Italia di onorificenze di alcuni Ordini cavallereschi liberi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2936</literal></binding>
+   <binding name="date"><literal>19521010</literal></binding>
+   <binding name="title"><literal>VOCINO ed altri: Riordinamento degli organici del personale amministrativo del Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3112</literal></binding>
+   <binding name="date"><literal>19521223</literal></binding>
+   <binding name="title"><literal>LONGHENA ed altri: Applicazione in favore dell&#39;Associazione italiana della Croce Rossa di un contributo sui premi di alcune assicurazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1811</literal></binding>
+   <binding name="date"><literal>19510209</literal></binding>
+   <binding name="title"><literal>GIAMMARCO ed altri: Autorizzazione al Ministro dei lavori pubblici della spesa di lire 19.809.700.000 per la costruzione di case popolari da assegnare a famiglie alloggiate in baracche in dipendenza dei terremoti del 28 dicembre 1908 e del 15 gennaio 1915</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1627</literal></binding>
+   <binding name="date"><literal>20060919</literal></binding>
+   <binding name="title"><literal>LA MALFA e NUCARA: &quot;Istituzione del Consiglio delle associazioni islamiche italiane&quot; (1627)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2816</literal></binding>
+   <binding name="date"><literal>20070621</literal></binding>
+   <binding name="title"><literal>LA MALFA ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sui costi della politica&quot; (2816)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1968</literal></binding>
+   <binding name="date"><literal>20061127</literal></binding>
+   <binding name="title"><literal>ZANOTTI ed altri: &quot;Norme per il riconoscimento della sordocecità quale disabilità unica&quot; (1968)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2320</literal></binding>
+   <binding name="date"><literal>20070305</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE BUEMI ed altri: &quot;Modifica degli articoli 104, 105, 106 e 107 della Costituzione. Istituzione di una magistratura giudicante e di una magistratura requirente, reciprocamente autonome&quot; (2320)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2369</literal></binding>
+   <binding name="date"><literal>20070315</literal></binding>
+   <binding name="title"><literal>DEL BUE ed altri: &quot;Nuove disposizioni per il controllo della finanza pubblica e per la redazione dei documenti di bilancio dello Stato&quot; (2369)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>309</literal></binding>
+   <binding name="date"><literal>20060429</literal></binding>
+   <binding name="title"><literal>GRILLINI ed altri: &quot;Ripristino della festa nazionale del 20 settembre&quot; (309)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3200</literal></binding>
+   <binding name="date"><literal>20071105</literal></binding>
+   <binding name="title"><literal>VANNUCCI ed altri: &quot;Istituzione del premio annuale &#39;Arca dell&#39;arte - Premio nazionale Rotondi ai salvatori dell&#39;artè &quot; (3200)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1925</literal></binding>
+   <binding name="date"><literal>20061111</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE GIANFRANCO CONTE ed altri: &quot;Modifica all&#39;articolo 53 della Costituzione in materia di princìpi generali della legislazione tributaria e garanzia dei diritti del contribuente&quot; (1925)</literal></binding>
+  </result>
+ </results>
+</sparql>

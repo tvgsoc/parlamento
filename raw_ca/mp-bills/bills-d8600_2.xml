@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>904</literal></binding>
+   <binding name="date"><literal>19540518</literal></binding>
+   <binding name="title"><literal>GORRERI ed altri: Provvedimenti di carattere eccezionale per la costruzione in Parma su terreno comunale di case popolari in sostituzione dei &quot;Capannoni&quot; (Case malsane)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1042</literal></binding>
+   <binding name="date"><literal>19540719</literal></binding>
+   <binding name="title"><literal>GELMINI ed altri: Modifica alla legge 10 febbraio 1953, n. 136, sulla istituzione dell&#39;Ente nazionale idrocarburi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2188</literal></binding>
+   <binding name="date"><literal>19560417</literal></binding>
+   <binding name="title"><literal>FOGLIAZZA ed altri: Norme per la concessione del sussidio ordinario e straordinario di disoccupazione ai lavoratori agricoli disoccupati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3094</literal></binding>
+   <binding name="date"><literal>19570723</literal></binding>
+   <binding name="title"><literal>BIGI ed altri: Abrogazione delle prestazioni personali obbligatorie per la costruzione di strade comunali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3128</literal></binding>
+   <binding name="date"><literal>19570731</literal></binding>
+   <binding name="title"><literal>BIGI ed altri: Provvedimenti a favore dei mezzadri, coloni e compartecipanti colpiti dalle gelate - alluvioni e da altre avversità atmosferiche - annata agraria 1956-57</literal></binding>
+  </result>
+ </results>
+</sparql>

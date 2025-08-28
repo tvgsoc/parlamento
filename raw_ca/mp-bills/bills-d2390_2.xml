@@ -1,0 +1,49 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2815</literal></binding>
+   <binding name="date"><literal>19570327</literal></binding>
+   <binding name="title"><literal>DURAND DE LA PENNE: Proroga dei termini per i ricorsi e ricostituzione della Commissione centrale unica in materia di benefici ai combattenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2816</literal></binding>
+   <binding name="date"><literal>19570327</literal></binding>
+   <binding name="title"><literal>DURAND DE LA PENNE: Contributo obbligatorio da parte dei sanitari dipendenti da pubbliche amministrazioni e dei sanitari liberi esercenti in favore dell&#39;Opera nazionale per l&#39;assistenza degli orfani dei sanitari italiani, con sede in Perugia
+
+
+</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3181</literal></binding>
+   <binding name="date"><literal>19570925</literal></binding>
+   <binding name="title"><literal>DURAND DE LA PENNE: Ripristino di decorazioni al valor militare per atti compiuti nella guerra civile di Spagna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3260</literal></binding>
+   <binding name="date"><literal>19571030</literal></binding>
+   <binding name="title"><literal>DURAND DE LA PENNE: Riordinamento di alcuni servizi e adattamento degli organici del personale direttivo amministrativo del Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3261</literal></binding>
+   <binding name="date"><literal>19571030</literal></binding>
+   <binding name="title"><literal>DURAND DE LA PENNE: Modifica dell&#39;articolo 1 della legge 8 agosto 1957, n. 751, concernente regolazione degli aumenti biennali degli stipendi, delle paghe e delle retribuzioni nella prima applicazione del decreto del Presidente della Repubblica 11 gennaio 1956, n. 19</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2780</literal></binding>
+   <binding name="date"><literal>19570312</literal></binding>
+   <binding name="title"><literal>BUFFONE ed altri: Trattamento giuridico ed economico dei sottufficiali dell&#39;Esercito, della Marina e dell&#39;Aeronautica</literal></binding>
+  </result>
+ </results>
+</sparql>

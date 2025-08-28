@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3369</literal></binding>
+   <binding name="date"><literal>19611026</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: Istituzione di una scuola magistrale a Piazza Armerina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3440</literal></binding>
+   <binding name="date"><literal>19611124</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Passaggio in enfiteusi e modalità di affrancazione delle terre incolte assegnate alle cooperative</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3472</literal></binding>
+   <binding name="date"><literal>19611202</literal></binding>
+   <binding name="title"><literal>COMANDINI ed altri: Abrogazione degli articoli 559, 560, 561, 562 e 563 del Codice penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3587</literal></binding>
+   <binding name="date"><literal>19620126</literal></binding>
+   <binding name="title"><literal>GRASSO NICOLOSI ed altri: Norme integrative alla legge 19 luglio 1961, n. 669, riguardante la definizione di speciali situazioni giuridiche di alcune categorie di insegnanti elementari delle province siciliane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3628</literal></binding>
+   <binding name="date"><literal>19620208</literal></binding>
+   <binding name="title"><literal>MINELLA MOLINARI ed altri: Istituzione del servizio nazionale dei nidi-asilo per la vigilanza diurna e la prevenzione igienico-sanitaria dei bambini fino a 3 anni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3839</literal></binding>
+   <binding name="date"><literal>19620530</literal></binding>
+   <binding name="title"><literal>AVOLIO ed altri: Riconoscimento della qualifica di &quot;militarizzati&quot; ai ferrovieri della Campania, Sicilia, e Sardegna in servizio dal 10 giugno 1940 al 4 giugno 1944</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3908</literal></binding>
+   <binding name="date"><literal>19620627</literal></binding>
+   <binding name="title"><literal>CECATI ed altri: Riapertura dei termini previsti dalla legge 16 giugno 1961, n. 530, per il concorso speciale riservato a direttori didattici incaricati</literal></binding>
+  </result>
+ </results>
+</sparql>

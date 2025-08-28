@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2139</literal></binding>
+   <binding name="date"><literal>19930120</literal></binding>
+   <binding name="title"><literal>BODRATO ed altri: Istituzione dell&#39;elenco dei fornitori delle amministrazioni pubbliche, degli appaltatori di opere pubbliche e dei concessionari di opere e servizi pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1315</literal></binding>
+   <binding name="date"><literal>19920715</literal></binding>
+   <binding name="title"><literal>RIVERA ed altri: Norme per garantire l&#39;applicazione dell&#39;articolo 49 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1853</literal></binding>
+   <binding name="date"><literal>19921105</literal></binding>
+   <binding name="title"><literal>ANGELINI ed altri: Nuove norme sul divieto di fumare in determinati locali pubblici e sui mezzi di trasporto pubblico. Regolamentazione dell&#39;attività pubblicitaria e della etichettatura dei prodotti da fumo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2265</literal></binding>
+   <binding name="date"><literal>19930217</literal></binding>
+   <binding name="title"><literal>PISCITELLO ed altri: Abolizione della pena di morte nel codice penale militare di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2331</literal></binding>
+   <binding name="date"><literal>19930303</literal></binding>
+   <binding name="title"><literal>MATTARELLA ed altri: Nuove norme per l&#39;elezione della Camera dei deputati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3309</literal></binding>
+   <binding name="date"><literal>19931104</literal></binding>
+   <binding name="title"><literal>BARBERA e BODRATO: Norme per l&#39;elezione dei rappresentanti dell&#39;Italia al Parlamento europeo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3335</literal></binding>
+   <binding name="date"><literal>19931111</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Esercizio del diritto di voto degli italiani all&#39;estero</literal></binding>
+  </result>
+ </results>
+</sparql>

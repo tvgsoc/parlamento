@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4975</literal></binding>
+   <binding name="date"><literal>19680306</literal></binding>
+   <binding name="title"><literal>TOGNI ed altri: Ente di previdenza ed assistenza a favore dei consulenti del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3812</literal></binding>
+   <binding name="date"><literal>19670220</literal></binding>
+   <binding name="title"><literal>TOGNI ed altri: Modificazione degli articoli 27 e 28 della legge 23 dicembre 1966, n. 1142</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4435</literal></binding>
+   <binding name="date"><literal>19671010</literal></binding>
+   <binding name="title"><literal>TOGNI ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sui fenomeni della criminalità in Sardegna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1121</literal></binding>
+   <binding name="date"><literal>19640313</literal></binding>
+   <binding name="title"><literal>DE ZAN ed altri: Nuove disposizioni sulla pubblicità dei film vietati ai minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1230</literal></binding>
+   <binding name="date"><literal>19640416</literal></binding>
+   <binding name="title"><literal>PENNACCHINI ed altri: Norme per la protezione della selvaggina e per l&#39;esercizio della caccia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2308</literal></binding>
+   <binding name="date"><literal>19650430</literal></binding>
+   <binding name="title"><literal>DE MARZI ed altri: Provvedimenti a favore della cooperazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3672</literal></binding>
+   <binding name="date"><literal>19661221</literal></binding>
+   <binding name="title"><literal>AMATUCCI ed altri: Modifiche alle leggi sulla previdenza e assistenza degli avvocati e procuratori legali, dei dottori commercialisti e dei ragionieri e periti commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3974</literal></binding>
+   <binding name="date"><literal>19670411</literal></binding>
+   <binding name="title"><literal>LUCCHESI ed altri: Ristrutturazione dell&#39;Ente valorizzazione Isola d&#39;Elba</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4366</literal></binding>
+   <binding name="date"><literal>19670918</literal></binding>
+   <binding name="title"><literal>VEDOVATO ed altri: Adeguamento dei termini legali e misure fiscali a favore delle imprese colpite dall&#39;alluvione e dalle mareggiate dell&#39;autunno 1966</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4910</literal></binding>
+   <binding name="date"><literal>19680227</literal></binding>
+   <binding name="title"><literal>PEDINI ed altri: Istituzione presso il Ministero degli affari esteri di un Ufficio e di un Consiglio nazionale per il servizio volontario nella cooperazione tecnica internazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4956</literal></binding>
+   <binding name="date"><literal>19680304</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>47</literal></binding>
+   <binding name="date"><literal>19630528</literal></binding>
+   <binding name="title"><literal>VILLA ed altri: Concessione agli ex combattenti che abbiano maturato il 60° anno di età di una pensione per la vecchiaia</literal></binding>
+  </result>
+ </results>
+</sparql>

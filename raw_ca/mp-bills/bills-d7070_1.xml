@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3108</literal></binding>
+   <binding name="date"><literal>19521223</literal></binding>
+   <binding name="title"><literal>BORSELLINO: Istituzione di un servizio di anestesia negli ospedali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1003</literal></binding>
+   <binding name="date"><literal>19491220</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Trasformazione fondiario-agraria dei terreni privi o poveri di investimenti stabili ed estensivamente utilizzati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2176</literal></binding>
+   <binding name="date"><literal>19510919</literal></binding>
+   <binding name="title"><literal>CACCURI ed altri: Estensione della legge 11 marzo 1951, n. 134, sulla abilitazione provvisoria dell&#39;esercizio professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>311</literal></binding>
+   <binding name="date"><literal>19490131</literal></binding>
+   <binding name="title"><literal>CARONIA ed altri: Chiusura dei locali di meretricio</literal></binding>
+  </result>
+ </results>
+</sparql>

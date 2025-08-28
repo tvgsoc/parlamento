@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1214</literal></binding>
+   <binding name="date"><literal>19541030</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Modifiche al testo unico delle leggi per la composizione e l&#39;elezione degli organi delle Amministrazioni comunali, approvato con decreto presidenziale 5 aprile 1951, n. 203</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>144</literal></binding>
+   <binding name="date"><literal>19530922</literal></binding>
+   <binding name="title"><literal>ROBERTI ed altri: Efficacia giuridica del contratto collettivo di lavoro in attuazione dell&#39;articolo 39 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1742</literal></binding>
+   <binding name="date"><literal>19550725</literal></binding>
+   <binding name="title"><literal>ROBERTI ed altri: Socializzazione delle imprese statali ed a partecipazione statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>292</literal></binding>
+   <binding name="date"><literal>19531022</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Norme per la estinzione e l&#39;annullamento di provvedimenti di epurazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>366</literal></binding>
+   <binding name="date"><literal>19531117</literal></binding>
+   <binding name="title"><literal>INFANTINO ed altri: Estensione agli invalidi ed ai congiunti dei morti in occasione dei fatti di Trieste del 4, 5 e 6 novembre 1953 delle disposizioni vigenti in materia di pensioni di guerra</literal></binding>
+  </result>
+ </results>
+</sparql>

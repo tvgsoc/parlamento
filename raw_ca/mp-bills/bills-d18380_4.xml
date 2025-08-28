@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1714</literal></binding>
+   <binding name="date"><literal>19641009</literal></binding>
+   <binding name="title"><literal>ZAPPA ed altri: Costruzione di autostrada in galleria attraverso lo Stelvio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2835</literal></binding>
+   <binding name="date"><literal>19651210</literal></binding>
+   <binding name="title"><literal>GONELLA ed altri: Concessione e finanziamento dell&#39;idrovia Milano Nord-Mincio-Mare Adriatico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>394</literal></binding>
+   <binding name="date"><literal>19630911</literal></binding>
+   <binding name="title"><literal>JACOMETTI ed altri: Modifiche alle norme sul Comitato olimpico nazionale italiano (C.O.N.I.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1783</literal></binding>
+   <binding name="date"><literal>19641029</literal></binding>
+   <binding name="title"><literal>MAROTTA ed altri: Accertamento dei lavoratori agricoli aventi diritto alle prestazioni previdenziali e accertamento dei contributi unificati in agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1885</literal></binding>
+   <binding name="date"><literal>19641127</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Norme per il trattenimento in servizio degli ufficiali di complemento con 10 o 7 anni di servizio attivo nell&#39;Arma dell&#39;aeronautica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2265</literal></binding>
+   <binding name="date"><literal>19650412</literal></binding>
+   <binding name="title"><literal>AMADEI ed altri: Valutabilità dei benefici economici e di carriera concessi agli ex combattenti e categorie assimilate nei confronti dei mutilati ed invalidi civili per fatto di guerra e dei congiunti dei Caduti</literal></binding>
+  </result>
+ </results>
+</sparql>

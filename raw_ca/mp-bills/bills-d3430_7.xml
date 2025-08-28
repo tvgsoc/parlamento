@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2369</literal></binding>
+   <binding name="date"><literal>19780728</literal></binding>
+   <binding name="title"><literal>LOBIANCO ed altri: Norme in materia di vendita diretta dei prodotti agricoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2422</literal></binding>
+   <binding name="date"><literal>19780922</literal></binding>
+   <binding name="title"><literal>LOBIANCO ed altri: Norme per il pagamento dell&#39;imposta sul valore aggiunto per la vendita della carne macellata proveniente dagli allevamenti diretti ed effettuata direttamente dai produttori agricoli-allevatori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2423</literal></binding>
+   <binding name="date"><literal>19780922</literal></binding>
+   <binding name="title"><literal>LOBIANCO ed altri: Norme in materia di usi civici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2652</literal></binding>
+   <binding name="date"><literal>19790118</literal></binding>
+   <binding name="title"><literal>LOBIANCO ed altri: Norme sul credito agrario e sull&#39;ordinamento delle Casse rurali ed artigiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2673</literal></binding>
+   <binding name="date"><literal>19790129</literal></binding>
+   <binding name="title"><literal>LOBIANCO ed altri: Obbligo della apposizione del prezzo di vendita sulle confezioni contenenti fitofarmaci e presidi delle derrate alimentari immagazzinate di cui al decreto del Presidente della Repubblica 3 agosto 1968, n. 1255</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2095</literal></binding>
+   <binding name="date"><literal>19780405</literal></binding>
+   <binding name="title"><literal>STEGAGNINI ed altri: Norme per la concessione delle uniformi e di altri oggetti di equipaggiamento agli ufficiali e marescialli delle forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2338</literal></binding>
+   <binding name="date"><literal>19780721</literal></binding>
+   <binding name="title"><literal>IANNIELLO ed altri: Modifiche al trattamento pensionistico erogato dal Fondo speciale di previdenza degli addetti alle abolite imposte di consumo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2361</literal></binding>
+   <binding name="date"><literal>19780727</literal></binding>
+   <binding name="title"><literal>SALOMONE ed altri: Norme sull&#39;ordinamento e sulle funzioni del Consiglio di Stato e dei Tribunali amministrativi regionali</literal></binding>
+  </result>
+ </results>
+</sparql>

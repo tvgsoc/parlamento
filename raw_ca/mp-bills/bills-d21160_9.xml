@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>276</literal></binding>
+   <binding name="date"><literal>19830805</literal></binding>
+   <binding name="title"><literal>PERRONE ed altri: Competenze accessorie per il personale civile delle amministrazioni dello Stato in servizio ai centralini telefonici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>277</literal></binding>
+   <binding name="date"><literal>19830805</literal></binding>
+   <binding name="title"><literal>PERRONE ed altri: Legge-quadro sulla formazione, aggiornamento, specializzazione e riqualificazione degli operatori e tecnici sanitari non medici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3206</literal></binding>
+   <binding name="date"><literal>19851009</literal></binding>
+   <binding name="title"><literal>ROCELLI ed altri: Snellimento delle procedure per il condono edilizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>201</literal></binding>
+   <binding name="date"><literal>19830719</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: Modifiche alla legge 20 maggio 1982, n. 270, concernente la sistemazione del personale docente e non docente precario della scuola materna, elementare, secondaria di primo e secondo grado ed artistica</literal></binding>
+  </result>
+ </results>
+</sparql>

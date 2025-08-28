@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2378</literal></binding>
+   <binding name="date"><literal>19780801</literal></binding>
+   <binding name="title"><literal>BONIFAZI ed altri: Riordinamento del credito agrario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>306</literal></binding>
+   <binding name="date"><literal>19760811</literal></binding>
+   <binding name="title"><literal>BONIFAZI ed altri: Trasformazione dei contratti di mezzadria, colonia e altri in contratti di affitto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1024</literal></binding>
+   <binding name="date"><literal>19770118</literal></binding>
+   <binding name="title"><literal>MIRATE ed altri: Nuove norme sulla repressione delle frodi nella preparazione e nel commercio dei mosti, vini ed aceti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1315</literal></binding>
+   <binding name="date"><literal>19770329</literal></binding>
+   <binding name="title"><literal>PEGGIO ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sul dissesto della Società autostrade romane e abruzzesi (SARA)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1753</literal></binding>
+   <binding name="date"><literal>19770929</literal></binding>
+   <binding name="title"><literal>SOBRERO ed altri: Modifica dell&#39;articolo 7 del decreto del Presidente della Repubblica 12 luglio 1963, n. 930, concernente norme per la tutela delle denominazioni di origine dei mosti e dei vini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2146</literal></binding>
+   <binding name="date"><literal>19780427</literal></binding>
+   <binding name="title"><literal>DE CARNERI ed altri: Modifiche e integrazioni alla legge 27 dicembre 1977, n. 984, in relazione alle competenze spettanti alle Province autonome di Trento e Bolzano, ai sensi del decreto del Presidente della Repubblica 31 agosto 1972, n. 670</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2207</literal></binding>
+   <binding name="date"><literal>19770522</literal></binding>
+   <binding name="title"><literal>ESPOSTO ed altri: Norme in materia di liquidazione di usi civici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2833</literal></binding>
+   <binding name="date"><literal>19790402</literal></binding>
+   <binding name="title"><literal>ESPOSTO ed altri: Ordinamento dei Consorzi agrari e della Federazione italiana dei Consorzi agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>620</literal></binding>
+   <binding name="date"><literal>19761019</literal></binding>
+   <binding name="title"><literal>BARDELLI ed altri: Norme in materia di contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>637</literal></binding>
+   <binding name="date"><literal>19761020</literal></binding>
+   <binding name="title"><literal>SPATARO ed altri: Norme in materia di abbattimento degli alberi di olivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>724</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>DI GIULIO ed altri: Riordinamento dell&#39;Azienda di Stato per gli interventi nel mercato agricolo (AIMA)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>162</literal></binding>
+   <binding name="date"><literal>19760727</literal></binding>
+   <binding name="title"><literal>BARDELLI ed altri: Finanziamenti alle regioni per l&#39;agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>854</literal></binding>
+   <binding name="date"><literal>19761129</literal></binding>
+   <binding name="title"><literal>ESPOSTO ed altri: Norme relative alle associazioni dei produttori agricoli e al loro riconoscimento da parte delle Regioni</literal></binding>
+  </result>
+ </results>
+</sparql>

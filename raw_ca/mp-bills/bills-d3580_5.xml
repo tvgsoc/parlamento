@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1336</literal></binding>
+   <binding name="date"><literal>19690418</literal></binding>
+   <binding name="title"><literal>MAGLIANO: Modifiche ed integrazioni dell&#39;articolo 4, numero 5) della legge 6 dicembre 1962, n. 1643, concernente l&#39;istituzione dell&#39;Ente nazionale per l&#39;energia elettrica e il trasferimento ad esso delle imprese esercenti le industrie elettriche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2992</literal></binding>
+   <binding name="date"><literal>19710120</literal></binding>
+   <binding name="title"><literal>MAGLIANO: Inquadramento nella carriera di concetto del personale appartenente alle categorie para-mediche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3187</literal></binding>
+   <binding name="date"><literal>19710305</literal></binding>
+   <binding name="title"><literal>MAGLIANO e BOTTA: Esenzione fiscale per rivalutazioni patrimoniali effettuate dai comuni e dalle province</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3888</literal></binding>
+   <binding name="date"><literal>19711214</literal></binding>
+   <binding name="title"><literal>MAGLIANO e BOTTA: Costruzione delle carceri giudiziarie di Torino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3522</literal></binding>
+   <binding name="date"><literal>19710713</literal></binding>
+   <binding name="title"><literal>SCALFARI ed altri: Giudizio di conformità costituzionale delle materie oggetto di referendum abrogativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3581</literal></binding>
+   <binding name="date"><literal>19710727</literal></binding>
+   <binding name="title"><literal>VEDOVATO ed altri: Legge-quadro in materia di linee automobilistiche di interesse regionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3631</literal></binding>
+   <binding name="date"><literal>19710929</literal></binding>
+   <binding name="title"><literal>ORLANDI ed altri: Modificazione dell&#39;articolo 8 dello Statuto siciliano, approvato con legge costituzionale 26 febbraio 1948, n. 2</literal></binding>
+  </result>
+ </results>
+</sparql>

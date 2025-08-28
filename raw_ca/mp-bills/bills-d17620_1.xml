@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3052</literal></binding>
+   <binding name="date"><literal>19521207</literal></binding>
+   <binding name="title"><literal>RAPELLI ed altri: Modifica dell&#39;articolo 106 del Testo unico 17 ottobre 1922, n. 1401, sostituito dall&#39;articolo 29 della legge 16 giugno 1939, n. 942</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3211</literal></binding>
+   <binding name="date"><literal>19530304</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Norme integrative sulla istituzione dei ruoli speciali transitori nelle Amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3275</literal></binding>
+   <binding name="date"><literal>19530313</literal></binding>
+   <binding name="title"><literal>ZANFAGNINI ed altri: Modifiche al testo unico delle leggi sanitarie approvato con regio decreto 27 luglio 1934, n. 1265, per quanto riguarda il capo II: Del servizio farmaceutico</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>263</literal></binding>
+   <binding name="date"><literal>19630722</literal></binding>
+   <binding name="title"><literal>PERTINI ed altri: Modifica dell&#39;articolo 4 della legge 15 febbraio 1958, n. 46, sulle pensioni ordinarie a carico dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>327</literal></binding>
+   <binding name="date"><literal>19630726</literal></binding>
+   <binding name="title"><literal>PERTINI ed altri: Estensione delle disposizioni della legge 2 aprile 1958, n. 322, ai lavoratori per i quali il rapporto di lavoro sia cessato anteriormente al 30 aprile 1958</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4600</literal></binding>
+   <binding name="date"><literal>19671122</literal></binding>
+   <binding name="title"><literal>PERTINI ed altri: Modifiche ed integrazioni alla legge 1° dicembre 1956, n. 1399, riguardante il riordinamento delle carriere dell&#39;Istituto centrale di statistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>255</literal></binding>
+   <binding name="date"><literal>19630719</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Condono di sanzioni disciplinari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>404</literal></binding>
+   <binding name="date"><literal>19630912</literal></binding>
+   <binding name="title"><literal>LANDI ed altri: Estensione dei benefici della legge 27 febbraio 1955, n. 53, ai salariati dello Stato licenziati prima dell&#39;entrata in vigore della legge stessa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>405</literal></binding>
+   <binding name="date"><literal>19630912</literal></binding>
+   <binding name="title"><literal>LANDI ed altri: Estensione dei benefici previsti dalla legge 2 aprile 1958, n. 362, ai salariati permanenti collocati a riposo anteriormente alla data del 6 agosto 1948</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4172</literal></binding>
+   <binding name="date"><literal>19670621</literal></binding>
+   <binding name="title"><literal>FABBRI ed altri: Modifiche ed integrazioni alla legge 1° dicembre 1956, n. 1399, riguardante il riordinamento delle carriere dell&#39;Istituto centrale di statistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>799</literal></binding>
+   <binding name="date"><literal>19631204</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Revisione dell&#39;organico degli ufficiali del ruolo di amministrazione del Corpo di commissariato aeronautico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>673</literal></binding>
+   <binding name="date"><literal>19631029</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Norme per il collocamento a riposo del personale di ruolo dell&#39;Amministrazione civile dello Stato avente la qualifica di ex combattente</literal></binding>
+  </result>
+ </results>
+</sparql>

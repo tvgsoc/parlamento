@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>224</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>PECORARO SCANIO: &quot;Disposizioni per favorire il controllo e il contenimento dei prezzi e delle tariffe e interventi a tutela degli interessi degli utenti e dei consumatori&quot; (224)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>738</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>PECORARO SCANIO: &quot;Norme per la realizzazione di zone pedonalizzate, a traffico limitato e a traffico moderato nei centri storici e nelle strade di quartiere e locali&quot; (738)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>739</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>PECORARO SCANIO: &quot;Norme per la protezione dei piccoli animali dai rischi connessi al traffico automobilistico&quot; (739)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>740</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>PECORARO SCANIO: &quot;Norme in materia di metrologia legale&quot; (740)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>741</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>PECORARO SCANIO: &quot;Norme a tutela della limonicoltura e delle caratteristiche colturali e geomorfologiche dei relativi territori&quot; (741)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>742</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>PECORARO SCANIO: &quot;Norme per l&#39;incentivazione della raccolta differenziata, della disidratazione e del riciclo della frazione organica dei rifiuti solidi urbani&quot; (742)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>241</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>ZANELLA e PECORARO SCANIO: &quot;Istituzione dell&#39;Autorità italiana per la sicurezza alimentare&quot; (241)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>654</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>GRILLINI ed altri: &quot;Norme contro le discriminazioni fondate sull&#39;orientamento sessuale o sull&#39;identità di genere&quot; (654)</literal></binding>
+  </result>
+ </results>
+</sparql>

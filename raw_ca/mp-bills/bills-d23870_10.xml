@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6040</literal></binding>
+   <binding name="date"><literal>19911018</literal></binding>
+   <binding name="title"><literal>MATTARELLA ed altri: Misure urgenti per la disciplina della propaganda elettorale con riferimento al sistema delle telecomunicazioni di massa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5349</literal></binding>
+   <binding name="date"><literal>19901221</literal></binding>
+   <binding name="title"><literal>CIAFFI ed altri: Ordinamento dei segretari comunali e provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5440</literal></binding>
+   <binding name="date"><literal>19910207</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Linee di indirizzo per una politica per la famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5450</literal></binding>
+   <binding name="date"><literal>19910212</literal></binding>
+   <binding name="title"><literal>AMALFITANO ed altri: Ordinamento delle professioni di archeologo, di storico dell&#39;arte, di archivista storico-scientifico, di bibliotecario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5867</literal></binding>
+   <binding name="date"><literal>19910720</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Modifiche al testo unico delle leggi recanti norme per le elezione della Camera dei deputati, approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e alla legge 6 febbraio 1948, n. 29, recante norme per la elezione del Senato della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5868</literal></binding>
+   <binding name="date"><literal>19910720</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Modifica degli articoli 88, 92, 93, 94 e 95 e introduzione degli articoli 70-bis e 77-bis della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1025</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BARBERA ed altri: Istituzione del difensore civico per l&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1168</literal></binding>
+   <binding name="date"><literal>19870722</literal></binding>
+   <binding name="title"><literal>ALINOVI ed altri: Ricostituzione della Commissione parlamentare sul fenomeno della mafia e sulle altre associazioni criminali similari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>34</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Legge-quadro sui diritti del cittadino malato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>36</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Norme per il sostegno degli enti e associazioni che perseguono finalità umanitarie, scientifiche, culturali, religiose, politiche, sindacali, di promozione sociale e civile, di salvaguardia dell&#39;ambiente naturale e del patrimonio culturale e artistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>788</literal></binding>
+   <binding name="date"><literal>19870709</literal></binding>
+   <binding name="title"><literal>MARTINAZZOLI ed altri: Delega al Governo per l&#39;emanazione di norme sul processo amministrativo dinanzi a tribunali amministrativi regionali, al consiglio di Stato ed al consiglio di giustizia amministrativa per la regione siciliana, nonché sul ricorso straordinario al Presidente della Repubblica e sui ricorsi amministrativi</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2026</literal></binding>
+   <binding name="date"><literal>19510613</literal></binding>
+   <binding name="title"><literal>FANFANI ed altri: Miglioramento del trattamento economico ai lavoratori dei cantieri scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19500722</literal></binding>
+   <binding name="title"><literal>DONATINI ed altri: Provvidenze per la fabbriceria di Santa Maria del Fiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1565</literal></binding>
+   <binding name="date"><literal>19501004</literal></binding>
+   <binding name="title"><literal>BUCCIARELLI DUCCI ed altri: Costituzione in comune autonomo della frazione di Lippiano del comune di Monte Santa Maria Tiberina, in provincia di Perugia</literal></binding>
+  </result>
+ </results>
+</sparql>

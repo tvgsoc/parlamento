@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1236</literal></binding>
+   <binding name="date"><literal>19500422</literal></binding>
+   <binding name="title"><literal>LOMBARDINI e GASPAROLI: Ricostituzione del comune di Duno, in provincia di Varese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19500722</literal></binding>
+   <binding name="title"><literal>DONATINI ed altri: Provvidenze per la fabbriceria di Santa Maria del Fiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>42</literal></binding>
+   <binding name="date"><literal>19480707</literal></binding>
+   <binding name="title"><literal>PASTORE ed altri: Concessione di una pensione straordinaria alla vedova dell&#39;onorevole Achille Grandi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>854</literal></binding>
+   <binding name="date"><literal>19491026</literal></binding>
+   <binding name="title"><literal>LOMBARDINI e GASPAROLI: Ricostituzione dei comuni di Orino e Azzio in provincia di Varese</literal></binding>
+  </result>
+ </results>
+</sparql>

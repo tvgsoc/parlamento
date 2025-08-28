@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2059</literal></binding>
+   <binding name="date"><literal>19730417</literal></binding>
+   <binding name="title"><literal>BUCALOSSI e DEL PENNINO: Ordinamento della professione di chimico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1168</literal></binding>
+   <binding name="date"><literal>19721117</literal></binding>
+   <binding name="title"><literal>GIOMO ed altri: Concessione di un contributo statale annuo di lire cento milioni in favore della &quot;Società incoraggiamento arti e mestieri&quot; ente morale in Milano, per la gestione dell&#39;Istituto tecnico industriale serale &quot;Ettore Conti&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1744</literal></binding>
+   <binding name="date"><literal>19730223</literal></binding>
+   <binding name="title"><literal>LUCIFREDI ed altri: Finanziamento dell&#39;Unione nazionale comuni ed enti montani (UNCEM)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2877</literal></binding>
+   <binding name="date"><literal>19740328</literal></binding>
+   <binding name="title"><literal>SALVI ed altri: Istituzione dell&#39;ateneo di Stato a Brescia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2880</literal></binding>
+   <binding name="date"><literal>19740328</literal></binding>
+   <binding name="title"><literal>REALE ed altri: Inchiesta parlamentare su alcuni casi di liquidazione di indennizzi per danni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>411</literal></binding>
+   <binding name="date"><literal>19720706</literal></binding>
+   <binding name="title"><literal>GUNNELLA ed altri: Costituzione di una Commissione di inchiesta parlamentare sullo stato dell&#39;urbanesimo in rapporto all&#39;emigrazione interna e nelle prospettive delle grandi città ed aree metropolitane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>557</literal></binding>
+   <binding name="date"><literal>19720726</literal></binding>
+   <binding name="title"><literal>PICCOLI ed altri: Emendamento al terzo comma dell&#39;articolo 64 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>612</literal></binding>
+   <binding name="date"><literal>19720728</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Proroga dei termini per l&#39;esecuzione delle opere di costruzione del canale Milano-Cremona-Po</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1237</literal></binding>
+   <binding name="date"><literal>19721201</literal></binding>
+   <binding name="title"><literal>GIOMO ed altri: Disapplicazione delle norme che prevedono il requisito di un numero determinato di sottoscrittori per la presentazione delle candidature e delle liste dei candidati nelle elezioni politiche, regionali, provinciali e comunali, limitatamente alle liste ed alle candidature presentate dai partiti politici rappresentati in Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>23</literal></binding>
+   <binding name="date"><literal>19720522</literal></binding>
+   <binding name="title"><literal>REALE ed altri: Riforma del diritto di famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>583</literal></binding>
+   <binding name="date"><literal>19720728</literal></binding>
+   <binding name="title"><literal>D&#39;ANIELLO ed altri: Estensione agli ospedali religiosi acattolici del trattamento e inquadramento previsto dalla legge 12 febbraio 1968, n. 132</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>71</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>GULLOTTI ed altri: Aumento del contributo a favore dell&#39;Istituto per il medio ed estremo oriente</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1674</literal></binding>
+   <binding name="date"><literal>20080922</literal></binding>
+   <binding name="title"><literal>BALDELLI e CARLUCCI: &quot;Disposizioni per la destinazione delle somme derivanti dalle sanzioni per violazioni accertate con apparecchi di rilevamento della velocità al Fondo di garanzia per le vittime della strada&quot; (1674)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1675</literal></binding>
+   <binding name="date"><literal>20080922</literal></binding>
+   <binding name="title"><literal>BALDELLI e CARLUCCI: &quot;Istituzione del buono &#39;salute-prevenzione&#39; per i giovani&quot; (1675)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1367</literal></binding>
+   <binding name="date"><literal>20080624</literal></binding>
+   <binding name="title"><literal>CAZZOLA ed altri: &quot;Delega al Governo per la tutela previdenziale dei lavoratori occupati in attività usuranti&quot; (1367)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1422</literal></binding>
+   <binding name="date"><literal>20080701</literal></binding>
+   <binding name="title"><literal>CAZZOLA ed altri: &quot;Modifica all&#39;articolo 18 della legge 20 maggio 1970, n. 300, concernente la facoltà del datore di lavoro di corrispondere al prestatore di lavoro un&#39;indennità in sostituzione della reintegrazione nel posto di lavoro&quot; (1422)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2312</literal></binding>
+   <binding name="date"><literal>20090319</literal></binding>
+   <binding name="title"><literal>SAGLIA ed altri: &quot;Disposizioni in materia di previdenza per i lavoratori autonomi non esercenti professioni regolamentate, delega al Governo per il riordino e la razionalizzazione del prelievo contributivo, nonché interpretazione autentica dell&#39;articolo 2116 del codice civile&quot; (2312)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5093</literal></binding>
+   <binding name="date"><literal>20120328</literal></binding>
+   <binding name="title"><literal>PALMIERI ed altri: &quot;Disposizioni per la realizzazione dell&#39;agenda digitale nazionale&quot; (5093)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5132</literal></binding>
+   <binding name="date"><literal>20120417</literal></binding>
+   <binding name="title"><literal>CICCHITTO ed altri: &quot;Istituzione di un Fondo di solidarietà per l&#39;erogazione di contributi ai piccoli imprenditori in caso di rigetto di richieste di credito o di revoca di affidamenti da parte di banche o intermediari creditizi&quot; (5132)</literal></binding>
+  </result>
+ </results>
+</sparql>

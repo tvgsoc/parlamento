@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1350</literal></binding>
+   <binding name="date"><literal>19770406</literal></binding>
+   <binding name="title"><literal>BARCA ed altri: Costituzione di un ente di gestione per le partecipazioni pubbliche nel gruppo Montedison</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1517</literal></binding>
+   <binding name="date"><literal>19770608</literal></binding>
+   <binding name="title"><literal>LA LOGGIA ed altri: Interpretazione autentica del primo comma dell&#39;articolo 6 del decreto-legge 7 aprile 1977, n. 103, convertito, con modificazioni, nella legge 6 giugno 1977, n. 267, concernente la soppressione dell&#39;EGAM e provvedimenti per il trasferimento della società del gruppo all&#39;IRI e all&#39;ENI</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>657</literal></binding>
+   <binding name="date"><literal>19761026</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Istituzione di una commissione intercamerale per le partecipazioni statali e norme per l&#39;esercizio dei poteri di indirizzo e controllo ad essa affidati</literal></binding>
+  </result>
+ </results>
+</sparql>

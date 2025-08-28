@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>184</literal></binding>
+   <binding name="date"><literal>19720530</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Disciplina degli enti di gestione delle partecipazioni statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1895</literal></binding>
+   <binding name="date"><literal>19730321</literal></binding>
+   <binding name="title"><literal>BERLINGUER ed altri: Riforma all&#39;Istituto centrale di statistica e istituzione del Servizio statistico nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2011</literal></binding>
+   <binding name="date"><literal>19730411</literal></binding>
+   <binding name="title"><literal>VANIA ed altri: Istituzione della università statale di Foggia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>302</literal></binding>
+   <binding name="date"><literal>19720626</literal></binding>
+   <binding name="title"><literal>ANDERLINI ed altri: Concessione di un contributo annuo di lire 50 milioni a favore dell&#39;Istituto per lo studio della società contemporanea (ISSOCO)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3642</literal></binding>
+   <binding name="date"><literal>19750326</literal></binding>
+   <binding name="title"><literal>MALAGODI ed altri: Istituto italiano per gli studi storici di Napoli: norme concernenti il personale docente incaricato di corsi di lezioni e seminari di studio ed i laureati vincitori di borse di studio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>26</literal></binding>
+   <binding name="date"><literal>19740125</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Aumento e riforma delle pensioni della previdenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3956</literal></binding>
+   <binding name="date"><literal>19750722</literal></binding>
+   <binding name="title"><literal>LA TORRE ed altri: Riforma dell&#39;intervento aggiuntivo dello Stato nel Mezzogiorno</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>423</literal></binding>
+   <binding name="date"><literal>19531127</literal></binding>
+   <binding name="title"><literal>MUSCARIELLO ed altri: Concessione perpetua a titolo gratuito dei campi sportivi già di proprietà del partito fascista, ai comuni che ne facciano richiesta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1024</literal></binding>
+   <binding name="date"><literal>19540712</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Concessione di un assegno a vita al signor Formisano Raffaele fu Pasquale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1375</literal></binding>
+   <binding name="date"><literal>19541223</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Modifica delle disposizioni di legge concernenti i diritti erariali sugli introiti degli ingressi a spettacoli sportivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1592</literal></binding>
+   <binding name="date"><literal>19550426</literal></binding>
+   <binding name="title"><literal>SCIAUDONE e MUSCARIELLO: Ammasso per contingente della canapa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1656</literal></binding>
+   <binding name="date"><literal>19550613</literal></binding>
+   <binding name="title"><literal>SCIAUDONE ed altri: Provvidenze a favore del personale già in servizio negli uffici del Genio militare per le requisizioni alleate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>358</literal></binding>
+   <binding name="date"><literal>19531117</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Provvidenze a favore dei vincitori dei concorsi a posti di ruolo nelle Amministrazioni dello Stato riservati ai combattenti, agli assimilati ed alle categorie indicate nell&#39;articolo 1 del regio decreto 6 gennaio 1942, n. 27</literal></binding>
+  </result>
+ </results>
+</sparql>

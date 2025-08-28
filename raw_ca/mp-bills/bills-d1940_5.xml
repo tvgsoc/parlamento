@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1236</literal></binding>
+   <binding name="date"><literal>19690321</literal></binding>
+   <binding name="title"><literal>POLOTTI ed altri: Estensione agli alunni della scuola media della fornitura gratuita dei libri di testo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1340</literal></binding>
+   <binding name="date"><literal>19690418</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Benefici in favore degli ufficiali di complemento e della riserva di complemento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3708</literal></binding>
+   <binding name="date"><literal>19711020</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Provvedimenti concernenti lo stato, il trattenimento in servizio, l&#39;avanzamento e il trattamento economico di quiescenza, di previdenza ed assistenza degli ufficiali di complemento e della riserva di complemento delle tre forze armate trattenuti in servizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>600</literal></binding>
+   <binding name="date"><literal>19681028</literal></binding>
+   <binding name="title"><literal>GUADALUPI ed altri: Trasformazione del ruolo dei contabili della marina militare in ruolo a carriera speciale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>792</literal></binding>
+   <binding name="date"><literal>19681223</literal></binding>
+   <binding name="title"><literal>LEPRE ed altri: Modifiche alla legge 28 marzo 1968, n. 341, concernente la riapertura dei  termini per il riconoscimento delle qualifiche dei partigiani e per l&#39;esame delle proposte di decorazioni al valore militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>996</literal></binding>
+   <binding name="date"><literal>19690205</literal></binding>
+   <binding name="title"><literal>NICOLAZZI e CRAXI: Nuove norme per il reclutamento del personale docente di scuola media, per l&#39;assegnazione di posti di insegnamento e per il reperimento delle ore effettive di insegnamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Casi di scioglimento del matrimonio</literal></binding>
+  </result>
+ </results>
+</sparql>

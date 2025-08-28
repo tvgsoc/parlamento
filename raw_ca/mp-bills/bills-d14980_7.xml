@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1032</literal></binding>
+   <binding name="date"><literal>19770119</literal></binding>
+   <binding name="title"><literal>CASALINO ed altri: Finanziamento in favore dell&#39;opera di recupero della nave Cavtat</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1121</literal></binding>
+   <binding name="date"><literal>19770203</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Ordinamento degli organi della politica e delle gestioni portuali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1240</literal></binding>
+   <binding name="date"><literal>19770311</literal></binding>
+   <binding name="title"><literal>GUERRINI ed altri: Contributi e facilitazioni ai pescatori per l&#39;uso dei prodotti petroliferi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1444</literal></binding>
+   <binding name="date"><literal>19770511</literal></binding>
+   <binding name="title"><literal>GUERRINI ed altri: Modifica dell&#39;articolo 8 della legge 19 maggio 1975, n. 169, contenente norme sul &quot;Riordinamento dei servizi marittimi postali e commerciali di carattere locale&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1447</literal></binding>
+   <binding name="date"><literal>19770511</literal></binding>
+   <binding name="title"><literal>BOCCHI ed altri: Ristrutturazione e potenziamento dei trasporti urbani ed extraurbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2219</literal></binding>
+   <binding name="date"><literal>19780526</literal></binding>
+   <binding name="title"><literal>PANI ed altri: Credito agevolato per l&#39;autotrasporto merci per conto terzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2632</literal></binding>
+   <binding name="date"><literal>19790108</literal></binding>
+   <binding name="title"><literal>OTTAVIANO ed altri: Istituzione dell&#39;Azienda per le ferrovie dello Stato e soppressione dell&#39;Azienda autonoma delle ferrovie dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2786</literal></binding>
+   <binding name="date"><literal>19790315</literal></binding>
+   <binding name="title"><literal>GRAMEGNA ed altri: Proroga degli elenchi anagrafici, miglioramento delle strutture del collocamento e potenziamento degli uffici del lavoro nei bacini di impiego della mano d&#39;opera agricola nel Mezzogiorno d&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>638</literal></binding>
+   <binding name="date"><literal>19761020</literal></binding>
+   <binding name="title"><literal>OTTAVIANO ed altri: Modifica della legge 10 novembre 1973, n. 755, concernente la gestione unitaria del sistema aeroportuale della capitale e costruzione di una nuova aerostazione nell&#39;aeroporto intercontinentale &quot;Leonardo da Vinci&quot; di Roma-Fiumicino</literal></binding>
+  </result>
+ </results>
+</sparql>

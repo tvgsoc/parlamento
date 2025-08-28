@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1409</literal></binding>
+   <binding name="date"><literal>19920729</literal></binding>
+   <binding name="title"><literal>APUZZO ed altri: Nuovi criteri per l&#39;accertamento delle minorazioni, delle disabilità e degli handicap</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2265</literal></binding>
+   <binding name="date"><literal>19930217</literal></binding>
+   <binding name="title"><literal>PISCITELLO ed altri: Abolizione della pena di morte nel codice penale militare di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>420</literal></binding>
+   <binding name="date"><literal>19920427</literal></binding>
+   <binding name="title"><literal>TARADASH ed altri: Abolizione dell&#39;ordine dei giornalisti ed istituzione della carta di identità professionale del giornalista professionista</literal></binding>
+  </result>
+ </results>
+</sparql>

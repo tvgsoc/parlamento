@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1055</literal></binding>
+   <binding name="date"><literal>19540722</literal></binding>
+   <binding name="title"><literal>BARONTINI ed altri: Provvedimento edilizio per la costruzione di mille appartamenti popolari nel comune di La Spezia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1718</literal></binding>
+   <binding name="date"><literal>19550713</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Modifiche alle disposizioni previste dai titoli primo e secondo della legge 29 aprile 1949, n. 264, concernente provvedimenti in materia di avviamento al lavoro e di assistenza dei lavoratori involontariamente disoccupati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2580</literal></binding>
+   <binding name="date"><literal>19561130</literal></binding>
+   <binding name="title"><literal>ORTONA ed altri: Agevolazioni fiscali a favore delle piccole imprese agricole gravemente danneggiate da avversità atmosferiche tra il 1° aprile 1956 e il 31 marzo 1957</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2675</literal></binding>
+   <binding name="date"><literal>19580124</literal></binding>
+   <binding name="title"><literal>GRILLI ed altri: Riforma dell&#39;Istituto cotoniero italiano e sviluppo dell&#39;industria cotoniera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3327</literal></binding>
+   <binding name="date"><literal>19571128</literal></binding>
+   <binding name="title"><literal>SCARPA ed altri: Costituzione dell&#39;Ente nazionale attività ricreative (E.N.A.R.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3505</literal></binding>
+   <binding name="date"><literal>19580204</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Classificazione e disciplina del commercio degli olii vegetali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3586</literal></binding>
+   <binding name="date"><literal>19580221</literal></binding>
+   <binding name="title"><literal>DI MAURO ed altri: Adeguamento delle pensioni degli iscritti alla Cassa previdenza marinara</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3673</literal></binding>
+   <binding name="date"><literal>19580311</literal></binding>
+   <binding name="title"><literal>SANTI ed altri: Modifica alle disposizioni sulle competenze accessorie del personale dipendente dal Ministero delle poste e delle telecomunicazioni di cui alla legge 8 agosto 1957, n. 776</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>266</literal></binding>
+   <binding name="date"><literal>19531015</literal></binding>
+   <binding name="title"><literal>CAPPA ed altri: Provvidenze a favore delle zone disastrate dall&#39;alluvione del 19 settembre 1953 nelle provincie di Genova e Piacenza</literal></binding>
+  </result>
+ </results>
+</sparql>

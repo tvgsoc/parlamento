@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>430</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme in materia di affitto di fondi rustici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>432</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Istituzione dell&#39;Ente per gli interventi nel mercato agricolo (EIMA)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>434</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme in materia di utilizzazione agronomica delle acque di vegetazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>435</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme sul contratto di società agricola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>436</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Nuove norme in materia di usi civici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5415</literal></binding>
+   <binding name="date"><literal>19981118</literal></binding>
+   <binding name="title"><literal>MOLINARI ed altri: Disposizioni concernenti le imprese per la produzione di pane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5717</literal></binding>
+   <binding name="date"><literal>19990218</literal></binding>
+   <binding name="title"><literal>SCOZZARI ed altri: Disposizioni in materia di regolarizzazione contributiva degli obblighi previdenziali delle piccole e medie imprese</literal></binding>
+  </result>
+ </results>
+</sparql>

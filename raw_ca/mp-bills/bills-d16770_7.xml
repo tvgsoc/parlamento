@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1127</literal></binding>
+   <binding name="date"><literal>19770209</literal></binding>
+   <binding name="title"><literal>GRAMEGNA ed altri: Norme per l&#39;accertamento e la riscossione unificata dei contributi previdenziali ed assistenziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2786</literal></binding>
+   <binding name="date"><literal>19790315</literal></binding>
+   <binding name="title"><literal>GRAMEGNA ed altri: Proroga degli elenchi anagrafici, miglioramento delle strutture del collocamento e potenziamento degli uffici del lavoro nei bacini di impiego della mano d&#39;opera agricola nel Mezzogiorno d&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>657</literal></binding>
+   <binding name="date"><literal>19761026</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Istituzione di una commissione intercamerale per le partecipazioni statali e norme per l&#39;esercizio dei poteri di indirizzo e controllo ad essa affidati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1032</literal></binding>
+   <binding name="date"><literal>19770119</literal></binding>
+   <binding name="title"><literal>CASALINO ed altri: Finanziamento in favore dell&#39;opera di recupero della nave Cavtat</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>968</literal></binding>
+   <binding name="date"><literal>19761222</literal></binding>
+   <binding name="title"><literal>ZOPPETTI ed altri: Disciplina del rapporto di lavoro e formazione</literal></binding>
+  </result>
+ </results>
+</sparql>

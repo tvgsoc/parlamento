@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1577</literal></binding>
+   <binding name="date"><literal>19501010</literal></binding>
+   <binding name="title"><literal>CACCIATORE: Modificazione all&#39;articolo 12 della legge 29 aprile 1950, n. 229, sull&#39;ordinamento del personale dipendente dal Ministero delle poste e delle telecomunicazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2083</literal></binding>
+   <binding name="date"><literal>19510710</literal></binding>
+   <binding name="title"><literal>CACCIATORE: Norme per la ricostruzione della carriera del personale dell&#39;Azienda di Stato per i servizi telefonici proveniente dai ruoli della cessata Direzione generale dei telefoni e della successiva Direzione generale dei servizi elettrici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1097</literal></binding>
+   <binding name="date"><literal>19500214</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Proroga di contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1245</literal></binding>
+   <binding name="date"><literal>19500428</literal></binding>
+   <binding name="title"><literal>SANSONE e CACCIATORE: Istituzione ad Agropoli di una sezione staccata di pretura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1547</literal></binding>
+   <binding name="date"><literal>19500925</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Per l&#39;unificazione e la semplificazione dell&#39;accertamento e della riscossione dei contributi previdenziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>21</literal></binding>
+   <binding name="date"><literal>19480614</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Proroga della validità del decreto legislativo del Capo provvisorio dello Stato 1° aprile 1947, n. 273, riguardante la proroga dei contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>661</literal></binding>
+   <binding name="date"><literal>19490701</literal></binding>
+   <binding name="title"><literal>SANSONE ed altri: Sistemazione giuridica dei fattorini telegrafici alle dipendenze dell&#39;Amministrazione delle poste e dei telegrafi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>988</literal></binding>
+   <binding name="date"><literal>19491216</literal></binding>
+   <binding name="title"><literal>TARGETTI ed altri: Delega al Presidente della Repubblica per la concessione di amnistia e di indulto</literal></binding>
+  </result>
+ </results>
+</sparql>

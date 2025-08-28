@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1655</literal></binding>
+   <binding name="date"><literal>20060919</literal></binding>
+   <binding name="title"><literal>LIONELLO COSENTINO: &quot;Istituzione del ruolo speciale degli psicologi dell&#39;Amministrazione della difesa&quot; (1655)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2305</literal></binding>
+   <binding name="date"><literal>20070301</literal></binding>
+   <binding name="title"><literal>ASTORE ed altri: &quot;Norme in materia di sicurezza nelle istituzioni scolastiche&quot; (2305)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2972</literal></binding>
+   <binding name="date"><literal>20070731</literal></binding>
+   <binding name="title"><literal>OSVALDO NAPOLI ed altri: &quot;Disposizioni per il rafforzamento dell&#39;amministrazione di sostegno e soppressione degli istituti dell&#39;interdizione e dell&#39;inabilitazione&quot; (2972)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3215</literal></binding>
+   <binding name="date"><literal>20071107</literal></binding>
+   <binding name="title"><literal>GRASSI ed altri: &quot;Norme per la prevenzione, la diagnosi e la cura della broncopneumopatia cronica ostruttiva&quot; (3215)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1588</literal></binding>
+   <binding name="date"><literal>20060803</literal></binding>
+   <binding name="title"><literal>NICOLA ROSSI ed altri: &quot;Disposizioni in materia di rapporti tra la pubblica amministrazione e i cittadini&quot; (1588)</literal></binding>
+  </result>
+ </results>
+</sparql>

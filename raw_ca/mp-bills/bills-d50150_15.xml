@@ -1,0 +1,41 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2717</literal></binding>
+   <binding name="date"><literal>20070604</literal></binding>
+   <binding name="title"><literal>SCAJOLA: &quot;Modifiche al decreto legislativo 30 aprile 1992, n. 285, e altre disposizioni concernenti i veicoli d&#39;epoca, di interesse storico o collezionistico&quot; (2717)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2070</literal></binding>
+   <binding name="date"><literal>20061219</literal></binding>
+   <binding name="title"><literal>SCAJOLA ed altri: &quot;Sistema di informazione e sicurezza nazionale e nuova disciplina del segreto&quot; (2070)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2924</literal></binding>
+   <binding name="date"><literal>20070724</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: &quot;Destinazione di una quota del 5 per mille dell&#39;imposta sul reddito delle persone fisiche al finanziamento di attività e di interventi di tutela ambientale&quot; (2924)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2925</literal></binding>
+   <binding name="date"><literal>20070724</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: &quot;Disposizioni per l&#39;esercizio di una nuova rete di servizi universali a vantaggio dei cittadini da parte della società Poste italiane Spa&quot; (2925)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>445-982-1401-1566-1822-1974-1976-1991-1996-2016-2038-2039-2040-2070-2087-2105-2124-2125-B</literal></binding>
+   <binding name="date"><literal>20070726</literal></binding>
+   <binding name="title"><literal>S. 1335. - ASCIERTO; ZANOTTI ed altri; NACCARATO; MATTARELLA ed altri; ASCIERTO; GALANTE ed altri; DEIANA; FIANO; GASPARRI ed altri; MASCIA; BOATO; BOATO; BOATO; SCAJOLA ed altri; D&#39;ALIA; MARONI ed altri; COSSIGA; COSSIGA: &quot;Sistema di informazione per la sicurezza della Repubblica e nuova disciplina del segreto&quot; (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (445-982-1401-1566-1822-1974-1976-1991-1996-2016-2038-2039-2040-2070-2087-2105-2124-2125-B)
+</literal></binding>
+  </result>
+ </results>
+</sparql>

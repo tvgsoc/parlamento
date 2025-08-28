@@ -1,0 +1,112 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1759</literal></binding>
+   <binding name="date"><literal>19510111</literal></binding>
+   <binding name="title"><literal>ROSSI e SANSONE: Sistemazione degli aiutanti applicati delle ferrovie dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2118</literal></binding>
+   <binding name="date"><literal>19510802</literal></binding>
+   <binding name="title"><literal>ROSSI e RIVERA: Istituzione presso le Università e gli Istituti superiori di un ruolo speciale transitorio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1132</literal></binding>
+   <binding name="date"><literal>19500302</literal></binding>
+   <binding name="title"><literal>ANGELINI ed altri: Modifica della legge 8 marzo 1949, n. 75, recante provvedimenti a favore dell&#39;industria delle costruzioni navali e dell&#39;armamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1212</literal></binding>
+   <binding name="date"><literal>19500404</literal></binding>
+   <binding name="title"><literal>ANGELINI ed altri: Istituzione presso le università e gli istituti superiori di un ruolo speciale statale denominato: Ruolo dei professori aggiunti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1407</literal></binding>
+   <binding name="date"><literal>19500703</literal></binding>
+   <binding name="title"><literal>ADONNINO ed altri: Per l&#39;elezione dei delegati alla prima sessione dell&#39;Assemblea Costituente Mondiale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1730</literal></binding>
+   <binding name="date"><literal>19501221</literal></binding>
+   <binding name="title"><literal>BETTIOL ed altri: Proroga del termine per l&#39;effettuazione delle elezioni dei Consigli regionali e degli organi elettivi delle Amministrazioni provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1839</literal></binding>
+   <binding name="date"><literal>19510222</literal></binding>
+   <binding name="title"><literal>MORO ed altri: Concessione di un assegno annuo di lire 780.000 a Maria Montessori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1951</literal></binding>
+   <binding name="date"><literal>19510424</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Tutela giuridica dei figli naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2063</literal></binding>
+   <binding name="date"><literal>19510703</literal></binding>
+   <binding name="title"><literal>TREMELLONI ed altri: Per una relazione annua al Parlamento sull&#39;occupazione e la disoccupazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2331</literal></binding>
+   <binding name="date"><literal>19511122</literal></binding>
+   <binding name="title"><literal>TREMELLONI ed altri: Per un piano orientativo ai fini di una sistematica regolazione delle acque e per una relazione annua del Ministero dei lavori pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2435</literal></binding>
+   <binding name="date"><literal>19511219</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Esenzione fiscale all&#39;Associazione nazionale mutilati civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2484</literal></binding>
+   <binding name="date"><literal>19520125</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Ampliamento del piano di costruzione di case per lavoratori I.N.A.-Casa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2616</literal></binding>
+   <binding name="date"><literal>19520325</literal></binding>
+   <binding name="title"><literal>CALAMANDREI ed altri: Disciplina delle affissioni dei manifesti elettorali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2645</literal></binding>
+   <binding name="date"><literal>19520407</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Concessione di un assegno vitalizio di assistenza ai ciechi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3111</literal></binding>
+   <binding name="date"><literal>19521223</literal></binding>
+   <binding name="title"><literal>CHIESA TIBALDI ed altri: Divieti di fabbricazione, importazione, esportazione e vendita dei giocattoli di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3112</literal></binding>
+   <binding name="date"><literal>19521223</literal></binding>
+   <binding name="title"><literal>LONGHENA ed altri: Applicazione in favore dell&#39;Associazione italiana della Croce Rossa di un contributo sui premi di alcune assicurazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3211</literal></binding>
+   <binding name="date"><literal>19530304</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Norme integrative sulla istituzione dei ruoli speciali transitori nelle Amministrazioni dello Stato</literal></binding>
+  </result>
+ </results>
+</sparql>

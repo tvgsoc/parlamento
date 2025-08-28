@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1127</literal></binding>
+   <binding name="date"><literal>19690304</literal></binding>
+   <binding name="title"><literal>MARMUGI ed altri: Norme concernenti la gestione degli impianti per la distribuzione dei carburanti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2156</literal></binding>
+   <binding name="date"><literal>19691219</literal></binding>
+   <binding name="title"><literal>SGARBI BOMPANI ed altri: Modifiche alla legge 13 marzo 1958, n. 264, concernente la tutela del lavoro a domicilio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2995</literal></binding>
+   <binding name="date"><literal>19710121</literal></binding>
+   <binding name="title"><literal>MARMUGI ed altri: Scorporamento degli appalti dei lavori di edilizia di pertinenza dell&#39;artigianato e norme per l&#39;esecuzione delle opere pubbliche assegnate a ditte artigiane ed ai loro consorzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3492</literal></binding>
+   <binding name="date"><literal>19710702</literal></binding>
+   <binding name="title"><literal>SKERK ed altri: Riapertura dei termini previsti dalla legge 28 marzo 1968, n. 341, per il riconoscimento delle qualifiche dei partigiani e per l&#39;esame delle proposte di decorazioni al valor militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>563</literal></binding>
+   <binding name="date"><literal>19681018</literal></binding>
+   <binding name="title"><literal>BERAGNOLI ed altri: Istituzione del Magistrato alle acque per la Toscana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Modifiche e integrazioni alla legge 18 marzo 1968, n. 238, ed al successivo decreto del Presidente della Repubblica 27 aprile 1968, n. 488 - Aumento e nuovo sistema di calcolo delle pensioni a carico dell&#39;assicurazione generale obbligatoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>795</literal></binding>
+   <binding name="date"><literal>19681223</literal></binding>
+   <binding name="title"><literal>NOVELLA ed altri: Perequazione dei trattamenti di maternità e modifiche alla legge 26 agosto 1950, n. 860, concernente le lavoratrici madri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>796</literal></binding>
+   <binding name="date"><literal>19681223</literal></binding>
+   <binding name="title"><literal>NOVELLA ed altri: Piano quinquennale per l&#39;istituzione di asili-nido comunali con il concorso dello Stato</literal></binding>
+  </result>
+ </results>
+</sparql>

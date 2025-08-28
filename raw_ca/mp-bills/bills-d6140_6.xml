@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3483</literal></binding>
+   <binding name="date"><literal>19750220</literal></binding>
+   <binding name="title"><literal>VINCELLI: Istituzione di una università statale a Reggio Calabria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4119</literal></binding>
+   <binding name="date"><literal>19751118</literal></binding>
+   <binding name="title"><literal>VINCELLI: Riconoscimento di validità per le domande presentate a norma dell&#39;articolo 19 del decreto-legge 22 gennaio 1973, n. 2, convertito, con modificazioni, nella legge 23 marzo 1973, n. 36</literal></binding>
+  </result>
+ </results>
+</sparql>

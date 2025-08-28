@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2293</literal></binding>
+   <binding name="date"><literal>19511112</literal></binding>
+   <binding name="title"><literal>TOGNI ed altri: Provvedimenti per la zona industriale apuana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3232</literal></binding>
+   <binding name="date"><literal>19530306</literal></binding>
+   <binding name="title"><literal>TOGNI e FASCETTI: Istituzione della facoltà di economia e commercio, con sezione di lingue e letterature straniere, presso l&#39;Università degli studi di Pisa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3277</literal></binding>
+   <binding name="date"><literal>19530313</literal></binding>
+   <binding name="title"><literal>TOGNI: Integrazione degli organici del personale insegnante e assistente universitario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3302</literal></binding>
+   <binding name="date"><literal>19530327</literal></binding>
+   <binding name="title"><literal>TOGNI e FASCETTI: Aumento del contributo annuo per il funzionamento della &quot;Domus Galilaeana&quot; di Pisa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2494</literal></binding>
+   <binding name="date"><literal>19520130</literal></binding>
+   <binding name="title"><literal>GENNAI TONIETTI ed altri: Istituzione di una tassa sui minerali nei comuni dell&#39;Isola d&#39;Elba</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3278</literal></binding>
+   <binding name="date"><literal>19530313</literal></binding>
+   <binding name="title"><literal>GENNAI TONIETTI ed altri: Contributo a favore dell&#39;ente per la valorizzazione dell&#39;isola d&#39;Elba</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>722</literal></binding>
+   <binding name="date"><literal>19490723</literal></binding>
+   <binding name="title"><literal>NEGRARI ed altri: Provvedimenti per i comuni di Aulla, Villafranca, Filattiera Pontremoli e Fivizzano</literal></binding>
+  </result>
+ </results>
+</sparql>

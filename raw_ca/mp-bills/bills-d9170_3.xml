@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3632</literal></binding>
+   <binding name="date"><literal>19620214</literal></binding>
+   <binding name="title"><literal>MATTEOTTI e VIZZINI: Modifica dell&#39;articolo 14 del regolamento di attuazione della legge 23 novembre 1939, n. 1815, approvato con decreto del Presidente della Repubblica 26 agosto 1959, n. 921, sulla disciplina degli studi di consulenza ed assistenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>49</literal></binding>
+   <binding name="date"><literal>19580623</literal></binding>
+   <binding name="title"><literal>MATTEOTTI ed altri: Abrogazione dell&#39;articolo 553 del Codice penale e modifiche agli articoli 112 e 114 del testo unico delle leggi di pubblica sicurezza 18 giugno 1931, n. 773, e dell&#39;articolo 2 del regio decreto legislativo 31 maggio 1946, n. 561, per quanto riguarda la propaganda antiprocreativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1045</literal></binding>
+   <binding name="date"><literal>19590410</literal></binding>
+   <binding name="title"><literal>PRETI e MATTEOTTI: Norme integrative delle disposizioni in favore del personale statale in servizio al 23 marzo 1939 contenute nella legge 17 aprile 1957, n. 270</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1046</literal></binding>
+   <binding name="date"><literal>19590410</literal></binding>
+   <binding name="title"><literal>PRETI e MATTEOTTI: Norme integrative delle disposizioni contenute nell&#39;articolo 4 del decreto del Presidente della Repubblica 3 maggio 1955, n. 448, concernente la sistemazione di talune situazioni del personale in servizio presso le Amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3199</literal></binding>
+   <binding name="date"><literal>19610713</literal></binding>
+   <binding name="title"><literal>VIZZINI e MATTEOTTI: Ripristino del vecchio trattamento di quiescenza e rivalutazione delle pensioni in favore delle forze di polizia in congedo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3207</literal></binding>
+   <binding name="date"><literal>19610715</literal></binding>
+   <binding name="title"><literal>PRETI ed altri: Espropriazione per pubblica utilità di Villa Savoia sita nel comune di Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3493</literal></binding>
+   <binding name="date"><literal>19611212</literal></binding>
+   <binding name="title"><literal>VIZZINI e MATTEOTTI: Ripristino del vecchio trattamento di quiescenza e rivalutazione delle pensioni in favore delle forze di polizia in congedo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3527</literal></binding>
+   <binding name="date"><literal>19611218</literal></binding>
+   <binding name="title"><literal>AMADEI ed altri: Agevolazioni fiscali permanenti a favore dell&#39;Ente nazionale assistenza agenti e rappresentanti di commercio (E.N.A.S.A.R.CO.)</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1919</literal></binding>
+   <binding name="date"><literal>19771202</literal></binding>
+   <binding name="title"><literal>BOTTARI ed altri: Nuove norme a tutela della libertà sessuale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1960</literal></binding>
+   <binding name="date"><literal>19771221</literal></binding>
+   <binding name="title"><literal>COCCIA ed altri: Istituzione del Corpo degli agenti penitenziari della Repubblica italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2356</literal></binding>
+   <binding name="date"><literal>19780727</literal></binding>
+   <binding name="title"><literal>GATTI ed altri: Disciplina per il commercio e la distribuzione dei farmaci per uso veterinario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2755</literal></binding>
+   <binding name="date"><literal>19790228</literal></binding>
+   <binding name="title"><literal>CANULLO ed altri: Computo della tredicesima mensilità nella liquidazione della indennità di buonuscita e dell&#39;indennità di fine rapporto di impiego, spettante al personale civile e militare dello Stato e delle Aziende autonome</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2786</literal></binding>
+   <binding name="date"><literal>19790315</literal></binding>
+   <binding name="title"><literal>GRAMEGNA ed altri: Proroga degli elenchi anagrafici, miglioramento delle strutture del collocamento e potenziamento degli uffici del lavoro nei bacini di impiego della mano d&#39;opera agricola nel Mezzogiorno d&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>720</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>SPAGNOLI ed altri: Abrogazione di norme del codice penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>801</literal></binding>
+   <binding name="date"><literal>19761119</literal></binding>
+   <binding name="title"><literal>COCCIA ed altri: Norme di coordinamento tra la legge 11 agosto 1973, n. 533, e la procedura di cui all&#39;articolo 28 della legge 20 maggio 1970, n. 300</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1032</literal></binding>
+   <binding name="date"><literal>19770119</literal></binding>
+   <binding name="title"><literal>CASALINO ed altri: Finanziamento in favore dell&#39;opera di recupero della nave Cavtat</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>451</literal></binding>
+   <binding name="date"><literal>19760923</literal></binding>
+   <binding name="title"><literal>FABBRI SERONI ed altri: Norme per la regolamentazione della interruzione volontaria di gravidanza</literal></binding>
+  </result>
+ </results>
+</sparql>

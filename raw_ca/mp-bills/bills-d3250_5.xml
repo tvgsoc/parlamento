@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1708</literal></binding>
+   <binding name="date"><literal>19690716</literal></binding>
+   <binding name="title"><literal>LA MALFA ed altri: Provvedimenti per la tutela di Venezia e della laguna veneta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2159</literal></binding>
+   <binding name="date"><literal>19691219</literal></binding>
+   <binding name="title"><literal>GIOLITTI ed altri: Espropriazione del comprensorio dell&#39;Appia antica in Roma per la sua destinazione a parco pubblico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2620</literal></binding>
+   <binding name="date"><literal>19700625</literal></binding>
+   <binding name="title"><literal>ZANIBELLI ed altri: Ulteriore proroga del termine previsto dalla legge istitutiva della Commissione parlamentare di inchiesta sugli eventi del giugno-luglio 1964</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2800</literal></binding>
+   <binding name="date"><literal>19701027</literal></binding>
+   <binding name="title"><literal>ZANIBELLI ed altri: Ulteriore proroga del termine previsto dalla legge istitutiva della Commissione parlamentare di inchiesta sugli eventi del giugno-luglio 1964</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>823</literal></binding>
+   <binding name="date"><literal>19690109</literal></binding>
+   <binding name="title"><literal>ZANIBELLI ed altri: Costituzione di una Commissione parlamentare d&#39;inchiesta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>503</literal></binding>
+   <binding name="date"><literal>19681011</literal></binding>
+   <binding name="title"><literal>REALE ed altri: Modificazioni delle norme del codice civile concernenti il diritto di famiglia e le successioni</literal></binding>
+  </result>
+ </results>
+</sparql>

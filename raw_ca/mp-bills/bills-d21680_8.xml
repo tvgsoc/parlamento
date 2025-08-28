@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1017</literal></binding>
+   <binding name="date"><literal>19791122</literal></binding>
+   <binding name="title"><literal>PALLESCHI: Modifiche ed integrazioni degli articoli 15, 49 e 51 della legge 23 dicembre 1978, n. 833, concernente istituzione del servizio sanitario nazionale ai fini della sostituzione dei Comitati di gestione con Amministratori unici e della individuazione dei loro compiti e responsabilità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1024</literal></binding>
+   <binding name="date"><literal>19791122</literal></binding>
+   <binding name="title"><literal>PALLESCHI ed altri: Immissione in ruolo degli iscritti nelle graduatorie di merito del concorso magistrale previsto dall&#39;ordinanza ministeriale del 20 marzo 1975, protocollo n. 68</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>848</literal></binding>
+   <binding name="date"><literal>19791031</literal></binding>
+   <binding name="title"><literal>PALLESCHI: Provvedimenti per la individuazione precoce e la prevenzione di alcune malattie di interesse sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>575</literal></binding>
+   <binding name="date"><literal>19790918</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Ordinamento della professione di commercialista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>947</literal></binding>
+   <binding name="date"><literal>19791114</literal></binding>
+   <binding name="title"><literal>AMICI ed altri: Interpretazione autentica degli articoli 1 e 6 della legge 25 febbraio 1963, n. 327, concernente norme sui contratti a miglioria in uso nelle Province del Lazio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>145</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Riordinamento dell&#39;istituto della pubblica sicurezza. Istituzione del servizio civile denominato &quot;Corpo di polizia della Repubblica italiana&quot;</literal></binding>
+  </result>
+ </results>
+</sparql>

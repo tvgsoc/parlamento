@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1056</literal></binding>
+   <binding name="date"><literal>19540723</literal></binding>
+   <binding name="title"><literal>SCOTTI ed altri: Disposizioni a favore dei combattenti antifranchisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>113</literal></binding>
+   <binding name="date"><literal>19530824</literal></binding>
+   <binding name="title"><literal>DE LAURO MATERA ed altri: Norme per la sospensione delle esecuzione degli sfratti dagli immobili adibiti ad uso di abitazione compresi nel territorio del comune e della provincia di Foggia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1499</literal></binding>
+   <binding name="date"><literal>19550303</literal></binding>
+   <binding name="title"><literal>MAGNO ed altri: Autorizzazione di spesa per la riparazione dei danni causati dal terremoto del febbraio 1955 nella zona del comune di Monte Sant&#39;Angelo (Foggia)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1658</literal></binding>
+   <binding name="date"><literal>19550613</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Provvidenze a favore dei coloni, mezzadri, coltivatori diretti e braccianti danneggiati dalle brinate, siccità o altre avversità atmosferiche di carattere straordinario verificatesi nell&#39;aprile 1955</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3209</literal></binding>
+   <binding name="date"><literal>19571007</literal></binding>
+   <binding name="title"><literal>CACCURI ed altri: Istituzione della provincia di Barletta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>611</literal></binding>
+   <binding name="date"><literal>19540126</literal></binding>
+   <binding name="title"><literal>MAGNO ed altri: Provvedimento speciale per la costruzione di case popolari in provincia di Foggia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>97</literal></binding>
+   <binding name="date"><literal>19530821</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Concessione di un contributo straordinario di 20 milioni di lire a favore dell&#39;Ente autonomo &quot;Fiera di Foggia&quot;</literal></binding>
+  </result>
+ </results>
+</sparql>

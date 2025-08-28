@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1810</literal></binding>
+   <binding name="date"><literal>19730308</literal></binding>
+   <binding name="title"><literal>SBOARINA ed altri: Completamento dell&#39;idrovia Fissero-Tartaro-Canalbianco-Po di Levante-canali di Brondolo e di Valle</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2010</literal></binding>
+   <binding name="date"><literal>19730411</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Interventi per la prosecuzione delle opere per la costruzione del canale navigabile Milano-Cremona-Po</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2465</literal></binding>
+   <binding name="date"><literal>19731030</literal></binding>
+   <binding name="title"><literal>SBOARINA ed altri: Modifiche al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernenti il trattamento degli oggetti di vestiario in pelle agli effetti dell&#39;imposta sul valore aggiunto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4111</literal></binding>
+   <binding name="date"><literal>19751112</literal></binding>
+   <binding name="title"><literal>LA LOGGIA ed altri: Costituzione dell&#39;Azienda speciale dello Stato per i tabacchi ed i sali italiani e norme sul trasferimento alla medesima delle attribuzioni e del personale dell&#39;Amministrazione autonoma dei monopoli di Stato, nonché dei beni mobili ed immobili già ad essa assegnati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>494</literal></binding>
+   <binding name="date"><literal>19720714</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Disciplina dell&#39;attività di informazione medico-scientifica di prodotti farmaceutici soggetti a registrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>669</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>COCCO ed altri: Modifiche alla legge 17 dicembre 1957, n. 1238, concernente la legittimazione di alcune concessioni di contributi statali effettuati per la riparazione o la ricostruzione di fabbricati danneggiati o distrutti per eventi bellici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>670</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>COCCO ed altri: Norme per il funzionamento delle scuole e per la regolamentazione della professione di terapisti della riabilitazione</literal></binding>
+  </result>
+ </results>
+</sparql>

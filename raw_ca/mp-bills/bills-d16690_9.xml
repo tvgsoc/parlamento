@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>251</literal></binding>
+   <binding name="date"><literal>19830803</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Modificazioni alla legge 24 giugno 1923, n. 1395, concernente la tutela del titolo e dell&#39;esercizio professionale degli ingegneri e degli architetti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>252</literal></binding>
+   <binding name="date"><literal>19830803</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Modifiche ed integrazioni al testo unico delle leggi di pubblica sicurezza concernenti le case di informazioni commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>273</literal></binding>
+   <binding name="date"><literal>19830804</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Modifiche ed integrazioni alla legge 21 marzo 1958, n. 253, concernente la disciplina della professione di mediatore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>274</literal></binding>
+   <binding name="date"><literal>19830804</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Modifiche della legge 12 marzo 1968, n. 316, recante norme per la disciplina della professione di agente e rappresentante di commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>148</literal></binding>
+   <binding name="date"><literal>19830714</literal></binding>
+   <binding name="title"><literal>CRISTOFORI ed altri: Riconoscimento e disciplina delle attività professionali di relazioni pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>194</literal></binding>
+   <binding name="date"><literal>19830719</literal></binding>
+   <binding name="title"><literal>ARMELLIN ed altri: Norme concernenti l&#39;assistenza e l&#39;integrazione sociale alle persone handicappate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>197</literal></binding>
+   <binding name="date"><literal>19830719</literal></binding>
+   <binding name="title"><literal>QUARENGHI ed altri: Norme sull&#39;introduzione dell&#39;educazione sessuale nella scuola statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>203</literal></binding>
+   <binding name="date"><literal>19830719</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Modifiche alla legge 22 maggio 1978, n. 194, recante norme sulla tutela sociale della maternità e sulla interruzione volontaria della gravidanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>92</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>BORTOLANI ed altri: Istituzione dell&#39;albo professionale degli agrotecnici</literal></binding>
+  </result>
+ </results>
+</sparql>

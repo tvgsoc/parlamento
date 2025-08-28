@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>492</literal></binding>
+   <binding name="date"><literal>19581031</literal></binding>
+   <binding name="title"><literal>CODACCI PISANELLI: Regime d&#39;imposizione fiscale sui prodotti oggetto di monopolio dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>195</literal></binding>
+   <binding name="date"><literal>19580801</literal></binding>
+   <binding name="title"><literal>LUCIFREDI ed altri: Norme generali sull&#39;azione amministrativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>208</literal></binding>
+   <binding name="date"><literal>19580801</literal></binding>
+   <binding name="title"><literal>QUINTIERI ed altri: Provvedimenti a favore delle famiglie numerose</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>460</literal></binding>
+   <binding name="date"><literal>19581025</literal></binding>
+   <binding name="title"><literal>CERVONE ed altri: Interpretazione dell&#39;articolo 2 del decreto legislativo 6 aprile 1948, n. 521</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>500</literal></binding>
+   <binding name="date"><literal>19581031</literal></binding>
+   <binding name="title"><literal>BETTIOL ed altri: Adeguamento dei ruoli organici delle carriere dipendenti dal Ministero degli affari esteri alle esigenze di servizio dell&#39;Amministrazione centrale, delle Rappresentanze e degli Uffici all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>583</literal></binding>
+   <binding name="date"><literal>19581121</literal></binding>
+   <binding name="title"><literal>VETRONE ed altri: Modifica dell&#39;articolo 4 del regio decreto-legge 30 novembre 1933, n. 2435, convertito nella legge 20 dicembre 1934, n. 2298 e successive modificazioni, del Regolamento per la coltivazione indigena del tabacco e della disciplina dell&#39;Amministrazione autonoma dei monopoli di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1768</literal></binding>
+   <binding name="date"><literal>19591127</literal></binding>
+   <binding name="title"><literal>MAROTTA ed altri: Ordinamento degli uffici di servizio sociale e istituzione dei ruoli del personale di servizio sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>453</literal></binding>
+   <binding name="date"><literal>19581024</literal></binding>
+   <binding name="title"><literal>BERRY ed altri: Assunzione da parte dell&#39;I.R.I. della gestione dei Cantieri navali di Taranto</literal></binding>
+  </result>
+ </results>
+</sparql>

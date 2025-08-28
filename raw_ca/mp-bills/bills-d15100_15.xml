@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2710</literal></binding>
+   <binding name="date"><literal>20070531</literal></binding>
+   <binding name="title"><literal>CIRINO POMICINO ed altri: &quot;Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica&quot; (2710)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3030</literal></binding>
+   <binding name="date"><literal>20070912</literal></binding>
+   <binding name="title"><literal>CIRINO POMICINO ed altri: &quot;Disposizioni attuative dell&#39;articolo 49 della Costituzione in materia di partiti politici&quot; (3030)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1240</literal></binding>
+   <binding name="date"><literal>20060703</literal></binding>
+   <binding name="title"><literal>CIRINO POMICINO ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sul fenomeno dell&#39;eventuale utilizzazione indebita o illecita delle intercettazioni di conversazioni o comunicazioni&quot; (1240)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2881</literal></binding>
+   <binding name="date"><literal>20070924</literal></binding>
+   <binding name="title"><literal>FABRIS ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sulla presunta predisposizione illecita da parte del SISMI di dossier riguardanti magistrati, titolari di alte cariche istituzionali, personalità politiche ed esponenti del settore dell&#39;informazione&quot; (2881)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2911</literal></binding>
+   <binding name="date"><literal>20070719</literal></binding>
+   <binding name="title"><literal>BONO ed altri: &quot;Istituzione dell&#39;Ordine al merito dei donatori di organi, nonché disposizioni per il collocamento obbligatorio dei loro familiari superstiti e per la diffusione della cultura della donazione degli organi&quot; (2911)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>736</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>ZANOTTI ed altri: &quot;Modifiche all&#39;articolo 1 della legge 8 agosto 1995, n. 335, in materia di erogazione delle pensioni di reversibilità ai familiari conviventi di handicappati gravissimi&quot; (736)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1902</literal></binding>
+   <binding name="date"><literal>20061109</literal></binding>
+   <binding name="title"><literal>BELLILLO ed altri: &quot;Norme in materia previdenziale in favore di lavoratori e lavoratrici con a carico familiari gravemente disabili&quot; (1902)</literal></binding>
+  </result>
+ </results>
+</sparql>

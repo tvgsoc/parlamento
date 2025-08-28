@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1687</literal></binding>
+   <binding name="date"><literal>19730215</literal></binding>
+   <binding name="title"><literal>BENEDETTI ed altri: Norme sull&#39;insegnamento dello sci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1905</literal></binding>
+   <binding name="date"><literal>19730321</literal></binding>
+   <binding name="title"><literal>CORGHI ed altri: Istituzione del Consiglio nazionale dell&#39;emigrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2322</literal></binding>
+   <binding name="date"><literal>19730802</literal></binding>
+   <binding name="title"><literal>VITTORELLI ed altri: Concessione di un contributo straordinario all&#39;Amministrazione comunale di Borgosesia per realizzare un centro di raccolta di cimeli, documentazioni e testimonianze attestanti il contributo della Valsesia alla lotta di liberazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2369</literal></binding>
+   <binding name="date"><literal>19731004</literal></binding>
+   <binding name="title"><literal>CORGHI ed altri: Istituzione e compiti dei &quot;Comitati per la tutela dell&#39;emigrazione italiana&quot; all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3702</literal></binding>
+   <binding name="date"><literal>19750417</literal></binding>
+   <binding name="title"><literal>BUSETTO ed altri: Modifiche ed integrazioni alla legge 27 dicembre 1953, n. 959, recante norme sulle acque e sugli impianti idroelettrici nonché all&#39;articolo 53 del testo unico 11 dicembre 1933, n. 1775, e successive modificazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4024</literal></binding>
+   <binding name="date"><literal>19750930</literal></binding>
+   <binding name="title"><literal>BALLARIN ed altri: Contributi e facilitazioni ai pescatori per l&#39;uso dei prodotti petroliferi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4024-bis</literal></binding>
+   <binding name="date"><literal>19751211</literal></binding>
+   <binding name="title"><literal>BALLARIN ed altri: Facilitazioni ai pescatori per l&#39;uso di prodotti petroliferi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2762</literal></binding>
+   <binding name="date"><literal>19740215</literal></binding>
+   <binding name="title"><literal>FERRETTI ed altri: Snellimento delle procedure nelle opere di ricostruzione e ulteriori provvedimenti a favore delle popolazioni della valle del Belice colpite dal sisma del gennaio 1968</literal></binding>
+  </result>
+ </results>
+</sparql>

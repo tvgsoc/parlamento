@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3530</literal></binding>
+   <binding name="date"><literal>19750227</literal></binding>
+   <binding name="title"><literal>BERNARDI ed altri: Definizione dei rapporti tra Stato e comune di Latina per il trasferimento gratuito di edifici ed aree di piano regolatore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4501</literal></binding>
+   <binding name="date"><literal>19760428</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Riforma della legge 24 dicembre 1969, n. 990, sull&#39;assicurazione obbligatoria dei veicoli a motore e dei natanti per la responsabilità civile verso i terzi di cui all&#39;articolo 2054 del codice civile</literal></binding>
+  </result>
+ </results>
+</sparql>

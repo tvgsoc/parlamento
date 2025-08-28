@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>841</literal></binding>
+   <binding name="date"><literal>19590131</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Estinzione dei diritti esclusivi di pesca</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1234</literal></binding>
+   <binding name="date"><literal>19590521</literal></binding>
+   <binding name="title"><literal>COMANDINI ed altri: Condono di sanzioni disciplinari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1663</literal></binding>
+   <binding name="date"><literal>19591021</literal></binding>
+   <binding name="title"><literal>PIERACCINI ed altri: Disposizioni sulle locazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1938</literal></binding>
+   <binding name="date"><literal>19600126</literal></binding>
+   <binding name="title"><literal>PIERACCINI ed altri: Piano decennale dell&#39;edilizia popolare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>22</literal></binding>
+   <binding name="date"><literal>19580618</literal></binding>
+   <binding name="title"><literal>LUZZATTO ed altri: Norme sul referendum e sull&#39;iniziativa legislativa del popolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>383</literal></binding>
+   <binding name="date"><literal>19581016</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Istituzione della qualifica di archivista principale nella carriera esecutiva delle amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>408</literal></binding>
+   <binding name="date"><literal>19581020</literal></binding>
+   <binding name="title"><literal>PERTINI ed altri: Esodo volontario del personale civile di ruolo e non di ruolo delle Amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4414</literal></binding>
+   <binding name="date"><literal>19621228</literal></binding>
+   <binding name="title"><literal>SCHIANO ed altri: Per il Monumento celebrativo delle &quot;Quattro Giornate di Napoli&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>568</literal></binding>
+   <binding name="date"><literal>19581120</literal></binding>
+   <binding name="title"><literal>GRILLI ed altri: Riforma dell&#39;Istituto cotoniero italiano e sviluppo dell&#39;industria cotoniera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1822</literal></binding>
+   <binding name="date"><literal>19591212</literal></binding>
+   <binding name="title"><literal>GUADALUPI ed altri: Interpretazione dell&#39;articolo 21 della legge 29 luglio 1957, n. 634, e successive modificazioni, per quanto concerne la elaborazione di progetti di istituzione di aree di sviluppo industriale e relativi statuti e specificazione degli Enti interessati alla partecipazione dei Consorzi</literal></binding>
+  </result>
+ </results>
+</sparql>

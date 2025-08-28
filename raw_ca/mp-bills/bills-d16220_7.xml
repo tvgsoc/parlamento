@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1427</literal></binding>
+   <binding name="date"><literal>19770505</literal></binding>
+   <binding name="title"><literal>QUATTRONE ed altri: Norme per l&#39;iscrizione degli studenti della libera Università di Reggio Calabria presso le facoltà di Agraria, Informatica ed Economia e tecnica aziendale statali o riconosciute dallo Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1993</literal></binding>
+   <binding name="date"><literal>19780112</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Riforma del servizio militare di leva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2162</literal></binding>
+   <binding name="date"><literal>19780504</literal></binding>
+   <binding name="title"><literal>MARTORELLI ed altri: Ordinamento giudiziario militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2801</literal></binding>
+   <binding name="date"><literal>19790322</literal></binding>
+   <binding name="title"><literal>BRUSCA ed altri: Istituzione delle scuole di medicina</literal></binding>
+  </result>
+ </results>
+</sparql>

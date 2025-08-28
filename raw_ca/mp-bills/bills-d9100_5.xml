@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>191</literal></binding>
+   <binding name="date"><literal>19680712</literal></binding>
+   <binding name="title"><literal>BERSANI ed altri: Concessione di un contributo annuo all&#39;Università di Bologna per il finanziamento del Centro di alti studi internazionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2344</literal></binding>
+   <binding name="date"><literal>19700216</literal></binding>
+   <binding name="title"><literal>MASSARI ed altri: Integrazione dell&#39;articolo 31 della legge 19 luglio 1962, n. 959, concernente la revisione dei ruoli organici della amministrazione finanziaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>265</literal></binding>
+   <binding name="date"><literal>19680725</literal></binding>
+   <binding name="title"><literal>LUCCHESI ed altri: Tutela dei lavoratori civili italiani dipendenti da organismi militari internazionali e relativi enti collaterali e da forze armate di singoli Stati esteri, membri della Comunità atlantica, dislocate in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2949</literal></binding>
+   <binding name="date"><literal>19701223</literal></binding>
+   <binding name="title"><literal>ELKAN ed altri: Autorizzazione di spesa straordinaria per la sistemazione della strada statale n. 64 &quot;Porrettana&quot;</literal></binding>
+  </result>
+ </results>
+</sparql>

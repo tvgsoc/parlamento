@@ -1,0 +1,736 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1001</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Normativa per la informazione sessuale nelle scuole statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1002</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per la composizione e la elezione degli organi dell&#39;amministrazione comunale di Campione d&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>914</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI e ALBERINI: Modifiche ai codici penali militari ed all&#39;ordinamento giudiziario militare di pace e di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>915</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche alla legge 25 luglio 1952, n. 949, concernenti l&#39;ordinamento della Cassa per il credito alle imprese artigiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>916</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Istituzione nella regione Lombardia di una sezione staccata del tribunale amministrativo regionale con sede a Como</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>917</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI e TAGLIABUE: Norme di esecuzione del censimento generale dei lavoratori italiani occupati in Svizzera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>918</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI e TAGLIABUE: Contributi per mutui destinati all&#39;acquisto o alla ristrutturazione di alloggi ad uso abitativo per i lavoratori frontalieri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>919</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme sulla commercializzazione e sull&#39;uso delle lenti a contatto per la prevenzione di infortuni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>920</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Disciplina dei rapporti Stato-regioni ed istituzione del fondo sociale per l&#39;emigrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>923</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme concernenti il trattamento fiscale ed i crediti relativi a pensioni e trattamenti di fine rapporto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>924</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Norme per la riscossione unificata e per l&#39;adeguamento dei contributi previdenziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>925</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Riconoscimento e disciplina delle attività professionali di relazioni pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>926</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per la concessione di un contributo a carico dello Stato a favore di associazioni che svolgono attività di promozione sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>927</literal></binding>
+   <binding name="date"><literal>19870706</literal></binding>
+   <binding name="title"><literal>FERRARI e FIANDROTTI: Norme concernenti la cremazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>928</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Misure urgenti in materia di contenzioso giudiziario per invalidità pensionabile, per infortuni sul lavoro e malattie professionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>929</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Provvedimenti per l&#39;apprendistato nelle imprese artigiane e nelle piccole imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>931</literal></binding>
+   <binding name="date"><literal>19870706</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per la sicurezza dei carrelli trasportatori-elevatori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>933</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Aumento ed estensione alle regioni del contributo previsto dalla legge 5 marzo 1961, n. 212, a favore dei comuni e delle province insigniti di decorazioni di medaglie d&#39;oro e al valor militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>934</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per gli spettacoli viaggianti ed i circhi equestri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>935</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Legge-quadro in materia di mercati all&#39;ingrosso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>936</literal></binding>
+   <binding name="date"><literal>19870706</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Istituzione della commissione nazionale per i servizi pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>937</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme sulla istituzione del servizio di vigilanza e soccorso in mare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>939</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI e CEROFOLINI: Disciplina dell&#39;attività e tutela della qualificazione dei periti in specialità tecniche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>940</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per la formazione professionale e la riqualificazione del personale di assistenza sanitaria, tecnica e riabilitativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>941</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Norme per la formazione degli operatori infermieristici per le professioni sanitarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>943</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Interpretazione autentica dell&#39;articolo 1 della legge 11 gennaio 1979, n. 12, concernente norme per l&#39;ordinamento della professione di consulente del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>944</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Istituzione della professione di optometrista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>945</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Nuove norme sull&#39;età per la partecipazione al concorso notarile e sulla cessazione dell&#39;attività dei notai</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>946</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Disciplina sulla professione tecnico-sanitaria di odontotecnico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>948</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Ordinamento della professione di investigatore privato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>949</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per il riscatto dei periodi assicurativi da parte dei lavoratori &quot;occasionali&quot; nei porti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>950</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Ristrutturazione dell&#39;Ente autonomo del porto di Trieste</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>951</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Estensione ai segretari comunali e provinciali dei benefici previsti dall&#39;articolo 26 del decreto-legge 6 giugno 1981, n. 283, convertito, con modificazioni, dalla legge 6 agosto 1981, n. 432, concernente la copertura finanziaria di accordi contrattuali del personale dei Ministeri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>952</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI e FIANDROTTI: Applicazione ai lavoratori militarizzati dipendenti da stabilimenti ausiliari di guerra, deferiti ai tribunali militari per attività antifascista, dei benefici disposti dalla legge 10 marzo 1955, n. 96, concernente provvidenze a favore dei perseguitati politici antifascisti o razziali e dei loro familiari superstiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>953</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme in materia di rapporto di lavoro e di trattamento economico del personale dell&#39;INPS adibito al settore della elaborazione elettronica dei dati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>954</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifica all&#39;articolo 81 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, concernente norme sul trattamento di quiescenza di dipendenti civili e militari dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>955</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI e ALBERINI: Modifica dell&#39;articolo 1 della legge 12 dicembre 1966, n. 1078, concernente posizione e trattamento dei dipendenti dello Stato e degli enti pubblici eletti a cariche presso enti autonomi territoriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>956</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Modifica dell&#39;articolo 16 del decreto-legge 2 ottobre 1981, n. 546, convertito, con modificazioni, dalla legge 1° dicembre 1981, n. 692, concernente l&#39;ammontare dei canoni di fabbricati di proprietà demaniali concessi in locazione ai dipendenti delle amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>957</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI e FIANDROTTI: Estensione dei benefici di cui al decreto del Presidente della Repubblica 1° giugno 1972, n. 319, a talune categorie del personale di concetto delle amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>958</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI e SERRENTINO: Norme fiscali relative alla profumeria alcolica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>959</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per l&#39;equiparazione dei familiari dei grandi invalidi civili ai familiari dei grandi invalidi di guerra ai fini degli obblighi di leva e delle assunzioni obbligatorie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>960</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Esenzione dall&#39;ILOR e dall&#39;IRPEG per gli istituti autonomi case popolari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>961</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Agevolazioni per la concessione della casa a riscatto od in locazione agli handicappati gravi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>963</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Provvidenze in favore degli invalidi civili fisici, psichici e sensoriali gravi, la cui minorazione superi l&#39;ottanta per cento di invalidità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>965</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche all&#39;ordinamento professionale dei geometri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>967</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per evitare evasioni tributarie connesse al trasferimento dei beni e diritti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>969</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Istituzione della Cassa nazionale di previdenza per i liberi professionisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>970</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Riforma del collocamento obbligatorio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>972</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Abrogazione dell&#39;articolo 185 del regio decreto 9 luglio 1939, n. 1238, concernente il rilascio al cittadino della copia integrale del proprio atto di stato civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>973</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche al decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, concernenti l&#39;ordinamento degli ufficiali giudiziari, degli aiutanti ufficiali giudiziari e dei coadiutori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>974</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per la tutela dei lavoratori dipendenti da imprese operanti all&#39;estero nei paesi extracomunitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>976</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Provvidenze a favore delle vittime di Bruxelles</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>977</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme sull&#39;ammissione in magistratura di membri laici, sulla istituzione di un biennio propedeutico per uditori e sulla divisione dei ruoli fra giudicante ed inquirente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>978</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche agli articoli 374 e 516 del codice di procedura penale concernenti i casi di definitività della pronuncia istruttoria e di inammissibilità dell&#39;impugnazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>983</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Ordinamento della professione di chimico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>984</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Modifica della legge 3 febbraio 1963, n. 69, istitutiva dell&#39;Ordine nazionale dei giornalisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>986</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche degli articoli 55 e 56 del codice di procedura civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>987</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per l&#39;assunzione del personale ausiliario dell&#39;amministrazione della giustizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>988</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Ordinamento della professione di biologo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>989</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Misure urgenti in materia di evasioni contributive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>990</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Estensione al convivente more uxorio della non punibilità prevista per il coniuge dagli articoli 307 e 384 del codice penale e della facoltà di astenersi dal testimoniare prevista per il coniuge dall&#39;articolo 350 del codice di procedura penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>991</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Integrazione dell&#39;articolo 2958 del codice civile concernente il corso della prescrizione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>992</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche al codice civile in ordine alla disciplina del contratto di agenzia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>993</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Modifica all&#39;articolo 3 della legge 25 luglio 1975, n. 402, concernente il trattamento di disoccupazione in favore dei lavoratori rimpatriati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>994</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Riapertura dei termini di cui agli articoli 127 e 128 del testo unico delle norme in materia di pensioni di guerra, approvato con decreto del Presidente della Repubblica 23 dicembre 1978, n. 915</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>996</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Apertura settimanale delle caserme al pubblico e disciplina delle attività coordinate con l&#39;Amministrazione comunale capoluogo di provincia ove ha sede la struttura militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>997</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per la ricostruzione delle posizioni assicurative previdenziali dei lavoratori rimpatriati dalla Libia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>998</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Norme per lo svolgimento in una sola giornata delle operazioni di voto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>999</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per la concessione della totale deducibilità dal reddito complessivo imponibile IRPEF delle spese mediche e di assistenza specifica a favore di soggetti affetti da grave e permanente invalidità o menomazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1000</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Istituzione del Consiglio generale dell&#39;emigrazione italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>913</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Istituzione della provincia di Lecco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>921</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per la durata del servizio del personale ispettivo, direttivo e docente presso le istituzioni scolastiche italiane all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>922</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Norme per l&#39;attuazione degli articoli 6 e 10 della legge 15 aprile 1985, n. 140, concernente miglioramenti e perequazioni di trattamenti pensionistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>930</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI e DEL PENNINO: Nuove norme per la sicurezza degli impianti elettrici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>932</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Dichiarazione di estinzione di usi civici e diritti di promiscuo godimento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>938</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Scioglimento dell&#39;Ente nazionale di previdenza ed assistenza per le ostetriche (ENPAO) e disciplina del trattamento previdenziale delle ostetriche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>942</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche all&#39;ordinamento professionale dei periti industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>947</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche ed integrazioni alla legge 20 settembre 1980, n. 576, in materia di previdenza forense</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>962</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI: Età pensionabile per i primari ospedalieri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>964</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Aumento dell&#39;assegno vitalizio per i cavalieri dell&#39;Ordine di Vittorio Veneto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>966</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Integrazione alla legge 15 dicembre 1972, n. 772, concernente l&#39;assegnazione degli obiettori di coscienza agli uffici tecnici erariali per il riordino del catasto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>968</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Disposizioni concernenti l&#39;ammissione dei minorati della vista alla carriera direttiva della pubblica amministrazione, degli enti pubblici e privati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>971</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Disciplina delle attività di estetica femminile e maschile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>975</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Nuove disposizioni sulle lotterie, tombole e pesche organizzate da associazioni ricreative, culturali e sportive senza fini di lucro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>979</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Responsabilità disciplinare dei magistrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>980</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Abolizione del soggiorno obbligato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>981</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifica del primo comma dell&#39;articolo 1284 del codice civile concernente il saggio degli interessi legali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>982</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Abrogazione dell&#39;articolo 710 del codice di procedura civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>985</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Applicazione dell&#39;articolo 351 del codice di procedura penale, concernente il diritto di astenersi dal testimoniare, nei confronti dei dottori commercialisti, ragionieri e periti commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>995</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per la copertura dei posti vacanti nelle qualifiche dirigenziali della pubblica amministrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5848</literal></binding>
+   <binding name="date"><literal>19910717</literal></binding>
+   <binding name="title"><literal>CAMBER ed altri: Equo indennizzo alla Lega nazionale di Trieste a seguito dell&#39;acquisizione da parte del Regio Governo, tramite l&#39;Opera nazionale di assistenza all&#39;Italia redenta, del patrimonio di proprietà della Lega stessa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5859</literal></binding>
+   <binding name="date"><literal>19910719</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Modifiche alla legge 27 febbraio 1985, n. 49, in materia di misure e salvaguardia dei livelli di occupazione ed agevolazioni per la formazione di cooperative tra i lavoratori nelle aziende in crisi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5875</literal></binding>
+   <binding name="date"><literal>19910724</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Riconoscimento e disciplina giuridica della chiropratica come professione sanitaria primaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5978</literal></binding>
+   <binding name="date"><literal>19910925</literal></binding>
+   <binding name="title"><literal>D&#39;ADDARIO ed altri: Testo unico per la gestione dei rifiuti e dei residui</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6098</literal></binding>
+   <binding name="date"><literal>19911114</literal></binding>
+   <binding name="title"><literal>CRISTONI ed altri: Valorizzazione e tutela del patrimonio nazionale dei beni ambientali storici costituito da giardini, parchi e paesaggi aulici d&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6190</literal></binding>
+   <binding name="date"><literal>19911213</literal></binding>
+   <binding name="title"><literal>DE CARLI ed altri: Modifiche alla legge 18 agosto 1978, n. 497, recante autorizzazione di spesa per la costruzione di alloggi di servizio per il personale militare e disciplina delle relative concessioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6214</literal></binding>
+   <binding name="date"><literal>19911218</literal></binding>
+   <binding name="title"><literal>SALADINO ed altri: Norme di favore per il pensionamento dei sordomuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6223</literal></binding>
+   <binding name="date"><literal>19911220</literal></binding>
+   <binding name="title"><literal>FARIGU ed altri: Istituzione di contributi per le associazioni di promozione sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6321</literal></binding>
+   <binding name="date"><literal>19920122</literal></binding>
+   <binding name="title"><literal>GOTTARDO ed altri: Integrazione della Costituzione per garantire il diritto all&#39;alloggio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1039</literal></binding>
+   <binding name="date"><literal>19870717</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Norme per scoraggiare la pratica del fumo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1044</literal></binding>
+   <binding name="date"><literal>19870717</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Tariffa professionale per le prestazioni degli architetti e degli ingegneri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1063</literal></binding>
+   <binding name="date"><literal>19870707</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Modifiche al decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, concernenti l&#39;ordinamento degli ufficiali giudiziari, degli aiutanti ufficiali giudiziari e dei coadiutori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1262</literal></binding>
+   <binding name="date"><literal>19870728</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Norme concernenti la posizione assicurativa del personale degli enti mutualistici e delle gestioni sanitarie soppresse collocato presso amministrazioni pubbliche centrali o locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1263</literal></binding>
+   <binding name="date"><literal>19870728</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Riforma del collocamento obbligatorio per tutte le categorie di invalidi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1264</literal></binding>
+   <binding name="date"><literal>19870728</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Legge-quadro per la regolamentazione del divieto della navigazione a motore sui laghi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1265</literal></binding>
+   <binding name="date"><literal>19870728</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Norme integrative in favore dei lavoratori dipendenti il cui rapporto di lavoro sia stato risolto per motivi politici e sindacali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>151</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Riconoscimento di ente morale con personalità giuridica del Collegio nazionale capitani di lungo corso e di macchina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>152</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Misure per migliorare le condizioni di vita dei marittimi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>153</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Esercizio del diritto di voto da parte dei marittimi imbarcati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>154</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Norme per garantire la tutela della salute dei naviganti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>167</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Nuovo ordinamento dei circhi e dello spettacolo viaggiante</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>551</literal></binding>
+   <binding name="date"><literal>19870703</literal></binding>
+   <binding name="title"><literal>SEPPIA ed altri: Modifiche al regio decreto 9 luglio 1939, n. 1238, concernenti la semplificazione della formazione di taluni atti dello stato civile e abrogazione del divieto di contrarre nuove nozze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>553</literal></binding>
+   <binding name="date"><literal>19870703</literal></binding>
+   <binding name="title"><literal>SEPPIA ed altri: Modifiche al regio decreto 9 luglio 1939, n. 1238, concernente l&#39;ordinamento dello stato civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>554</literal></binding>
+   <binding name="date"><literal>19870703</literal></binding>
+   <binding name="title"><literal>SEPPIA ed altri: Inquadramento dei messi di conciliazione nel ruolo degli aiutanti ufficiali giudiziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>755</literal></binding>
+   <binding name="date"><literal>19870709</literal></binding>
+   <binding name="title"><literal>TAGLIABUE ed altri: Estensione ai cittadini residenti a Campione d&#39;Italia dei benefici della legge 3 marzo 1971, n. 153, per l&#39;equipollenza dei titoli di studio di secondo grado conseguiti in scuole elvetiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1183</literal></binding>
+   <binding name="date"><literal>19870723</literal></binding>
+   <binding name="title"><literal>ROSINI ed altri: Adeguamento automatico dei trattamenti pensionistici di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>155</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Norme sull&#39;abolizione dei limiti di età per la partecipazione ai pubblici concorsi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>158</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Modifiche agli articoli 30 e 33 del regio decreto-legge 27 novembre 1933, n. 1578, concernenti l&#39;accesso alla professione forense degli ex questori dell&#39;Amministrazione dell&#39;interno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>166</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Istituzione, per i laureati in medicina e chirurgia, di un servizio civile sostitutivo del servizio militare sulle navi mercantili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>211</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>PIRO ed altri: Esenzione dall&#39;imposta di bollo per le domande di concorso e di assunzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5906</literal></binding>
+   <binding name="date"><literal>19910731</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Norme per la collaborazione dell&#39;Italia con i Paesi dell&#39;Europa centrale e orientale</literal></binding>
+  </result>
+ </results>
+</sparql>

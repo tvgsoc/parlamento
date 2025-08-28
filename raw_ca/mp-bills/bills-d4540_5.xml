@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>35</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>PELLICANI: Elettorato attivo al compimento del diciottesimo anno di età, a modifica dell&#39;articolo 48 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>406</literal></binding>
+   <binding name="date"><literal>19680925</literal></binding>
+   <binding name="title"><literal>PELLICANI: Attribuzione ai messi comunali e provinciali della qualifica impiegatizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>456</literal></binding>
+   <binding name="date"><literal>19681004</literal></binding>
+   <binding name="title"><literal>PELLICANI: Disciplina del servizio nei Circoli didattici e norme di perequazione per insegnanti di ruolo ex combattenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>141</literal></binding>
+   <binding name="date"><literal>19680705</literal></binding>
+   <binding name="title"><literal>PELLICANI: Integrazione della delega al Governo, di cui alla legge 18 marzo 1968, n. 238, per l&#39;estensione della pensione sociale ai cittadini ultrassessantacinquenni privi di trattamento pensionistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2273</literal></binding>
+   <binding name="date"><literal>19700126</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Norme per la costruzione e l&#39;esercizio dei porti turistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>366</literal></binding>
+   <binding name="date"><literal>19680830</literal></binding>
+   <binding name="title"><literal>AVERARDI ed altri: Integrazioni e modifiche alle disposizioni contenute nella legge 5 giugno 1965, n. 698, concernente la revisione dei ruoli organici del personale non insegnante delle Università e degli istituti di istruzione universitaria e degli Osservatori astronomici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Casi di scioglimento del matrimonio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2149</literal></binding>
+   <binding name="date"><literal>19691219</literal></binding>
+   <binding name="title"><literal>FELICI ed altri: Norme per le imbarcazioni da diporto</literal></binding>
+  </result>
+ </results>
+</sparql>

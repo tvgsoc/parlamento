@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1294</literal></binding>
+   <binding name="date"><literal>19800122</literal></binding>
+   <binding name="title"><literal>CERIONI ed altri: Modifiche ed integrazioni alla legge 17 luglio 1970, n. 568, concernente la disciplina della raccolta e del commercio dei tartufi freschi o conservati destinati al consumo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2731</literal></binding>
+   <binding name="date"><literal>19810722</literal></binding>
+   <binding name="title"><literal>CERIONI ed altri: Istituzione della circoscrizione aeroportuale di Ancona in Falconara</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2766</literal></binding>
+   <binding name="date"><literal>19810730</literal></binding>
+   <binding name="title"><literal>BAMBI ed altri: Norme per la classificazione, l&#39;istituzione del marchio di garanzia di qualità e la denominazione di origine per l&#39;olio di oliva destinato alla minuta vendita</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3095</literal></binding>
+   <binding name="date"><literal>19820121</literal></binding>
+   <binding name="title"><literal>SILVESTRI ed altri: Norme per il ripristino della festività dell&#39;Epifania</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3827</literal></binding>
+   <binding name="date"><literal>19821221</literal></binding>
+   <binding name="title"><literal>CERIONI ed altri: Modifiche ed integrazioni agli articoli 20 e 21 della legge 11 novembre 1982, n. 828, concernente il completamento dell&#39;opera di ricostruzione delle zone terremotate della regione Friuli-Venezia Giulia e della regione Marche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3925</literal></binding>
+   <binding name="date"><literal>19830208</literal></binding>
+   <binding name="title"><literal>CERIONI ed altri: Ulteriori provvedimenti per il completamento dei piani di ricostruzione della regione Marche</literal></binding>
+  </result>
+ </results>
+</sparql>

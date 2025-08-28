@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5374</literal></binding>
+   <binding name="date"><literal>20120718</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE ADINOLFI ed altri: &quot;Introduzione dell&#39;articolo 21-bis della Costituzione, recante il riconoscimento del diritto universale di accesso alla rete internet&quot; (5374)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5319</literal></binding>
+   <binding name="date"><literal>20120627</literal></binding>
+   <binding name="title"><literal>FIORONI ed altri: &quot;Istituzione del Fondo per la non autosufficienza &quot; (5319)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5407</literal></binding>
+   <binding name="date"><literal>20120806</literal></binding>
+   <binding name="title"><literal>MOGHERINI REBESANI ed altri: &quot;Divieto di finanziamento delle imprese che svolgono attività di produzione, commercio, trasporto e deposito di mine antipersona ovvero di munizioni e submunizioni a grappolo&quot; (5407)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5482</literal></binding>
+   <binding name="date"><literal>20120927</literal></binding>
+   <binding name="title"><literal>PISICCHIO ed altri: &quot;Modifiche al codice penale, al codice di procedura penale e alle leggi 8 febbraio 1948, n. 47, e 3 febbraio 1963, n. 69, in materia di diffamazione, di diffamazione con il mezzo della stampa o con altro mezzo di diffusione, di ingiuria e di condanna del querelante, nonché di istituzione del Giurì per la correttezza dell&#39;informazione&quot; (5482)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5526</literal></binding>
+   <binding name="date"><literal>20121010</literal></binding>
+   <binding name="title"><literal>QUARTIANI ed altri: &quot;Disposizioni in favore della cooperazione internazionale allo sviluppo nel settore idrico&quot; (5526)</literal></binding>
+  </result>
+ </results>
+</sparql>

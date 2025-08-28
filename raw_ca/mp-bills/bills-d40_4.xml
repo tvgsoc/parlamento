@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4741</literal></binding>
+   <binding name="date"><literal>19680112</literal></binding>
+   <binding name="title"><literal>ACHILLI: Norme aggiuntive in materia di formazione di piani territoriali di coordinamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4055</literal></binding>
+   <binding name="date"><literal>19670508</literal></binding>
+   <binding name="title"><literal>FINOCCHIARO ed altri: Ordinamento degli Istituti professionali di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4174</literal></binding>
+   <binding name="date"><literal>19670621</literal></binding>
+   <binding name="title"><literal>FINOCCHIARO e ACHILLI: Norme integrative delle leggi riguardanti il collocamento nei ruoli e la sistemazione nelle carriere del personale non insegnante delle scuole e istituti di istruzione secondaria e artistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4489</literal></binding>
+   <binding name="date"><literal>19671019</literal></binding>
+   <binding name="title"><literal>BUTTÈ ed altri: Modificazione alla legge 18 aprile 1962, n. 194, concernente norme relative al sistema aeroportuale di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4546</literal></binding>
+   <binding name="date"><literal>19671111</literal></binding>
+   <binding name="title"><literal>CODIGNOLA ed altri: Istituzione della Università per la Calabria</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>118</literal></binding>
+   <binding name="date"><literal>19530922</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Durata dei contratti individuali dei lavoratori fissi ed assimilati dell&#39;agricoltura comunque denominati e regolamentazione delle relative disdette</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1491</literal></binding>
+   <binding name="date"><literal>19550301</literal></binding>
+   <binding name="title"><literal>BALTARO ed altri: Modifica alla lettera a) dell&#39;articolo 2 del decreto presidenziale 29 aprile 1950</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2675</literal></binding>
+   <binding name="date"><literal>19580124</literal></binding>
+   <binding name="title"><literal>GRILLI ed altri: Riforma dell&#39;Istituto cotoniero italiano e sviluppo dell&#39;industria cotoniera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3243</literal></binding>
+   <binding name="date"><literal>19571024</literal></binding>
+   <binding name="title"><literal>FOGLIAZZA ed altri: Parificazione, in materia di assegni familiari, dei lavoratori dell&#39;agricoltura a quelli del settore industriale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3327</literal></binding>
+   <binding name="date"><literal>19571128</literal></binding>
+   <binding name="title"><literal>SCARPA ed altri: Costituzione dell&#39;Ente nazionale attività ricreative (E.N.A.R.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>631</literal></binding>
+   <binding name="date"><literal>19540128</literal></binding>
+   <binding name="title"><literal>AUDISIO ed altri: Contributi ed agevolazioni per le cantine sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>654</literal></binding>
+   <binding name="date"><literal>19540218</literal></binding>
+   <binding name="title"><literal>FOGLIAZZA ed altri: Provvidenze a favore delle zone alluvionate dell&#39;autunno 1953 della Lombardia</literal></binding>
+  </result>
+ </results>
+</sparql>

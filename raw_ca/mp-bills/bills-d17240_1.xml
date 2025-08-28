@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2496</literal></binding>
+   <binding name="date"><literal>19520131</literal></binding>
+   <binding name="title"><literal>VOLPE ed altri: Aumento del trattamento degli assegni vitalizi, degli operai ed impiegati tecnici ed amministrativi delle miniere di zolfo della Sicilia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3180</literal></binding>
+   <binding name="date"><literal>19530210</literal></binding>
+   <binding name="title"><literal>VOLPE ed altri: Autorizzazione all&#39;Ente zolfi italiani ad operare una trattenuta sul prezzo netto degli zolfi grezzi liquidato ai produttori da devolvere a favore della propria sezione di assistenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1599</literal></binding>
+   <binding name="date"><literal>19501019</literal></binding>
+   <binding name="title"><literal>PIGNATONE e VOLPE: Modificazione alle norme per l&#39;ammissione alla carriera dei geometri del Corpo del Genio civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2043</literal></binding>
+   <binding name="date"><literal>19510621</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Agevolazioni fiscali per opere concesse dalla Cassa per il Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2411</literal></binding>
+   <binding name="date"><literal>19511213</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Disposizioni integrative dell&#39;articolo 36 della legge 25 giugno 1949, n. 409, per agevolare la ricostruzione delle abitazioni distrutte dagli eventi bellici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>311</literal></binding>
+   <binding name="date"><literal>19490131</literal></binding>
+   <binding name="title"><literal>CARONIA ed altri: Chiusura dei locali di meretricio</literal></binding>
+  </result>
+ </results>
+</sparql>

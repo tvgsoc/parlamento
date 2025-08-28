@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2266</literal></binding>
+   <binding name="date"><literal>19511029</literal></binding>
+   <binding name="title"><literal>CAPALOZZA e BERNARDI: Proroga dei contratti di locazione e sublocazione di immobili urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2274</literal></binding>
+   <binding name="date"><literal>19511030</literal></binding>
+   <binding name="title"><literal>BASSO ed altri: Sul comportamento delle pubbliche autorità nei confronti del banditismo siciliano e sulle relative cause di natura sociale, economica e politica.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>988</literal></binding>
+   <binding name="date"><literal>19491216</literal></binding>
+   <binding name="title"><literal>TARGETTI ed altri: Delega al Presidente della Repubblica per la concessione di amnistia e di indulto</literal></binding>
+  </result>
+ </results>
+</sparql>

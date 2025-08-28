@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2420</literal></binding>
+   <binding name="date"><literal>19880303</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Norme per l&#39;attuazione dell&#39;articolo 13 della legge costituzionale 26 febbraio 1948 n. 3 (Statuto speciale per la Sardegna), concernente il piano organico per la rinascita economica e sociale dell&#39;isola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>557</literal></binding>
+   <binding name="date"><literal>19870703</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Istituzione di una Commissione parlamentare di inchiesta sulle condizioni di lavoro, con riguardo ai problemi della salute e della sicurezza dei lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>558</literal></binding>
+   <binding name="date"><literal>19870703</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Riforma del Parlamento ed istituzione di una Camera unica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2905</literal></binding>
+   <binding name="date"><literal>19880623</literal></binding>
+   <binding name="title"><literal>CERVETTI ed altri: Indizione di un referendum per l&#39;unità politica dell&#39;Europa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1680</literal></binding>
+   <binding name="date"><literal>19871014</literal></binding>
+   <binding name="title"><literal>VIOLANTE ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sul traffico di armi e sul traffico di droga sul territorio italiano e sui collegamenti con il terrorismo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3335</literal></binding>
+   <binding name="date"><literal>19881108</literal></binding>
+   <binding name="title"><literal>VELTRONI ed altri: Divieto dell&#39;interruzione pubblicitaria dei film</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>581</literal></binding>
+   <binding name="date"><literal>19870703</literal></binding>
+   <binding name="title"><literal>ZANGHERI ed altri: Riforma degli ordinamenti didattici universitari</literal></binding>
+  </result>
+ </results>
+</sparql>

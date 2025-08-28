@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1336</literal></binding>
+   <binding name="date"><literal>19840222</literal></binding>
+   <binding name="title"><literal>CALDORO ed altri: Nuovo ordinamento del Registro italiano navale (R.I.Na.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>184</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>CALDORO ed altri: Istituzione ed ordinamento dell&#39;Azienda nazionale delle ferrovie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>22</literal></binding>
+   <binding name="date"><literal>19830704</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Istituzione di una struttura pubblica per la gestione delle attività spaziali nazionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>39</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Esercizio del diritto di voto da parte dei marittimi imbarcati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>449</literal></binding>
+   <binding name="date"><literal>19830914</literal></binding>
+   <binding name="title"><literal>SANGUINETI ed altri: Modifica degli articoli 4, 8 e 9 del testo unico approvato con regio decreto 16 gennaio 1936, n. 801, concernente disposizioni legislative riguardanti la costituzione di un consorzio autonomo per l&#39;esecuzione di opere e per l&#39;esercizio del porto di Genova</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>803</literal></binding>
+   <binding name="date"><literal>19831109</literal></binding>
+   <binding name="title"><literal>MANCINI ed altri: Istituzione in Caserta della Scuola superiore di studi storico-politici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1433</literal></binding>
+   <binding name="date"><literal>19840315</literal></binding>
+   <binding name="title"><literal>PICCOLI ed altri: Interventi urgenti e straordinari diretti ad assicurare nel 1984, e comunque entro 12 mesi, la sopravvivenza di almeno tre milioni di persone minacciate dalla fame, dalla denutrizione e dal sottosviluppo nelle regioni dei Paesi in via di sviluppo dove si registrano i più alti tassi di mortalità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>47</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Nuove misure per la difesa dell&#39;ordinamento costituzionale attraverso la dissociazione dal terrorismo</literal></binding>
+  </result>
+ </results>
+</sparql>

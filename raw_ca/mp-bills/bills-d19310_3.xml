@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3456</literal></binding>
+   <binding name="date"><literal>19611129</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Prestazione di garanzia per l&#39;importazione, in esenzione dal pagamento del dazio doganale, di macchinari e materiali destinati ad usi agevolati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3581</literal></binding>
+   <binding name="date"><literal>19620125</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Modificazioni al regio decreto 18 novembre 1923, n. 2440, relativamente all&#39;anno finanziario, ai rendiconti consuntivi ed ai bilanci preventivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3583</literal></binding>
+   <binding name="date"><literal>19620125</literal></binding>
+   <binding name="title"><literal>ZUGNO ed altri: Abrogazione dell&#39;articolo 78 del testo unico delle leggi sulle pensioni civili e militari, approvato con regio decreto 21 febbraio 1895, n. 70</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3715</literal></binding>
+   <binding name="date"><literal>19620331</literal></binding>
+   <binding name="title"><literal>COCCO ed altri: Assegno assistenziale per gli anziani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4395</literal></binding>
+   <binding name="date"><literal>19621221</literal></binding>
+   <binding name="title"><literal>RADI ed altri: Provvidenze a favore dei circhi italiani e norme sulla attività dello spettacolo viaggiante</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3400</literal></binding>
+   <binding name="date"><literal>19611111</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Disciplina della professione di agente e rappresentante dell&#39;industria e del commercio</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>221</literal></binding>
+   <binding name="date"><literal>19760729</literal></binding>
+   <binding name="title"><literal>POSTAL ed altri: Norme a favore delle popolazioni ladine della provincia di Trento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>100</literal></binding>
+   <binding name="date"><literal>19760715</literal></binding>
+   <binding name="title"><literal>VILLA ed altri: Norme integrative ed interpretative delle leggi 24 maggio 1970, n. 336, e 9 ottobre 1971, n. 824</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>163</literal></binding>
+   <binding name="date"><literal>19760727</literal></binding>
+   <binding name="title"><literal>RENDE ed altri: Classificazione dei films violenti e nuova determinazione delle aliquote fiscali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>187</literal></binding>
+   <binding name="date"><literal>19760728</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Organizzazione della ricerca scientifica e tecnologica applicata ai problemi dello sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>86</literal></binding>
+   <binding name="date"><literal>19760713</literal></binding>
+   <binding name="title"><literal>BORTOLANI ed altri: Norme riguardanti i Consorzi di bonifica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>96</literal></binding>
+   <binding name="date"><literal>19760715</literal></binding>
+   <binding name="title"><literal>LA LOGGIA ed altri: Costituzione dell&#39;Azienda speciale dello Stato per i tabacchi ed i sali italiani e norme sul trasferimento alla medesima delle attribuzioni e del personale dell&#39;Amministrazione autonoma dei monopoli di Stato, nonché dei beni mobili ed immobili già ad essa assegnati</literal></binding>
+  </result>
+ </results>
+</sparql>

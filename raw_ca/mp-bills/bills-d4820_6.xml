@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1601</literal></binding>
+   <binding name="date"><literal>19730201</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Ricongiunzione dei servizi prestati con iscrizione all&#39;Istituto nazionale previdenza sociale (INPS) agli effetti della pensione erogata dalla cassa pensioni dipendenti enti locali (CPDEL) cassa pensioni sanitari (CPS), cassa pensioni insegnanti (CPI) e dallo Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2125</literal></binding>
+   <binding name="date"><literal>19730514</literal></binding>
+   <binding name="title"><literal>COMPAGNA ed altri: Concessione di un contributo annuo di lire 100 milioni in favore dell&#39;Associazione nazionale per gli interessi del Mezzogiorno d&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>229</literal></binding>
+   <binding name="date"><literal>19720608</literal></binding>
+   <binding name="title"><literal>ROGNONI ed altri: Modifiche delle norme riguardanti la previdenza e l&#39;assistenza forense</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>704</literal></binding>
+   <binding name="date"><literal>19720804</literal></binding>
+   <binding name="title"><literal>LAURICELLA ed altri: Modifiche ed integrazioni alla legge 15 febbraio 1963, n. 133, istitutiva dell&#39;ISES - Istituto per lo sviluppo della edilizia sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>44</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>FRASCA ed altri: Disciplina dell&#39;ammasso dell&#39;essenza di bergamotto</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2802</literal></binding>
+   <binding name="date"><literal>19701028</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Trasformazione della scuola triennale a fini speciali di scienze e arti nel campo della stampa del politecnico di Torino in facoltà di arte e scienza della stampa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1153</literal></binding>
+   <binding name="date"><literal>19690306</literal></binding>
+   <binding name="title"><literal>CATTANEO PETRINI ed altri: Inchiesta parlamentare sull&#39;assistenza pubblica e privata e sulla sua rispondenza alle effettive necessità dei cittadini aventi diritto, in previsione della prossima programmazione quinquennale nazionale, in relazione all&#39;attuazione dell&#39;ordinamento regionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1329</literal></binding>
+   <binding name="date"><literal>19690416</literal></binding>
+   <binding name="title"><literal>GIORDANO ed altri: Ulteriori provvedimenti in favore delle zone del Piemonte colpite dalle alluvioni del novembre 1968 in aggiunta a quelli previsti dalla legge 12 febbraio 1969, n. 7</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1576</literal></binding>
+   <binding name="date"><literal>19690611</literal></binding>
+   <binding name="title"><literal>GIORDANO ed altri: Concessione contributo al comune di Domodossola per la ricorrenza del 25° anniversario della Repubblica dell&#39;Ossola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1917</literal></binding>
+   <binding name="date"><literal>19691017</literal></binding>
+   <binding name="title"><literal>GIORDANO ed altri: Concessione di contributo straordinario al comune di Domodossola per la ricorrenza del 25° anniversario della Repubblica dell&#39;Ossola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2036</literal></binding>
+   <binding name="date"><literal>19691121</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3385</literal></binding>
+   <binding name="date"><literal>19710514</literal></binding>
+   <binding name="title"><literal>SISTO ed altri: Modifiche alle leggi 29 maggio 1939, n. 775, e 27 dicembre 1956, n. 1467, e nuove disposizioni sulla efficacia della convenzione del 5 luglio 1939, per l&#39;esercizio dell&#39;Azienda termale di Acqui Terme</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3793</literal></binding>
+   <binding name="date"><literal>19711117</literal></binding>
+   <binding name="title"><literal>ANDREOTTI ed altri: Disposizioni per la circolazione dei motoveicoli di piccola cilindrata e per prevenire lo scippo</literal></binding>
+  </result>
+ </results>
+</sparql>

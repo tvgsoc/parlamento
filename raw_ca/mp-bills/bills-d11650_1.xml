@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>470</literal></binding>
+   <binding name="date"><literal>19490405</literal></binding>
+   <binding name="title"><literal>AVANZINI ed altri: Sospensione della riscossione dei contributi a favore dell&#39;Ente di previdenza avvocati e procuratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>461</literal></binding>
+   <binding name="date"><literal>19490401</literal></binding>
+   <binding name="title"><literal>BAVARO ed altri: Parificazione della Consulta Nazionale ad una legislatura del Parlamento Nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>601</literal></binding>
+   <binding name="date"><literal>19490607</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Modifiche all&#39;articolo 26 della legge 29 aprile 1949, n. 264, recante provvedimenti in materia di avviamento al lavoro e di assistenza dei lavoratori involontariamente disoccupati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>614</literal></binding>
+   <binding name="date"><literal>19490614</literal></binding>
+   <binding name="title"><literal>ROSELLI ed altri: Cessazione dei contratti di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>863</literal></binding>
+   <binding name="date"><literal>19491029</literal></binding>
+   <binding name="title"><literal>ROSELLI ed altri: Costruzioni edilizie nelle campagne</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>275</literal></binding>
+   <binding name="date"><literal>19630724</literal></binding>
+   <binding name="title"><literal>TRUZZI ed altri: Costituzione di Enti tra produttori agricoli per la tutela dei prodotti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3076</literal></binding>
+   <binding name="date"><literal>19660402</literal></binding>
+   <binding name="title"><literal>GHIO ed altri: Trattamento tributario dell&#39;Ente nazionale per l&#39;energia elettrica successivamente al 31 dicembre 1965 e provvidenze a favore degli Enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4910</literal></binding>
+   <binding name="date"><literal>19680227</literal></binding>
+   <binding name="title"><literal>PEDINI ed altri: Istituzione presso il Ministero degli affari esteri di un Ufficio e di un Consiglio nazionale per il servizio volontario nella cooperazione tecnica internazionale</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,578 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1376</literal></binding>
+   <binding name="date"><literal>19840307</literal></binding>
+   <binding name="title"><literal>AGOSTINACCHIO ed altri: Modifica dell&#39;articolo 89 del codice civile concernente il divieto temporaneo di nuove nozze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1901</literal></binding>
+   <binding name="date"><literal>19840712</literal></binding>
+   <binding name="title"><literal>AGOSTINACCHIO ed altri: Concessione della carta di libera circolazione al personale delle ferrovie dello Stato collocato a riposo in data anteriore al 1° ottobre 1978</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2916</literal></binding>
+   <binding name="date"><literal>19850527</literal></binding>
+   <binding name="title"><literal>AGOSTINACCHIO e ALPINI: Disposizioni interpretative e modifica dell&#39;articolo 8 della legge 26 maggio 1965, n. 590, relative alla prelazione ed al riscatto di fondi rustici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3014</literal></binding>
+   <binding name="date"><literal>19850704</literal></binding>
+   <binding name="title"><literal>AGOSTINACCHIO: Istituzione dell&#39;Università degli studi di Foggia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3093</literal></binding>
+   <binding name="date"><literal>19850726</literal></binding>
+   <binding name="title"><literal>AGOSTINACCHIO e PARLATO: Modifica dell&#39;articolo 732 del codice civile concernente il diritto di prelazione e di riscatto del coerede in caso di alienazione ad estranei della quota ereditaria o parte di essa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3201</literal></binding>
+   <binding name="date"><literal>19851009</literal></binding>
+   <binding name="title"><literal>AGOSTINACCHIO ed altri: Estensione alle regioni Abruzzo, Molise, Puglia, Basilicata, Campania, Calabria e Sicilia delle disposizioni di cui all&#39;articolo 1 della legge 22 agosto 1985, n. 444, concernente provvedimenti in sostegno dell&#39;occupazione mediante copertura di posti disponibili presso le pubbliche amministrazioni e gli enti locali 
+
+
+</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3218</literal></binding>
+   <binding name="date"><literal>19851010</literal></binding>
+   <binding name="title"><literal>AGOSTINACCHIO ed altri: Esonero dall&#39;obbligo del versamento dei contributi agricoli unificati in scadenza, a partire dalla rata di luglio 1958 fino a tutto il 1986</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4099</literal></binding>
+   <binding name="date"><literal>19861023</literal></binding>
+   <binding name="title"><literal>AGOSTINACCHIO ed altri: Esenzione dal pagamento dei contributi agricoli unificati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>799</literal></binding>
+   <binding name="date"><literal>19831109</literal></binding>
+   <binding name="title"><literal>AGOSTINACCHIO: Istituzione in Foggia di una sezione distaccata della corte di appello di Bari e di una sezione distaccata del tribunale per i minorenni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1548</literal></binding>
+   <binding name="date"><literal>19840406</literal></binding>
+   <binding name="title"><literal>AGOSTINACCHIO ed altri: Modifica dell&#39;articolo 26 della legge 3 maggio 1982, n. 203, concernente la decorrenza degli effetti della conversione dei contratti associativi in contratti di affitto dei fondi rustici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1031</literal></binding>
+   <binding name="date"><literal>19831217</literal></binding>
+   <binding name="title"><literal>DEL DONNO ed altri: Provvedimenti per il risanamento igienico urbanistico e per la tutela del carattere artistico, monumentale, storico e turistico della città di Bari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>108</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Riconoscimento del servizio militare prestato alle dipendenze delle forze armate della Repubblica sociale italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1125</literal></binding>
+   <binding name="date"><literal>19840113</literal></binding>
+   <binding name="title"><literal>MACERATINI ed altri: Istituzione dell&#39;Albo degli amministratori di stabili in condominio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1126</literal></binding>
+   <binding name="date"><literal>19840113</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Istituzione di una commissione d&#39;inchiesta parlamentare sulla regolarità della gestione amministrativa del comune di Napoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1132</literal></binding>
+   <binding name="date"><literal>19840117</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Modifica dell&#39;ultimo comma dell&#39;articolo 27 della Costituzione concernente l&#39;istituzione della pena di morte per gravi delitti in danno di minorenni
+</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1164</literal></binding>
+   <binding name="date"><literal>19840119</literal></binding>
+   <binding name="title"><literal>RAUTI ed altri: Modifica dell&#39;articolo 630 del codice penale concernente l&#39;aggravamento delle pene per il sequestro di persona a scopo di estorsione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1295</literal></binding>
+   <binding name="date"><literal>19840214</literal></binding>
+   <binding name="title"><literal>ALPINI ed altri: Norme per gli istituti di credito sulla capitalizzazione degli interessi su depositi a risparmio e su anticipazioni finanziarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1328</literal></binding>
+   <binding name="date"><literal>19840222</literal></binding>
+   <binding name="title"><literal>TRANTINO ed altri: Abrogazione della XII e XIII disposizione transitoria della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1357</literal></binding>
+   <binding name="date"><literal>19840301</literal></binding>
+   <binding name="title"><literal>RAUTI ed altri: Contributo dello Stato a favore dell&#39;Associazione nazionale gruppi ricerca ecologica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1378</literal></binding>
+   <binding name="date"><literal>19840308</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Norme per la concessione di un assegno mensile alle casalinghe in riconoscimento della funziona sociale ed economica del lavoro svolto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1384</literal></binding>
+   <binding name="date"><literal>19840308</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Riapertura dei termini per il collocamento a riposo dei dipendenti pubblici ex-combattenti ed assimilati ai sensi della legge 24 maggio 1970, n. 336</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1385</literal></binding>
+   <binding name="date"><literal>19840308</literal></binding>
+   <binding name="title"><literal>SOSPIRI ed altri: Norme per la tutela dell&#39;occupazione dei dipendenti degli Istituti di patronato e di assistenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1451</literal></binding>
+   <binding name="date"><literal>19840316</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Norme per il blocco, ai livelli dell&#39;anno 1983, di alcune indennità, gettoni di presenza e gratifiche corrisposti dalla pubblica amministrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1469</literal></binding>
+   <binding name="date"><literal>19840321</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Immissione straordinaria di uditori giudiziari nei ruoli della magistratura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1555</literal></binding>
+   <binding name="date"><literal>19840408</literal></binding>
+   <binding name="title"><literal>ALPINI ed altri: Norme per la deduzione dal reddito lordo, ai fini dell&#39;IRPEF, del canone di locazione corrisposto per immobili ad uso abitativo e per l&#39;esenzione dall&#39;IRPEF e dall&#39;ILOR per i proprietari che utilizzano direttamente le unità immobiliari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1556</literal></binding>
+   <binding name="date"><literal>19840408</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Costituzione di una Commissione parlamentare per il controllo delle nomine ad incarichi e funzioni di competenza del Governo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1578</literal></binding>
+   <binding name="date"><literal>19840413</literal></binding>
+   <binding name="title"><literal>RAUTI ed altri: Norme per l&#39;adeguamento dell&#39;assegno di cura degli invalidi per servizio e dei loro congiunti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1597</literal></binding>
+   <binding name="date"><literal>19840417</literal></binding>
+   <binding name="title"><literal>SERVELLO ed altri: Riforma dei servizi radiotelevisivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>16</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Elezione del Presidente della Repubblica a suffragio universale diretto. Modifica agli articoli 83, 85 e 86 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1674</literal></binding>
+   <binding name="date"><literal>19840510</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Istituzione dello schedario nazionale degli enti pubblici e privati finanziati con pubblico denaro e norme concernenti le nomine dei loro organi direttivi. Potenziamento della vigilanza dello Stato e del controllo della Corte dei conti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>17</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Modifica all&#39;articolo 77 della Costituzione in materia di decretazione d&#39;urgenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1724</literal></binding>
+   <binding name="date"><literal>19840522</literal></binding>
+   <binding name="title"><literal>RALLO ed altri: Istituzione della facoltà di scienze delle attività motorie e riforma dell&#39;insegnamento delle attività motorie nelle scuole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2169</literal></binding>
+   <binding name="date"><literal>19841018</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Istituzione di una commissione d&#39;inchiesta parlamentare sulle responsabilità politiche connesse alla liberazione dell&#39;ex assessore Ciro Cirillo sequestrato dalle brigate rosse</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2181</literal></binding>
+   <binding name="date"><literal>19841018</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Ordinamento del sistema pensionistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2186</literal></binding>
+   <binding name="date"><literal>19841023</literal></binding>
+   <binding name="title"><literal>MACERATINI ed altri: Ordinamento della professione di avvocato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2199</literal></binding>
+   <binding name="date"><literal>19841024</literal></binding>
+   <binding name="title"><literal>BOETTI VILLANIS AUDIFREDI ed altri: Nuovo ordinamento degli uffici di conciliazione. Modifiche al regio decreto 30 gennaio 1941, n. 12, concernente l&#39;ordinamento giudiziario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>234</literal></binding>
+   <binding name="date"><literal>19830721</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Istituzione di una Commissione parlamentare di inchiesta sui rapporti commerciali di società italiane e a capitale misto italiano e straniero con i paesi dell&#39;est e sui finanziamenti e tangenti di intermediazione a enti e a partiti politici italiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2403</literal></binding>
+   <binding name="date"><literal>19841219</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Provvedimenti per la proprietà della casa e il rilancio della attività edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>241</literal></binding>
+   <binding name="date"><literal>19830726</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Modifiche al decreto del Presidente della Repubblica 31 agosto 1972, n. 670, recante il testo unico delle leggi costituzionali concernenti lo Statuto speciale per la regione Trentino-Alto Adige</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2471</literal></binding>
+   <binding name="date"><literal>19850123</literal></binding>
+   <binding name="title"><literal>BERSELLI ed altri: Norme concernenti l&#39;opzione per il trattamento pensionistico di guerra da parte degli invalidi per causa di servizio delle tre armi delle Forze armate e dei Corpi militarizzati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2472</literal></binding>
+   <binding name="date"><literal>19850123</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Divieto di procedere ad assunzioni da parte dei Ministeri, degli enti pubblici, degli enti a partecipazione statale, delle unità sanitarie locali e degli enti locali nei sei mesi precedenti le elezioni amministrative, politiche ed europee</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2546</literal></binding>
+   <binding name="date"><literal>19850213</literal></binding>
+   <binding name="title"><literal>TRANTINO ed altri: Modifiche alla legge 20 settembre 1980, n. 576, concernente la previdenza forense</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>259</literal></binding>
+   <binding name="date"><literal>19830803</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Nuove norme per la promozione degli ufficiali iscritti nel ruolo d&#39;onore dei titolari di pensione con assegno di superinvalidità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>262</literal></binding>
+   <binding name="date"><literal>19830803</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Istituzione del servizio militare volontario femminile nelle Forze armate dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2653</literal></binding>
+   <binding name="date"><literal>19850308</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Norme per il coordinamento organico della legislazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2658</literal></binding>
+   <binding name="date"><literal>19850311</literal></binding>
+   <binding name="title"><literal>VALENSISE ed altri: Modificazione dell&#39;articolo 29 della legge 16 giugno 1927, n. 1766, ai fini della definizione delle controversie sugli usi civici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3028</literal></binding>
+   <binding name="date"><literal>19850711</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Istituzione della &quot;Giornata del Tricolore&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>306</literal></binding>
+   <binding name="date"><literal>19830809</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Norme sulla attività della Corte dei conti nella sua funzione di controllo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3084</literal></binding>
+   <binding name="date"><literal>19850725</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sui fatti del 19 luglio 1985 che hanno determinato la perdita di valore della lira rispetto al dollaro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3123</literal></binding>
+   <binding name="date"><literal>19850802</literal></binding>
+   <binding name="title"><literal>ALOI ed altri: Norme per la utilizzazione e la durata del servizio del personale direttivo di ruolo delle istituzioni culturali e scolastiche italiane all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>335</literal></binding>
+   <binding name="date"><literal>19830810</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Riconoscimento dei contributi versati per la mutualità scolastica ai fini della pensione di invalidità e vecchiaia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3357</literal></binding>
+   <binding name="date"><literal>19851219</literal></binding>
+   <binding name="title"><literal>TATARELLA ed altri: Integrazione e modifiche dello Statuto della Regione siciliana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3750</literal></binding>
+   <binding name="date"><literal>19860509</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Modifiche al codice di procedura civile per la semplificazione ed accelerazione del processo civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3952</literal></binding>
+   <binding name="date"><literal>19860730</literal></binding>
+   <binding name="title"><literal>PARIGI ed altri: Norme per l&#39;opzione dell&#39;assistenza sanitaria privata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4021</literal></binding>
+   <binding name="date"><literal>19861001</literal></binding>
+   <binding name="title"><literal>RUBINACCI ed altri: Modifiche al decreto del Presidente della Repubblica 29 settembre 1973, n. 597, e successive modificazioni ed integrazioni concernente l&#39;istituzione dell&#39;imposta sul reddito delle persone fisiche ed al decreto del Presidente della Repubblica 29 settembre 1973, n. 598, e successive modificazioni ed integrazioni concernente l&#39;istituzione dell&#39;imposta sul reddito delle persone giuridiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4155</literal></binding>
+   <binding name="date"><literal>19861107</literal></binding>
+   <binding name="title"><literal>TASSI ed altri: Integrazione dell&#39;articolo 437 del codice di procedura penale concernente i tempi a disposizione del difensore nella discussione finale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4168</literal></binding>
+   <binding name="date"><literal>19861112</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Modifica degli articoli 55, 56, 57, 58, 59, 60, 62 e 70 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4171</literal></binding>
+   <binding name="date"><literal>19861113</literal></binding>
+   <binding name="title"><literal>FIORI ed altri: Divieto di fumare in determinati locali e sui mezzi di trasporto pubblico e divieto di propaganda pubblicitaria di prodotti da fumo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4202</literal></binding>
+   <binding name="date"><literal>19861120</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sull&#39;illecito traffico d&#39;armi di altri paesi attraverso il territorio italiano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4210</literal></binding>
+   <binding name="date"><literal>19861126</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Interpretazione autentica delle leggi 24 maggio 1970, n. 336, e 9 ottobre 1971, n. 824</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4338</literal></binding>
+   <binding name="date"><literal>19870120</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Proroga dei termini per lo scioglimento dell&#39;Ente nazionale di previdenza ed assistenza per le ostetriche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4360</literal></binding>
+   <binding name="date"><literal>19870122</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Riordinamento delle strutture universitarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4389</literal></binding>
+   <binding name="date"><literal>19870129</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per la detassazione postale della corrispondenza diretta ai parlamentari della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4437</literal></binding>
+   <binding name="date"><literal>19870211</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Collocamento anticipato a riposo dei dipendenti della cessata Cassa per il mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4585</literal></binding>
+   <binding name="date"><literal>19870407</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione del Fondo di solidarietà per le future madri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4632</literal></binding>
+   <binding name="date"><literal>19870422</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Nuove norme in materia di indizione delle consultazioni elettorali per i referendum e per le elezioni amministrative</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>49</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Norme per l&#39;esercizio del diritto di voto dei cittadini italiani all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>50</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Tutela dei lavoratori italiani dipendenti da imprese private italiane operanti all&#39;estero oppure con partecipazione di capitale statale italiano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>501</literal></binding>
+   <binding name="date"><literal>19830921</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Attribuzione di una promozione onorifica agli ufficiali, sottufficiali e militari di truppa che hanno partecipato al secondo conflitto mondiale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>502</literal></binding>
+   <binding name="date"><literal>19830921</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Istituzione della onorificenza dell&#39;Ordine dei Cavalieri della Patria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>52</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Estensione del trattamento di pensione sociale ai cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>53</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Applicazione del codice penale militare di guerra ai reati commessi con azioni di guerriglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>542</literal></binding>
+   <binding name="date"><literal>19830927</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Norme per la lotta alla droga e per la riabilitazione sociale e civile dei tossicodipendenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>56</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Modifiche al testo unico della legge comunale e provinciale approvato con regio decreto 3 marzo 1934, n. 383, e successive modificazioni, riguardanti l&#39;elezione popolare diretta del sindaco e del presidente della provincia, la nomina della giunta comunale e provinciale e l&#39;integrazione del consiglio comunale e provinciale con la rappresentanza delle categorie morali, economiche e sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>57</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Abolizione del servizio obbligatorio di leva e istituzione del servizio militare volontario. Trasformazione delle Forze armate in esercito professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>585</literal></binding>
+   <binding name="date"><literal>19831003</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Attribuzione ai direttori di divisione della qualifica superiore in sede di applicazione della legge 24 maggio 1970, n. 336, concernente norme a favore dei dipendenti civili dello Stato e degli enti pubblici ex combattenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>586</literal></binding>
+   <binding name="date"><literal>19831003</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Interpretazione autentica dell&#39;articolo 3 della legge 24 maggio 1970, n. 336, e dell&#39;articolo 4 della legge 9 ottobre 1971, n. 824, concernente il calcolo delle indennità di anzianità a favore degli ex combattenti dipendenti da enti pubblici economici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>60</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Istituzione a Trieste dell&#39;area agevolata del confine orientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>609</literal></binding>
+   <binding name="date"><literal>19831006</literal></binding>
+   <binding name="title"><literal>MACERATINI ed altri: Modifiche al codice di procedura penale in materia di arresti domiciliari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>836</literal></binding>
+   <binding name="date"><literal>19831114</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Norme per il funzionamento delle Commissioni parlamentari d&#39;inchiesta costituite con legge</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>963</literal></binding>
+   <binding name="date"><literal>19831201</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Abrogazione delle norme sulla libertà provvisoria e sulla liberazione condizionale contenute nella legge 29 maggio 1982, n. 304, concernente misure per la difesa dell&#39;ordinamento costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>111</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Modifica del secondo comma dell&#39;articolo 68 e dell&#39;articolo 96 della Costituzione e modifica degli articoli 12, 13, 14 e 15 della legge costituzionale 11 marzo 1953, n. 1</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1165</literal></binding>
+   <binding name="date"><literal>19840119</literal></binding>
+   <binding name="title"><literal>BAGHINO ed altri: Modifiche ed integrazioni alle disposizioni vigenti in materia di trattamento giuridico ed economico per i titolari del diritto alla pensione di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1312</literal></binding>
+   <binding name="date"><literal>19840216</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Tutela dei benefici combattentistici già attribuiti con le leggi 24 maggio 1970, n. 336, e 10 settembre 1971, n. 824</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2076</literal></binding>
+   <binding name="date"><literal>19840924</literal></binding>
+   <binding name="title"><literal>MACERATINI ed altri: Modifiche agli articoli 5 e 6 del regio decreto 27 novembre 1933, n. 1578, in materia di esercizio professionale da parte dei procuratori legali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>304</literal></binding>
+   <binding name="date"><literal>19830809</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Attribuzione ai dipendenti dei Corpi di polizia municipale della indennità speciale di pubblica sicurezza di cui alla legge 23 dicembre 1970, n. 1054</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3150</literal></binding>
+   <binding name="date"><literal>19850919</literal></binding>
+   <binding name="title"><literal>RUBINACCI ed altri: Modifiche al decreto del Presidente della Repubblica 29 settembre 1973, n. 597, e successive modificazioni ed integrazioni, concernente la istituzione dell&#39;imposta sul reddito delle persone fisiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>463</literal></binding>
+   <binding name="date"><literal>19830915</literal></binding>
+   <binding name="title"><literal>MACERATINI ed altri: Modifiche alle norme sulla competenza del pretore e del conciliatore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>464</literal></binding>
+   <binding name="date"><literal>19830916</literal></binding>
+   <binding name="title"><literal>TRANTINO ed altri: Norme concernenti la durata massima della custodia preventiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>51</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Censimento generale degli italiani all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>584</literal></binding>
+   <binding name="date"><literal>19831003</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Applicazione ed estensione della legge 24 maggio 1970, n. 336, e successive modificazioni, recante benefici per gli ex combattenti ed assimilati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>784</literal></binding>
+   <binding name="date"><literal>19831107</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Nuovo intervento straordinario nel Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>837</literal></binding>
+   <binding name="date"><literal>19831114</literal></binding>
+   <binding name="title"><literal>MACALUSO ed altri: Norme concernenti la tutela del vino Marsala</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>990</literal></binding>
+   <binding name="date"><literal>19831212</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Norme per il ripristino della festività del 4 novembre</literal></binding>
+  </result>
+ </results>
+</sparql>

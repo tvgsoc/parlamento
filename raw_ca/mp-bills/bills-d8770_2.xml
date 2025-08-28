@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1362</literal></binding>
+   <binding name="date"><literal>19541222</literal></binding>
+   <binding name="title"><literal>JACOMETTI e PIERACCINI: Nuovo ordinamento dell&#39;Ente nazionale assistenza lavoratori (E.N.A.L.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3239</literal></binding>
+   <binding name="date"><literal>19571021</literal></binding>
+   <binding name="title"><literal>JACOMETTI ed altri: Modifiche ad alcune norme del regio decreto 18 giugno 1931, n. 773, che approva il testo unico delle leggi di pubblica sicurezza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1</literal></binding>
+   <binding name="date"><literal>19530625</literal></binding>
+   <binding name="title"><literal>NENNI ed altri: Abrogazione della legge 31 marzo 1953, n. 148, punti dal I al IV</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1399</literal></binding>
+   <binding name="date"><literal>19550119</literal></binding>
+   <binding name="title"><literal>CERRETI ed altri: Inchiesta parlamentare sui finanziamenti effettuati dall&#39;Amministrazione dello Stato a enti, società, cooperative e privati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1953</literal></binding>
+   <binding name="date"><literal>19551215</literal></binding>
+   <binding name="title"><literal>NENNI ed altri: Abrogazione dell&#39;articolo 31 del testo unico 5 aprile 1951, n. 203, e delle norme ad esso correlative sul collegamento delle liste e sul premio di maggioranza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2604</literal></binding>
+   <binding name="date"><literal>19561207</literal></binding>
+   <binding name="title"><literal>BETTOLI ed altri: Istituzione della provincia di Pordenone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2675</literal></binding>
+   <binding name="date"><literal>19580124</literal></binding>
+   <binding name="title"><literal>GRILLI ed altri: Riforma dell&#39;Istituto cotoniero italiano e sviluppo dell&#39;industria cotoniera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3080</literal></binding>
+   <binding name="date"><literal>19570720</literal></binding>
+   <binding name="title"><literal>BASSO ed altri: Provvedimenti per gli obiettori di coscienza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>394</literal></binding>
+   <binding name="date"><literal>19531124</literal></binding>
+   <binding name="title"><literal>LUZZATTO ed altri: Adeguamento della legge di pubblica sicurezza alle norme della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>45</literal></binding>
+   <binding name="date"><literal>19530727</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Assistenza di malattia per i coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>662</literal></binding>
+   <binding name="date"><literal>19540302</literal></binding>
+   <binding name="title"><literal>AUDISIO ed altri: Difesa contro la grandine</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>801</literal></binding>
+   <binding name="date"><literal>19540410</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Sull&#39;assicurazione invalidità, vecchiaia e superstiti, e tubercolosi, in favore dei coltivatori diretti</literal></binding>
+  </result>
+ </results>
+</sparql>

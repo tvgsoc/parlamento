@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>128</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CORLEONE ed altri: Norme per la legalizzazione dei derivati della cannabis indica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>173</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: Norme per la tutela e lo sviluppo dei soggetti in età evolutiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>173-bis</literal></binding>
+   <binding name="date"><literal>19971118</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: Norme per la tutela e lo sviluppo dei soggetti in età evolutiva (stralcio degli articoli da 1 a 38; da 52 a 68; da 70 a 89; da 114 a 126 C.173)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>173-ter</literal></binding>
+   <binding name="date"><literal>19971118</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: Disposizioni in materia di responsabilità genitoriale, affidamento del minore e tribunale per i minorenni (stralcio degli articoli da 39 a 51; 69; da 90 a 113; C.173)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>417</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: Piano nazionale d&#39;azione per l&#39;infanzia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>417-B</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: Istituzione della Commissione parlamentare per l&#39;infanzia e dell&#39;Osservatorio nazionale per l&#39;infanzia (approvata dalla XII Commissione permanente della Camera e modificata dalla I Commissione permanente del Senato (S. 1912)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>619</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>VIGNERI ed altri: Istituzione del difensore civico nazionale</literal></binding>
+  </result>
+ </results>
+</sparql>

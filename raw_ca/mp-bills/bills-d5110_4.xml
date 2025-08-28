@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>583</literal></binding>
+   <binding name="date"><literal>19631012</literal></binding>
+   <binding name="title"><literal>ROMITA ed altri: Istituzione di un fondo per il risarcimento dei danni alle colture agricole dovuti a calamità naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>338</literal></binding>
+   <binding name="date"><literal>19630726</literal></binding>
+   <binding name="title"><literal>SARTI ed altri: Autorizzazione di spesa per la ricostruzione della linea ferroviaria Cuneo-Breil sur Roya-Ventimiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>601</literal></binding>
+   <binding name="date"><literal>19631016</literal></binding>
+   <binding name="title"><literal>SARAGAT ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sul disastro della diga del Vajont</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>234</literal></binding>
+   <binding name="date"><literal>19630718</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Nuovi provvedimenti per le aree depresse dell&#39;Italia centrale e settentrionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>534</literal></binding>
+   <binding name="date"><literal>19631005</literal></binding>
+   <binding name="title"><literal>SCALIA ed altri: Istituzione dell&#39;assicurazione obbligatoria invalidità, vecchiaia e superstiti a favore degli agenti e rappresentanti di commercio</literal></binding>
+  </result>
+ </results>
+</sparql>

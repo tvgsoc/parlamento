@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1949</literal></binding>
+   <binding name="date"><literal>19730329</literal></binding>
+   <binding name="title"><literal>ACCREMAN: Istituzione della Corte d&#39;assise di Rimini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1711</literal></binding>
+   <binding name="date"><literal>19730222</literal></binding>
+   <binding name="title"><literal>SPAGNOLI ed altri: Abrogazione di norme del codice penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2629</literal></binding>
+   <binding name="date"><literal>19731220</literal></binding>
+   <binding name="title"><literal>NICCOLI ed altri: Istituzione dei Centri per il commercio con l&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3474</literal></binding>
+   <binding name="date"><literal>19750214</literal></binding>
+   <binding name="title"><literal>FABBRI SERONI ed altri: Norme per la regolamentazione della interruzione volontaria di gravidanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1497</literal></binding>
+   <binding name="date"><literal>19730119</literal></binding>
+   <binding name="title"><literal>ASSANTE ed altri: Norme per la salvaguardia della libertà e della segretezza delle comunicazioni telefoniche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3024</literal></binding>
+   <binding name="date"><literal>19740606</literal></binding>
+   <binding name="title"><literal>SPAGNOLI ed altri: Riforma del sistema elettorale e della composizione del Consiglio superiore della magistratura</literal></binding>
+  </result>
+ </results>
+</sparql>

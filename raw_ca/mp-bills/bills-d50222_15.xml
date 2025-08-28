@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2334</literal></binding>
+   <binding name="date"><literal>20070308</literal></binding>
+   <binding name="title"><literal>NICOLA COSENTINO: &quot;Istituzione del Museo della mozzarella&quot; (2334)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1869</literal></binding>
+   <binding name="date"><literal>20061030</literal></binding>
+   <binding name="title"><literal>BRUSCO ed altri: &quot;Modifica all&#39;articolo 33 della legge 6 dicembre 1971, n. 1034, in materia di giudizio di ottemperanza per l&#39;esecuzione delle decisioni dei ricorsi straordinari al Presidente della Repubblica&quot; (1869)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2924</literal></binding>
+   <binding name="date"><literal>20070724</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: &quot;Destinazione di una quota del 5 per mille dell&#39;imposta sul reddito delle persone fisiche al finanziamento di attività e di interventi di tutela ambientale&quot; (2924)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2925</literal></binding>
+   <binding name="date"><literal>20070724</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: &quot;Disposizioni per l&#39;esercizio di una nuova rete di servizi universali a vantaggio dei cittadini da parte della società Poste italiane Spa&quot; (2925)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2985</literal></binding>
+   <binding name="date"><literal>20070801</literal></binding>
+   <binding name="title"><literal>FASOLINO ed altri: &quot;Disposizioni per il recupero e la riqualificazione dei centri urbani di Torre di Mare, Licinella, Santa Venere e Paestum&quot; (2985)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3105</literal></binding>
+   <binding name="date"><literal>20071003</literal></binding>
+   <binding name="title"><literal>SUPPA ed altri: &quot;Istituzione dell&#39;università degli studi di Caserta mediante la trasformazione della seconda università degli studi di Napoli&quot; (3105)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>41</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>PAOLO RUSSO ed altri: &quot;Istituzione della provincia Nolana&quot; (41)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1442</literal></binding>
+   <binding name="date"><literal>20060724</literal></binding>
+   <binding name="title"><literal>LAURINI ed altri: &quot;Riforma della disciplina delle professioni intellettuali&quot; (1442)</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2003</literal></binding>
+   <binding name="date"><literal>20140127</literal></binding>
+   <binding name="title"><literal>ROSSI: &quot;Estensione dell&#39;applicazione dell&#39;articolo 1076 del codice dell&#39;ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, in materia di promozione degli ufficiali delle Forze armate in particolari situazioni&quot; (2003)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2035</literal></binding>
+   <binding name="date"><literal>20140203</literal></binding>
+   <binding name="title"><literal>ROSSI: &quot;Disposizioni per la concessione di una promozione agli ufficiali provenienti dai corsi allievi ufficiali di complemento&quot; (2035)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1950</literal></binding>
+   <binding name="date"><literal>20140114</literal></binding>
+   <binding name="title"><literal>SBERNA ed altri: &quot;Istituzione della Giornata nazionale della famiglia&quot; (1950)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2019</literal></binding>
+   <binding name="date"><literal>20140130</literal></binding>
+   <binding name="title"><literal>SANTERINI ed altri: &quot;Istituzione della Giornata in memoria dei Giusti dell&#39;umanità&quot; (2019)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1165</literal></binding>
+   <binding name="date"><literal>20130606</literal></binding>
+   <binding name="title"><literal>DAMBRUOSO ed altri: &quot;Modifiche alla legge 8 febbraio 1948, n. 47, al testo unico di cui al decreto legislativo 31 luglio 2005, n. 177, e al codice penale, in materia di reati commessi con il mezzo della stampa o delle trasmissioni radiotelevisive o con altri mezzi di diffusione, nonché di diffamazione e di ingiuria&quot; (1165)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1317</literal></binding>
+   <binding name="date"><literal>20130705</literal></binding>
+   <binding name="title"><literal>NISSOLI ed altri: &quot;Disposizioni per l&#39;organizzazione e il funzionamento del Museo nazionale dell&#39;emigrazione italiana&quot; (1317)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1418</literal></binding>
+   <binding name="date"><literal>20130725</literal></binding>
+   <binding name="title"><literal>MAZZIOTTI DI CELSO ed altri: &quot;Modifiche al codice di procedura civile per l&#39;accelerazione dei procedimenti civili&quot; (1418)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1780</literal></binding>
+   <binding name="date"><literal>20131107</literal></binding>
+   <binding name="title"><literal>MONCHIERO ed altri: &quot;Disposizioni per l&#39;accesso alla psicoterapia&quot; (1780)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1783</literal></binding>
+   <binding name="date"><literal>20131108</literal></binding>
+   <binding name="title"><literal>VEZZALI ed altri: &quot;Disposizioni concernenti l&#39;obbligatorietà dei controlli medici per il rilascio del certificato di idoneità all&#39;attività sportiva&quot; (1783)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>654</literal></binding>
+   <binding name="date"><literal>20130404</literal></binding>
+   <binding name="title"><literal>CARUSO: &quot;Istituzione della Giornata nazionale della consapevolezza sulla morte perinatale&quot; (654)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>854</literal></binding>
+   <binding name="date"><literal>20130429</literal></binding>
+   <binding name="title"><literal>TINAGLI ed altri: &quot;Disciplina del contratto aziendale di sperimentazione nonché agevolazioni fiscali e contributive per l&#39;incremento dell&#39;occupazione e il superamento del dualismo del mercato del lavoro&quot; (854)</literal></binding>
+  </result>
+ </results>
+</sparql>

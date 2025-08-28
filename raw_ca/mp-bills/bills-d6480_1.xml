@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1055</literal></binding>
+   <binding name="date"><literal>19500131</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Inchiesta parlamentare sui fatti di Modena</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1325</literal></binding>
+   <binding name="date"><literal>19500601</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Sulle incompatibilità parlamentari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>153</literal></binding>
+   <binding name="date"><literal>19481029</literal></binding>
+   <binding name="title"><literal>ARIOSTO ed altri: Istituzione del Ministero dell&#39;assistenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2360</literal></binding>
+   <binding name="date"><literal>19511129</literal></binding>
+   <binding name="title"><literal>GIAVI ed altri: Istituzione dell&#39;Alto Commissariato per la ricostruzione delle zone alluvionate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2645</literal></binding>
+   <binding name="date"><literal>19520407</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Concessione di un assegno vitalizio di assistenza ai ciechi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2931</literal></binding>
+   <binding name="date"><literal>19521008</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Interpretazione autentica dell&#39;articolo 2108 del Codice civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>932</literal></binding>
+   <binding name="date"><literal>19491130</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Norme per la concessione delle pertinenze idrauliche demaniali</literal></binding>
+  </result>
+ </results>
+</sparql>

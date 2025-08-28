@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>208</literal></binding>
+   <binding name="date"><literal>19531001</literal></binding>
+   <binding name="title"><literal>SCAGLIA e FRANCESCHINI: Aumento del contributo per il finanziamento dei Centri didattici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>531</literal></binding>
+   <binding name="date"><literal>19531219</literal></binding>
+   <binding name="title"><literal>L&#39;ELTORE ed altri: Devoluzione a favore dei Consorzi provinciali antitubercolari di una quota parte dei residui attivi della gestione dell&#39;assicurazione obbligatoria contro la tubercolosi</literal></binding>
+  </result>
+ </results>
+</sparql>

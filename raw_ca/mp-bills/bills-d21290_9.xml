@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1198</literal></binding>
+   <binding name="date"><literal>19840126</literal></binding>
+   <binding name="title"><literal>LODIGIANI ed altri: Istituzione della provincia di Lodi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1876</literal></binding>
+   <binding name="date"><literal>19840705</literal></binding>
+   <binding name="title"><literal>ROCELLI ed altri: Nuovi interventi per la salvaguardia di Venezia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3049</literal></binding>
+   <binding name="date"><literal>19850718</literal></binding>
+   <binding name="title"><literal>SPINI ed altri: Modifiche ed integrazioni all&#39;ordinamento del Ministero degli affari esteri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>709</literal></binding>
+   <binding name="date"><literal>19831025</literal></binding>
+   <binding name="title"><literal>SANGALLI ed altri: Modifiche alla legge 5 maggio 1976, n. 324, concernente nuove norme in materia di diritti per l&#39;uso degli aeroporti aperti al traffico aereo civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>710</literal></binding>
+   <binding name="date"><literal>19831025</literal></binding>
+   <binding name="title"><literal>SANGALLI ed altri: Ulteriore proroga dei termini di cui alla legge 8 maggio 1971, n. 420, relativa al sistema aeroportuale di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>631</literal></binding>
+   <binding name="date"><literal>19831011</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Istituzione dei Comitati consolari elettivi dell&#39;emigrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>708</literal></binding>
+   <binding name="date"><literal>19831025</literal></binding>
+   <binding name="title"><literal>SANGALLI ed altri: Proroga del termine previsto dall&#39;articolo 42 della legge 23 dicembre 1980, n. 930, concernente norme sui servizi antincendi negli aeroporti</literal></binding>
+  </result>
+ </results>
+</sparql>

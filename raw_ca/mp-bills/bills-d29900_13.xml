@@ -1,0 +1,808 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>118</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>LORENZETTI PASQUALE ed altri: Norme per la vendita a prezzo fisso dei libri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>119</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>LORENZETTI PASQUALE: Norme per la riapertura dei termini per l&#39;iscrizione nel registro dei revisori contabili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>120</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>LORENZETTI PASQUALE ed altri: Interpretazione autentica del comma 4 dell&#39;articolo 14 della legge 4 luglio 1967, n. 580, in materia di confenzionamento del pane precotto surgelato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>121</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>LORENZETTI PASQUALE: Modifiche al decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, in materia di imposta sugli spettacoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1425</literal></binding>
+   <binding name="date"><literal>19960605</literal></binding>
+   <binding name="title"><literal>LORENZETTI PASQUALE ed altri: Estensione al Monumento-Sacrario ai 51 martiri di Leonessa (Rieti) delle disposizioni e delle provvidenze per i cimiteri di guerra di cui alla legge 9 gennaio 1951, n. 204</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>210</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>LORENZETTI PASQUALE ed altri: Legge quadro in materia di lavori pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2418</literal></binding>
+   <binding name="date"><literal>19961004</literal></binding>
+   <binding name="title"><literal>LORENZETTI PASQUALE ed altri: Modifiche all&#39;articolo 2 della legge 2 febbraio 1990, n. 17, in materia di equiparazione del diploma di maturità professionale per tecnico delle industrie meccaniche, elettriche, elettroniche e chimiche al diploma di perito industriale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4573</literal></binding>
+   <binding name="date"><literal>19980218</literal></binding>
+   <binding name="title"><literal>LORENZETTI PASQUALE ed altri: Modifiche all&#39;articolo 141 del decreto legislativo 30 aprile 1992, n. 285(Nuovo codice della strada) in materia di competizioni in velocità tra autoveicoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5939</literal></binding>
+   <binding name="date"><literal>19990421</literal></binding>
+   <binding name="title"><literal>LORENZETTI PASQUALE ed altri: Proroga del termine per la presentazione del modello unico di dichiarazione ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1152</literal></binding>
+   <binding name="date"><literal>19960523</literal></binding>
+   <binding name="title"><literal>DUCA ed altri: Norme per la prevenzione dei rischi derivanti dalla presenza di amianto ocomponenti contenenti amianto nei veicoli e nei mezzi di trasporto terrestri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1216</literal></binding>
+   <binding name="date"><literal>19960524</literal></binding>
+   <binding name="title"><literal>GALLETTI ed altri: Norme per il finanziamento di interventi in favore della mobilità ciclistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>128</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CORLEONE ed altri: Norme per la legalizzazione dei derivati della cannabis indica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1332</literal></binding>
+   <binding name="date"><literal>19960530</literal></binding>
+   <binding name="title"><literal>VOZZA ed altri: Norme per il riordino della GEPI Spa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1385</literal></binding>
+   <binding name="date"><literal>19960604</literal></binding>
+   <binding name="title"><literal>VOZZA ed altri: Nuove norme per la promozione regionale dell&#39;imprenditorialità giovanile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1441</literal></binding>
+   <binding name="date"><literal>19960606</literal></binding>
+   <binding name="title"><literal>PAISSAN ed altri: Modifica all&#39;articolo 3 della legge 25 febbraio 1987, n. 67, in materia di concentrazioni di proprietà in ambito regionale nel settore dei giornali quotidiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1522</literal></binding>
+   <binding name="date"><literal>19960614</literal></binding>
+   <binding name="title"><literal>DI ROSA ed altri: Interpretazione autentica del comma 2 dell&#39;articolo 8 della legge 11 agosto 1991, n. 266, in materia di esenzione dall&#39;IVA delle operazioni effettuate dalle associazioni di volontariato senza fini di lucro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1664</literal></binding>
+   <binding name="date"><literal>19960626</literal></binding>
+   <binding name="title"><literal>DI STASI ed altri: Modifiche alla legge 24 gennaio 1979, n. 18, recante norme per l&#39;elezionedei rappresentanti dell&#39;Italia al Parlamento europeo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1680</literal></binding>
+   <binding name="date"><literal>19960627</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Norme per l&#39;estensione del diritto all&#39;astensione obbligatoria dal lavoroe all&#39;indennita&#39;di maternità per le lavoratrici assunte con contratto a tempo determinato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>173</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: Norme per la tutela e lo sviluppo dei soggetti in età evolutiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>173-bis</literal></binding>
+   <binding name="date"><literal>19971118</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: Norme per la tutela e lo sviluppo dei soggetti in età evolutiva (stralcio degli articoli da 1 a 38; da 52 a 68; da 70 a 89; da 114 a 126 C.173)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>173-ter</literal></binding>
+   <binding name="date"><literal>19971118</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: Disposizioni in materia di responsabilità genitoriale, affidamento del minore e tribunale per i minorenni (stralcio degli articoli da 39 a 51; 69; da 90 a 113; C.173)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>174</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO e LORENZETTI PASQUALE: Norme per il risparmio energetico e per la lotta all&#39;inquinamento luminoso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>175</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: Interventi per la tutela e la valorizzazione dei laghi salmastri di Portonovo (Ancona)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>176</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO e LORENZETTI PASQUALE: Norme per l&#39;esenzione dal pagamento della tassa speciale per le autovetture e gli autoveicoli alimentati a GPL e a gas metano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1764</literal></binding>
+   <binding name="date"><literal>19960703</literal></binding>
+   <binding name="title"><literal>PITTELLA ed altri: Disposizioni per la nomina di disoccupati e componenti di seggio elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>177</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO e LORENZETTI PASQUALE: Istituzione del Fondo per lo sviluppo del trasporto pubblico e della mobilità di massa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>178</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO e LORENZETTI PASQUALE: Istituzione del difensore civico per l&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>179</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO e LORENZETTI PASQUALE: Legge quadro in materia di cave e torbiere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>180</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO e LORENZETTI PASQUALE: Disciplina dell&#39;obbligo di dichiarazione delle sostanze inquinanti e norme in materia di accesso alle relative informazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>181</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO e LORENZETTI PASQUALE: Modifica dell&#39;articolo 18 della legge 8 luglio 1986, n. 349, concernente l&#39;individuazione del danno pubblico ambientale, l&#39;azione di risarcimento, i poteri della Corte dei conti e della magistratura ordinaria e la costituzione di parte civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>184</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO e LORENZETTI PASQUALE: Trasferimento del Corpo forestale dello Stato presso il Ministero dell&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>185</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO e LORENZETTI PASQUALE: Istituzione dell&#39;albo professionale dei dottori naturalisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1883</literal></binding>
+   <binding name="date"><literal>19960716</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Norme per la concessione di una indennità di integrazione salariale ai lavoratori dipendenti da imprese con attività sospesa o ridotta a causa di eventi calamitosi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1938</literal></binding>
+   <binding name="date"><literal>19960722</literal></binding>
+   <binding name="title"><literal>MUSSI ed altri: Norme per modulare i tempi della vita, ridurre la durata del lavoro, affermare il diritto al tempo scelto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1938-bis</literal></binding>
+   <binding name="date"><literal>19980610</literal></binding>
+   <binding name="title"><literal>MUSSI ed altri: Norme per riorganizzare e ridurre la durata del lavoro ed affermare il diritto al tempo scelto (testo risultante dallo stralcio degli articoli da 37 a 51; C1938)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1938-ter</literal></binding>
+   <binding name="date"><literal>19980610</literal></binding>
+   <binding name="title"><literal>MUSSI ed altri: Norme per modulare i tempi della vita e per affermare il diritto al tempodella cura e delle responsabilità familiari (stralcio degli articoli da 37 a 51; C1938)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1938-ter-B</literal></binding>
+   <binding name="date"><literal>19980610</literal></binding>
+   <binding name="title"><literal>MUSSI ed altri: Disposizioni per il sostegno della maternità e della paternità, per il diritto alla cura e alla formazione e per il coordinamento dei tempi delle città (approvato, in un testo unificato, dalla Camera e modificato dal Senato (S. 4275)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>200</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>GERARDINI e LORENZETTI PASQUALE: Norme in materia di smaltimento dei rifiuti sanitari a rischio infettivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>201</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>GERARDINI e LORENZETTI PASQUALE: Istituzione di una casa da gioco nel comune di Giulianova e norme in materia di esercizio delle case da gioco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>203</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>GERARDINI e LORENZETTI PASQUALE: Norme in materia di smaltimento di oli e grassi vegetali e di grassi animali esausti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>205</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>GERARDINI e LORENZETTI PASQUALE: Norme in materia di commercializzazione di pile e accumulatori contenentisostanze pericolose</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>208</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>GERARDINI e LORENZETTI PASQUALE: Norme per l&#39;affidamento in concessione dei tratti autostradali Roma-L&#39;Aquila-Teramo e Torano-Pescara</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2112</literal></binding>
+   <binding name="date"><literal>19960802</literal></binding>
+   <binding name="title"><literal>GIANNOTTI ed altri: Disciplina per le attività trasfusionali relative al sangue umano ed ai suoi componenti e per la produzione di plasmaderivati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>218</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>DE SIMONE ed altri: Norme sull&#39;informazione e sull&#39;educazione sessuale nelle scuole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2180</literal></binding>
+   <binding name="date"><literal>19960904</literal></binding>
+   <binding name="title"><literal>SETTIMI ed altri: Obbligo di installazione di valvole automatiche per la chiusura degli impianti a gas</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2207</literal></binding>
+   <binding name="date"><literal>19960911</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Ciclo di vita, orario di lavoro, tempo nelle città</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2207-bis</literal></binding>
+   <binding name="date"><literal>19980610</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Tempi di vita e tempi nella città (testo risultante dallo stralcio degliarticoli da 17 a 24; C2207)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2207-bis-B</literal></binding>
+   <binding name="date"><literal>19980610</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Disposizioni per il sostegno della maternità e della paternità, per il diritto alla cura e alla formazione e per il coordinamento dei tempi delle città (approvato, in un testo unificato, dalla Camera e modificato dal Senato (S. 4275)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2207-ter</literal></binding>
+   <binding name="date"><literal>19980610</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Norme in materia di orario di lavoro (stralcio degli articoli da 17 a 24;C2207)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2208</literal></binding>
+   <binding name="date"><literal>19960911</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Norme per cambiare i tempi delle città</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2208-B</literal></binding>
+   <binding name="date"><literal>19960911</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Disposizioni per il sostegno della maternità e della paternità, per il diritto alla cura e alla formazione e per il coordinamento dei tempi delle città (approvato, in un testo unificato, dalla Camera e modificato dal Senato (S. 4275)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2209</literal></binding>
+   <binding name="date"><literal>19960911</literal></binding>
+   <binding name="title"><literal>DEBIASIO CALIMANI ed altri: Norme per il reperimento di aree da destinare all&#39;edilizia residenziale pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>235</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CAMOIRANO e LORENZETTI PASQUALE: Delega al Governo per l&#39;emanazione di norme in materia di interventi conseguenti a danni provocati da calamità naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2408</literal></binding>
+   <binding name="date"><literal>19961003</literal></binding>
+   <binding name="title"><literal>MUSSI ed altri: Disposizioni in materia di termini per la documentazione delle spese elettorali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>252</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>VIGNI e LORENZETTI PASQUALE: Norme per la tutela dei caratteri ambientali, architettonici e artistici della città di Siena</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>253</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>VIGNI ed altri: Norme per la tutela delle &quot;città d&#39;arte&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>254</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BARTOLICH ed altri: Norme in materia di parcheggi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2540</literal></binding>
+   <binding name="date"><literal>19961023</literal></binding>
+   <binding name="title"><literal>DE SIMONE ed altri: Modifiche al regio decreto 9 luglio 1939, n. 1238, in materia di disciplina degli atti di nascita</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>255</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BARTOLICH ed altri: Norme in materia di ricorsi alla Commissione centrale per gli esercenti le professioni sanitarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>256</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BARTOLICH ed altri: Modifica dell&#39;articolo 338 del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265, in materia di collocamento delle strutture cimiteriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2567</literal></binding>
+   <binding name="date"><literal>19961028</literal></binding>
+   <binding name="title"><literal>DE SIMONE ed altri: Norme per tutelare e promuovere il parto a domicilio e valorizzare la nascita</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2592</literal></binding>
+   <binding name="date"><literal>19961030</literal></binding>
+   <binding name="title"><literal>PETRELLA ed altri: Istituzione dell&#39;Autorità garante per il trattamento terapeutico delle malattie mentali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2677</literal></binding>
+   <binding name="date"><literal>19961111</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Disciplina del turismo rurale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2696</literal></binding>
+   <binding name="date"><literal>19961113</literal></binding>
+   <binding name="title"><literal>SCHMID ed altri: Modifica all&#39;articolo 4 della legge 30 dicembre 1971, n. 1204, in materiadi tutela delle lavoratrici madri di figli nati molto prematuri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2696-B</literal></binding>
+   <binding name="date"><literal>19961113</literal></binding>
+   <binding name="title"><literal>SCHMID ed altri: Disposizioni per il sostegno della maternità e della paternità, per il diritto alla cura e alla formazione e per il coordinamento dei tempi delle città (approvato, in un testo unificato, dalla Camera e modificato dal Senato (S. 4275)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2726</literal></binding>
+   <binding name="date"><literal>19961119</literal></binding>
+   <binding name="title"><literal>CHIAVACCI ed altri: Istituzione del servizio civile nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2734</literal></binding>
+   <binding name="date"><literal>19961120</literal></binding>
+   <binding name="title"><literal>MANGIACAVALLO ed altri: Norme per la sicurezza negli incontri di pugilato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>277</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>JERVOLINO RUSSO ed altri: Concessione di un contributo annuo dello Stato in favore dell&#39;ente morale&quot;Lega del Filo d&#39;Oro&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2779</literal></binding>
+   <binding name="date"><literal>19961127</literal></binding>
+   <binding name="title"><literal>VOZZA ed altri: Modifiche all&#39;articolo 68 del testo unico approvato con regio decreto 2 gennaio 1913, n. 453, e all&#39;articolo 1 della legge 28 dicembre 1995, n. 549, in materia di soggetti autorizzati ad accedere ai mutui della Cassa depositi e prestiti e di disciplina del Fondo per la progettualità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2803</literal></binding>
+   <binding name="date"><literal>19961129</literal></binding>
+   <binding name="title"><literal>DEDONI ed altri: Norme per lo sviluppo e la qualificazione degli asili nido</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2804</literal></binding>
+   <binding name="date"><literal>19961129</literal></binding>
+   <binding name="title"><literal>LABATE ed altri: Disciplina del mercato dell&#39;oro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2805</literal></binding>
+   <binding name="date"><literal>19961129</literal></binding>
+   <binding name="title"><literal>LABATE ed altri: Istituzione dell&#39;Agenzia italiana della proprietà industriale (AIPI)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2814</literal></binding>
+   <binding name="date"><literal>19961203</literal></binding>
+   <binding name="title"><literal>MANGIACAVALLO ed altri: Abolizione degli esami di idoneità nazionale all&#39;esercizio delle funzionidi direzione e nuove norme per l&#39;esercizio delle funzioni di direzione sanitaria ed amministrativa delle unità sanitarie locali e delle aziende ospedaliere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>282</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>JERVOLINO RUSSO ed altri: Norme per il sostegno e la promozione di progetti speciali per l&#39;assistenza a domicilio dei malati terminali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2863</literal></binding>
+   <binding name="date"><literal>19961210</literal></binding>
+   <binding name="title"><literal>PEZZONI ed altri: Norme per l&#39;esercizio del diritto di voto dei cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2960</literal></binding>
+   <binding name="date"><literal>19970110</literal></binding>
+   <binding name="title"><literal>GALLETTI ed altri: Modifica dell&#39;articolo 7 del decreto legislativo 17 marzo 1995, n. 185, in materia di commercializzazione dei prodotti omeopatici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2994</literal></binding>
+   <binding name="date"><literal>19970117</literal></binding>
+   <binding name="title"><literal>AGOSTINI ed altri: Istituzione del &quot;risparmio casa&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3159</literal></binding>
+   <binding name="date"><literal>19970205</literal></binding>
+   <binding name="title"><literal>TATTARINI ed altri: Nuove norme sull&#39;accesso ai fondi agricoli per l&#39;esercizio dell&#39;attivita&#39;venatoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3189</literal></binding>
+   <binding name="date"><literal>19970211</literal></binding>
+   <binding name="title"><literal>BRACCO ed altri: Rifinanziamento della legge 29 dicembre 1987, n. 545, recante disposizioni per il consolidamento della Rupe di Orvieto e del Colle di Todi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3206</literal></binding>
+   <binding name="date"><literal>19970213</literal></binding>
+   <binding name="title"><literal>MUSSI ed altri: Legge-quadro per il governo del territorio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3248</literal></binding>
+   <binding name="date"><literal>19970219</literal></binding>
+   <binding name="title"><literal>PALMA ed altri: Modifica all&#39;articolo 8 della legge 23 febbraio 1995, n. 43, in materia di abbreviazione della durata in carica dei consigli regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3355</literal></binding>
+   <binding name="date"><literal>19970305</literal></binding>
+   <binding name="title"><literal>ALVETI ed altri: Disciplina dei diritti dei consumatori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3398</literal></binding>
+   <binding name="date"><literal>19970311</literal></binding>
+   <binding name="title"><literal>MICHELANGELI ed altri: Istituzione dei centri per i giovani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3434</literal></binding>
+   <binding name="date"><literal>19970318</literal></binding>
+   <binding name="title"><literal>GAMBALE ed altri: Disciplina della realizzazione e della diffusione dei sondaggi di opinione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3484</literal></binding>
+   <binding name="date"><literal>19970326</literal></binding>
+   <binding name="title"><literal>PISCITELLO ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 27 della Costituzione concernente l&#39;abolizione della pena di morte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3511</literal></binding>
+   <binding name="date"><literal>19970403</literal></binding>
+   <binding name="title"><literal>SICA ed altri: Norme per il recupero dei centri storici e dei nuclei abitati rurali compresi nelle aree naturali protette</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3522</literal></binding>
+   <binding name="date"><literal>19970403</literal></binding>
+   <binding name="title"><literal>GERARDINI ed altri: Norme per la realizzazione e l&#39;aggiornamento della carta geologica d&#39;Italia, di carte geotematiche di interesse nazionale e delle relative banche dati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3539</literal></binding>
+   <binding name="date"><literal>19970408</literal></binding>
+   <binding name="title"><literal>LABATE ed altri: Norme per il sostegno e lo sviluppo delle politiche industriali e di ricerca nel settore farmaceutico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3555</literal></binding>
+   <binding name="date"><literal>19970409</literal></binding>
+   <binding name="title"><literal>GERARDINI ed altri: Legge-quadro sul Servizio ecologico volontario e disciplina delle guardieecologiche volontarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3585</literal></binding>
+   <binding name="date"><literal>19970416</literal></binding>
+   <binding name="title"><literal>BATTAGLIA ed altri: Norme sull&#39;inserimento al lavoro delle persone handicappate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3628</literal></binding>
+   <binding name="date"><literal>19970429</literal></binding>
+   <binding name="title"><literal>GERARDINI ed altri: Proroga dei termini per la presentazione del modello unico di dichiarazione in materia ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3737</literal></binding>
+   <binding name="date"><literal>19970522</literal></binding>
+   <binding name="title"><literal>MUSSI ed altri: Riforma della politica della cooperazione dell&#39;Italia con i Paesi in via di sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3811</literal></binding>
+   <binding name="date"><literal>19970603</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Modifica all&#39;articolo 211 della legge 19 maggio 1975, n. 151, in materia di determinazione dell&#39;assegno familiare per i figli a favore del coniuge affidatario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3885</literal></binding>
+   <binding name="date"><literal>19970618</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Costituzione del Comitato di sorveglianza per la certificazione di conformità alle convenzioni internazionali in merito alla delocalizzazione delle attività produttive e all&#39;importanza di beni semilavorati o prodotti finiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3891</literal></binding>
+   <binding name="date"><literal>19970619</literal></binding>
+   <binding name="title"><literal>GALLETTI ed altri: Disciplina delle terapie non convenzionali e istituzione dei registri degli operatori delle medicine non convenzionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3907</literal></binding>
+   <binding name="date"><literal>19970623</literal></binding>
+   <binding name="title"><literal>BOLOGNESI ed altri: Tutela dei diritti dei bambini nelle comunicazioni radiotelevisive e nell&#39;informazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3928</literal></binding>
+   <binding name="date"><literal>19970627</literal></binding>
+   <binding name="title"><literal>LUCÀ ed altri: Nuove norme per la nomina degli scrutatori e dei presidenti di seggio elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4012</literal></binding>
+   <binding name="date"><literal>19970717</literal></binding>
+   <binding name="title"><literal>LUCIDI ed altri: Nuove norme in materia di nomina degli scrutatori nei seggi elettorali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4045</literal></binding>
+   <binding name="date"><literal>19970724</literal></binding>
+   <binding name="title"><literal>PITTELLA ed altri: Modifiche alla legge 8 marzo 1989, n. 95, in materia di formazione degli albi e di sorteggio delle persone idonee all&#39;ufficio di scrutatore nei seggi elettorali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4215</literal></binding>
+   <binding name="date"><literal>19971007</literal></binding>
+   <binding name="title"><literal>BRACCO ed altri: Norme per la concessione di benefici ai detentori di archivi dei partiti politici e dei sindacati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4232</literal></binding>
+   <binding name="date"><literal>19971009</literal></binding>
+   <binding name="title"><literal>LUCÀ ed altri: Norme per l&#39;individuazione della condizione economica individuale o familiare ai fini della concessione di agevolazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4233</literal></binding>
+   <binding name="date"><literal>19971009</literal></binding>
+   <binding name="title"><literal>LUCÀ ed altri: Modifica all&#39;articolo 10 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di deducibilità delle spese per collaborazioni familiari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>428</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CALZOLAIO e LORENZETTI PASQUALE: Disciplina della valutazione di impatto ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4387</literal></binding>
+   <binding name="date"><literal>19971210</literal></binding>
+   <binding name="title"><literal>MANTOVANI ed altri: Norme per la messa al bando delle armi per lo sterminio di massa dal territorio nazionale e dalle acque territoriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4464</literal></binding>
+   <binding name="date"><literal>19980120</literal></binding>
+   <binding name="title"><literal>VIGNI ed altri: Legge quadro sull&#39;inquinamento elettromagnetico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4886</literal></binding>
+   <binding name="date"><literal>19980515</literal></binding>
+   <binding name="title"><literal>MATTARELLA ed altri: Abrogazione del comma 3 dell&#39;articolo 5 del decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30, in materia di esercizio del gioco d&#39;azzardo a bordo di navi passeggeri al di fuori del mare territoriale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4929</literal></binding>
+   <binding name="date"><literal>19980527</literal></binding>
+   <binding name="title"><literal>ERRIGO ed altri: Norma in materia di competenza per le controversie relative alla determinaziona delle tariffe d&#39;estimo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5018</literal></binding>
+   <binding name="date"><literal>19980624</literal></binding>
+   <binding name="title"><literal>CAMOIRANO ed altri: Delega al Governo per l&#39;emanazione di norme in materia di difesa delle calamità naturali. Disposizioni concernenti l&#39;obbligo di assicurazione contro i rischi derivanti da calamità naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>509</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>TATTARINI ed altri: Disciplina delle &quot;strade del vino&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>509-B</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>TATTARINI ed altri: Disciplina delle &quot;strade del vino&quot; (approvata, in un testo unificato, dalla XIII commissione permanente della Camera e modificata dalla IX commissione permanente del Senato con l&#39;unificazione delle proposte di legge n. 570, d&#39;iniziativa del senatore Ucchielli e n. 2084, d&#39;iniziativa del senatore Ferrante ed altri)) (S. 3246-570-2084)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>525</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>TURRONI ed altri: Norme per la realizzazione di percorsi ciclabili integrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>529</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>TURRONI ed altri: Riconoscimento della pratica del naturismo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5354</literal></binding>
+   <binding name="date"><literal>19981103</literal></binding>
+   <binding name="title"><literal>SALES ed altri: Disposizioni in materia di capitalizzazione e ristrutturazione delle piccole e medie imprese meridionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5494</literal></binding>
+   <binding name="date"><literal>19981204</literal></binding>
+   <binding name="title"><literal>PAISSAN ed altri: Norme in materia di trust e favore di soggetti portatori di handicap</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>555</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>LUCÀ ed altri: Disposizioni in materia di restituzione delle prestazioni previdenziali ed assistenziali non dovute</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5589</literal></binding>
+   <binding name="date"><literal>19990122</literal></binding>
+   <binding name="title"><literal>CHIAVACCI ed altri: Modifica dell&#39;articolo 106 del codice civile in materia di celebrazione del matrimonio civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5730</literal></binding>
+   <binding name="date"><literal>19990224</literal></binding>
+   <binding name="title"><literal>MUZIO ed altri: Disposizioni in materia di valutazione dei titoli nei corsi per allievi agenti e sottoufficiali del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5758</literal></binding>
+   <binding name="date"><literal>19990302</literal></binding>
+   <binding name="title"><literal>MANCINA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 51 della Costituzione, in materia di accesso agli uffici pubblici e alle cariche elettive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5763</literal></binding>
+   <binding name="date"><literal>19990303</literal></binding>
+   <binding name="title"><literal>RUZZANTE ed altri: Modifica all&#39;articolo 7 del decreto legislativo 30 dicembre 1997, n. 504,in materia di dispensa dalla ferma di leva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>577</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>LUCÀ ed altri: Disciplina dell&#39;associazionismo sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>578</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>INNOCENTI ed altri: Delega al Governo per il riordinamento generale dei trattamenti pensionistici di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>579</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>INNOCENTI ed altri: Nuovi criteri interpretativi per la valutazione del danno anatomo-funzionale ai fini dell&#39;attribuzione della pensione di guerra di cui al testo unico approvato con decreto del Presidente della repubblica 23 dicembre 1978, n. 915</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6054</literal></binding>
+   <binding name="date"><literal>19990520</literal></binding>
+   <binding name="title"><literal>VELTRONI ed altri: Nuove norme in materia di gratuito patrocinio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6132</literal></binding>
+   <binding name="date"><literal>19990609</literal></binding>
+   <binding name="title"><literal>LUCIDI ed altri: Disciplina degli istituti di vigilanza privata e delle guardie particolari giurate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6460</literal></binding>
+   <binding name="date"><literal>19991014</literal></binding>
+   <binding name="title"><literal>RUZZANTE ed altri: Abrogazione dell&#39;articolo 3 della legge 31 maggio 1975, n. 191, in materia di arruolamento dei minorenni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6707</literal></binding>
+   <binding name="date"><literal>20000125</literal></binding>
+   <binding name="title"><literal>DEBIASIO CALIMANI ed altri: Disposizioni per la tutela del &quot;verde storico&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>806</literal></binding>
+   <binding name="date"><literal>19960513</literal></binding>
+   <binding name="title"><literal>ZAGATTI ed altri: Norme in materia di rilascio di immobili ad uso di abitazione e riforma della disciplina relativa al mercato delle locazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>806-B</literal></binding>
+   <binding name="date"><literal>19960513</literal></binding>
+   <binding name="title"><literal>ZAGATTI ed altri: Disciplina delle locazioni e del rilascio degli immobili adibiti ad uso abitativo (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (S. 3393)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>863</literal></binding>
+   <binding name="date"><literal>19960515</literal></binding>
+   <binding name="title"><literal>LUCÀ ed altri: Norme per la promozione dell&#39;attività delle università della terza età</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>864</literal></binding>
+   <binding name="date"><literal>19960515</literal></binding>
+   <binding name="title"><literal>LUCÀ ed altri: Istituzione di una Commissione parlamentare di inchiesta sulla condizionesociale dell&#39;anziano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>865</literal></binding>
+   <binding name="date"><literal>19960515</literal></binding>
+   <binding name="title"><literal>LUCÀ ed altri: Norme sull&#39;impiego degli anziani in attività lavorative socialmente utili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>898</literal></binding>
+   <binding name="date"><literal>19960515</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Nuove norme in materia di integrazione al trattamento minimo pensionistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2505</literal></binding>
+   <binding name="date"><literal>19961017</literal></binding>
+   <binding name="title"><literal>PISCITELLO ed altri: Istituzione di corsi speciali per i conseguimento dell&#39;abilitazione all&#39;insegnamento nella scuola materna e nella scuola secondaria di primo e secondo grado</literal></binding>
+  </result>
+ </results>
+</sparql>

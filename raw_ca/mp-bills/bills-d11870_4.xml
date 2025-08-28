@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2255</literal></binding>
+   <binding name="date"><literal>19650409</literal></binding>
+   <binding name="title"><literal>LEVI ARIAN ed altri: Autorizzazione di spesa per la ricostruzione della linea ferroviaria Cuneo-Breil sur Roya-Ventimiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4523</literal></binding>
+   <binding name="date"><literal>19671031</literal></binding>
+   <binding name="title"><literal>Tutela e valorizzazione della zona archeologica dell&#39;antica Paestum</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4560</literal></binding>
+   <binding name="date"><literal>19671114</literal></binding>
+   <binding name="title"><literal>Aumento dei fondi di dotazione del Banco di Napoli, del Banco di Sicilia, del Banco di Sardegna, dell&#39;ISVEIMER, dell&#39;IRFIS e del CIS</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4778</literal></binding>
+   <binding name="date"><literal>19680117</literal></binding>
+   <binding name="title"><literal>Istituzione di una università statale in Calabria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4912</literal></binding>
+   <binding name="date"><literal>19680228</literal></binding>
+   <binding name="title"><literal>Conversione in legge del decreto-legge 27 febbraio 1968, n. 79, concernente ulteriori interventi e provvidenze per la ricostruzione e per la ripresa economica dei comuni della Sicilia colpiti dai terremoti del gennaio 1968</literal></binding>
+  </result>
+ </results>
+</sparql>

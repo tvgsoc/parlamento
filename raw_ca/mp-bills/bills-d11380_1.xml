@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1122</literal></binding>
+   <binding name="date"><literal>19500224</literal></binding>
+   <binding name="title"><literal>LECCISO ed altri: Rinnovazione graduale del patrimonio immobiliare dell&#39;Istituto nazionale per le case degli impiegati dello Stato e degli Istituti similari al fine di incrementare le nuove costruzioni, e disciplina di alcuni rapporti fra gli stessi enti e i loro inquilini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1325</literal></binding>
+   <binding name="date"><literal>19500601</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Sulle incompatibilità parlamentari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1482</literal></binding>
+   <binding name="date"><literal>19500721</literal></binding>
+   <binding name="title"><literal>LUPIS ed altri: Denuncia dei beni, diritti ed interessi dei cittadini italiani nei territori sui quali l&#39;Italia e stata privata della sovranità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1839</literal></binding>
+   <binding name="date"><literal>19510222</literal></binding>
+   <binding name="title"><literal>MORO ed altri: Concessione di un assegno annuo di lire 780.000 a Maria Montessori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1933</literal></binding>
+   <binding name="date"><literal>19510412</literal></binding>
+   <binding name="title"><literal>VIOLA DI CÀ TASSON ed altri: Estensione di benefici di natura combattentistica a favore del personale dipendente dagli Istituti e dagli Enti di diritto pubblico soggetti a vigilanza o a controllo dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>200</literal></binding>
+   <binding name="date"><literal>19481203</literal></binding>
+   <binding name="title"><literal>D&#39;AMBROSIO ed altri: Proroga per le nomine e i trasferimenti d&#39;insegnanti universitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2678</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>NOCE LONGO ed altri: Applicazione della parità di diritti e della parità delle retribuzioni per un pari lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2683</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Estensione ai mezzadri, coloni parziari e compartecipanti familiari, dell&#39;assicurazione obbligatoria per l&#39;invalidità, la vecchiaia e superstiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3222</literal></binding>
+   <binding name="date"><literal>19530304</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Modifica all&#39;articolo 297 del Codice civile</literal></binding>
+  </result>
+ </results>
+</sparql>

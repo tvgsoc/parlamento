@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4302</literal></binding>
+   <binding name="date"><literal>19621128</literal></binding>
+   <binding name="title"><literal>MITTERDORFER ed altri: Estensione di agevolazioni fiscali alle operazioni di credito artigiano assistite da provvidenze legislative provinciali nella Regione Trentino-Alto Adige</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2223</literal></binding>
+   <binding name="date"><literal>19600609</literal></binding>
+   <binding name="title"><literal>RIZ ed altri: Riconoscimento ai fini previdenziali del servizio militare obbligatorio prestato nelle forze armate dell&#39;ex impero austro-ungarico durante la prima guerra mondiale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2224</literal></binding>
+   <binding name="date"><literal>19600609</literal></binding>
+   <binding name="title"><literal>RIZ ed altri: Riconoscimento a favore dei lavoratori della Regione Trentino-Alto Adige, della Venezia Giulia e dei comuni di Cortina d&#39;Ampezzo e di Livinalongo (provincia di Belluno) dell&#39;opera prestata prima dell&#39;entrata in vigore del regio decreto-legge 29 novembre 1925, n. 2146, ai fini dell&#39;assicurazione obbligatoria invalidità, vecchiaia e superstiti e dei fondi speciali sostitutivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3324</literal></binding>
+   <binding name="date"><literal>19611013</literal></binding>
+   <binding name="title"><literal>RIZ ed altri: Autorizzazione al cambiamento di nome alle persone di lingua tedesca iscritte nei registri di stato civile dei comuni della provincia di Bolzano dal 1924 al 1946 con un nome di lingua italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3552</literal></binding>
+   <binding name="date"><literal>19620112</literal></binding>
+   <binding name="title"><literal>EBNER ed altri: Inchiesta parlamentare per esaminare l&#39;esattezza delle notizie circa i maltrattamenti subiti da persone fermate o arrestate in connessione con gli attentati dinamitardi nella provincia di Bolzano, e le eventuali responsabilità degli organi in qualunque modo coinvolti in tali trattamenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>899</literal></binding>
+   <binding name="date"><literal>19590227</literal></binding>
+   <binding name="title"><literal>EBNER ed altri: Modifica degli articoli 116 e 131 della Costituzione e Statuto speciale per il Sudtirol-Tirolo del sud</literal></binding>
+  </result>
+ </results>
+</sparql>

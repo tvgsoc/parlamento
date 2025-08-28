@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6780</literal></binding>
+   <binding name="date"><literal>20000217</literal></binding>
+   <binding name="title"><literal>FAGGIANO ed altri: Modifiche all&#39;articolo 34 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, in materia di regime speciale dell&#39;IVA per il settore agricolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6852</literal></binding>
+   <binding name="date"><literal>20000309</literal></binding>
+   <binding name="title"><literal>SCHMID ed altri: Valorizzazione, tutela e recupero dei sentieri di montagna, di collina e rurali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6934</literal></binding>
+   <binding name="date"><literal>20000405</literal></binding>
+   <binding name="title"><literal>STELLUTI ed altri: Nuove norme in materia di cumulo tra redditi di lavoro e di pensione e difinanziamento della protezione sociale per anziani non autosufficienti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7012</literal></binding>
+   <binding name="date"><literal>20000523</literal></binding>
+   <binding name="title"><literal>BARTOLICH ed altri: Modifica all&#39;art. 3  della legge 21 novembre 1967, n. 1185, in materia diconcessione dei passaporti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7230</literal></binding>
+   <binding name="date"><literal>20000718</literal></binding>
+   <binding name="title"><literal>DE SIMONE ed altri: Istituzione  delle banche di sangue da cordone ombelicale</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3506</literal></binding>
+   <binding name="date"><literal>19860220</literal></binding>
+   <binding name="title"><literal>PROIETTI ed altri: Delega al Governo per l&#39;emanazione di norme per garantire la sicurezza nel trasporto aereo, per lo sviluppo delle gestioni autonome negli aeroporti e per il riordino della Direzione generale dell&#39;aviazione civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3507</literal></binding>
+   <binding name="date"><literal>19860220</literal></binding>
+   <binding name="title"><literal>PROIETTI ed altri: Istituzione presso la Presidenza del Consiglio dei ministri della Commissione permanente per lo svolgimento della inchiesta &quot;tecnica formale&quot; in caso di incidenti o mancati incidenti aeronautici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4355</literal></binding>
+   <binding name="date"><literal>19870122</literal></binding>
+   <binding name="title"><literal>CALONACI ed altri: Misure urgenti per la lotta contro l&#39;afta epizootica ed altre malattie degli animali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4385</literal></binding>
+   <binding name="date"><literal>19870129</literal></binding>
+   <binding name="title"><literal>DIGNANI GRIMALDI ed altri: Gratuità del trasporto dei cani guida dei ciechi sui mezzi di trasporto pubblico e diritto di accesso in esercizi aperti al pubblico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4415</literal></binding>
+   <binding name="date"><literal>19870205</literal></binding>
+   <binding name="title"><literal>MIGLIASSO ed altri: Adeguamento delle indennità di accompagnamento dei ciechi assoluti e degli invalidi civili totalmente inabili secondo quanto previsto dal comma 2 dell&#39;articolo 1 della legge 6 ottobre 1986, n. 656, di modifica ed integrazioni alla normativa sulle pensioni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4633</literal></binding>
+   <binding name="date"><literal>19870422</literal></binding>
+   <binding name="title"><literal>COCCO ed altri: Norme per l&#39;istituzione di società di imprese familiari per la prestazione di servizi sostitutivi nei settori della agricoltura, dell&#39;artigianato e del commercio</literal></binding>
+  </result>
+ </results>
+</sparql>

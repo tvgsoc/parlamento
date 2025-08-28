@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>26</literal></binding>
+   <binding name="date"><literal>19740125</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Aumento e riforma delle pensioni della previdenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>465</literal></binding>
+   <binding name="date"><literal>19720712</literal></binding>
+   <binding name="title"><literal>INGRAO ed altri: Modificazioni del primo comma dell&#39;articolo 48, del secondo comma dell&#39;articolo 56 e dell&#39;articolo 58 della Costituzione, concernenti la diminuzione dei limiti di età previsti per il diritto elettorale attivo e passivo sia per la Camera dei deputati che per il Senato della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>783</literal></binding>
+   <binding name="date"><literal>19720919</literal></binding>
+   <binding name="title"><literal>PELLICANI ed altri: Norme per la salvaguardia e la rinascita di Venezia</literal></binding>
+  </result>
+ </results>
+</sparql>

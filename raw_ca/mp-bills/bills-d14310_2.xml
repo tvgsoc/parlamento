@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2116</literal></binding>
+   <binding name="date"><literal>19560309</literal></binding>
+   <binding name="title"><literal>BUZZELLI ed altri: Tutela della funzione degli avvocati e procuratori nell&#39;esercizio del loro patrocinio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19570720</literal></binding>
+   <binding name="title"><literal>ALICATA ed altri: Modifiche alla legge 29 luglio 1949, n. 717, concernente l&#39;arte nei pubblici edifici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3692</literal></binding>
+   <binding name="date"><literal>19580314</literal></binding>
+   <binding name="title"><literal>GIANQUINTO ed altri: Riorganizzazione dell&#39;Ente autonomo &quot;La Biennale di Venezia - Esposizione Internazionale d&#39;Arte&quot;</literal></binding>
+  </result>
+ </results>
+</sparql>

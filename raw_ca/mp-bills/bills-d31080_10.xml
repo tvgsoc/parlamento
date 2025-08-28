@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6188</literal></binding>
+   <binding name="date"><literal>19911213</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Integrazione all&#39;articolo 83 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6195</literal></binding>
+   <binding name="date"><literal>19911213</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Concessione all&#39;Associazione &quot;Comune di Zara in esilio&quot; della medaglia d&#39;oro al valor militare &quot;alla memoria&quot; dei suoi cittadini che in guerra ed in pace hanno servito la Patria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6218</literal></binding>
+   <binding name="date"><literal>19911219</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Modifiche ed integrazioni al decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 28 febbraio 1990, n. 39, recante norme urgenti in materia di asilo politico, di ingresso e soggiorno dei cittadini extracomunitari ed apolidi già presenti nel territorio dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6324</literal></binding>
+   <binding name="date"><literal>19920122</literal></binding>
+   <binding name="title"><literal>SERVELLO ed altri: Norme per l&#39;eliminazione dal casellario giudiziale delle iscrizioni relative alle condanne pronunciate dalle Corti di assise straordinarie con sentenza passata in giudicato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6336</literal></binding>
+   <binding name="date"><literal>19920123</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Istituzione dell&#39;obbligo del lavoro per i detenuti e gli internati</literal></binding>
+  </result>
+ </results>
+</sparql>

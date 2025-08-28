@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>467</literal></binding>
+   <binding name="date"><literal>20010606</literal></binding>
+   <binding name="title"><literal>PRESTIGIACOMO: &quot;Riforma dell&#39;Istituto nazionale per il dramma antico&quot; (467)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>594</literal></binding>
+   <binding name="date"><literal>20010613</literal></binding>
+   <binding name="title"><literal>PRESTIGIACOMO: &quot;Norme di sostegno per i tetraplegici, gli affetti da grave insufficienza intellettiva e i soggetti con handicap gravissimi&quot; (594)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>595</literal></binding>
+   <binding name="date"><literal>20010613</literal></binding>
+   <binding name="title"><literal>PRESTIGIACOMO: &quot;Norme in materia di trattamento economico dei componenti delle commissioni tributarie&quot; (595)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>596</literal></binding>
+   <binding name="date"><literal>20010613</literal></binding>
+   <binding name="title"><literal>PRESTIGIACOMO: &quot;Norme per la tutela della persona che lavora contro le molestie sessuali nei luoghi di lavoro&quot; (596)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>597</literal></binding>
+   <binding name="date"><literal>20010613</literal></binding>
+   <binding name="title"><literal>PRESTIGIACOMO: &quot;Modifica all&#39;articolo 1 della legge 8 agosto 1995, n. 335, in materia di cumulabilità dei trattamenti pensionistici di reversibilità&quot; (597)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>465</literal></binding>
+   <binding name="date"><literal>20010606</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE PRESTIGIACOMO: &quot;Abrogazione dei commi primo e secondo della XIII disposizione transitoria della Costituzione&quot; (465)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>466</literal></binding>
+   <binding name="date"><literal>20010606</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE PRESTIGIACOMO: &quot;Modifica all&#39;articolo 51 della Costituzione, in materia di parità di accesso agli uffici pubblici e alle cariche elettive&quot; (466)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>593</literal></binding>
+   <binding name="date"><literal>20010613</literal></binding>
+   <binding name="title"><literal>PRESTIGIACOMO: &quot;Modifica all&#39;articolo 609-quinquies del codice penale concernente il reato di corruzione di minorenne&quot; (593)</literal></binding>
+  </result>
+ </results>
+</sparql>

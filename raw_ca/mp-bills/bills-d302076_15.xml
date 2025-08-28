@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1396</literal></binding>
+   <binding name="date"><literal>20060718</literal></binding>
+   <binding name="title"><literal>FASSINO ed altri: &quot;Diritto delle bambine e dei bambini all&#39;educazione e all&#39;istruzione dalla nascita fino a sei anni&quot; (1396)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>296</literal></binding>
+   <binding name="date"><literal>20060429</literal></binding>
+   <binding name="title"><literal>QUARTIANI ed altri: &quot;Legge per la montagna&quot; (296)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>302</literal></binding>
+   <binding name="date"><literal>20060429</literal></binding>
+   <binding name="title"><literal>BUONTEMPO ed altri: &quot;Facoltà per il personale militare di chiedere un&#39;anticipazione sull&#39;indennità di liquidazione di fine servizio&quot; (302)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>305</literal></binding>
+   <binding name="date"><literal>20060429</literal></binding>
+   <binding name="title"><literal>BUONTEMPO ed altri: &quot;Istituzione del Garante per l&#39;infanzia e l&#39;adolescenza&quot; (305)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>406</literal></binding>
+   <binding name="date"><literal>20060504</literal></binding>
+   <binding name="title"><literal>ZANOTTI ed altri: &quot;Disposizioni in materia di riorganizzazione degli Istituti italiani di cultura all&#39;estero&quot; (406)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1428</literal></binding>
+   <binding name="date"><literal>20060724</literal></binding>
+   <binding name="title"><literal>CAPEZZONE ed altri: &quot;Modifiche alla normativa sullo sportello unico per le imprese e in materia di dichiarazione di inizio attività&quot; (1428)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1216</literal></binding>
+   <binding name="date"><literal>20060628</literal></binding>
+   <binding name="title"><literal>MANTINI ed altri: &quot;Riforma della disciplina delle professioni intellettuali&quot; (1216)</literal></binding>
+  </result>
+ </results>
+</sparql>

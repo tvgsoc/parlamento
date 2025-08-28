@@ -1,0 +1,94 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1005</literal></binding>
+   <binding name="date"><literal>19590327</literal></binding>
+   <binding name="title"><literal>PALAZZOLO: Agevolazioni fiscali sullo spirito di vino e sull&#39;acquavite di vino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2705</literal></binding>
+   <binding name="date"><literal>19610110</literal></binding>
+   <binding name="title"><literal>PALAZZOLO: Autorizzazione per l&#39;esercizio di una casa da giuoco in Taormina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3545</literal></binding>
+   <binding name="date"><literal>19620108</literal></binding>
+   <binding name="title"><literal>PALAZZOLO: Trasferimenti degli insegnanti elementari del ruolo normale da una provincia all&#39;altra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1659</literal></binding>
+   <binding name="date"><literal>19591021</literal></binding>
+   <binding name="title"><literal>PALAZZOLO: Istituzione della pensione a favore dei ciechi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2632</literal></binding>
+   <binding name="date"><literal>19601206</literal></binding>
+   <binding name="title"><literal>PALAZZOLO: Modifiche alla legge 8 gennaio 1952, n. 6, sull&#39;istituzione della Cassa nazionale di previdenza e assistenza a favore degli avvocati e procuratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3630</literal></binding>
+   <binding name="date"><literal>19620209</literal></binding>
+   <binding name="title"><literal>PALAZZOLO: Modificazione alla legge 16 dicembre 1961, n. 1308, contenente norme sul trattamento economico della Magistratura, dei magistrati del Consiglio di Stato, della Corte dei conti, della Giustizia militare e degli avvocati e procuratori dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1646</literal></binding>
+   <binding name="date"><literal>19591016</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Riconoscimento giuridico della professione di spedizioniere doganale ed istituzione degli albi e del fondo previdenziale a favore degli spedizionieri doganali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1794</literal></binding>
+   <binding name="date"><literal>19591204</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Disciplina dell&#39;apertura e dell&#39;esercizio delle case da giuoco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2444</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Disciplina della scuola non statale e degli esami di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2446</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Modifiche alla tabella unica degli stipendi allegata al decreto del Presidente della Repubblica 11 gennaio 1956, n. 19</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2448</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Inchiesta parlamentare sulla scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2829</literal></binding>
+   <binding name="date"><literal>19610216</literal></binding>
+   <binding name="title"><literal>AMATUCCI ed altri: Istituzione della Cassa di assicurazione contro le malattie degli avvocati e procuratori e dei loro rispettivi familiari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>883</literal></binding>
+   <binding name="date"><literal>19590227</literal></binding>
+   <binding name="title"><literal>PELLEGRINO ed altri: Estensione della 13^ mensilità e dell&#39;assistenza sanitaria ai vice pretori onorari con incarico di uditore vice pretore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2445</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Modifica dell&#39;articolo 33 della legge 27 febbraio 1958, n. 119, concernente disposizioni particolari sullo stato giuridico e sull&#39;ordinamento delle carriere del personale dell&#39;Amministrazione delle poste e telecomunicazioni e dell&#39;Azienda di Stato per i servizi telefonici</literal></binding>
+  </result>
+ </results>
+</sparql>

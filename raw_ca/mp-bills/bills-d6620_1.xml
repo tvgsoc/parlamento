@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1008</literal></binding>
+   <binding name="date"><literal>19491221</literal></binding>
+   <binding name="title"><literal>CARIGNANI ed altri: Riforma della legge 21 agosto 1912, concernente l&#39;assunzione obbligatoria al lavoro degli invalidi di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1141</literal></binding>
+   <binding name="date"><literal>19500308</literal></binding>
+   <binding name="title"><literal>CARRON ed altri: Provvedimenti per l&#39;edilizia scolastica nella zona del confine orientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1899</literal></binding>
+   <binding name="date"><literal>19510314</literal></binding>
+   <binding name="title"><literal>CARRON ed altri: Provvedimenti a favore degli ufficiali e dei sottufficiali delle Forze Armate, esuli dai territori metropolitani e coloniali ceduti per effetto del trattato di pace</literal></binding>
+  </result>
+ </results>
+</sparql>

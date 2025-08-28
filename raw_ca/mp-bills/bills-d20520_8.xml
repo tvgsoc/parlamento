@@ -1,0 +1,616 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1520</literal></binding>
+   <binding name="date"><literal>19800314</literal></binding>
+   <binding name="title"><literal>ALBERINI ed altri: Modifica della legge 18 aprile 1975, n. 110, relativa al controllo delle armi, delle munizioni e degli esplosivi al fine della catalogazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1811</literal></binding>
+   <binding name="date"><literal>19800624</literal></binding>
+   <binding name="title"><literal>ALBERINI ed altri: Norme sull&#39;ordinamento della professione di investigatore privato ed istituzione dell&#39;albo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2330</literal></binding>
+   <binding name="date"><literal>19810211</literal></binding>
+   <binding name="title"><literal>ALBERINI ed altri: Modifica alle norme per la tutela delle denominazioni di origine dei mosti e dei vini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2441</literal></binding>
+   <binding name="date"><literal>19810312</literal></binding>
+   <binding name="title"><literal>ALBERINI ed altri: Aumento del contributo a favore della casa di riposo per musicisti &quot;Fondazione Giuseppe Verdi&quot; di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2898</literal></binding>
+   <binding name="date"><literal>19811022</literal></binding>
+   <binding name="title"><literal>ALBERINI ed altri: Modifica dell&#39;articolo 18 della legge 11 luglio 1978, n. 382, concernente norme sulla disciplina militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2911</literal></binding>
+   <binding name="date"><literal>19811028</literal></binding>
+   <binding name="title"><literal>ALBERINI: Estensione agli ufficiali e sottufficiali internati in campi di concentramento della promozione al grado superiore concessa, a titolo onorifico, agli ex combattenti che hanno partecipato alla guerra di liberazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>713</literal></binding>
+   <binding name="date"><literal>19791011</literal></binding>
+   <binding name="title"><literal>ALBERINI ed altri: Disposizioni in favore dei militari di leva in caso di invalidità per causa di servizio e dei loro superstiti, in caso di morte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1082</literal></binding>
+   <binding name="date"><literal>19791204</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per la formazione professionale e la riqualificazione del personale di assistenza sanitaria, tecnica e riabilitativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1123</literal></binding>
+   <binding name="date"><literal>19791211</literal></binding>
+   <binding name="title"><literal>LA GANGA ed altri: Istituzione dell&#39;autorità del bacino interregionale del Po</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1231</literal></binding>
+   <binding name="date"><literal>19800104</literal></binding>
+   <binding name="title"><literal>ACCAME ed altri: Norme per la unificazione del servizio militare di leva, per la salvaguardia della professionalità delle reclute, per la difesa degli interessi legittimi e della salute dei militari e per favorire l&#39;inserimento dell&#39;organismo militare nelle strutture sociali del paese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1459</literal></binding>
+   <binding name="date"><literal>19800303</literal></binding>
+   <binding name="title"><literal>SALVI ed altri: Norme sulla produzione e distribuzione di calore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>146</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche al Capo X del codice civile in ordine alla disciplina del contratto di agenzia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1516</literal></binding>
+   <binding name="date"><literal>19800313</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Modifica dell&#39;articolo 40 della legge 11 gennaio 1979, n. 12 concernente norme per l&#39;ordinamento della professione di consulente del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1561</literal></binding>
+   <binding name="date"><literal>19800326</literal></binding>
+   <binding name="title"><literal>SPINI ed altri: Nuova disciplina del trasferimento di uso di aree demaniali a fini pubblici e sociali e norme per la programmazione delle costruzioni militari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1605</literal></binding>
+   <binding name="date"><literal>19800416</literal></binding>
+   <binding name="title"><literal>DE CINQUE ed altri: Nuove norme concernenti la cassa nazionale del notariato ed il Consiglio nazionale del notariato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1649</literal></binding>
+   <binding name="date"><literal>19800505</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Norme per la ricostruzione della carriera delle insegnanti di scuola materna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>174</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Legge quadro per la regolamentazione del divieto della navigazione a motore sui laghi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>177</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Norme sui lavoratori marginali dell&#39;agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1957</literal></binding>
+   <binding name="date"><literal>19800801</literal></binding>
+   <binding name="title"><literal>MANCINI ed altri: Abrogazione delle norme restrittive della facoltà di concedere la libertà provvisoria di cui all&#39;articolo 8 del decreto-legge 15 dicembre 1979, n. 625, convertito nella legge 6 febbraio 1980, n. 15</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>197</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>SEPPIA ed altri: Modifiche al regio decreto 9 luglio 1939, n. 1238, recante l&#39;ordinamento dello stato civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1977</literal></binding>
+   <binding name="date"><literal>19800826</literal></binding>
+   <binding name="title"><literal>ZANINI ed altri: Nuove norme per i sottufficiali delle categorie in congedo, trattenuto o richiamati in servizio nelle Forze armate dello Stato perchè residenti in territori considerati inaccessibili ai sensi della legge 26 giugno 1965, n. 808</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>20</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Abrogazione dell&#39;articolo 17, primo comma, della legge 11 luglio 1978, n. 382, contenente norme di principio sulla disciplina militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2137</literal></binding>
+   <binding name="date"><literal>19801125</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Riforma della Cassa nazionale di previdenza ed assistenza dei geometri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Norme per la riscossione unificata e per l&#39;adeguamento dei contributi previdenziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2193</literal></binding>
+   <binding name="date"><literal>19801212</literal></binding>
+   <binding name="title"><literal>TROTTA ed altri: Disciplina delle trasfusioni del sangue e dei servizi di immunoematologia e trasfusionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2216</literal></binding>
+   <binding name="date"><literal>19801217</literal></binding>
+   <binding name="title"><literal>CARPINO ed altri: Nuove norme sullo stato giuridico degli appartenenti alla magistratura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2258</literal></binding>
+   <binding name="date"><literal>19810113</literal></binding>
+   <binding name="title"><literal>CASALINUOVO ed altri: Modifiche all&#39;articolo 96 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>227</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>SEPPIA ed altri: Modifiche ed integrazioni alla legge 2 dicembre 1975, n. 644, relativa alla disciplina dei prelievi di parti di cadavere a scopo di trapianto terapeutico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2337</literal></binding>
+   <binding name="date"><literal>19810211</literal></binding>
+   <binding name="title"><literal>ANGELINI ed altri: Adeguamento dell&#39;organico del ruolo servizi dell&#39;Aeronautica, modifiche della legge 21 febbraio 1963, n. 249, e nuove norme per il reclutamento e l&#39;avanzamento degli ufficiali piloti di complemento dell&#39;Esercito, della Marina e dell&#39;Aeronautica nonché modifiche ed interpretazione autentica di alcuni articoli della legge 20 settembre 1980, n. 574</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2376</literal></binding>
+   <binding name="date"><literal>19810220</literal></binding>
+   <binding name="title"><literal>MILANI ed altri: Modifiche ed integrazioni alla legge 20 settembre 1980, n. 574, concernente l&#39;unificazione e il riordinamento dei ruoli normali, speciali e di complemento degli ufficiali dell&#39;esercito, della marina e dell&#39;aeronautica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2378</literal></binding>
+   <binding name="date"><literal>19810220</literal></binding>
+   <binding name="title"><literal>BABBINI ed altri: Norme per la regolamentazione di accordi interprofessionali e di contratti di coltivazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>241</literal></binding>
+   <binding name="date"><literal>19790705</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per la creazione di un Centro studi marittimi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>242</literal></binding>
+   <binding name="date"><literal>19790704</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Modifica dell&#39;articolo 6 della legge 4 luglio 1959, n. 463, che fissa il limite di età per il conseguimento della pensione di vecchiaia per gli artigiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>243</literal></binding>
+   <binding name="date"><literal>19790704</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Estensione al personale inquadrato nei ruoli delle carriere direttive ai sensi dell&#39;articolo 147 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, nonché del decreto del Presidente della Repubblica 1° giugno 1972, n. 319, della facoltà di riscattare i periodi di studio superiori e di esercizio professionale, previsti dall&#39;articolo 13 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>245</literal></binding>
+   <binding name="date"><literal>19790704</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Norme in materia di incompatibilità professionale per gli agenti di cambio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>246</literal></binding>
+   <binding name="date"><literal>19790704</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Istituzione del corso di lingua inglese nelle scuole elementari statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>250</literal></binding>
+   <binding name="date"><literal>19790704</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Istituzione dell&#39;indennità di vigilanza per gli appartenenti ai corpi di vigilanza urbana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2678</literal></binding>
+   <binding name="date"><literal>19810623</literal></binding>
+   <binding name="title"><literal>BABBINI ed altri: Norme per la semplificazione delle procedure di spesa delle leggi statali di finanziamento del settore agricolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2855</literal></binding>
+   <binding name="date"><literal>19811006</literal></binding>
+   <binding name="title"><literal>MARTELLI ed altri: Norme per un nuovo assetto della cinematografia italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2895</literal></binding>
+   <binding name="date"><literal>19811022</literal></binding>
+   <binding name="title"><literal>MENEGHETTI ed altri: Norme per il recepimento delle direttive comunitarie in materia di attività venatoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2901</literal></binding>
+   <binding name="date"><literal>19811022</literal></binding>
+   <binding name="title"><literal>SALVI ed altri: Modifiche alla legge 9 febbraio 1979, n. 38, concernente cooperazione dell&#39;Italia con i Paesi in via di sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2991</literal></binding>
+   <binding name="date"><literal>19811124</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Modificazioni e integrazioni di norme concernenti l&#39;ordinamento delle bande musicali dell&#39;Arma dei carabinieri e del Corpo della guardia di finanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2993</literal></binding>
+   <binding name="date"><literal>19811125</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per l&#39;assunzione, tramite concorso, presso il Ministero della difesa di talune categorie di personale dipendente da ditte appaltatrici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3020</literal></binding>
+   <binding name="date"><literal>19811214</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Nuove norme in materia di gestione del patrimonio edilizio ferroviario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3086</literal></binding>
+   <binding name="date"><literal>19820120</literal></binding>
+   <binding name="title"><literal>SEPPIA ed altri: Estensione ai componenti delle Unità sanitarie locali delle norme in materia di conservazione del posto di lavoro durante l&#39;espletamento delle funzioni pubbliche elettive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3088</literal></binding>
+   <binding name="date"><literal>19820120</literal></binding>
+   <binding name="title"><literal>BORGOGLIO ed altri: Norme per l&#39;erogazione di un contributo all&#39;Ente nazionale sordomuti ed all&#39;Unione italiana ciechi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3114</literal></binding>
+   <binding name="date"><literal>19820126</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Modifiche degli articoli 55 e 56 del codice di procedura civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3318</literal></binding>
+   <binding name="date"><literal>19820406</literal></binding>
+   <binding name="title"><literal>VENTRE ed altri: Provvidenze in favore dell&#39;Istituto nazionale per i ciechi di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3337</literal></binding>
+   <binding name="date"><literal>19820415</literal></binding>
+   <binding name="title"><literal>FELISETTI ed altri: Modifiche agli articoli 55 e 56 del codice di procedura civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3383</literal></binding>
+   <binding name="date"><literal>19820429</literal></binding>
+   <binding name="title"><literal>TOCCO e ALBERINI: Estensione agli ex dipendenti degli enti locali dei benefici previsti dal decreto del Presidente della Repubblica 7 novembre 1981, n. 810, concernente l&#39;esecuzione dell&#39;accordo relativo alla disciplina del rapporto di lavoro del personale degli enti locali per il periodo 1° marzo 1979-31 dicembre 1981</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3385</literal></binding>
+   <binding name="date"><literal>19820503</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Norme concernenti l&#39;ordinamento giudiziario militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3464</literal></binding>
+   <binding name="date"><literal>19820609</literal></binding>
+   <binding name="title"><literal>CUSUMANO ed altri: Nuove disposizioni sulla circolazione dei ciclomotori e modifiche al testo unico delle norme sulla circolazione stradale approvate con decreto del Presidente della Repubblica 15 giugno 1959, n. 393</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3532</literal></binding>
+   <binding name="date"><literal>19820702</literal></binding>
+   <binding name="title"><literal>SEPPIA ed altri: Norme in materia di pesca nelle acque interne e di tutela dell&#39;ambiente ittico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3580</literal></binding>
+   <binding name="date"><literal>19820723</literal></binding>
+   <binding name="title"><literal>BIASINI ed altri: Concessione di un contributo straordinario a favore del Comitato atlantico con sede in Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>368</literal></binding>
+   <binding name="date"><literal>19790719</literal></binding>
+   <binding name="title"><literal>ACCAME ed altri: Norme per il riconoscimento del trattamento previdenziale ai giovani impegnati nell&#39;assolvimento del servizio di leva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3702</literal></binding>
+   <binding name="date"><literal>19821021</literal></binding>
+   <binding name="title"><literal>CARPINO ed altri: Norme per il coordinamento degli interventi nel settore dei trasporti dell&#39;area metropolitana di Napoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3721</literal></binding>
+   <binding name="date"><literal>19821027</literal></binding>
+   <binding name="title"><literal>PRINCIPE ed altri: Modifica della legge 25 luglio 1966, n. 570, concernente disposizioni sulla nomina a magistrato di Corte di appello</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3769</literal></binding>
+   <binding name="date"><literal>19821124</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Rivalutazione perequativa dei trattamenti pensionistici liquidati ai lavoratori dipendenti fino al 30 giugno 1982</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>378</literal></binding>
+   <binding name="date"><literal>19790719</literal></binding>
+   <binding name="title"><literal>MARTELLI ed altri: Norme per un nuovo assetto della cinematografia italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3848</literal></binding>
+   <binding name="date"><literal>19830111</literal></binding>
+   <binding name="title"><literal>GITTI ed altri: Modificazione dell&#39;articolo 2 della legge 12 agosto 1982, n. 570, concernente le pensioni privilegiate spettanti ai superstiti dei magistrati caduti nell&#39;adempimento del dovere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3878</literal></binding>
+   <binding name="date"><literal>19830120</literal></binding>
+   <binding name="title"><literal>LO BELLO ed altri: Norme per l&#39;esercizio dello sport del tiro a segno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3890</literal></binding>
+   <binding name="date"><literal>19830126</literal></binding>
+   <binding name="title"><literal>BALDELLI ed altri: Disciplina della proiezione e della rappresentazione in pubblico di spettacoli cinematografici e teatrali e delle trasmissioni con il mezzo della televisione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3913</literal></binding>
+   <binding name="date"><literal>19830202</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifica dell&#39;articolo 4 del decreto-legge 31 luglio 1981, n. 414, convertito in legge, con modificazioni, dalla legge 2 ottobre 1981, n. 544, recante provvedimenti urgenti in alcuni settori dell&#39;economia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3931</literal></binding>
+   <binding name="date"><literal>19830210</literal></binding>
+   <binding name="title"><literal>SALVI ed altri: Modifica dell&#39;articolo 34 della legge 25 agosto 1982, n. 604, concernente la disciplina della destinazione del personale di ruolo dello Stato alle istituzioni scolastiche italiane funzionanti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3983</literal></binding>
+   <binding name="date"><literal>19830309</literal></binding>
+   <binding name="title"><literal>BOATO ed altri: Nuove misure per la difesa dell&#39;ordinamento costituzionale attraverso la dissociazione dal terrorismo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4015</literal></binding>
+   <binding name="date"><literal>19830322</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Modifiche all&#39;articolo 4 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernente l&#39;istituzione e disciplina dell&#39;imposta sul valore aggiunto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4024</literal></binding>
+   <binding name="date"><literal>19830324</literal></binding>
+   <binding name="title"><literal>CALDORO ed altri: Norme per il coordinamento degli interventi nel settore dei trasporti dell&#39;area metropolitana di Napoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4038</literal></binding>
+   <binding name="date"><literal>19830330</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per lo svolgimento in una sola giornata delle operazioni di voto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4048</literal></binding>
+   <binding name="date"><literal>19830406</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Istituzione della sezione distaccata di Corte di appello di Pisa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4070</literal></binding>
+   <binding name="date"><literal>19830420</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Istituzione della commissione nazionale per i servizi pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>420</literal></binding>
+   <binding name="date"><literal>19790725</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Riforma della finanza locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>421</literal></binding>
+   <binding name="date"><literal>19790725</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Nuovo ordinamento dei poteri locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>422</literal></binding>
+   <binding name="date"><literal>19790725</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Stato giuridico ed economico degli amministratori locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>423</literal></binding>
+   <binding name="date"><literal>19790725</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Modificazione degli articolo 114, 118, 119, 128, 129, 130, 132 e 133 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>44</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Impiego e destinazione del cittadino chiamato ad adempiere gli obblighi di leva al fine di favorire l&#39;integrazione nella società in una concezione decentrata della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>470</literal></binding>
+   <binding name="date"><literal>19790731</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Dichiarazione di estinzione di usi civici e diritti di promiscuo godimento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>471</literal></binding>
+   <binding name="date"><literal>19790731</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Disciplina della informazione sessuale nelle scuole statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>70</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Norme per l&#39;impiego volontario del tempo libero dei militari in opere di pubblica utilità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>71</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Norme per la comunicazione al Parlamento di informazioni in materia di politica militare, con accesso alle informazioni riservate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>72</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Norme per la creazione di un Istituto per le analisi quantitative nella difesa e per l&#39;impiego di giovani laureati di leva in compiti di ricerca</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>73</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Agevolazioni per l&#39;inserimento nel mondo del lavoro per i giovani che compiono il servizio di leva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>74</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Norme per la istituzione di un gruppo di consulenza specialistica a disposizione del Ministro della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>75</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Istituzione della Rappresentanza per i pensionati militari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>76</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Istituzione di un &quot;semestre sabbatico&quot; per favorire l&#39;aggiornamento culturale dei militari di carriera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>77</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Norme per rinnovare le strutture delle caserme</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>78</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Disposizioni in favore dei militari del Corpo della guardia di finanza in particolari situazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>80</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Norme per l&#39;istituzione di commissioni paritetiche composte da rappresentanti delle Forze armate e degli enti locali per la risoluzione dei problemi riguardanti l&#39;insediamento di istallazioni militari nel territorio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>86</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Estensione dei benefici combattentistici ai dipendenti da aziende private ed ai lavoratori autonomi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>145</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Riordinamento dell&#39;istituto della pubblica sicurezza. Istituzione del servizio civile denominato &quot;Corpo di polizia della Repubblica italiana&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1607</literal></binding>
+   <binding name="date"><literal>19800417</literal></binding>
+   <binding name="title"><literal>CARPINO ed altri: Norme in materia di indennità spettante ai periti, consulenti tecnici, interpreti e traduttori per le operazioni eseguite a richiesta dell&#39;autorità giudiziaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1908</literal></binding>
+   <binding name="date"><literal>19800723</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Interpretazione autentica dell&#39;articolo 1-bis, del decreto-legge 23 dicembre 1978, n. 814, convertito con modificazioni nella legge 19 febbraio 1979, n. 52, concernente proroga del termine previsto dagli articoli 15 e 17 della legge 10 dicembre 1973, n. 804, per il collocamento in aspettativa per riduzione di quadri degli ufficiali delle Forze armate e dei Corpi di polizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2028</literal></binding>
+   <binding name="date"><literal>19800925</literal></binding>
+   <binding name="title"><literal>CARPINO e ALBERINI: Norme per l&#39;unificazione e il riordinamento dei ruoli normali, speciali e di complemento degli ufficiali dell&#39;esercito, della marina e dell&#39;aeronautica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2213</literal></binding>
+   <binding name="date"><literal>19801216</literal></binding>
+   <binding name="title"><literal>DE CINQUE ed altri: Modifica dell&#39;articolo 299 del codice civile concernente il cognome dell&#39;adottato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>287</literal></binding>
+   <binding name="date"><literal>19790710</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Regolamentazione della posizione assicurativa delle aziende artigiane presso l&#39;INAIL</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3155</literal></binding>
+   <binding name="date"><literal>19820211</literal></binding>
+   <binding name="title"><literal>SUSI ed altri: Istituzione di università statali degli studi in Abruzzo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>557</literal></binding>
+   <binding name="date"><literal>19790811</literal></binding>
+   <binding name="title"><literal>TOCCO ed altri: Abrogazione della rilevanza penale della causa d&#39;onore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>643</literal></binding>
+   <binding name="date"><literal>19791003</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Nuove norme concernenti agevolazioni creditizie per l&#39;autotrasporto merci per conto di terzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>69</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>ACCAME ed altri: Promozione al grado superiore a titolo onorifico degli ufficiali e sottufficiali, di carriera e non, che hanno partecipato alla guerra di liberazione in Italia o all&#39;estero nelle unità partigiane o nelle formazioni regolari delle forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>735</literal></binding>
+   <binding name="date"><literal>19791016</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Riforma degli istituti dell&#39;adozione e dell&#39;affidamento e soppressione dell&#39;istituto dell&#39;affiliazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>79</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>ACCAME ed altri: Nuovi livelli di carriera per ufficiali e sottufficiali e nuova denominazione degli stessi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>965</literal></binding>
+   <binding name="date"><literal>19791115</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Modifica dell&#39;articolo 15 del testo unico 16 maggio 1960, n. 570, dell&#39;articolo 10 della legge 8 marzo 1951, n. 122, e dell&#39;articolo 5 della legge 17 febbraio 1968, n. 108, riguardanti i casi di ineleggibilità a consigliere comunale, provinciale e regionale</literal></binding>
+  </result>
+ </results>
+</sparql>

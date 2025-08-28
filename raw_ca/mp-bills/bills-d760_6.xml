@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2968</literal></binding>
+   <binding name="date"><literal>19740522</literal></binding>
+   <binding name="title"><literal>BERNINI ed altri: Riordinamento dei servizi marittimi convenzionati di carattere locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1169</literal></binding>
+   <binding name="date"><literal>19721117</literal></binding>
+   <binding name="title"><literal>TRIVA ed altri: Provvedimenti straordinari per il ripiano dei bilanci comunicali e provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>184</literal></binding>
+   <binding name="date"><literal>19720530</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Disciplina degli enti di gestione delle partecipazioni statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4410</literal></binding>
+   <binding name="date"><literal>19760402</literal></binding>
+   <binding name="title"><literal>MIGNANI ed altri: Commissione per il riesame delle pratiche di pensione di guerra respinte per insufficiente documentazione sulla causa bellica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>222</literal></binding>
+   <binding name="date"><literal>19720607</literal></binding>
+   <binding name="title"><literal>CARDIA ed altri: Nuove norme concernenti la programmazione dell&#39;attività, la disciplina e il finanziamento dell&#39;Ente di gestione per le aziende minerarie (EGAM)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>698</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>ARZILLI ed altri: Ulteriore contributo dello Stato per la costruzione di un bacino di carenaggio nel porto di Livorno</literal></binding>
+  </result>
+ </results>
+</sparql>

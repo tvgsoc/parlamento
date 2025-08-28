@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>309</literal></binding>
+   <binding name="date"><literal>19630726</literal></binding>
+   <binding name="title"><literal>NOVELLA ed altri: Istituzione degli Enti regionali di sviluppo e riforma dei patti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1961</literal></binding>
+   <binding name="date"><literal>19641222</literal></binding>
+   <binding name="title"><literal>SCIONTI ed altri: Ordinamento degli istituti di istruzione e di formazione tecnica e professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2595</literal></binding>
+   <binding name="date"><literal>19650827</literal></binding>
+   <binding name="title"><literal>JACOMETTI ed altri: Ordinamento dei circoli ricreativi e culturali, delle loro associazioni nazionali e istituzione dell&#39;E.N.A.R.C. (Ente Nazionale Attività Ricreative e Culturali)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3522</literal></binding>
+   <binding name="date"><literal>19661022</literal></binding>
+   <binding name="title"><literal>TOGNONI ed altri: Revisione di norme e regolamenti che sanciscono la facoltà  di capitalizzazione del trattamento pensionistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4</literal></binding>
+   <binding name="date"><literal>19630516</literal></binding>
+   <binding name="title"><literal>PAJETTA ed altri: Norme per la elezione dei Consigli regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>750</literal></binding>
+   <binding name="date"><literal>19641108</literal></binding>
+   <binding name="title"><literal>SANTI ed altri: Miglioramenti dei trattamenti di pensione e riforma dell&#39;assicurazione per l&#39;invalidità, la vecchiaia e i superstiti</literal></binding>
+  </result>
+ </results>
+</sparql>

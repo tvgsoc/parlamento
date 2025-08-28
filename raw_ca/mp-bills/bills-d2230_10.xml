@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2339</literal></binding>
+   <binding name="date"><literal>19880212</literal></binding>
+   <binding name="title"><literal>DE MITA ed altri: Disciplina organica dell&#39;intervento straordinario per lo sviluppo economico e sociale della Sardegna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>335</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>DE MITA ed altri: Interventi infrastrutturali e riqualificazione urbanistica per la città di Genova</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4759</literal></binding>
+   <binding name="date"><literal>19900417</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Contributi alle imprese radiofoniche private che abbiano svolto attività di informazione di interesse generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5440</literal></binding>
+   <binding name="date"><literal>19910207</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Linee di indirizzo per una politica per la famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5867</literal></binding>
+   <binding name="date"><literal>19910720</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Modifiche al testo unico delle leggi recanti norme per le elezione della Camera dei deputati, approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e alla legge 6 febbraio 1948, n. 29, recante norme per la elezione del Senato della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5868</literal></binding>
+   <binding name="date"><literal>19910720</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Modifica degli articoli 88, 92, 93, 94 e 95 e introduzione degli articoli 70-bis e 77-bis della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1422</literal></binding>
+   <binding name="date"><literal>19870806</literal></binding>
+   <binding name="title"><literal>GARAVAGLIA ed altri: Nuove norme per la prevenzione e la cura delle tossicodipendenze, per il recupero dei tossicodipendenti, per la prevenzione e repressione dei traffici illeciti di sostanze stupefacenti e psicotrope</literal></binding>
+  </result>
+ </results>
+</sparql>

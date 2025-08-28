@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>179</literal></binding>
+   <binding name="date"><literal>19680709</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Riconoscimento delle risultanze economiche delle gestioni di ammasso e d&#39;importazione di cereali e di altri prodotti agricoli svolte per conto e nell&#39;interesse dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3977</literal></binding>
+   <binding name="date"><literal>19720127</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Norme modificative della disciplina delle società per azioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>214</literal></binding>
+   <binding name="date"><literal>19680717</literal></binding>
+   <binding name="title"><literal>BALLARDINI ed altri: Abrogazione dell&#39;articolo 603 del codice penale (plagio)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2673</literal></binding>
+   <binding name="date"><literal>19700723</literal></binding>
+   <binding name="title"><literal>MALAGUGINI ed altri: Istituzione di una commissione di inchiesta parlamentare sul comportamento degli organi e servizi statali in relazione agli attentati terroristici, consumati e tentati nel territorio nazionale nel corso dell&#39;anno 1969, con particolare riferimento alla strage di Milano del 12 dicembre 1969</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3522</literal></binding>
+   <binding name="date"><literal>19710713</literal></binding>
+   <binding name="title"><literal>SCALFARI ed altri: Giudizio di conformità costituzionale delle materie oggetto di referendum abrogativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Casi di scioglimento del matrimonio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2780</literal></binding>
+   <binding name="date"><literal>19701023</literal></binding>
+   <binding name="title"><literal>BALLARDINI ed altri: Istituzione del servizio civile alternativo del servizio militare per la valle del Belice</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>81</literal></binding>
+   <binding name="date"><literal>19680618</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Delega al Presidente della Repubblica per la concessione di amnistia per i reati commessi in occasione delle agitazioni studentesche e sindacali</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4135</literal></binding>
+   <binding name="date"><literal>19751126</literal></binding>
+   <binding name="title"><literal>PERDONÀ ed altri: Istituzione dell&#39;Università degli studi di Verona</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4046</literal></binding>
+   <binding name="date"><literal>19751008</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Ordinamento della professione di commercialista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4111</literal></binding>
+   <binding name="date"><literal>19751112</literal></binding>
+   <binding name="title"><literal>LA LOGGIA ed altri: Costituzione dell&#39;Azienda speciale dello Stato per i tabacchi ed i sali italiani e norme sul trasferimento alla medesima delle attribuzioni e del personale dell&#39;Amministrazione autonoma dei monopoli di Stato, nonché dei beni mobili ed immobili già ad essa assegnati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4144</literal></binding>
+   <binding name="date"><literal>19751127</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Norme in materia urbanistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4300</literal></binding>
+   <binding name="date"><literal>19760129</literal></binding>
+   <binding name="title"><literal>MARZOTTO CAOTORTA ed altri: Modifica all&#39;articolo 1 del decreto-legge 8 luglio 1974, n. 261, convertito con modificazioni nella legge 14 agosto 1974, n. 355, recante modificazioni alle leggi 24 maggio 1970, n. 336, e 9 ottobre 1971, n. 824, concernenti norme a favore dei dipendenti dello Stato ed enti pubblici ex combattenti ed assimilati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4392</literal></binding>
+   <binding name="date"><literal>19760325</literal></binding>
+   <binding name="title"><literal>MIOTTI CARLI ed altri: Estensione agli ufficiali in servizio permanente effettivo del ruolo speciale unico di taluni benefici previsti per i dipendenti civili dello Stato. Modifica dell&#39;articolo 2 della legge 2 dicembre 1975, n. 626, concernente il riordinamento del ruolo speciale unico</literal></binding>
+  </result>
+ </results>
+</sparql>

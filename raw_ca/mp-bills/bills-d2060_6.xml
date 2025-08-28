@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2438</literal></binding>
+   <binding name="date"><literal>19731025</literal></binding>
+   <binding name="title"><literal>D&#39;AREZZO e SPERANZA: Disciplina delle operazioni di locazione finanziaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1343</literal></binding>
+   <binding name="date"><literal>19721215</literal></binding>
+   <binding name="title"><literal>MICHELI ed altri: Norme per l&#39;incentivazione della selvicoltura da parte di enti pubblici e di privati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1739</literal></binding>
+   <binding name="date"><literal>19730223</literal></binding>
+   <binding name="title"><literal>AMODIO ed altri: Istituzione di una corte d&#39;appello in Salerno e trasferimento della pretura di Sapri alla circoscrizione del tribunale di Sala Consilina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3667</literal></binding>
+   <binding name="date"><literal>19750409</literal></binding>
+   <binding name="title"><literal>CUMINETTI ed altri: Previdenza degli imprenditori industriali - Iscrizione facoltativa alla previdenza dei dirigenti di aziende industriali di cui alla legge 27 dicembre 1953, n. 967, e successive modificazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3928</literal></binding>
+   <binding name="date"><literal>19750715</literal></binding>
+   <binding name="title"><literal>CERVONE ed altri: Riforma dell&#39;ordinamento della scuola secondaria superiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4046</literal></binding>
+   <binding name="date"><literal>19751008</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Ordinamento della professione di commercialista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4342</literal></binding>
+   <binding name="date"><literal>19760226</literal></binding>
+   <binding name="title"><literal>DAL MASO ed altri: Norme relative alla professione di geometra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4386</literal></binding>
+   <binding name="date"><literal>19760318</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Principi fondamentali in materia di formazione professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4501</literal></binding>
+   <binding name="date"><literal>19760428</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Riforma della legge 24 dicembre 1969, n. 990, sull&#39;assicurazione obbligatoria dei veicoli a motore e dei natanti per la responsabilità civile verso i terzi di cui all&#39;articolo 2054 del codice civile</literal></binding>
+  </result>
+ </results>
+</sparql>

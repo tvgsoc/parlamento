@@ -1,0 +1,94 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2551</literal></binding>
+   <binding name="date"><literal>19930421</literal></binding>
+   <binding name="title"><literal>ALBERINI: Riapertura della casa da gioco di Gardone Riviera ed istituzione di una casa da gioco a S. Pellegrino Terme</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2557</literal></binding>
+   <binding name="date"><literal>19930422</literal></binding>
+   <binding name="title"><literal>ALBERINI ed altri: Istituzione della Confederazione italiana delle associazioni venatorie aderenti al CONI</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1708</literal></binding>
+   <binding name="date"><literal>19921010</literal></binding>
+   <binding name="title"><literal>MELELEO ed altri: Disciplina dell&#39;impiego delle tecnologie dell&#39;informazione nelle amministrazioni pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1887</literal></binding>
+   <binding name="date"><literal>19921113</literal></binding>
+   <binding name="title"><literal>CERUTTI ed altri: Istituzione del Corpo di polizia ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1894</literal></binding>
+   <binding name="date"><literal>19921116</literal></binding>
+   <binding name="title"><literal>TASSONE ed altri: Norme per la dismissione di beni del demanio militare e realizzazione di un piano per la costruzione di apprestamenti infrastrutturali delle Forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1895</literal></binding>
+   <binding name="date"><literal>19921116</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Norme sul servizio militare volontario femminile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1929</literal></binding>
+   <binding name="date"><literal>19921120</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Ordinamento della professione di statistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1939</literal></binding>
+   <binding name="date"><literal>19921124</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Riforma del collocamento obbligatorio per tutte le categorie di invalidi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2265</literal></binding>
+   <binding name="date"><literal>19930217</literal></binding>
+   <binding name="title"><literal>PISCITELLO ed altri: Abolizione della pena di morte nel codice penale militare di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2478</literal></binding>
+   <binding name="date"><literal>19930330</literal></binding>
+   <binding name="title"><literal>FILIPPINI ed altri: Istituzione del Servizio nazionale per la protezione ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2804</literal></binding>
+   <binding name="date"><literal>19930617</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Istituzione degli albi provinciali delle scuole per l&#39;istruzione e la formazione dei conducenti e per l&#39;educazione stradale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2806</literal></binding>
+   <binding name="date"><literal>19930617</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Norme per l&#39;assunzione, tramite concorso, presso il Ministero della difesa di talune categorie di personale dipendente da ditte appaltatrici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2807</literal></binding>
+   <binding name="date"><literal>19930617</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Legge quadro in materia di navigazione a motore sui laghi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3016</literal></binding>
+   <binding name="date"><literal>19930804</literal></binding>
+   <binding name="title"><literal>QUATTROCCHI ed altri: Norme in materia di inquadramento dei tecnici laureati nel ruolo dei professori universitari associati</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>142</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>ANDREATTA ed altri: Norme sulla parità delle scuole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>144</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>ANDREATTA ed altri: Norme per una politica della famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>147</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>ANDREATTA ed altri: Promozione dell&#39;anno di volontariato sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1857</literal></binding>
+   <binding name="date"><literal>19950111</literal></binding>
+   <binding name="title"><literal>FUSCAGNI ed altri: Modifiche alla legge 11 febbraio 1994, n. 109, &quot;Legge quadro in materia di lavori pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2576</literal></binding>
+   <binding name="date"><literal>19950523</literal></binding>
+   <binding name="title"><literal>AMICI ed altri: Norme contro la violenza sessuale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2970</literal></binding>
+   <binding name="date"><literal>19950727</literal></binding>
+   <binding name="title"><literal>VIETTI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche all&#39;articolo 138 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3774</literal></binding>
+   <binding name="date"><literal>19960131</literal></binding>
+   <binding name="title"><literal>PERETTI ed altri: Norme per la diffusione e la valorizzazione dell&#39;imprenditoria giovanile in agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3850</literal></binding>
+   <binding name="date"><literal>19960214</literal></binding>
+   <binding name="title"><literal>GIOVANARDI ed altri: Norme in materia di prevenzione degli infortuni domestici</literal></binding>
+  </result>
+ </results>
+</sparql>

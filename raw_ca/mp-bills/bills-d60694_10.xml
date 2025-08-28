@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5231</literal></binding>
+   <binding name="date"><literal>19901114</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Modifica dell&#39;articolo 94 della Costituzione in materia di dimissioni del Governo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6325</literal></binding>
+   <binding name="date"><literal>19920122</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Istituzione, in Firenze, dell&#39;Istituto per lo studio del medioevo latino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4988</literal></binding>
+   <binding name="date"><literal>19900724</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Ordinamento della professione di assistente sociale e istituzione dell&#39;Albo professionale degli assistenti sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3021</literal></binding>
+   <binding name="date"><literal>19880715</literal></binding>
+   <binding name="title"><literal>MARTINAZZOLI ed altri: Istituzione dell&#39;assegno sociale e perequazione delle pensioni integrate al minimo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3465</literal></binding>
+   <binding name="date"><literal>19881220</literal></binding>
+   <binding name="title"><literal>ZOLLA ed altri: Nuovo ordinamento del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3466</literal></binding>
+   <binding name="date"><literal>19881220</literal></binding>
+   <binding name="title"><literal>ZOLLA ed altri: Istituzione della &quot;Medaglia al merito di lungo comando&quot; per gli ufficiali e sottufficiali del Corpo forestale dello Stato e della &quot;Croce di anzianità di servizio&quot; per gli ufficiali, sottufficiali, guardie scelte e guardie del Corpo medesimo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4759</literal></binding>
+   <binding name="date"><literal>19900417</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Contributi alle imprese radiofoniche private che abbiano svolto attività di informazione di interesse generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4832</literal></binding>
+   <binding name="date"><literal>19900522</literal></binding>
+   <binding name="title"><literal>CRESCENZI ed altri: Norme di tutela del ruolo materno nella funzione educativa e sociale della famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5440</literal></binding>
+   <binding name="date"><literal>19910207</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Linee di indirizzo per una politica per la famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5916</literal></binding>
+   <binding name="date"><literal>19910801</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Disposizioni urgenti sulla gestione del Fondo speciale per la cooperazione allo sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6191</literal></binding>
+   <binding name="date"><literal>19911213</literal></binding>
+   <binding name="title"><literal>TESINI ed altri: Legge quadro sulla educazione permanente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5906</literal></binding>
+   <binding name="date"><literal>19910731</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Norme per la collaborazione dell&#39;Italia con i Paesi dell&#39;Europa centrale e orientale</literal></binding>
+  </result>
+ </results>
+</sparql>

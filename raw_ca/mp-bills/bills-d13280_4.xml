@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2748</literal></binding>
+   <binding name="date"><literal>19651111</literal></binding>
+   <binding name="title"><literal>MAROTTA e LEONE: Norme integrative dell&#39;articolo 11 della legge 28 luglio 1961, n. 831 a favore dei mutilati ed invalidi di guerra ed assimilati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2749</literal></binding>
+   <binding name="date"><literal>19651101</literal></binding>
+   <binding name="title"><literal>MAROTTA e LEONE: Norme integrative dell&#39;articolo 21 della legge 28 luglio 1961, n. 831, modificato con la legge 27 ottobre 1964, n. 1105, ai fini della partecipazione a concorsi speciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2165</literal></binding>
+   <binding name="date"><literal>19650311</literal></binding>
+   <binding name="title"><literal>TANTALO ed altri: Istituzione dell&#39;Ordine &quot;al merito dello Sport italiano&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2167</literal></binding>
+   <binding name="date"><literal>19650311</literal></binding>
+   <binding name="title"><literal>TANTALO ed altri: Istituzione della Cassa nazionale di previdenza e di assistenza per gli atleti ed i tecnici tesserati delle Federazioni sportive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2308</literal></binding>
+   <binding name="date"><literal>19650430</literal></binding>
+   <binding name="title"><literal>DE MARZI ed altri: Provvedimenti a favore della cooperazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2425</literal></binding>
+   <binding name="date"><literal>19650603</literal></binding>
+   <binding name="title"><literal>ABATE ed altri: Determinazione della indennità spettante ai membri del Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3926</literal></binding>
+   <binding name="date"><literal>19670317</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Premio di fedeltà ai componenti attivi di famiglie coltivatrici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4178</literal></binding>
+   <binding name="date"><literal>19670623</literal></binding>
+   <binding name="title"><literal>BARBI ed altri: Modificazioni ed integrazioni dell&#39;articolo 6 della legge 14 febbraio 1963, n. 60, concernente la liquidazione del patrimonio edilizio della Gestione INA-Casa e dell&#39;articolo 40 del decreto del Presidente della Repubblica 11 ottobre 1963, n. 1471, concernente il Regolamento di attuazione della legge medesima</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4956</literal></binding>
+   <binding name="date"><literal>19680304</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>47</literal></binding>
+   <binding name="date"><literal>19630528</literal></binding>
+   <binding name="title"><literal>VILLA ed altri: Concessione agli ex combattenti che abbiano maturato il 60° anno di età di una pensione per la vecchiaia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>801</literal></binding>
+   <binding name="date"><literal>19631204</literal></binding>
+   <binding name="title"><literal>PINTUS ed altri: Modificazioni allo stato giuridico ed all&#39;ordinamento della carriera dei segretari comunali e provinciali</literal></binding>
+  </result>
+ </results>
+</sparql>

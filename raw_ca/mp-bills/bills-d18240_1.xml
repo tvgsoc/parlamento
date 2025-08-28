@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3182</literal></binding>
+   <binding name="date"><literal>19530210</literal></binding>
+   <binding name="title"><literal>CINCIARI RODANO ed altri: Norme per la sospensione della esecuzione degli sfratti dagli immobili adibiti ad uso di abitazione compresi nel territorio del comune di Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1093</literal></binding>
+   <binding name="date"><literal>19500213</literal></binding>
+   <binding name="title"><literal>CARONIA ed altri: Sospensione degli sfratti per case di abitazione, nel comune di Roma, durante l&#39;Anno Santo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1097</literal></binding>
+   <binding name="date"><literal>19500214</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Proroga di contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1122</literal></binding>
+   <binding name="date"><literal>19500224</literal></binding>
+   <binding name="title"><literal>LECCISO ed altri: Rinnovazione graduale del patrimonio immobiliare dell&#39;Istituto nazionale per le case degli impiegati dello Stato e degli Istituti similari al fine di incrementare le nuove costruzioni, e disciplina di alcuni rapporti fra gli stessi enti e i loro inquilini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2323</literal></binding>
+   <binding name="date"><literal>19511120</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Provvedimenti straordinari a favore dell&#39;Opera Nazionale Maternità e Infanzia per assistere i bambini delle zone alluvionate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2545</literal></binding>
+   <binding name="date"><literal>19520303</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Disposizioni per la tutela fisica ed economica delle lavoratrici madri dipendenti dallo Stato e dagli altri Enti pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3188</literal></binding>
+   <binding name="date"><literal>19530211</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Abolizione dell&#39;imposta di consumo sui vini comuni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>32</literal></binding>
+   <binding name="date"><literal>19480614</literal></binding>
+   <binding name="title"><literal>NOCE LONGO ed altri: Per la tutela della maternità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>34</literal></binding>
+   <binding name="date"><literal>19480625</literal></binding>
+   <binding name="title"><literal>MARCHESI ed altri: Nomina di una Commissione di inchiesta parlamentare sulle condizioni delle scuole e degli istituti privati di istruzione media legalmente riconosciuti</literal></binding>
+  </result>
+ </results>
+</sparql>

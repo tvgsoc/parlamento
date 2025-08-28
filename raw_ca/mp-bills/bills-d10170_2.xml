@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1178</literal></binding>
+   <binding name="date"><literal>19541015</literal></binding>
+   <binding name="title"><literal>SACCENTI ed altri: Esenzione dal pagamento dell&#39;imposta generale sull&#39;entrata sui proventi derivanti dalla gestione di posteggi di cicli, motocicli ed automobili gestiti da Associazioni combattentistiche erette in Enti morali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>101</literal></binding>
+   <binding name="date"><literal>19530822</literal></binding>
+   <binding name="title"><literal>MONTELATICI ed altri: Sospensione degli sfratti da immobili adibiti ad uso di abitazione nel territorio del comune e della provincia di Firenze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1056</literal></binding>
+   <binding name="date"><literal>19540723</literal></binding>
+   <binding name="title"><literal>SCOTTI ed altri: Disposizioni a favore dei combattenti antifranchisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2990</literal></binding>
+   <binding name="date"><literal>19570627</literal></binding>
+   <binding name="title"><literal>BARBIERI ed altri: Contributo per la biblioteca ed il museo leonardeschi di Vinci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>33</literal></binding>
+   <binding name="date"><literal>19530725</literal></binding>
+   <binding name="title"><literal>PIERACCINI ed altri: Concessione di una pensione ai ciechi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>725</literal></binding>
+   <binding name="date"><literal>19540324</literal></binding>
+   <binding name="title"><literal>BARBIERI ed altri: Provvedimenti a favore della città di Firenze</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1142</literal></binding>
+   <binding name="date"><literal>19500308</literal></binding>
+   <binding name="title"><literal>MELLONI ed altri: Concessione di pensione straordinaria alle vedove di Giuseppe Donati e di Adriano Tilgher</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2078</literal></binding>
+   <binding name="date"><literal>19510710</literal></binding>
+   <binding name="title"><literal>LUCIFREDI ed altri: Disposizioni integrative della legge 10 agosto 1950, n. 647, per l&#39;esecuzione di opere straordinarie di pubblico interesse nell&#39;Italia settentrionale e centrale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2856</literal></binding>
+   <binding name="date"><literal>19520718</literal></binding>
+   <binding name="title"><literal>LIGUORI ed altri: Modificazioni concernenti l&#39;ordinamento dell&#39;imposta di soggiorno ed il credito alberghiero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3112</literal></binding>
+   <binding name="date"><literal>19521223</literal></binding>
+   <binding name="title"><literal>LONGHENA ed altri: Applicazione in favore dell&#39;Associazione italiana della Croce Rossa di un contributo sui premi di alcune assicurazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>699</literal></binding>
+   <binding name="date"><literal>19490716</literal></binding>
+   <binding name="title"><literal>LUCIFREDI ed altri: Proroga del termine per l&#39;effettuazione delle elezioni dei Consigli regionali e degli organi elettivi delle amministrazioni provinciali</literal></binding>
+  </result>
+ </results>
+</sparql>

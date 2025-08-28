@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1759</literal></binding>
+   <binding name="date"><literal>19591126</literal></binding>
+   <binding name="title"><literal>COGGIOLA ed altri: Provvedimenti riguardanti le aziende municipalizzate dei trasporti urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2605</literal></binding>
+   <binding name="date"><literal>19601125</literal></binding>
+   <binding name="title"><literal>COGGIOLA ed altri: Norme per la rivalutazione, a difesa dei risparmiatori, dei titoli e delle obbligazioni con reddito fisso a medio e lungo termine di futura emissione in riferimento all&#39;indice nazionale del costo della vita</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1752</literal></binding>
+   <binding name="date"><literal>19591125</literal></binding>
+   <binding name="title"><literal>PELLEGRINO ed altri: Estensione ai dipendenti degli Enti locali del diritto di usufruire della concessione ferroviaria speciale D</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1780</literal></binding>
+   <binding name="date"><literal>19591202</literal></binding>
+   <binding name="title"><literal>SULOTTO ed altri: Corresponsione di un assegno per la festa natalizia da parte dell&#39;Istituto nazionale della previdenza sociale ai lavoratori tubercolotici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2101</literal></binding>
+   <binding name="date"><literal>19600317</literal></binding>
+   <binding name="title"><literal>BARBIERI ed altri: Inchiesta parlamentare sulla situazione degli ospedali e case di cura in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2155</literal></binding>
+   <binding name="date"><literal>19600513</literal></binding>
+   <binding name="title"><literal>BARBIERI ed altri: Disciplina della raccolta, conservazione, distribuzione e trasfusione del sangue umano e riconoscimento della funzione civica e sociale delle Associazioni di donatori di sangue</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2765</literal></binding>
+   <binding name="date"><literal>19610131</literal></binding>
+   <binding name="title"><literal>VILLA ed altri: Ricostruzione della linea ferroviaria Cuneo-Breil sur Roya-Ventimiglia e autorizzazione della spesa occorrente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2774</literal></binding>
+   <binding name="date"><literal>19610201</literal></binding>
+   <binding name="title"><literal>CASTAGNO ed altri: Sospensione temporanea della disponibilità dell&#39;immobile ex Casa del Fascio sito in Chivasso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4570</literal></binding>
+   <binding name="date"><literal>19630201</literal></binding>
+   <binding name="title"><literal>VACCHETTA ed altri: Provvedimenti in favore dell&#39;Ente morale &quot;Alleanza cooperativa torinese&quot;</literal></binding>
+  </result>
+ </results>
+</sparql>

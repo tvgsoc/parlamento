@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4565</literal></binding>
+   <binding name="date"><literal>19630131</literal></binding>
+   <binding name="title"><literal>FERRARI AGGRADI ed altri: Determinazione del reddito imponibile, agli effetti del tributo edilizio, di fabbricati a destinazione speciale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2998</literal></binding>
+   <binding name="date"><literal>19610504</literal></binding>
+   <binding name="title"><literal>GUERRIERI ed altri: Contributo straordinario dello Stato per l&#39;erezione in Verona di un monumento a ricordo dei caduti della Divisione &quot;Acqui&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3417</literal></binding>
+   <binding name="date"><literal>19611117</literal></binding>
+   <binding name="title"><literal>GAGLIARDI ed altri: Autorizzazione alla spesa di lire 675.000.000 a titolo di contributo statale per la Basilica di San Marco in Venezia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3581</literal></binding>
+   <binding name="date"><literal>19620125</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Modificazioni al regio decreto 18 novembre 1923, n. 2440, relativamente all&#39;anno finanziario, ai rendiconti consuntivi ed ai bilanci preventivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4460</literal></binding>
+   <binding name="date"><literal>19630117</literal></binding>
+   <binding name="title"><literal>GAGLIARDI ed altri: Modifiche all&#39;articolo 17 della legge 31 marzo 1956, n. 294, per quanto concerne la concessione di mutui al comune di Venezia e all&#39;articolo 300 del testo unico della legge comunale e provinciale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3909</literal></binding>
+   <binding name="date"><literal>19620627</literal></binding>
+   <binding name="title"><literal>GAGLIARDI ed altri: Nuovo ampliamento del porto e zona industriale di Venezia</literal></binding>
+  </result>
+ </results>
+</sparql>

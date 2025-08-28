@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1346</literal></binding>
+   <binding name="date"><literal>19770405</literal></binding>
+   <binding name="title"><literal>PAGLIAI ed altri: Modifica dell&#39;articolo 1, comma secondo, della legge 4 febbraio 1977, n. 21 &quot;Norme riguardanti i contratti e gli assegni biennali di cui agli articoli 5 e 6 del decreto-legge 1^ ottobre 1973, n. 580, convertito con modificazioni nella legge 30 novembre 1973, n. 766&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1004</literal></binding>
+   <binding name="date"><literal>19770112</literal></binding>
+   <binding name="title"><literal>LODI FAUSTINI FUSTINI ed altri: Norme per l&#39;inserimento dei ragazzi handicappati fisici, psichici, sensoriali negli istituti statali ordinari di istruzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1169</literal></binding>
+   <binding name="date"><literal>19770217</literal></binding>
+   <binding name="title"><literal>BERLINGUER ed altri: Norme per il coordinamento e sviluppo della ricerca scientifica e tecnologica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1323</literal></binding>
+   <binding name="date"><literal>19770331</literal></binding>
+   <binding name="title"><literal>PELLEGATTA ed altri: Nuove norme sul funzionamento della scuola materna statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2801</literal></binding>
+   <binding name="date"><literal>19790322</literal></binding>
+   <binding name="title"><literal>BRUSCA ed altri: Istituzione delle scuole di medicina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>493</literal></binding>
+   <binding name="date"><literal>19760930</literal></binding>
+   <binding name="title"><literal>GIANNANTONI ed altri: Norme sul corpo accademico, sulla elezione dei rettori dell&#39;università e dei presidi di facoltà e sulla durata del mandato dei rappresentanti eletti nelle università</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>509</literal></binding>
+   <binding name="date"><literal>19761005</literal></binding>
+   <binding name="title"><literal>BINI ed altri: Iniziative per l&#39;informazione sui problemi della sessualità nella scuola pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1068</literal></binding>
+   <binding name="date"><literal>19770126</literal></binding>
+   <binding name="title"><literal>RAICICH ed altri: Norme generali sull&#39;istruzione. Ordinamento della scuola secondaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>604</literal></binding>
+   <binding name="date"><literal>19761015</literal></binding>
+   <binding name="title"><literal>PELLEGATTA ed altri: Nuove norme sul calendario scolastico e misure per il funzionamento della scuola e per la qualificazione dell&#39;organizzazione didattica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>714</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>CHIARANTE ed altri: Principi in materia di formazione professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>719</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>FABBRI SERONI ed altri: Norme contro la discriminazione nei confronti della donna in materia di assunzioni, di mansioni e di svolgimento di carriera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>781</literal></binding>
+   <binding name="date"><literal>19761117</literal></binding>
+   <binding name="title"><literal>VAGLI ed altri: Elevazione del limite massimo di età per accedere ai pubblici concorsi</literal></binding>
+  </result>
+ </results>
+</sparql>

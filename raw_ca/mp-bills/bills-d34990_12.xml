@@ -1,0 +1,430 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2128</literal></binding>
+   <binding name="date"><literal>19950302</literal></binding>
+   <binding name="title"><literal>ALEMANNO ed altri: Norme sull&#39;impianto e sull&#39;esercizio delle stazioni di radioamatore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3300</literal></binding>
+   <binding name="date"><literal>19951024</literal></binding>
+   <binding name="title"><literal>ALEMANNO ed altri: Disciplina delle attività subacquee ed iperbariche professionali e norme per la prevenzione degli infortuni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3508</literal></binding>
+   <binding name="date"><literal>19951130</literal></binding>
+   <binding name="title"><literal>ALEMANNO ed altri: Norme in favore delle popolazioni colpite dall&#39;alluvione in Toscana dei mesi di ottobre e di novembre 1992</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3535</literal></binding>
+   <binding name="date"><literal>19951206</literal></binding>
+   <binding name="title"><literal>ALEMANNO ed altri: Norme per la celebrazione del bicentenario delle insorgenze antigiacobine in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3620</literal></binding>
+   <binding name="date"><literal>19951227</literal></binding>
+   <binding name="title"><literal>ALEMANNO ed altri: Introduzione dell&#39;articolo 2-bis della legge 24 dicembre 1993, n. 560, recante norme in materia di alienazione degli alloggi di edilizia residenziale pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1051</literal></binding>
+   <binding name="date"><literal>19940727</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Istituzione della onorificenza di Cavaliere della patria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1060</literal></binding>
+   <binding name="date"><literal>19940728</literal></binding>
+   <binding name="title"><literal>BONO ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Scioglimento dell&#39;assemblea regionale siciliana. Modifiche allo Statuto della regione siciliana in materia di elezione del Presidente della regione nonché di nomina degli assessori regionali e relative incompatibilità. Introduzione di forme referendarie regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1136</literal></binding>
+   <binding name="date"><literal>19940804</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Provvedimenti urgenti per la razionale utilizzazione del parco veicolare esistente, ai fini del rapido miglioramento della mobilità e della qualità dell&#39;aria nei centri urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1284</literal></binding>
+   <binding name="date"><literal>19940921</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Norme in materia di revisione periodica degli autoveicoli circolanti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1285</literal></binding>
+   <binding name="date"><literal>19940921</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Norme in materia di caratteristiche ottimali dei combustibili convenzionali ai fini della riduzione delle emissioni nell&#39;atmosfera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1313</literal></binding>
+   <binding name="date"><literal>19940926</literal></binding>
+   <binding name="title"><literal>TARADASH ed altri: Nuovo ordinamento della professione giornalistica e istituzione della carta di identità professionale del giornalista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1359</literal></binding>
+   <binding name="date"><literal>19940929</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Norme per l&#39;integrazione nell&#39;industria del turismo del settore termale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>137</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per la celebrazione dell&#39;VIII centenario della nascita dell&#39;Imperatore Federico II di Svevia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>140</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione del Notiziario ufficiale dei comuni, delle province e delle unità sanitarie locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>141</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Esenzione dal pagamento dei contributi agricoli unificati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1475</literal></binding>
+   <binding name="date"><literal>19941019</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Disciplina delle competenze professionali dei geometri nei settori delle costruzioni, delle strutture e dell&#39;urbanistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1634</literal></binding>
+   <binding name="date"><literal>19941116</literal></binding>
+   <binding name="title"><literal>MORMONE ed altri: Norme in materia di imbarco su navi mercantili nazionali dei diplomati degli istituti tecnici nautici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1719</literal></binding>
+   <binding name="date"><literal>19941205</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Norme per l&#39;abolizione delle tasse automobilistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1859</literal></binding>
+   <binding name="date"><literal>19950111</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Norme per l&#39;installazione di purificatori d&#39;aria e di impianti di condizionamento nelle scuole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>189</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per l&#39;affidamento di incarichi professionali di progettazione, direzione dei lavori e collaudo di opere pubbliche da parte di unità sanitarie locali, comuni, province e regioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>190</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per l&#39;affidamento di incarichi professionali di consulenza ed assistenza legale da parte di unità sanitarie locali, comuni, province e regioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>192</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Divieto di bandire concorsi pubblici e gare di appalto nel mese di agosto e proroga dei termini che vengano a scadenza nello stesso mese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>193</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Disposizioni sul confezionamento e sulla commercializzazione dei vini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1946</literal></binding>
+   <binding name="date"><literal>19950131</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Legge quadro in materia di lavori pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>219</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>FINI ed altri: Istituzione di una Commissione parlamentare di inchiesta sul fenomeno della mafia e sulle altre associazioni criminali similari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2506</literal></binding>
+   <binding name="date"><literal>19950510</literal></binding>
+   <binding name="title"><literal>TATARELLA ed altri: Norme in favore dei soggetti che hanno contratto mutui in ECU o in altre monete apprezzatesi nei confronti della lira</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2604</literal></binding>
+   <binding name="date"><literal>19950530</literal></binding>
+   <binding name="title"><literal>PECORARO SCANIO ed altri: Modifica all&#39;articolo 1 del decreto-legge 31 dicembre 1991, n. 419, convertito, con modificazioni, dalla legge 18 febbraio 1992, n. 172, recante istituzione del Fondo di sostegno per le vittime di richieste estorsive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2671</literal></binding>
+   <binding name="date"><literal>19950614</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Norme per la tutela dell&#39;embrione e la dignità della procreazione assistita</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2739</literal></binding>
+   <binding name="date"><literal>19950622</literal></binding>
+   <binding name="title"><literal>FINI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 75 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2774</literal></binding>
+   <binding name="date"><literal>19950627</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Norme concernenti l&#39;attività di informazione scientifica sui farmaci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2790</literal></binding>
+   <binding name="date"><literal>19950628</literal></binding>
+   <binding name="title"><literal>NANIA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche all&#39;articolo 138 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>285</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>TATARELLA ed altri: Norme per l&#39;incentivazione degli investimenti nelle imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2872</literal></binding>
+   <binding name="date"><literal>19950712</literal></binding>
+   <binding name="title"><literal>NANIA ed altri: Norme per la parità di accesso ai mezzi di comunicazione di massa durante le campagne elettorali e referendarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>306</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per il riconoscimento dell&#39;indennità di missione ai dipendenti dello Stato, delle altre amministrazioni pubbliche, delle regioni e delle unità sanitarie locali che prestano servizio in regioni diverse da quelle di residenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>308</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione del Fondo di solidarietà per le future madri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>309</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sulla gestione del Consiglio nazionale delle ricerche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>311</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per garantire la gratuità dei mezzi di trasporto agli studenti pendolari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3162</literal></binding>
+   <binding name="date"><literal>19950926</literal></binding>
+   <binding name="title"><literal>STORACE ed altri: Modifica alle norme relative ai patti in deroga all&#39;equo canone per le sole abitazioni di proprietà pubblica, di banche, di enti e di assicurazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3179</literal></binding>
+   <binding name="date"><literal>19950927</literal></binding>
+   <binding name="title"><literal>SOSPIRI ed altri: Introduzione dell&#39;insegnamento dell&#39;educazione ambientale nei programmi scolastici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3187</literal></binding>
+   <binding name="date"><literal>19950928</literal></binding>
+   <binding name="title"><literal>STORACE ed altri: Norme per la trasparenza in materia di locazione di sedi per i partiti, i sindacati, i movimenti e le associazioni a sfondo politico nonchè per il censimento nazionale delle sedi stesse</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>319</literal></binding>
+   <binding name="date"><literal>19940421</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione dell&#39;anagrafe delle imprese del Meridione d&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>320</literal></binding>
+   <binding name="date"><literal>19940421</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione della graduatoria nazionale ad esaurimento dei concorrenti dichiarati idonei nei concorsi per le scuole elementari e materne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>321</literal></binding>
+   <binding name="date"><literal>19940421</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme in materia di sgravi contributivi a favore delle aziende a carattere stagionale del Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3301</literal></binding>
+   <binding name="date"><literal>19951024</literal></binding>
+   <binding name="title"><literal>PECORARO SCANIO ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica  dell&#39;articolo 66 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3309</literal></binding>
+   <binding name="date"><literal>19951025</literal></binding>
+   <binding name="title"><literal>NAPOLI ed altri: Disposizioni urgenti relative all&#39;Ente per le nuove tecnologie, l&#39;energia e l&#39;ambiente (ENEA)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3312</literal></binding>
+   <binding name="date"><literal>19951025</literal></binding>
+   <binding name="title"><literal>TOFANI ed altri: Norme per la liquidazione delle prestazioni previdenziali ed assistenziali il cui diritto sia riconosciuto a seguito di sentenze della Corte costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3333</literal></binding>
+   <binding name="date"><literal>19951031</literal></binding>
+   <binding name="title"><literal>TOFANI ed altri: Modifiche all&#39;articolo 1 della legge 24 dicembre 1993, n. 560, recante norme in materia di alienazione degli alloggi di edilizia residenziale pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3461</literal></binding>
+   <binding name="date"><literal>19951122</literal></binding>
+   <binding name="title"><literal>URSO ed altri: Concessione di indulto per le pene relative a reati commessi con finalità di terrorismo o di eversione dell&#39;ordinamento costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>360</literal></binding>
+   <binding name="date"><literal>19940426</literal></binding>
+   <binding name="title"><literal>BUONTEMPO ed altri: Modifiche alla legge 28 febbraio 1985, n. 47, e norme urgenti in materia di sanatoria edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>366</literal></binding>
+   <binding name="date"><literal>19940427</literal></binding>
+   <binding name="title"><literal>BUONTEMPO ed altri: Delega al Governo per l&#39;emanazione di norme in materia di rivalutazione degli assegni familiari e di reddito minimo garantito per le casalinghe e per i cittadini privi di qualsiasi reddito</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>367</literal></binding>
+   <binding name="date"><literal>19940427</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per la vigenza triennale dei contratti collettivi nazionali di lavoro stipulati per il personale delle Ferrovie dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>369</literal></binding>
+   <binding name="date"><literal>19940427</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per la tutela delle aree agricole esistenti nei centri urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>370</literal></binding>
+   <binding name="date"><literal>19940427</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per assicurare la funzionalità dei collegi inquirenti per i reati ministeriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>371</literal></binding>
+   <binding name="date"><literal>19940427</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sulla mancata applicazione della riserva del 2 per cento dell&#39;importo relativo alla costruzione di edifici pubblici da destinare ad opere d&#39;arte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>412</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Norme per il funzionamento delle Istituzioni scolastiche italiane d&#39;oltreoceano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>413</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Integrazione all&#39;articolo 83 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>414</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Norme per il funzionamento delle scuole italiane bilingui d&#39;America nonché dei corsi di lingua italiana per i discendenti degli emigrati italiani in America</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>415</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sui rapporti commerciali di società italiane e a capitale misto italiano e straniero con i Paesi dell&#39;est e sui finanziamenti e tangenti di intermediazione a enti e a partiti politici italiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>436</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per l&#39;affidamento della gestione dei beni culturali minori ad associazioni di volontariato, istituti scolastici, consigli di quartiere e cooperative giovanili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>437</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Riapertura dei termini per la presentazione di proposte di decorazioni al valore militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>438</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per la diffusione dell&#39;azionariato tra i dipendenti degli enti e delle società a partecipazione statale oggetto di provvedimenti di privatizzazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>439</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per favorire l&#39;azionariato degli utenti di servizi e forniture erogati da enti, aziende e società</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>440</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Modifica all&#39;articolo 1 della legge 23 dicembre 1986, n. 942, per il riconoscimento dell&#39;anzianità pregressa ai dipendenti dell&#39;ex Azienda autonoma delle Ferrovie dello Stato collocati in quiescenza nel periodo dal 2 luglio 1977 al 31 dicembre 1980</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>469</literal></binding>
+   <binding name="date"><literal>19940506</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche agli articoli 48, 56 e 57 della Costituzione per consentire il voto degli italiani all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>50</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Norme per l&#39;esercizio del diritto di voto all&#39;estero dei cittadini italiani residenti oltreconfine</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>504</literal></binding>
+   <binding name="date"><literal>19940512</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per la certificazione dei bilanci delle società esercenti attività sportiva calcistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>505</literal></binding>
+   <binding name="date"><literal>19940512</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Divieto di importazione di merci da Paesi extracomunitari nei quali non venga assicurato il rispetto dei diritti sociali fondamentali garantiti dalla Comunità europeo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>506</literal></binding>
+   <binding name="date"><literal>19940512</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Modifica dell&#39;articolo 4-bis del decreto-legge 9 dicembre 1986, n. 832, convertito, con modificazioni, dalla legge 6 febbraio 1987, n. 15, per garantire la continuità di destinazione di immobili aventi rilievo storico od architettonico destinati ad attività religiose, artistiche, culturali, scientifiche, commerciali ed artigianali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>528</literal></binding>
+   <binding name="date"><literal>19940517</literal></binding>
+   <binding name="title"><literal>BACCINI ed altri: Modifiche alla legge 28 febbraio 1985, n. 47, e norme urgenti in materia di sanatoria edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>802</literal></binding>
+   <binding name="date"><literal>19940629</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Modifiche alla legge 3 febbraio 1989, n. 39, concernente la disciplina della professione di mediatore</literal></binding>
+  </result>
+ </results>
+</sparql>

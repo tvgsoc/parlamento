@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>182</literal></binding>
+   <binding name="date"><literal>19760728</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Nuove norme sul funzionamento della scuola materna statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>382</literal></binding>
+   <binding name="date"><literal>19760826</literal></binding>
+   <binding name="title"><literal>BERNARDI ed altri: Ristrutturazione del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>184</literal></binding>
+   <binding name="date"><literal>19760728</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Norme in materia urbanistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>185</literal></binding>
+   <binding name="date"><literal>19760728</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Principi fondamentali in materia di formazione professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>255</literal></binding>
+   <binding name="date"><literal>19760805</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Modifiche alla legge 4 aprile 1964, n. 171, sulla disciplina della vendita delle carni fresche e congelate</literal></binding>
+  </result>
+ </results>
+</sparql>

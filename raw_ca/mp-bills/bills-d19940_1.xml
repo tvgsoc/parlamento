@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3225</literal></binding>
+   <binding name="date"><literal>19530304</literal></binding>
+   <binding name="title"><literal>SCAGLIA ed altri: Aumento del contributo per il finanziamento dei Centri didattici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3237</literal></binding>
+   <binding name="date"><literal>19530306</literal></binding>
+   <binding name="title"><literal>SCAGLIA: Disposizioni relative alle assegnazioni provvisorie di insegnanti di scuola secondaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>340</literal></binding>
+   <binding name="date"><literal>19490216</literal></binding>
+   <binding name="title"><literal>SCAGLIA e PACATI: Ricostituzione dei comuni di Selino, Mazzoleni e Cepino, in provincia di Bergamo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>341</literal></binding>
+   <binding name="date"><literal>19490216</literal></binding>
+   <binding name="title"><literal>SCAGLIA: Ricostituzione dei comuni di Fregola e Rigosa, in provincia di Bergamo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>143</literal></binding>
+   <binding name="date"><literal>19481022</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1440</literal></binding>
+   <binding name="date"><literal>19500711</literal></binding>
+   <binding name="title"><literal>AMBRICO ed altri: Modifica dello stato giuridico ed economico del personale amministrativo degli istituti tecnici e delle scuole di istruzione media tecnica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1839</literal></binding>
+   <binding name="date"><literal>19510222</literal></binding>
+   <binding name="title"><literal>MORO ed altri: Concessione di un assegno annuo di lire 780.000 a Maria Montessori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2398</literal></binding>
+   <binding name="date"><literal>19511207</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Proroga della legge 17 ottobre 1950, n. 840: &quot;Fondo per il finanziamento dell&#39;industria meccanica&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2405</literal></binding>
+   <binding name="date"><literal>19511211</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Norme integrative della legge 3 agosto 1949, n. 589, sulla esecuzione di opere pubbliche di interesse degli Enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2484</literal></binding>
+   <binding name="date"><literal>19520125</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Ampliamento del piano di costruzione di case per lavoratori I.N.A.-Casa</literal></binding>
+  </result>
+ </results>
+</sparql>

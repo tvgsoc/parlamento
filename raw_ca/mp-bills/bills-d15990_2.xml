@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2486</literal></binding>
+   <binding name="date"><literal>19561011</literal></binding>
+   <binding name="title"><literal>CHIARAMELLO ed altri: Adeguamento di pensioni straordinarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2487</literal></binding>
+   <binding name="date"><literal>19561011</literal></binding>
+   <binding name="title"><literal>CHIARAMELLO ed altri: Restituzione in proprietà del palazzo sito in Roma, via Sicilia, 59, ai Consigli nazionali professionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2492</literal></binding>
+   <binding name="date"><literal>19561023</literal></binding>
+   <binding name="title"><literal>QUINTIERI ed altri: Provvedimenti a favore delle famiglie numerose</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2697</literal></binding>
+   <binding name="date"><literal>19570201</literal></binding>
+   <binding name="title"><literal>CHIARINI ed altri: Interpretazione autentica dell&#39;articolo 8 della legge 7 gennaio 1949, n. 1</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3294</literal></binding>
+   <binding name="date"><literal>19571115</literal></binding>
+   <binding name="title"><literal>RAPELLI ed altri: Istituzione della Cassa nazionale di previdenza ed assistenza a favore dei ragionieri e periti commerciali</literal></binding>
+  </result>
+ </results>
+</sparql>

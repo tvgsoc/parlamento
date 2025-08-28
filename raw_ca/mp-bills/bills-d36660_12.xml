@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1111</literal></binding>
+   <binding name="date"><literal>19940803</literal></binding>
+   <binding name="title"><literal>SGARBI ed altri: Delega al Governo per la riforma delle Accademie di belle arti, dell&#39;Accademia nazionale di danza, dell&#39;Accademia nazionale di arte drammatica, degli istituti superiori per le industrie artistiche e dei conservatori di musica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1186</literal></binding>
+   <binding name="date"><literal>19940906</literal></binding>
+   <binding name="title"><literal>CALDERISI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche agli articoli 56 e 57 della Costituzione per la riduzione del numero dei deputati e dei senatori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1313</literal></binding>
+   <binding name="date"><literal>19940926</literal></binding>
+   <binding name="title"><literal>TARADASH ed altri: Nuovo ordinamento della professione giornalistica e istituzione della carta di identità professionale del giornalista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1436</literal></binding>
+   <binding name="date"><literal>19941012</literal></binding>
+   <binding name="title"><literal>VITO ed altri: Norme per la costituzione delle autorità metropolitane, di cui alla legge 8 giugno 1990, n. 142</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>679</literal></binding>
+   <binding name="date"><literal>19940610</literal></binding>
+   <binding name="title"><literal>DELLA VALLE ed altri: Istituzione di una commissione parlamentare d&#39;inchiesta sul fenomeno della mafia e sulle altre associazioni criminali e similari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>724</literal></binding>
+   <binding name="date"><literal>19940620</literal></binding>
+   <binding name="title"><literal>CALDERISI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 122 della Costituzione in materia di elezione diretta del Presidente della regione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>918</literal></binding>
+   <binding name="date"><literal>19940713</literal></binding>
+   <binding name="title"><literal>PERALE ed altri: Modifiche alla legge 8 luglio 1986, n. 349, in materia di tutela degli equilibri ambientali in conseguenza della realizzazione di talune grandi opere</literal></binding>
+  </result>
+ </results>
+</sparql>

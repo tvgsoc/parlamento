@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4495</literal></binding>
+   <binding name="date"><literal>19900118</literal></binding>
+   <binding name="title"><literal>GUARINO: Revisione della Costituzione per conferire alla Repubblica il carattere di Unione aperta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1526</literal></binding>
+   <binding name="date"><literal>19870923</literal></binding>
+   <binding name="title"><literal>GUARINO: Disposizioni per incentivare la produttività del personale dipendente e addetto all&#39;Amministrazione finanziaria e dei Monopoli di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4759</literal></binding>
+   <binding name="date"><literal>19900417</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Contributi alle imprese radiofoniche private che abbiano svolto attività di informazione di interesse generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4813</literal></binding>
+   <binding name="date"><literal>19900110</literal></binding>
+   <binding name="title"><literal>PISICCHIO ed altri: Obbligo dell&#39;uso di carta riciclata per la propaganda elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5620</literal></binding>
+   <binding name="date"><literal>19910419</literal></binding>
+   <binding name="title"><literal>MARTUSCELLI ed altri: Modifiche alla disciplina dei contributi per il trattamento pensionistico integrativo degli agenti e dei rappresentanti di commercio, di cui alla legge 2 febbraio 1973, n. 12, per favorire lo sviluppo dell&#39;occupazione giovanile nel Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1428</literal></binding>
+   <binding name="date"><literal>19870807</literal></binding>
+   <binding name="title"><literal>FRACANZANI ed altri: Norme concernenti le emissioni in ECU</literal></binding>
+  </result>
+ </results>
+</sparql>

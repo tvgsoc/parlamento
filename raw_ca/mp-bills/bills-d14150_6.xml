@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>106</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>VERGA: Concessione dell&#39;assistenza sanitaria, farmaceutica, ospedaliera e protesica ai cittadini ultrasessantacinquenni, titolari della pensione sociale istituita con legge 30 aprile 1969, n. 153</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>322</literal></binding>
+   <binding name="date"><literal>19720627</literal></binding>
+   <binding name="title"><literal>VERGA: Estensione al quarantesimo anno di età dei limiti massimi per la partecipazione ai concorsi banditi dalle amministrazioni statali, dagli enti pubblici e locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1393</literal></binding>
+   <binding name="date"><literal>19721220</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Aggiornamento con modifiche dell&#39;articolo 2120 del codice civile sulla indennità di anzianità e norme per la concessione di anticipazioni sulla indennità stessa a fini di investimento abitativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3434</literal></binding>
+   <binding name="date"><literal>19750205</literal></binding>
+   <binding name="title"><literal>BECCARIA ed altri: Modifiche delle leggi 18 aprile 1962, n. 168, e 17 giugno 1973, n. 444, concernenti la costruzione di edifici di culto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3705</literal></binding>
+   <binding name="date"><literal>19750417</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Istituzione dell&#39;albo degli amministratori di condominio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7</literal></binding>
+   <binding name="date"><literal>19720515</literal></binding>
+   <binding name="title"><literal>CICCARDINI ed altri: Elezione popolare diretta del sindaco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>710</literal></binding>
+   <binding name="date"><literal>19720807</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>188</literal></binding>
+   <binding name="date"><literal>19720531</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Nuove norme per la repressione del traffico di stupefacenti e psicodroghe e per la prevenzione e cura delle tossicomanie</literal></binding>
+  </result>
+ </results>
+</sparql>

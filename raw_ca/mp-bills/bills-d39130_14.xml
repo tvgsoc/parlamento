@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5564</literal></binding>
+   <binding name="date"><literal>20050131</literal></binding>
+   <binding name="title"><literal>TREMONTI ed altri: &quot;Disposizioni per la destinazione diretta a finalità sociali e di ricerca scientifica dell&#39;otto per mille del gettito IRE&quot; (5564)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5565</literal></binding>
+   <binding name="date"><literal>20050131</literal></binding>
+   <binding name="title"><literal>TREMONTI ed altri: &quot;Istituzione di un libretto di risparmio per i nuovi nati&quot; (5565)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5636</literal></binding>
+   <binding name="date"><literal>20050217</literal></binding>
+   <binding name="title"><literal>TREMONTI ed altri: &quot;Disposizioni per la semplificazione degli adempimenti in materia di alienazione e di costituzione di diritti di garanzia sugli autoveicoli&quot; (5636)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5713</literal></binding>
+   <binding name="date"><literal>20050314</literal></binding>
+   <binding name="title"><literal>TREMONTI ed altri: &quot;Costituzione, in forma di società per azioni, della Banca del Mezzogiorno&quot; (5713)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5721</literal></binding>
+   <binding name="date"><literal>20050316</literal></binding>
+   <binding name="title"><literal>JANNONE e TREMONTI: &quot;Soppressione del sovracanone per l&#39;abbonamento alle radioaudizioni dovuto dalle strutture ricettive&quot; (5721)</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1179</literal></binding>
+   <binding name="date"><literal>19690313</literal></binding>
+   <binding name="title"><literal>BIAGIONI ed altri: Modifica dell&#39;articolo 2095 del codice civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1752</literal></binding>
+   <binding name="date"><literal>19690723</literal></binding>
+   <binding name="title"><literal>BIAGIONI ed altri: Modificazioni alle disposizioni della legge 18 marzo 1968, n. 413, concernente la soppressione dell&#39;Ente autotrasporti merci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1371</literal></binding>
+   <binding name="date"><literal>19690428</literal></binding>
+   <binding name="title"><literal>LUCCHESI ed altri: Concessione a favore del Consorzio dei comuni dell&#39;isola d&#39;Elba per gli acquedotti di un contributo straordinario di dotazione e a risanamento di passività pregresse per la gestione degli impianti acquedottistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1676</literal></binding>
+   <binding name="date"><literal>19690707</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Organizzazione del settore dell&#39;assistenza sociale e interventi per le persone in condizione o situazione di incapacità e, in particolare, per i disadattati psichici, fisici, sensoriali e sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>774</literal></binding>
+   <binding name="date"><literal>19681217</literal></binding>
+   <binding name="title"><literal>MATTARELLI ed altri: Finanziamento all&#39;Istituto regionale di credito agrario per l&#39;Emilia Romagna per contributi in conto interessi su operazioni di piccolo credito turistico nelle zone montane dell&#39;Appennino centro-settentrionale</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1240</literal></binding>
+   <binding name="date"><literal>19800109</literal></binding>
+   <binding name="title"><literal>MASTELLA ed altri: Concorso per merito distinto per il passaggio anticipato dalla terza alla quarta classe di stipendio per gli insegnanti elementari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3400</literal></binding>
+   <binding name="date"><literal>19820512</literal></binding>
+   <binding name="title"><literal>FUSARO ed altri: Modifiche ed integrazioni della legge 23 dicembre 1978, n. 833, concernente l&#39;istituzione del servizio sanitario nazionale, in tema di tutela della salute mentale dei cittadini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>449</literal></binding>
+   <binding name="date"><literal>19790729</literal></binding>
+   <binding name="title"><literal>AUGELLO ed altri: Integrazione dell&#39;articolo 8 della legge 23 dicembre 1975, n. 698, riguardante il trattamento pensionistico del personale dell&#39;Opera nazionale maternità ed infanzia trasferito ai comuni e alle province</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>99</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>BROCCA ed altri: Nuove norme per il riconoscimento dell&#39;obiezione di coscienza nei confronti del servizio militare e per l&#39;attuazione del servizio civile alternativo</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4763</literal></binding>
+   <binding name="date"><literal>20111109</literal></binding>
+   <binding name="title"><literal>VIGNALI ed altri: &quot;Disposizioni concernenti l&#39;estensione del procedimento semplificato di rilascio dell&#39;autorizzazione paesaggistica, previsto dall&#39;articolo 146, comma 9, del codice di cui al decreto legislativo 22 gennaio 2004, n. 42, ad alcuni interventi di lieve entità sugli immobili appartenenti a complessi di cose immobili, centri e nuclei storici&quot; (4763)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4847</literal></binding>
+   <binding name="date"><literal>20111216</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE CALDERISI ed altri: &quot;Introduzione dell&#39;elezione del Presidente della Repubblica a suffragio universale e diretto e della forma di governo semipresidenziale&quot; (4847)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4993</literal></binding>
+   <binding name="date"><literal>20120223</literal></binding>
+   <binding name="title"><literal>DUILIO ed altri: &quot;Disposizioni per il finanziamento di interventi di conservazione e manutenzione del Duomo di Milano&quot; (4993)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5082</literal></binding>
+   <binding name="date"><literal>20120322</literal></binding>
+   <binding name="title"><literal>BECCALOSSI ed altri: &quot;Modifiche al testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e all&#39;articolo 14 del decreto-legge 14 marzo 2005, n. 35, convertito, con modificazioni, dalla legge 14 maggio 2005, n. 80, in materia di agevolazioni per le erogazioni liberali in favore dei soggetti operanti nei settori della cultura e dello spettacolo e per la tutela dei beni d&#39;interesse artistico, storico e paesaggistico&quot; (5082)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5132</literal></binding>
+   <binding name="date"><literal>20120417</literal></binding>
+   <binding name="title"><literal>CICCHITTO ed altri: &quot;Istituzione di un Fondo di solidarietà per l&#39;erogazione di contributi ai piccoli imprenditori in caso di rigetto di richieste di credito o di revoca di affidamenti da parte di banche o intermediari creditizi&quot; (5132)</literal></binding>
+  </result>
+ </results>
+</sparql>

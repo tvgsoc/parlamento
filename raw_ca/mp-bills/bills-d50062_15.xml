@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1122</literal></binding>
+   <binding name="date"><literal>20060615</literal></binding>
+   <binding name="title"><literal>GIORDANO ed altri: &quot;Concessione di amnistia condizionata e di indulto revocabile&quot; (1122)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1122-ter</literal></binding>
+   <binding name="date"><literal>20060718</literal></binding>
+   <binding name="title"><literal>GIORDANO ed altri: &quot;Concessione di amnistia condizionata&quot; (Già articoli 1, 2 e 3 della proposta di legge n. 1122, stralciati, con deliberazione dell&#39;Assemblea, il 18 luglio 2006) (1122-ter)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1749</literal></binding>
+   <binding name="date"><literal>20061003</literal></binding>
+   <binding name="title"><literal>GIORDANO ed altri: &quot;Abolizione della pena dell&#39;ergastolo&quot; (1749)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3213</literal></binding>
+   <binding name="date"><literal>20071107</literal></binding>
+   <binding name="title"><literal>GIORDANO ed altri: &quot;Disposizioni per l&#39;eliminazione dei costi impropri della politica e della pubblica amministrazione&quot; (3213)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3306</literal></binding>
+   <binding name="date"><literal>20080116</literal></binding>
+   <binding name="title"><literal>GIORDANO ed altri: &quot;Introduzione di un limite massimo per le retribuzioni dei dipendenti delle pubbliche amministrazioni e dei magistrati e per il trattamento economico dei parlamentari nazionali ed europei&quot; (3306)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1122-bis</literal></binding>
+   <binding name="date"><literal>20060718</literal></binding>
+   <binding name="title"><literal>GIORDANO ed altri: &quot;Concessione di indulto revocabile&quot; (Testo risultante dallo stralcio degli articoli 1, 2 e 3 della proposta di legge n. 1122, deliberato dall&#39;Assemblea il 18 luglio 2006) (1122-bis)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2185</literal></binding>
+   <binding name="date"><literal>20070130</literal></binding>
+   <binding name="title"><literal>PAGLIARINI ed altri: &quot;Norme per il superamento del lavoro precario&quot; (2185)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2505</literal></binding>
+   <binding name="date"><literal>20070411</literal></binding>
+   <binding name="title"><literal>SINISCALCHI ed altri: &quot;Disciplina della cooperazione allo sviluppo e delle politiche di solidarietà internazionale e istituzione dell&#39;Agenzia per la cooperazione allo sviluppo&quot; (2505)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2733</literal></binding>
+   <binding name="date"><literal>20070927</literal></binding>
+   <binding name="title"><literal>GUADAGNO: &quot;Norme in materia di diritti e libertà delle persone transgenere&quot; (2733)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3341</literal></binding>
+   <binding name="date"><literal>20080118</literal></binding>
+   <binding name="title"><literal>DE SIMONE ed altri: &quot;Introduzione del titolo VII-bis del libro I del codice civile, in materia di dichiarazione di assunzione della responsabilità genitoriale&quot; (3341)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3367</literal></binding>
+   <binding name="date"><literal>20080128</literal></binding>
+   <binding name="title"><literal>BURGIO ed altri: &quot;Istituzione della &#39;Giornata della memoria dei caduti sul lavorò&quot; (3367)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3402</literal></binding>
+   <binding name="date"><literal>20080204</literal></binding>
+   <binding name="title"><literal>MIGLIORE ed altri: &quot;Istituzione del Fondo nazionale per il sostegno al reddito e disciplina in materia di retribuzione sociale&quot; (3402)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2547</literal></binding>
+   <binding name="date"><literal>20070718</literal></binding>
+   <binding name="title"><literal>MIGLIORE ed altri: &quot;Nuove norme in materia di ingresso e di soggiorno dei cittadini e delle cittadine stranieri in Italia e delega al Governo per l&#39;emanazione di un testo unico delle disposizioni concernenti l&#39;ingresso e il soggiorno dei cittadini e delle cittadine stranieri in Italia&quot; (2547)</literal></binding>
+  </result>
+ </results>
+</sparql>

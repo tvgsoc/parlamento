@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1231</literal></binding>
+   <binding name="date"><literal>19800104</literal></binding>
+   <binding name="title"><literal>ACCAME ed altri: Norme per la unificazione del servizio militare di leva, per la salvaguardia della professionalità delle reclute, per la difesa degli interessi legittimi e della salute dei militari e per favorire l&#39;inserimento dell&#39;organismo militare nelle strutture sociali del paese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1770</literal></binding>
+   <binding name="date"><literal>19800529</literal></binding>
+   <binding name="title"><literal>TEODORI ed altri: Riforma della legislazione scolastica in materia di religione in base ai principi della Costituzione della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1924</literal></binding>
+   <binding name="date"><literal>19800727</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Istituzione del Consiglio generale dell&#39;emigrazione italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3890</literal></binding>
+   <binding name="date"><literal>19830126</literal></binding>
+   <binding name="title"><literal>BALDELLI ed altri: Disciplina della proiezione e della rappresentazione in pubblico di spettacoli cinematografici e teatrali e delle trasmissioni con il mezzo della televisione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3983</literal></binding>
+   <binding name="date"><literal>19830309</literal></binding>
+   <binding name="title"><literal>BOATO ed altri: Nuove misure per la difesa dell&#39;ordinamento costituzionale attraverso la dissociazione dal terrorismo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>54</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>CICCHITTO ed altri: Limitazioni per il passaggio di alti ufficiali delle Forze armate nella industria degli armamenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>145</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Riordinamento dell&#39;istituto della pubblica sicurezza. Istituzione del servizio civile denominato &quot;Corpo di polizia della Repubblica italiana&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>225</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>CRAXI ed altri: Istituzione dei Comitati consolari elettivi dell&#39;emigrazione: partecipazione e gestione democratica degli emigranti</literal></binding>
+  </result>
+ </results>
+</sparql>

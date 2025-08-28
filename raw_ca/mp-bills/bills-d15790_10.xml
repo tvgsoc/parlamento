@@ -1,0 +1,94 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3646</literal></binding>
+   <binding name="date"><literal>19890214</literal></binding>
+   <binding name="title"><literal>LECCISI e LIA: Istituzione dell&#39;Azienda dei mezzi meccanici e dei magazzini del porto di Brindisi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3859</literal></binding>
+   <binding name="date"><literal>19890426</literal></binding>
+   <binding name="title"><literal>ANSELMI ed altri: Norme per favorire l&#39;occupazione femminile nel Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4234</literal></binding>
+   <binding name="date"><literal>19891004</literal></binding>
+   <binding name="title"><literal>LIA e LECCISI: Norme a favore del personale delle province e dei comuni appartenente ai profili professionali dichiarati in esubero a seguito dell&#39;approvazione dei piani di risanamento finanziario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4374</literal></binding>
+   <binding name="date"><literal>19891123</literal></binding>
+   <binding name="title"><literal>ANTONUCCI ed altri: Norme per la repressione del lavoro abusivo e della concorrenza sleale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4631</literal></binding>
+   <binding name="date"><literal>19900228</literal></binding>
+   <binding name="title"><literal>CIOCCI ed altri: Istituzione del fondo di previdenza per le pensioni ai dipendenti dello Stato. Adeguamento dei trattamenti pensionistici statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4731</literal></binding>
+   <binding name="date"><literal>19900405</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: Norme per il sostegno e la ripresa produttiva delle aziende agricole colpite dalla siccità nel corso dell&#39;anno 1990</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5492</literal></binding>
+   <binding name="date"><literal>19910227</literal></binding>
+   <binding name="title"><literal>VITI ed altri: Istituzione della dirigenza scolastica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5943</literal></binding>
+   <binding name="date"><literal>19910904</literal></binding>
+   <binding name="title"><literal>VITI ed altri: Nuove norme in materia di consigli scolastici provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6062</literal></binding>
+   <binding name="date"><literal>19911105</literal></binding>
+   <binding name="title"><literal>VITI ed altri: Istituzione dell&#39;albo nazionale delle imprese manutentrici di impianti elevatori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6163</literal></binding>
+   <binding name="date"><literal>19911206</literal></binding>
+   <binding name="title"><literal>ANTONUCCI ed altri: Modifiche alla legge 23 luglio 1991, n. 223, recante norme in materia di cassa integrazione, mobilità, trattamenti di disoccupazione, attuazione di direttive della Comunità europea, avviamento al lavoro ed altre disposizioni in materia di mercato del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6164</literal></binding>
+   <binding name="date"><literal>19911206</literal></binding>
+   <binding name="title"><literal>ANTONUCCI ed altri: Norme in materia di inquadramento previdenziale delle società consortili artigiane, delle cooperative artigiane a responsabilità limitata e dei soci delle cooperative artigiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>452</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>VITI ed altri: Programma di interventi di recupero, restauro e valorizzazione del patrimonio artistico barocco della città di Lecce</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1602</literal></binding>
+   <binding name="date"><literal>19871002</literal></binding>
+   <binding name="title"><literal>FUMAGALLI CARULLI ed altri: Modifiche alla legge 22 aprile 1941, n. 633, concernente protezione del diritto di autore e di altri diritti connessi al suo esercizio, recanti disposizioni in materia di protezione dei programmi di elaboratore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1649</literal></binding>
+   <binding name="date"><literal>19871009</literal></binding>
+   <binding name="title"><literal>MARTINAZZOLI ed altri: Controllo della produzione, esportazione e transito di materiali d&#39;armamento</literal></binding>
+  </result>
+ </results>
+</sparql>

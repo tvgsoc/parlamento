@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2021</literal></binding>
+   <binding name="date"><literal>19510612</literal></binding>
+   <binding name="title"><literal>GERMANI: Disposizione transitoria per l&#39;applicazione della legge 21 ottobre 1950, n. 841, concernente norme per l&#39;espropriazione, bonifica, trasformazione ed assegnazione dei terreni ai contadini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2657</literal></binding>
+   <binding name="date"><literal>19520422</literal></binding>
+   <binding name="title"><literal>GERMANI: Modificazione dell&#39;articolo 6 della legge 15 maggio 1950, n. 230, contenente provvedimenti per la colonizzazione dell&#39;altopiano Silano e dei territori jonici contermini, modificato dall&#39;articolo 17 della legge 21 ottobre 1950, n. 841, concernente norme per l&#39;espropriazione, bonifica, trasformazione ed assegnazione dei terreni ai contadini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3253</literal></binding>
+   <binding name="date"><literal>19530310</literal></binding>
+   <binding name="title"><literal>GERMANI: Pagamento delle imposte di successione relative ai terreni soggetti ad esproprio a norma delle leggi 12 maggio 1950, n. 230, e 21 ottobre 1950, n. 841, e successive modificazioni e integrazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1104</literal></binding>
+   <binding name="date"><literal>19500216</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Proroga delle vigenti disposizioni di legge in materia di contratti di mezzadria, di colonia parziaria, compartecipazione e affitto di fondi rustici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>143</literal></binding>
+   <binding name="date"><literal>19481022</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1793</literal></binding>
+   <binding name="date"><literal>19510202</literal></binding>
+   <binding name="title"><literal>RIVERA ed altri: Reintegra dei soci lincei</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2681</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>FASCETTI e GERMANI: Provvedimenti finanziari per gli Enti di riforma che operano fuori del territorio della Cassa per opere straordinarie di pubblico interesse nell&#39;Italia meridionale (Cassa del Mezzogiorno)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2960</literal></binding>
+   <binding name="date"><literal>19521016</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Divieto di aumentare l&#39;imposta sul bestiame e modifica del n. 1 dell&#39;articolo 30 del testo unico sulla finanza locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3273</literal></binding>
+   <binding name="date"><literal>19530313</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Assistenza sanitaria agli artigiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1811</literal></binding>
+   <binding name="date"><literal>19510209</literal></binding>
+   <binding name="title"><literal>GIAMMARCO ed altri: Autorizzazione al Ministro dei lavori pubblici della spesa di lire 19.809.700.000 per la costruzione di case popolari da assegnare a famiglie alloggiate in baracche in dipendenza dei terremoti del 28 dicembre 1908 e del 15 gennaio 1915</literal></binding>
+  </result>
+ </results>
+</sparql>

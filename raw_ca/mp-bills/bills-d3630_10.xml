@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6008</literal></binding>
+   <binding name="date"><literal>19911022</literal></binding>
+   <binding name="title"><literal>MALFATTI ed altri: Interventi di sostegno ai territori meridionali della regione Marche e della regione Lazio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3567</literal></binding>
+   <binding name="date"><literal>19890511</literal></binding>
+   <binding name="title"><literal>RADI ed altri: Modifiche all&#39;ordinamento dell&#39;Università italiana per stranieri di Perugia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4759</literal></binding>
+   <binding name="date"><literal>19900417</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Contributi alle imprese radiofoniche private che abbiano svolto attività di informazione di interesse generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4857</literal></binding>
+   <binding name="date"><literal>19900530</literal></binding>
+   <binding name="title"><literal>LUCCHESI ed altri: Concessione di un contributo statale per la realizzazione della nave-museo &quot;Elettra 2°&quot; nel quadro della celebrazione delle &quot;Colombiadi&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>453</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>VITI ed altri: Istituzione degli uffici scolastici regionali in Basilicata, Umbria e Molise</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>434</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>RADI ed altri: Disposizioni per il definitivo consolidamento della Rupe di Orvieto e del Colle di Todi</literal></binding>
+  </result>
+ </results>
+</sparql>

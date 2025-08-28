@@ -1,0 +1,604 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2627</literal></binding>
+   <binding name="date"><literal>19880427</literal></binding>
+   <binding name="title"><literal>BORTOLAMI ed altri: Nuova disciplina per gli amministratori delle Istituzioni pubbliche di assistenza e beneficenza (IPAB)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2644</literal></binding>
+   <binding name="date"><literal>19880428</literal></binding>
+   <binding name="title"><literal>BORTOLAMI ed altri: Nuovo assetto viario nel bacino del fiume Adige</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3003</literal></binding>
+   <binding name="date"><literal>19880712</literal></binding>
+   <binding name="title"><literal>BORTOLAMI ed altri: Interventi straordinari a sostegno dell&#39;area meridionale del Veneto e della Bassa Ferrarese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4968</literal></binding>
+   <binding name="date"><literal>19900712</literal></binding>
+   <binding name="title"><literal>BORTOLAMI ed altri: Istituzione del Corpo nazionale delle guardie ecologiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6048</literal></binding>
+   <binding name="date"><literal>19911024</literal></binding>
+   <binding name="title"><literal>BORTOLAMI ed altri: Disciplina del commercio e del noleggio delle videocassette</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6124</literal></binding>
+   <binding name="date"><literal>19911126</literal></binding>
+   <binding name="title"><literal>BORTOLAMI ed altri: Disciplina della subfornitura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2357</literal></binding>
+   <binding name="date"><literal>19880217</literal></binding>
+   <binding name="title"><literal>BORTOLAMI ed altri: Provvedimenti per il bacino idrografico del fiume Adige, ai fini di salvaguardia ambientale, disinquinamento delle acque, risanamento del mare Adriatico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2150</literal></binding>
+   <binding name="date"><literal>19880113</literal></binding>
+   <binding name="title"><literal>TORCHIO ed altri: Tessera di riconoscimento per i sindaci ed i consiglieri provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2311</literal></binding>
+   <binding name="date"><literal>19880205</literal></binding>
+   <binding name="title"><literal>ZANIBONI ed altri: Disposizioni relative al ruolo attivo del sistema agricolo nella tutela dell&#39;ambiente naturale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2327</literal></binding>
+   <binding name="date"><literal>19880211</literal></binding>
+   <binding name="title"><literal>GOTTARDO ed altri: Celebrazione del 70° anniversario del 4 novembre 1918</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2528</literal></binding>
+   <binding name="date"><literal>19880325</literal></binding>
+   <binding name="title"><literal>FINCATO ed altri: Agevolazioni tariffarie per il servizio idrico dei comuni montani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2618</literal></binding>
+   <binding name="date"><literal>19880421</literal></binding>
+   <binding name="title"><literal>ZOPPI ed altri: Estensione dei benefici previsti dalla legge 31 marzo 1971, n. 214, ad alcune categorie di ex dipendenti del Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2624</literal></binding>
+   <binding name="date"><literal>19880427</literal></binding>
+   <binding name="title"><literal>BORTOLANI ed altri: Inquadramento giuridico e fiscale dell&#39;attività di allevamento di lombrichi ed attività inerenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2702</literal></binding>
+   <binding name="date"><literal>19880512</literal></binding>
+   <binding name="title"><literal>BORTOLANI ed altri: Estensione al personale in quiescenza della Polizia di Stato dell&#39;indennità pensionabile di cui all&#39;articolo 43 della legge 1° aprile 1981, n. 121</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2749</literal></binding>
+   <binding name="date"><literal>19880523</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Esenzione dall&#39;applicazione dell&#39;imposta di bollo per le domande, gli atti e i documenti relativi all&#39;assegnazione di alloggi di edilizia residenziale pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2887</literal></binding>
+   <binding name="date"><literal>19880616</literal></binding>
+   <binding name="title"><literal>ORSENIGO ed altri: Riordino della previdenza e assistenza dei pescatori autonomi ed associati della pesca costiera marittima e delle acque interne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2892</literal></binding>
+   <binding name="date"><literal>19880616</literal></binding>
+   <binding name="title"><literal>BERTOLI ed altri: Modifica al termine per la presentazione delle domande di sanatoria di cui all&#39;articolo 35 della legge 28 febbraio 1985, n. 47</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2962</literal></binding>
+   <binding name="date"><literal>19880706</literal></binding>
+   <binding name="title"><literal>TORCHIO ed altri: Modifica al comma 4 dell&#39;articolo 2 della legge 2 giugno 1988, n. 218, recante misure per la lotta contro l&#39;afta epizootica ed altre malattie epizootiche degli animali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3007</literal></binding>
+   <binding name="date"><literal>19880713</literal></binding>
+   <binding name="title"><literal>ROCELLI ed altri: Delega al Governo per l&#39;emanazione di un testo unico per il riordino, l&#39;integrazione e la modifica delle disposizioni in materia di edilizia residenziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3021</literal></binding>
+   <binding name="date"><literal>19880715</literal></binding>
+   <binding name="title"><literal>MARTINAZZOLI ed altri: Istituzione dell&#39;assegno sociale e perequazione delle pensioni integrate al minimo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19880729</literal></binding>
+   <binding name="title"><literal>CASTAGNETTI ed altri: Riapertura dei termini di cui all&#39;articolo 39 della legge 11 aprile 1955, n. 379, per l&#39;iscrizione agli Istituti di previdenza presso il Ministero del tesoro - Cassa pensioni dipendenti enti locali (CPDEL)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3307</literal></binding>
+   <binding name="date"><literal>19881027</literal></binding>
+   <binding name="title"><literal>ARMELLIN ed altri: Riconoscimento legale delle scuole per assistenti sociali e modifiche al decreto del Presidente della Repubblica 15 gennaio 1987, n. 14, concernente il valore abilitante del diploma di assistente sociale in attuazione dell&#39;articolo 9 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3479</literal></binding>
+   <binding name="date"><literal>19881221</literal></binding>
+   <binding name="title"><literal>NOVELLI ed altri: Modificazioni al testo unico delle leggi per la composizione e la elezione degli organi delle amministrazioni comunali approvato con decreto del Presidente della Repubblica 16 maggio 1960, n. 570</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3518</literal></binding>
+   <binding name="date"><literal>19890112</literal></binding>
+   <binding name="title"><literal>CASTAGNETTI ed altri: Norme urgenti per l&#39;attuazione degli obiettivi di tutela della concorrenza previsti dall&#39;articolo 12 della legge 11 giugno 1971, n. 426</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3555</literal></binding>
+   <binding name="date"><literal>19890124</literal></binding>
+   <binding name="title"><literal>SAVIO ed altri: Perequazione dello stipendio fra il personale militare delle Forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3633</literal></binding>
+   <binding name="date"><literal>19890209</literal></binding>
+   <binding name="title"><literal>ZANIBONI ed altri: Norme per la realizzazione del sistema idroviario padano-veneto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3859</literal></binding>
+   <binding name="date"><literal>19890426</literal></binding>
+   <binding name="title"><literal>ANSELMI ed altri: Norme per favorire l&#39;occupazione femminile nel Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4012</literal></binding>
+   <binding name="date"><literal>19890607</literal></binding>
+   <binding name="title"><literal>ARMELLIN ed altri: Nuove norme fiscali a favore di enti che non hanno per oggetto esclusivo o principale l&#39;esercizio di attività commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4114</literal></binding>
+   <binding name="date"><literal>19890720</literal></binding>
+   <binding name="title"><literal>TESTA ed altri: Provvedimenti per la sicurezza stradale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4131</literal></binding>
+   <binding name="date"><literal>19890726</literal></binding>
+   <binding name="title"><literal>SAVIO ed altri: Norme per il reclutamento e la formazione degli ufficiali in servizio permanente effettivo del Corpo tecnico e del ruolo ufficiali commissari del Corpo di commissariato dell&#39;Esercito, del ruolo normale del Corpo di commissariato militare marittimo, del ruolo normale del Corpo delle capitanerie di porto e del ruolo commissariato del Corpo di commissariato aeronautico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4264</literal></binding>
+   <binding name="date"><literal>19891011</literal></binding>
+   <binding name="title"><literal>ARMELLIN ed altri: Tutela della maternità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4288</literal></binding>
+   <binding name="date"><literal>19891019</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Disciplina ai fini dell&#39;imposta sul valore aggiunto, delle assegnazioni di alloggi da parte delle cooperative edilizie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4605</literal></binding>
+   <binding name="date"><literal>19900222</literal></binding>
+   <binding name="title"><literal>TORCHIO ed altri: Legge-quadro sulla navigazione interna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4620</literal></binding>
+   <binding name="date"><literal>19900227</literal></binding>
+   <binding name="title"><literal>TANCREDI ed altri: Norme per la tutela dei bambini inferiori ai tre anni di età, figli di genitori appartenenti a categorie a rischio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4621</literal></binding>
+   <binding name="date"><literal>19900227</literal></binding>
+   <binding name="title"><literal>TANCREDI ed altri: Utilizzo dei fondi della Cassa unica per gli assegni familiari a favore delle famiglie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4627</literal></binding>
+   <binding name="date"><literal>19900228</literal></binding>
+   <binding name="title"><literal>TORCHIO ed altri: Integrazione dell&#39;articolo 82 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616 in materia di tutela del patrimonio boschivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4813</literal></binding>
+   <binding name="date"><literal>19900110</literal></binding>
+   <binding name="title"><literal>PISICCHIO ed altri: Obbligo dell&#39;uso di carta riciclata per la propaganda elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4832</literal></binding>
+   <binding name="date"><literal>19900522</literal></binding>
+   <binding name="title"><literal>CRESCENZI ed altri: Norme di tutela del ruolo materno nella funzione educativa e sociale della famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4870</literal></binding>
+   <binding name="date"><literal>19900606</literal></binding>
+   <binding name="title"><literal>ANTONUCCI ed altri: Disciplina dell&#39;attività di gelateria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4976</literal></binding>
+   <binding name="date"><literal>19900718</literal></binding>
+   <binding name="title"><literal>GALLONI ed altri: Norme per garantire l&#39;applicazione dell&#39;articolo 49 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4996</literal></binding>
+   <binding name="date"><literal>19900725</literal></binding>
+   <binding name="title"><literal>TORCHIO ed altri: Norme per l&#39;istituzione dell&#39;anagrafe  nazionale del bestiame</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5032</literal></binding>
+   <binding name="date"><literal>19900802</literal></binding>
+   <binding name="title"><literal>GEI ed altri: Modifiche e integrazioni alla legge 27 dicembre 1985, n. 816, concernente aspettative, permessi ed indennità agli amministratori locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5060</literal></binding>
+   <binding name="date"><literal>19900823</literal></binding>
+   <binding name="title"><literal>CASTAGNETTI ed altri: Norme per il riordino della legislazione e per la emanazione di testi unici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5163</literal></binding>
+   <binding name="date"><literal>19901018</literal></binding>
+   <binding name="title"><literal>BERTOLI ed altri: Equipollenza del titolo di perito industriale al diploma di cui all&#39;articolo 1 della direttiva del Consiglio 89/48/CEE del 21 dicembre 1988, relativa ad un sistema generale di riconoscimento dei diplomi di istruzione superiore e di formazione professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5231</literal></binding>
+   <binding name="date"><literal>19901114</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Modifica dell&#39;articolo 94 della Costituzione in materia di dimissioni del Governo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5235</literal></binding>
+   <binding name="date"><literal>19901115</literal></binding>
+   <binding name="title"><literal>BIANCHINI ed altri: Norme per lo stoccaggio e la distribuzione di gas e petrolio liquefatti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5264</literal></binding>
+   <binding name="date"><literal>19901122</literal></binding>
+   <binding name="title"><literal>AMALFITANO ed altri: Ordinamento della professione di educatore fisico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5271</literal></binding>
+   <binding name="date"><literal>19901122</literal></binding>
+   <binding name="title"><literal>PATRIA ed altri: Norme per le attività di certificazione di prodotti e di sistemi qualità aziendali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5325</literal></binding>
+   <binding name="date"><literal>19901218</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Modifiche e rifinanziamento della legge 19 marzo 1990, n. 57, istitutiva dell&#39;Autorità per l&#39;Adriatico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5440</literal></binding>
+   <binding name="date"><literal>19910207</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Linee di indirizzo per una politica per la famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5475</literal></binding>
+   <binding name="date"><literal>19910222</literal></binding>
+   <binding name="title"><literal>GOTTARDO ed altri: Modifica alla legge 8 giugno 1990, n. 142, concernente il livello di governo e le competenze delle aree metropolitane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5607</literal></binding>
+   <binding name="date"><literal>19910417</literal></binding>
+   <binding name="title"><literal>RABINO ed altri: Interpretazione autentica dell&#39;articolo 1, primo comma, della legge 11 febbraio 1980, n. 18, in materia di riconoscimento dell&#39;indennità di accompagnamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5619</literal></binding>
+   <binding name="date"><literal>19910419</literal></binding>
+   <binding name="title"><literal>CORSI ed altri: Norme per il rifinanziamento della politica mineraria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5620</literal></binding>
+   <binding name="date"><literal>19910419</literal></binding>
+   <binding name="title"><literal>MARTUSCELLI ed altri: Modifiche alla disciplina dei contributi per il trattamento pensionistico integrativo degli agenti e dei rappresentanti di commercio, di cui alla legge 2 febbraio 1973, n. 12, per favorire lo sviluppo dell&#39;occupazione giovanile nel Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5718</literal></binding>
+   <binding name="date"><literal>19910530</literal></binding>
+   <binding name="title"><literal>ARMELLIN ed altri: Nuove norme in materia di indennità di comunicazione per i sordi prelinguali e per gli invalidi gravi pluriminorati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5719</literal></binding>
+   <binding name="date"><literal>19910530</literal></binding>
+   <binding name="title"><literal>ARMELLIN ed altri: Assegnazione di un contributo annuo all&#39;Ente nazionale per la protezione e l&#39;assistenza dei sordomuti, per la produzione di materiale visivo e l&#39;istituzione della videoteca nazionale per i sordi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5778</literal></binding>
+   <binding name="date"><literal>19910626</literal></binding>
+   <binding name="title"><literal>ARMELLIN ed altri: Aumento del contributo statale all&#39;Unione italiana ciechi, con vincolo di destinazione al Centro nazionale del libro parlato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5785</literal></binding>
+   <binding name="date"><literal>19910626</literal></binding>
+   <binding name="title"><literal>BONSIGNORE ed altri: Norme a tutela delle casalinghe per gli infortuni nel lavoro domestico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5832</literal></binding>
+   <binding name="date"><literal>19910711</literal></binding>
+   <binding name="title"><literal>BORTOLANI ed altri: Riduzione e controllo delle emissioni inquinanti nell&#39;atmosfera e abolizione della tassa addizionale per le autovetture che adottano motori diesel</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5846</literal></binding>
+   <binding name="date"><literal>19910717</literal></binding>
+   <binding name="title"><literal>CARRUS ed altri: Rifinanziamento degli interventi recati dalla legge 1° marzo 1986, n. 64, concernente &quot;Disciplina organica dell&#39;intervento straordinario nel Mezzogiorno&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5851</literal></binding>
+   <binding name="date"><literal>19910718</literal></binding>
+   <binding name="title"><literal>MICHELINI ed altri: Costituzione dell&#39;Ente nazionale di promozione degli sports storici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5886</literal></binding>
+   <binding name="date"><literal>19910725</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Modifiche alla disciplina dei titoli e dei marchi di identificazione dei metalli preziosi e norme sulla amministrazione metrica e del saggio dei metalli preziosi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5900</literal></binding>
+   <binding name="date"><literal>19910731</literal></binding>
+   <binding name="title"><literal>ANTONUCCI ed altri: Modifiche alla legge 27 luglio 1978, n. 392, e nuove norme in materia di locazione di immobili ad uso non abitativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5959</literal></binding>
+   <binding name="date"><literal>19910917</literal></binding>
+   <binding name="title"><literal>GOTTARDO ed altri: Celebrazioni per il IV centenario di Galileo Galilei professore all&#39;Università di Padova</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6163</literal></binding>
+   <binding name="date"><literal>19911206</literal></binding>
+   <binding name="title"><literal>ANTONUCCI ed altri: Modifiche alla legge 23 luglio 1991, n. 223, recante norme in materia di cassa integrazione, mobilità, trattamenti di disoccupazione, attuazione di direttive della Comunità europea, avviamento al lavoro ed altre disposizioni in materia di mercato del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6164</literal></binding>
+   <binding name="date"><literal>19911206</literal></binding>
+   <binding name="title"><literal>ANTONUCCI ed altri: Norme in materia di inquadramento previdenziale delle società consortili artigiane, delle cooperative artigiane a responsabilità limitata e dei soci delle cooperative artigiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6191</literal></binding>
+   <binding name="date"><literal>19911213</literal></binding>
+   <binding name="title"><literal>TESINI ed altri: Legge quadro sulla educazione permanente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6212</literal></binding>
+   <binding name="date"><literal>19911218</literal></binding>
+   <binding name="title"><literal>ANTONUCCI ed altri: Nuove norme in materia di disciplina dell&#39;attività di barbiere, parrucchiere per uomo e donna e mestieri affini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6213</literal></binding>
+   <binding name="date"><literal>19911218</literal></binding>
+   <binding name="title"><literal>ANTONUCCI ed altri: Disciplina dell&#39;attività di restauro di beni artistici e culturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6350</literal></binding>
+   <binding name="date"><literal>19920128</literal></binding>
+   <binding name="title"><literal>RIGHI ed altri: Ulteriori provvidenze per il sostegno del settore dell&#39;autonoleggio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1187</literal></binding>
+   <binding name="date"><literal>19870723</literal></binding>
+   <binding name="title"><literal>MARTINI ed altri: Tribunale per i minorenni e per la famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1426</literal></binding>
+   <binding name="date"><literal>19870806</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Norme per l&#39;abrogazione di talune disposizioni in materia di contributi agli enti locali nel cui territorio sono localizzate centrali elettriche e destinazione a fini sociali della somma già destinata alla effettuazione di referendum per l&#39;abrogazione delle medesime</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1573</literal></binding>
+   <binding name="date"><literal>19871001</literal></binding>
+   <binding name="title"><literal>BIANCHINI ed altri: Interventi a sostegno dei consorzi per il commercio estero costituiti tra piccole e medie imprese industriali, commerciali ed artigiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1575</literal></binding>
+   <binding name="date"><literal>19871001</literal></binding>
+   <binding name="title"><literal>ARMELLIN ed altri: Modifica del numero 21) dell&#39;articolo 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernente l&#39;esenzione dall&#39;IVA delle prestazioni di assistenza domiciliare rese agli anziani, ad invalidi, agli handicappati, e ai minori in situazione di disadattamento e di devianza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1681</literal></binding>
+   <binding name="date"><literal>19871014</literal></binding>
+   <binding name="title"><literal>CRISTOFORI ed altri: Misure per la salvaguardia del sistema idrografico del Delta del Po e per la valutazione di impatto ambientale dei relativi interventi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1875</literal></binding>
+   <binding name="date"><literal>19871112</literal></binding>
+   <binding name="title"><literal>ANSELMI ed altri: Legge quadro per la disciplina della formazione delle professioni sanitarie infermieristica, ostetrica e tecnico-sanitaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1944</literal></binding>
+   <binding name="date"><literal>19871124</literal></binding>
+   <binding name="title"><literal>AIARDI ed altri: Anagrafe e censimento degli italiani all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2085</literal></binding>
+   <binding name="date"><literal>19871218</literal></binding>
+   <binding name="title"><literal>BIANCHINI ed altri: Norme a favore delle industrie fonografiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>244</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Modifica degli articoli 33, 34 e 35 della legge 23 dicembre 1978, n. 833, e norme di indirizzo in materia di servizi di salute mentale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2464</literal></binding>
+   <binding name="date"><literal>19880310</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche della legge 27 dicembre 1956, n. 1423, concernente misure di prevenzione nei confronti delle persone pericolose per la sicurezza e per la pubblica moralità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>248</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Norme sulla eliminazione delle barriere architettoniche e facilitazioni per la casa ai portatori di handicap fisici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3537</literal></binding>
+   <binding name="date"><literal>19890119</literal></binding>
+   <binding name="title"><literal>AGRUSTI ed altri: Norme per l&#39;estensione dell&#39;esonero dal servizio militare di leva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5362</literal></binding>
+   <binding name="date"><literal>19910110</literal></binding>
+   <binding name="title"><literal>PATRIA ed altri: Norme per lo sviluppo del termalismo e delle connesse attività ricettive e turistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>726</literal></binding>
+   <binding name="date"><literal>19870709</literal></binding>
+   <binding name="title"><literal>ZAMPIERI ed altri: Estensione al tempio-sacrario di Terranegra (Padova) con il museo dell&#39;ex internato, da denominarsi &quot;Tempio nazionale dell&#39;internato&quot;, delle norme e delle provvidenze per i cimiteri di guerra di cui alla legge 9 gennaio 1951, n. 204</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2102</literal></binding>
+   <binding name="date"><literal>19871221</literal></binding>
+   <binding name="title"><literal>VISCARDI ed altri: Nuove norme per l&#39;installazione di impianti elettrici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2133</literal></binding>
+   <binding name="date"><literal>19880108</literal></binding>
+   <binding name="title"><literal>CRISTOFORI ed altri: Misure urgenti per il disinquinamento delle acque e per la tutela del bacino idrografico del fiume Po, anche ai fini del risanamento del mare Adriatico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2416</literal></binding>
+   <binding name="date"><literal>19880302</literal></binding>
+   <binding name="title"><literal>VISCARDI ed altri: Agevolazioni in favore dell&#39;attività di merchant banking per favorire il progresso dimensionale e qualitativo delle piccole e medie imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2417</literal></binding>
+   <binding name="date"><literal>19880302</literal></binding>
+   <binding name="title"><literal>VISCARDI ed altri: Agevolazioni per favorire il progresso dimensionale e qualitativo delle piccole e medie imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2607</literal></binding>
+   <binding name="date"><literal>19880421</literal></binding>
+   <binding name="title"><literal>CASTAGNETTI ed altri: Interventi per l&#39;innovazione nelle piccole e medie imprese e per la nascita di nuove imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2806</literal></binding>
+   <binding name="date"><literal>19880602</literal></binding>
+   <binding name="title"><literal>BIANCHINI ed altri: Interventi a favore della piccola e media impresa e di consorzi tra imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3020</literal></binding>
+   <binding name="date"><literal>19880715</literal></binding>
+   <binding name="title"><literal>GOTTARDO ed altri: Finanziamento per la realizzazione del sistema idroviario Padano-Veneto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3074</literal></binding>
+   <binding name="date"><literal>19880729</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifica dell&#39;articolo 2 del decreto-legge 10 luglio 1982, n. 429, convertito, con modificazioni, dalla legge 7 agosto 1982, n. 516, concernente le sanzioni per omesso versamento all&#39;Erario delle ritenute operate a titolo di acconto o di imposta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3167</literal></binding>
+   <binding name="date"><literal>19880921</literal></binding>
+   <binding name="title"><literal>CORSI ed altri: Nuove norme per l&#39;attuazione della politica mineraria ed integrazioni alla legge 9 dicembre 1986, n. 896, in materia di ricerca e coltivazione delle risorse geotermiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3293</literal></binding>
+   <binding name="date"><literal>19881026</literal></binding>
+   <binding name="title"><literal>ARMELLIN ed altri: Contributo all&#39;Unione italiana ciechi, con vincolo di destinazione per il Centro nazionale del libro parlato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3663</literal></binding>
+   <binding name="date"><literal>19890221</literal></binding>
+   <binding name="title"><literal>SAVIO ed altri: Finanziamenti per il restauro ed il recupero delle ville venete</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3891</literal></binding>
+   <binding name="date"><literal>19890504</literal></binding>
+   <binding name="title"><literal>BIANCHINI ed altri: Disposizioni per il rifinanziamento di interventi in campo economico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4271</literal></binding>
+   <binding name="date"><literal>19891012</literal></binding>
+   <binding name="title"><literal>SCOTTI ed altri: Norme per la tutela dell&#39;ambiente, della fauna selvatica e per la regolamentazione della caccia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5326</literal></binding>
+   <binding name="date"><literal>19901218</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Liberalizzazione dei prezzi dei servizi delle imprese turistico-ricettive e differimento di un termine previsto dall&#39;articolo 1 della legge 30 dicembre 1989, n. 424</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5391</literal></binding>
+   <binding name="date"><literal>19910122</literal></binding>
+   <binding name="title"><literal>ARMELLIN ed altri: Nuove norme in materia di indennità di accompagnamento ai ciechi ed ai pluriminorati</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1810</literal></binding>
+   <binding name="date"><literal>19730308</literal></binding>
+   <binding name="title"><literal>SBOARINA ed altri: Completamento dell&#39;idrovia Fissero-Tartaro-Canalbianco-Po di Levante-canali di Brondolo e di Valle</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2021</literal></binding>
+   <binding name="date"><literal>19730412</literal></binding>
+   <binding name="title"><literal>LO BELLO ed altri: Piano decennale per la costruzione di impianti sportivi di esercizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2115</literal></binding>
+   <binding name="date"><literal>19730510</literal></binding>
+   <binding name="title"><literal>URSO ed altri: Modifiche ed integrazioni alla legge 27 gennaio 1971, n. 3, concernente l&#39;attuazione del regolamento CEE sulla politica agricola comune del tabacco greggio e l&#39;integrazione delle disposizioni di cui alla legge 13 maggio 1966, n. 303</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>665</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>GUI ed altri: Statizzazione di scuole per sordomuti, materne, elementari e di istruzione secondaria di primo grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>666</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Disposizioni in materia di assistenza ai sordomuti</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1492</literal></binding>
+   <binding name="date"><literal>19730118</literal></binding>
+   <binding name="title"><literal>TANI ed altri: Modifica dell&#39;articolo 10 del decreto del Presidente della Repubblica 15 gennaio 1972, n. 8, concernente l&#39;immediato trasferimento alle Regioni dei residui passivi del Ministero dei lavori pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2174</literal></binding>
+   <binding name="date"><literal>19730524</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Norme per l&#39;attuazione dei piani organici di difesa del suolo, di sistemazione idrogeologica e di razionale utilizzazione delle acque</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2320</literal></binding>
+   <binding name="date"><literal>19730802</literal></binding>
+   <binding name="title"><literal>TODROS ed altri: Programma decennale di edilizia residenziale pubblica; edilizia sovvenzionata, agevolata, convenzionata; modifiche ed integrazioni alle leggi 18 aprile 1962, n. 167, e 22 ottobre 1971, n. 865; norme per il finanziamento dei programmi di edilizia residenziale pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2979</literal></binding>
+   <binding name="date"><literal>19740529</literal></binding>
+   <binding name="title"><literal>TODROS ed altri: Programma decennale di interventi nelle zone degradate e invecchiate degli agglomerati urbani compresi i centri storici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3246</literal></binding>
+   <binding name="date"><literal>19741004</literal></binding>
+   <binding name="title"><literal>MILANI ed altri: Integrazione dell&#39;articolo 13 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, a favore delle cooperative di abitazione a proprietà indivisa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2762</literal></binding>
+   <binding name="date"><literal>19740215</literal></binding>
+   <binding name="title"><literal>FERRETTI ed altri: Snellimento delle procedure nelle opere di ricostruzione e ulteriori provvedimenti a favore delle popolazioni della valle del Belice colpite dal sisma del gennaio 1968</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1491</literal></binding>
+   <binding name="date"><literal>20130806</literal></binding>
+   <binding name="title"><literal>BONIFAZI ed altri: &quot;Disposizioni per la tutela e la conservazione del patrimonio storico della Resistenza&quot; (1491)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>282-950-1122-1339-B</literal></binding>
+   <binding name="date"><literal>20140205</literal></binding>
+   <binding name="title"><literal>S. 1058. - CAUSI ed altri; ZANETTI; CAPEZZONE ed altri; MIGLIORE ed altri: &quot;Delega al Governo recante disposizioni per un sistema fiscale più equo, trasparente e orientato alla crescita&quot; (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (282-950-1122-1339-B) </literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1218</literal></binding>
+   <binding name="date"><literal>20130618</literal></binding>
+   <binding name="title"><literal>ARLOTTI ed altri: &quot;Agevolazioni fiscali in favore dei lavoratori frontalieri&quot; (1218)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>153</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>VILLECCO CALIPARI ed altri: &quot;Disposizioni per la celebrazione del settantesimo anniversario della Resistenza e della guerra di liberazione&quot; (153)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>245</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>SCALFAROTTO ed altri: &quot;Modifiche alla legge 13 ottobre 1975, n. 654, e al decreto-legge 26 aprile 1993, n. 122, convertito, con modificazioni, dalla legge 25 giugno 1993, n. 205, per il contrasto dell&#39;omofobia e della transfobia&quot; (245)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>282</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CAUSI ed altri: &quot;Delega al Governo per la riforma del sistema fiscale&quot; (282)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>368</literal></binding>
+   <binding name="date"><literal>20130320</literal></binding>
+   <binding name="title"><literal>RUGHETTI ed altri: &quot;Autorizzazione all&#39;esecuzione dei pagamenti di spese in conto capitale da parte dei comuni in favore delle imprese, in deroga ai limiti del patto di stabilità interno&quot; (368)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>740</literal></binding>
+   <binding name="date"><literal>20130413</literal></binding>
+   <binding name="title"><literal>ROSATO ed altri: &quot;Modifica all&#39;articolo 6 del testo unico delle disposizioni concernenti la disciplina dell&#39;immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, in materia di obbligo di esibizione dei documenti di soggiorno&quot; (740)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>961</literal></binding>
+   <binding name="date"><literal>20130516</literal></binding>
+   <binding name="title"><literal>NARDELLA ed altri: &quot;Abolizione dei rimborsi per le spese elettorali sostenute da partiti e movimenti politici e introduzione di un credito d&#39;imposta per i contributi volontari in denaro in favore dei medesimi&quot; (961)</literal></binding>
+  </result>
+ </results>
+</sparql>

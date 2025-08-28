@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2949</literal></binding>
+   <binding name="date"><literal>19521014</literal></binding>
+   <binding name="title"><literal>MASSOLA ed altri: Riorganizzazione dell&#39;Ente Zolfi Italiani, assistenza ai lavoratori dello zolfo e istituzione dell&#39;Azienda nazionale per le ricerche e miniere zolfifere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2115</literal></binding>
+   <binding name="date"><literal>19510801</literal></binding>
+   <binding name="title"><literal>PINO ed altri: Estensione del disposto dell&#39;articolo 45 della legge 10 agosto 1950, n. 648, concernente l&#39;indennità mensile per l&#39;accompagnatore, ai mutilati di cui alla lettera G, n. 2 e n. 3 della tabella E.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2116</literal></binding>
+   <binding name="date"><literal>19510801</literal></binding>
+   <binding name="title"><literal>PINO ed altri: Modifica delle disposizioni sulla assicurazione contro la disoccupazione involontaria, disciplinate dal regio decreto legge 4 ottobre 1935, n. 1827, convertito nella legge 6 aprile 1936, n. 1155</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2185</literal></binding>
+   <binding name="date"><literal>19510921</literal></binding>
+   <binding name="title"><literal>BORIONI ed altri: Norme interpretative ed integrative del decreto legislativo luogotenenziale 2 aprile 1946, n. 142, per i contributi unificati in agricoltura e per le sanzioni penali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2204</literal></binding>
+   <binding name="date"><literal>19510928</literal></binding>
+   <binding name="title"><literal>BORIONI ed altri: Riparazione dei danni causati dal terremoto 1° settembre 1951 nei comuni delle provincie di Macerata ed Ascoli Piceno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2474</literal></binding>
+   <binding name="date"><literal>19520117</literal></binding>
+   <binding name="title"><literal>CAPALOZZA ed altri: Modificazione degli articoli 89 e 167 della legge 18 ottobre 1951, n. 1128, sull&#39;ordinamento degli ufficiali giudiziari e degli aiutanti ufficiali giudiziari e richiamo in vigore dell&#39;articolo 73 del regio decreto 28 dicembre 1924, n. 2271</literal></binding>
+  </result>
+ </results>
+</sparql>

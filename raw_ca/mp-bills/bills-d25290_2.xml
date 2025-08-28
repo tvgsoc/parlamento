@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2406</literal></binding>
+   <binding name="date"><literal>19560718</literal></binding>
+   <binding name="title"><literal>ALDISIO ed altri: Istituzione di una Sezione speciale della Corte Costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2788</literal></binding>
+   <binding name="date"><literal>19570315</literal></binding>
+   <binding name="title"><literal>ALDISIO ed altri: Contributi per le opere dell&#39;Ente siciliano di elettricità (E.S.E.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>520</literal></binding>
+   <binding name="date"><literal>19531217</literal></binding>
+   <binding name="title"><literal>ALDISIO ed altri: Provvidenze a favore delle zone alluvionate della Sicilia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19560420</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Provvedimenti a favore dei menomati negli arti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>252</literal></binding>
+   <binding name="date"><literal>19531013</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione della pensione di invalidità e vecchiaia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2697</literal></binding>
+   <binding name="date"><literal>19570201</literal></binding>
+   <binding name="title"><literal>CHIARINI ed altri: Interpretazione autentica dell&#39;articolo 8 della legge 7 gennaio 1949, n. 1</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2727</literal></binding>
+   <binding name="date"><literal>19570221</literal></binding>
+   <binding name="title"><literal>BONTADE ed altri: Ricorrenza festiva del 4 ottobre in onore dei Patroni speciali d&#39;Italia San Francesco d&#39;Assisi e Santa Caterina da Siena</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2993</literal></binding>
+   <binding name="date"><literal>19570628</literal></binding>
+   <binding name="title"><literal>PECORARO ed altri: Obbligatorietà dell&#39;insegnamento e dell&#39;esame di medicina del lavoro nella Facoltà di medicina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>367</literal></binding>
+   <binding name="date"><literal>19531118</literal></binding>
+   <binding name="title"><literal>BUZZELLI ed altri: Divieto del tiro a volo</literal></binding>
+  </result>
+ </results>
+</sparql>

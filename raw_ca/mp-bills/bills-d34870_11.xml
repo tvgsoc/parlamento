@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3003</literal></binding>
+   <binding name="date"><literal>19930802</literal></binding>
+   <binding name="title"><literal>QUATTROCCHI e LANDI: Norme in materia di elezioni circoscrizionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3016</literal></binding>
+   <binding name="date"><literal>19930804</literal></binding>
+   <binding name="title"><literal>QUATTROCCHI ed altri: Norme in materia di inquadramento dei tecnici laureati nel ruolo dei professori universitari associati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2262</literal></binding>
+   <binding name="date"><literal>19930217</literal></binding>
+   <binding name="title"><literal>LA GANGA ed altri: Modifiche alla legge 7 febbraio 1958, n. 88, concernenti il conseguimento della laurea in educazione fisica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2665</literal></binding>
+   <binding name="date"><literal>19930514</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Abrogazione del terzo comma dell&#39;articolo 138 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2718</literal></binding>
+   <binding name="date"><literal>19930527</literal></binding>
+   <binding name="title"><literal>NENCINI ed altri: Nuove norme per la tutela del carattere storico, architettonico, monumentale ed ambientale di Firenze, città d&#39;arte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2955</literal></binding>
+   <binding name="date"><literal>19930722</literal></binding>
+   <binding name="title"><literal>RINALDI ed altri: Modifiche all&#39;articolo 10 della legge 25 marzo 1993, n. 81, in materia di elezioni circoscrizionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3419</literal></binding>
+   <binding name="date"><literal>19931130</literal></binding>
+   <binding name="title"><literal>NENCINI ed altri: Modifiche alla legge 16 dicembre 1991, n. 398, recante disposizioni tributarie relative alle associazioni sportive dilettantistiche</literal></binding>
+  </result>
+ </results>
+</sparql>

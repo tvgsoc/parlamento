@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>297</literal></binding>
+   <binding name="date"><literal>20130316</literal></binding>
+   <binding name="title"><literal>CENNI ed altri: &quot;Norme per la parità di accesso ai mezzi di comunicazione nella campagna elettorale e istituzione dell&#39;Agenzia per la parità, per la non discriminazione tra i generi e per la tutela della dignità della donna nell&#39;ambito della pubblicità e della comunicazione&quot; (297)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>477</literal></binding>
+   <binding name="date"><literal>20130322</literal></binding>
+   <binding name="title"><literal>GINEFRA ed altri: &quot;Modifica all&#39;articolo 7 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di limite del numero dei mandati parlamentari&quot; (477)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>539</literal></binding>
+   <binding name="date"><literal>20130326</literal></binding>
+   <binding name="title"><literal>MOGHERINI ed altri: &quot;Riforma della disciplina legislativa sulla cooperazione allo sviluppo e sulla solidarietà internazionale&quot; (539)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>544</literal></binding>
+   <binding name="date"><literal>20130326</literal></binding>
+   <binding name="title"><literal>VERINI ed altri: &quot;Disposizioni per la celebrazione del centenario della nascita di Alberto Burri&quot; (544)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>835</literal></binding>
+   <binding name="date"><literal>20130423</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE VEZZALI ed altri: &quot;Modifica all&#39;articolo 33 della Costituzione, in materia di promozione e valorizzazione dello sport&quot; (835)</literal></binding>
+  </result>
+ </results>
+</sparql>

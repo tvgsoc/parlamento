@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1076</literal></binding>
+   <binding name="date"><literal>19540728</literal></binding>
+   <binding name="title"><literal>VEDOVATO ed altri: Elevamento a lire 10.000.000 del contributo annuale a favore dell&#39;Istituto nazionale di studi sul Rinascimento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1077</literal></binding>
+   <binding name="date"><literal>19540728</literal></binding>
+   <binding name="title"><literal>D&#39;AMBROSIO ed altri: Concessione di una pensione alla signora Vydia Morici, vedova di Giuseppe Donati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1498</literal></binding>
+   <binding name="date"><literal>19550303</literal></binding>
+   <binding name="title"><literal>COLASANTO ed altri: Autorizzazione alla Sezione provinciale di Napoli della Associazione Nazionale Mutilati ed Invalidi di guerra a gestire una farmacia interna per la distribuzione di medicinali ai propri assistiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+ </results>
+</sparql>

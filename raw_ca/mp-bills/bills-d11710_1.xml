@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1122</literal></binding>
+   <binding name="date"><literal>19500224</literal></binding>
+   <binding name="title"><literal>LECCISO ed altri: Rinnovazione graduale del patrimonio immobiliare dell&#39;Istituto nazionale per le case degli impiegati dello Stato e degli Istituti similari al fine di incrementare le nuove costruzioni, e disciplina di alcuni rapporti fra gli stessi enti e i loro inquilini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3179</literal></binding>
+   <binding name="date"><literal>19530205</literal></binding>
+   <binding name="title"><literal>GRIFONE ed altri: Disciplina dei canoni d&#39;affitto di fondi rustici con corrispettivo in canapa</literal></binding>
+  </result>
+ </results>
+</sparql>

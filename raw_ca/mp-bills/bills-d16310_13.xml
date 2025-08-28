@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1782</literal></binding>
+   <binding name="date"><literal>19960704</literal></binding>
+   <binding name="title"><literal>OCCHETTO ed altri: Norme per il sostegno dell&#39;attività della Delegazione generale palestinese in Italia e per l&#39;autorizzazione ad amministrazioni pubbliche e ad enti di promozione commerciale e di protezione assicurativa ad operare nei territori palestinese della Cisgiordania e di Gaza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6036</literal></binding>
+   <binding name="date"><literal>19990519</literal></binding>
+   <binding name="title"><literal>OCCHETTO ed altri: PROPOSTA DI LEGGE DI AUTORIZZAZIONE ALLA RATIFICA DI ACCORDI INTERNAZIONALI: Ratifica ed esecuzione della Convenzione sul divieto di uso, di stoccaggio, di produzione e di trasferimento di mine antipersona e sulla loro distruzione, fatta ad Oslo il 18 settembre 1997, ed aperta alla firma di Ottawa il 3 dicembre 1997</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2550</literal></binding>
+   <binding name="date"><literal>19961024</literal></binding>
+   <binding name="title"><literal>DEBIASIO CALIMANI ed altri: Disposizioni in materia di aree metropolitane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3301</literal></binding>
+   <binding name="date"><literal>19970226</literal></binding>
+   <binding name="title"><literal>PEZZONI ed altri: Istituzione di un Comitato parlamentare per l&#39;attuazione e lo sviluppo delle iniziative euromediterranee</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3885</literal></binding>
+   <binding name="date"><literal>19970618</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Costituzione del Comitato di sorveglianza per la certificazione di conformità alle convenzioni internazionali in merito alla delocalizzazione delle attività produttive e all&#39;importanza di beni semilavorati o prodotti finiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5186</literal></binding>
+   <binding name="date"><literal>19980730</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 48 della Costituzione concernente l&#39;istituzione della circoscrizione Estero per l&#39;esercizio del diritto di voto dei cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5186-B</literal></binding>
+   <binding name="date"><literal>19980730</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 48 della Costituzione concernente l&#39;istituzione della circoscrizione Estero per l&#39;esercizio del diritto di voto dei cittadini italiani residenti all&#39;estero (approvata, in prima deliberazione, dalla Camera e dal Senato) (S. 3841)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5698</literal></binding>
+   <binding name="date"><literal>19990217</literal></binding>
+   <binding name="title"><literal>PEZZONI ed altri: Disposizioni sul voto per corrispondenza riservato ai cittadini italiani residenti all&#39;estero in occasione dei referendum indetti ai sensi dell&#39;articolo 75 della Costituzione</literal></binding>
+  </result>
+ </results>
+</sparql>

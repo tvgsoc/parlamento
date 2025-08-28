@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>205</literal></binding>
+   <binding name="date"><literal>19531001</literal></binding>
+   <binding name="title"><literal>FODERARO ed altri: Soppressione del ruolo &quot;Ufficiali idraulici del personale di custodia delle opere idrauliche e di bonifica&quot; ed istituzione del ruolo &quot;Ufficiali idraulici-Funzionari tecnici&quot; Gruppo B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2571</literal></binding>
+   <binding name="date"><literal>19561127</literal></binding>
+   <binding name="title"><literal>GARLATO ed altri: Istituzione della provincia di Pordenone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2788</literal></binding>
+   <binding name="date"><literal>19570315</literal></binding>
+   <binding name="title"><literal>ALDISIO ed altri: Contributi per le opere dell&#39;Ente siciliano di elettricità (E.S.E.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>520</literal></binding>
+   <binding name="date"><literal>19531217</literal></binding>
+   <binding name="title"><literal>ALDISIO ed altri: Provvidenze a favore delle zone alluvionate della Sicilia</literal></binding>
+  </result>
+ </results>
+</sparql>

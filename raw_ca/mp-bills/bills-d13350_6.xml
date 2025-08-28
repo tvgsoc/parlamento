@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1169</literal></binding>
+   <binding name="date"><literal>19721117</literal></binding>
+   <binding name="title"><literal>TRIVA ed altri: Provvedimenti straordinari per il ripiano dei bilanci comunicali e provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1191</literal></binding>
+   <binding name="date"><literal>19721122</literal></binding>
+   <binding name="title"><literal>BASTIANELLI ed altri: Interventi per la ripresa economica dei territori colpiti dal terremoto dal gennaio al luglio 1972 nell&#39;Anconitano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>184</literal></binding>
+   <binding name="date"><literal>19720530</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Disciplina degli enti di gestione delle partecipazioni statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>467</literal></binding>
+   <binding name="date"><literal>19720628</literal></binding>
+   <binding name="title"><literal>MACALUSO ed altri: Trasformazione dei contratti di mezzadria, di colonia ed altri in contratto di affitto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1033</literal></binding>
+   <binding name="date"><literal>19721026</literal></binding>
+   <binding name="title"><literal>BALLARIN ed altri: Provvedimenti a favore della pesca marittima</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>329</literal></binding>
+   <binding name="date"><literal>19720627</literal></binding>
+   <binding name="title"><literal>BALLARIN ed altri: Revisione della legislazione sulla previdenza marinara</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>854</literal></binding>
+   <binding name="date"><literal>19721005</literal></binding>
+   <binding name="title"><literal>BASTIANELLI ed altri: Interventi e provvidenze per la ricostruzione e per la ripresa economica nei territori colpiti dal terremoto dal gennaio al luglio 1972 nell&#39;Anconitano</literal></binding>
+  </result>
+ </results>
+</sparql>

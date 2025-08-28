@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1603</literal></binding>
+   <binding name="date"><literal>19840418</literal></binding>
+   <binding name="title"><literal>MANCA ed altri: Regolamentazione dell&#39;emittenza radiotelevisiva privata in campagna elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1675</literal></binding>
+   <binding name="date"><literal>19840510</literal></binding>
+   <binding name="title"><literal>MANCA ed altri: Nuove norme per la commercializzazione del latte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1870</literal></binding>
+   <binding name="date"><literal>19840704</literal></binding>
+   <binding name="title"><literal>MANCA ed altri: Norme per la regolamentazione dell&#39;emittenza radiofonica e televisiva di natura privata in ambito locale, modifiche ed integrazioni alla legge 14 aprile 1975, n. 103</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2216</literal></binding>
+   <binding name="date"><literal>19841025</literal></binding>
+   <binding name="title"><literal>NEBBIA ed altri: Provvedimenti per diminuire l&#39;inquinamento delle acque dovuto ai fosfati presenti nei preparati per lavare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3330</literal></binding>
+   <binding name="date"><literal>19851206</literal></binding>
+   <binding name="title"><literal>RODOTÀ ed altri: Disciplina della pubblicità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3359</literal></binding>
+   <binding name="date"><literal>19851219</literal></binding>
+   <binding name="title"><literal>BERNARDI ed altri: Provvedimenti d&#39;urgenza in materia radiotelevisiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3506</literal></binding>
+   <binding name="date"><literal>19860220</literal></binding>
+   <binding name="title"><literal>PROIETTI ed altri: Delega al Governo per l&#39;emanazione di norme per garantire la sicurezza nel trasporto aereo, per lo sviluppo delle gestioni autonome negli aeroporti e per il riordino della Direzione generale dell&#39;aviazione civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3507</literal></binding>
+   <binding name="date"><literal>19860220</literal></binding>
+   <binding name="title"><literal>PROIETTI ed altri: Istituzione presso la Presidenza del Consiglio dei ministri della Commissione permanente per lo svolgimento della inchiesta &quot;tecnica formale&quot; in caso di incidenti o mancati incidenti aeronautici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3580</literal></binding>
+   <binding name="date"><literal>19860313</literal></binding>
+   <binding name="title"><literal>PERNICE ed altri: Modifica agli articoli 8 e 9 della legge 17 febbraio 1982, n. 41, concernenti l&#39;Istituto centrale per le ricerche scientifiche e tecnologiche applicate alla pesca marittima</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4101</literal></binding>
+   <binding name="date"><literal>19861023</literal></binding>
+   <binding name="title"><literal>GROTTOLA ed altri: Modalità di assunzione nell&#39;Amministrazione delle poste e telecomunicazioni di titolari e dipendenti di ditte appaltatrici dei servizi di trasporto urbano e di scambio degli effetti postali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4496</literal></binding>
+   <binding name="date"><literal>19870304</literal></binding>
+   <binding name="title"><literal>MACCIOTTA ed altri: Norme per la cessione alle regioni autonome della Sardegna, del Friuli-Venezia Giulia ed alla regione Toscana di beni immobili afferenti direttamente o indirettamente, attività minerarie, mineralurgiche e metallurgiche dismesse</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4604</literal></binding>
+   <binding name="date"><literal>19870409</literal></binding>
+   <binding name="title"><literal>GROTTOLA ed altri: Riforma del Ministero delle poste e delle telecomunicazioni e delle aziende collegate</literal></binding>
+  </result>
+ </results>
+</sparql>

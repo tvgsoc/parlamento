@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5526</literal></binding>
+   <binding name="date"><literal>20121010</literal></binding>
+   <binding name="title"><literal>QUARTIANI ed altri: &quot;Disposizioni in favore della cooperazione internazionale allo sviluppo nel settore idrico&quot; (5526)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5598</literal></binding>
+   <binding name="date"><literal>20121121</literal></binding>
+   <binding name="title"><literal>LOSACCO e ZANI: &quot;Modifiche al decreto legislativo 25 settembre 1999, n. 374, e alla legge 7 marzo 1996, n. 108, in materia di esercizio dell&#39;agenzia in attività finanziaria e dell&#39;attività di mediazione creditizia&quot; (5598)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5608</literal></binding>
+   <binding name="date"><literal>20121128</literal></binding>
+   <binding name="title"><literal>VILLECCO CALIPARI ed altri: &quot;Disposizioni per la celebrazione del settantesimo anniversario della Resistenza e della guerra di liberazione&quot; (5608)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5621</literal></binding>
+   <binding name="date"><literal>20121206</literal></binding>
+   <binding name="title"><literal>GIACOMELLI ed altri: &quot;Disciplina organica del diritto di asilo, dello status di rifugiato e della protezione sussidiaria, nonché disposizioni di attuazione delle direttive 2003/9/CE, 2005/85/CE e 2011/95/UE&quot; (5621)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5628</literal></binding>
+   <binding name="date"><literal>20121207</literal></binding>
+   <binding name="title"><literal>LARATTA ed altri: &quot;Introduzione dell&#39;articolo 322-quater del codice penale, in materia di grave danno erariale cagionato dal pubblico ufficiale&quot; (5628)</literal></binding>
+  </result>
+ </results>
+</sparql>

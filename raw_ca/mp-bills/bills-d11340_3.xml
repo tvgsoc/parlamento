@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1760</literal></binding>
+   <binding name="date"><literal>19591126</literal></binding>
+   <binding name="title"><literal>CORTESE e COLITTO: Costituzione in comune autonomo della frazione Cellole del comune di Sessa Aurunca, in provincia di Caserta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>260</literal></binding>
+   <binding name="date"><literal>19580919</literal></binding>
+   <binding name="title"><literal>CORTESE ed altri: Abolizione della sovrimposta addizionale sulla benzina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1794</literal></binding>
+   <binding name="date"><literal>19591204</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Disciplina dell&#39;apertura e dell&#39;esercizio delle case da giuoco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2444</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Disciplina della scuola non statale e degli esami di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2448</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Inchiesta parlamentare sulla scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2752</literal></binding>
+   <binding name="date"><literal>19610128</literal></binding>
+   <binding name="title"><literal>TITOMANLIO ed altri: Modificazione ed integrazione della legge 30 dicembre 1960, n. 1727, per quanto concerne i diplomi rilasciati dall&#39;Istituto superiore di educazione fisica di Napoli entro l&#39;anno accademico 1959-60</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2956</literal></binding>
+   <binding name="date"><literal>19610413</literal></binding>
+   <binding name="title"><literal>TITOMANLIO ed altri: Aumento del contributo per i &quot;tavoli di studio&quot; alla Stazione zoologica di Napoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3994</literal></binding>
+   <binding name="date"><literal>19620720</literal></binding>
+   <binding name="title"><literal>BIGNARDI ed altri: Modificazione all&#39;articolo 14 della legge 8 aprile 1952, n. 212, per quanto concerne il cumulo degli stipendi e l&#39;adeguamento del trattamento di quiescenza col trattamento di attività</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>933</literal></binding>
+   <binding name="date"><literal>19590312</literal></binding>
+   <binding name="title"><literal>MALAGODI ed altri: Norme per la tutela della libertà di concorrenza e di mercato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2445</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Modifica dell&#39;articolo 33 della legge 27 febbraio 1958, n. 119, concernente disposizioni particolari sullo stato giuridico e sull&#39;ordinamento delle carriere del personale dell&#39;Amministrazione delle poste e telecomunicazioni e dell&#39;Azienda di Stato per i servizi telefonici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3170</literal></binding>
+   <binding name="date"><literal>19610705</literal></binding>
+   <binding name="title"><literal>BIGNARDI ed altri: Norme sulla temporanea sospensione e riduzione di imposte, sovrimposte e contributi agricoli unificati sui fondi vuoti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4069</literal></binding>
+   <binding name="date"><literal>19620804</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Costruzione del Palazzo di giustizia di Napoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>731</literal></binding>
+   <binding name="date"><literal>19581218</literal></binding>
+   <binding name="title"><literal>COLITTO ed altri: Modifica delle norme del decreto del Presidente della Repubblica 27 ottobre 1958, n. 956, concernente la disciplina della circolazione stradale</literal></binding>
+  </result>
+ </results>
+</sparql>

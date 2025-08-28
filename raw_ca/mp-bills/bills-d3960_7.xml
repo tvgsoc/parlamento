@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1300</literal></binding>
+   <binding name="date"><literal>19770328</literal></binding>
+   <binding name="title"><literal>FELICI ed altri: Nuovo ordinamento dell&#39;ente autonomo denominato &quot; Triennale di Milano per l&#39;architettura moderna, le arti decorative e industriali moderne&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>171</literal></binding>
+   <binding name="date"><literal>19760728</literal></binding>
+   <binding name="title"><literal>MAROCCO ed altri: Modifiche alla legge 2 aprile 1968, n. 482, sul collocamento obbligatorio delle categorie di invalidi presso le amministrazioni pubbliche e i privati datori di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>187</literal></binding>
+   <binding name="date"><literal>19760728</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Organizzazione della ricerca scientifica e tecnologica applicata ai problemi dello sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2255</literal></binding>
+   <binding name="date"><literal>19780614</literal></binding>
+   <binding name="title"><literal>CITARISTI ed altri: Modifiche ed integrazioni al decreto del Presidente della Repubblica 26 ottobre 1972, n. 639, concernente la disciplina dell&#39;imposta comunale sulla pubblicità e dei diritti sulle pubbliche affissioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2361</literal></binding>
+   <binding name="date"><literal>19780727</literal></binding>
+   <binding name="title"><literal>SALOMONE ed altri: Norme sull&#39;ordinamento e sulle funzioni del Consiglio di Stato e dei Tribunali amministrativi regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2364</literal></binding>
+   <binding name="date"><literal>19780728</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Legge-quadro in materia di mercati all&#39;ingrosso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>36</literal></binding>
+   <binding name="date"><literal>19760706</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Revisione degli articoli 56, 57, 58, 70 e 74 della Costituzione</literal></binding>
+  </result>
+ </results>
+</sparql>

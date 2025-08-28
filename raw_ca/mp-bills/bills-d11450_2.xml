@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1495</literal></binding>
+   <binding name="date"><literal>19550302</literal></binding>
+   <binding name="title"><literal>DE MARTINO e SANZO: Completamento del finanziamento per la costruzione del nuovo complesso ospedaliero di Salerno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>386</literal></binding>
+   <binding name="date"><literal>19531120</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Modifiche al testo unico 5 febbraio 1948, n. 26, per la elezione della Camera dei Deputati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>663</literal></binding>
+   <binding name="date"><literal>19540302</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Provvedimenti a favore della città di Salerno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2663</literal></binding>
+   <binding name="date"><literal>19570116</literal></binding>
+   <binding name="title"><literal>DE MARTINO: Proroga della legge 31 dicembre 1954, n. 1214, concernente provvedimenti in favore delle zone colpite dalle alluvioni in Campania</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1363</literal></binding>
+   <binding name="date"><literal>19541222</literal></binding>
+   <binding name="title"><literal>CERVONE ed altri: Costituzione in comune autonomo della frazione di Pezze di Greco nel comune di Fasano in provincia di Brindisi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19560420</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Provvedimenti a favore dei menomati negli arti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2205</literal></binding>
+   <binding name="date"><literal>19560420</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Provvedimenti diretti ad agevolare i finanziamenti occorrenti all&#39;Istituto nazionale per il finanziamento alla ricostruzione per lo svolgimento della sua attività, a favore della ricostruzione delle abitazioni distrutte a causa di eventi bellici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2757</literal></binding>
+   <binding name="date"><literal>19570228</literal></binding>
+   <binding name="title"><literal>SCALIA ed altri: Norme di integrazione interpretativa relative alla sistemazione economico-giuridica del personale degli Enti locali in possesso delle benemerenze belliche di cui al decreto legislativo 5 febbraio 1948, n. 61, integrato dalla legge 8 marzo 1949, n. 99</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>299</literal></binding>
+   <binding name="date"><literal>19531024</literal></binding>
+   <binding name="title"><literal>FABRIANI ed altri: Prolungamento da tre a cinque anni dei termini stabiliti dall&#39;articolo 5 del decreto legislativo 14 dicembre 1947, n. 1598</literal></binding>
+  </result>
+ </results>
+</sparql>

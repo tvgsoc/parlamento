@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>295</literal></binding>
+   <binding name="date"><literal>19490125</literal></binding>
+   <binding name="title"><literal>RAIMONDI e LUCIFREDI: Ricostituzione dei comuni di Castel Ratti, Molo di Borbera, Torre dei Ratti e Sorli, in provincia di Alessandria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1385</literal></binding>
+   <binding name="date"><literal>19500623</literal></binding>
+   <binding name="title"><literal>SEMERARO ed altri: Disposizioni per un più sicuro e stabile impiego della mano d&#39;opera agricola disoccupata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1430</literal></binding>
+   <binding name="date"><literal>19500708</literal></binding>
+   <binding name="title"><literal>LARUSSA ed altri: Modificazioni al decreto legislativo 1° marzo 1945, n. 82, relativo al riordinamento del Consiglio nazionale delle ricerche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1883</literal></binding>
+   <binding name="date"><literal>19510307</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Disciplina per l&#39;uso in Italia di onorificenze di alcuni Ordini cavallereschi liberi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2435</literal></binding>
+   <binding name="date"><literal>19511219</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Esenzione fiscale all&#39;Associazione nazionale mutilati civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3112</literal></binding>
+   <binding name="date"><literal>19521223</literal></binding>
+   <binding name="title"><literal>LONGHENA ed altri: Applicazione in favore dell&#39;Associazione italiana della Croce Rossa di un contributo sui premi di alcune assicurazioni</literal></binding>
+  </result>
+ </results>
+</sparql>

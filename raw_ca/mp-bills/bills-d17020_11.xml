@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1456</literal></binding>
+   <binding name="date"><literal>19920803</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Norme sulla elezione diretta del sindaco e del presidente della provincia e nuova disciplina per la elezione di consigli comunali e provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1555</literal></binding>
+   <binding name="date"><literal>19920911</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Norme per la concessione di contributi a favore della stampa e delle imprese radiofoniche e televisive di informazione italiana all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1556</literal></binding>
+   <binding name="date"><literal>19920911</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Estensione delle norme sulla pensione di inabilità, sull&#39;assegno mensile e sulla pensione sociale ai cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1564</literal></binding>
+   <binding name="date"><literal>19920916</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Norme per la sicurezza dei locali in cui avviene l&#39;utilizzazione di gas allo stato liquido o aeriforme</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1876</literal></binding>
+   <binding name="date"><literal>19921111</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Riforma del Ministero dell&#39;agricoltura e delle foreste</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1920</literal></binding>
+   <binding name="date"><literal>19921119</literal></binding>
+   <binding name="title"><literal>PAPPALARDO ed altri: Norme sul servizio nazionale della difesa e della sicurezza</literal></binding>
+  </result>
+ </results>
+</sparql>

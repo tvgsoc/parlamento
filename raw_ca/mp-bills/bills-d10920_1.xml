@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2936</literal></binding>
+   <binding name="date"><literal>19521010</literal></binding>
+   <binding name="title"><literal>VOCINO ed altri: Riordinamento degli organici del personale amministrativo del Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>396</literal></binding>
+   <binding name="date"><literal>19490307</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Maggiorazione del contributo dello Stato per la ricostruzione delle case distrutte dai terremoti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1811</literal></binding>
+   <binding name="date"><literal>19510209</literal></binding>
+   <binding name="title"><literal>GIAMMARCO ed altri: Autorizzazione al Ministro dei lavori pubblici della spesa di lire 19.809.700.000 per la costruzione di case popolari da assegnare a famiglie alloggiate in baracche in dipendenza dei terremoti del 28 dicembre 1908 e del 15 gennaio 1915</literal></binding>
+  </result>
+ </results>
+</sparql>

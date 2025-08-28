@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2036</literal></binding>
+   <binding name="date"><literal>19691121</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19700116</literal></binding>
+   <binding name="title"><literal>ANSELMI ed altri: Assegno di natalità alle lavoratrici artigiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2273</literal></binding>
+   <binding name="date"><literal>19700126</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Norme per la costruzione e l&#39;esercizio dei porti turistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2149</literal></binding>
+   <binding name="date"><literal>19691219</literal></binding>
+   <binding name="title"><literal>FELICI ed altri: Norme per le imbarcazioni da diporto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2201</literal></binding>
+   <binding name="date"><literal>19700116</literal></binding>
+   <binding name="title"><literal>ANSELMI ed altri: Assegno di natalità alle lavoratrici esercenti attività commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>37</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Concessione di amnistia per i reati commessi in occasione di manifestazioni operaie o studentesche</literal></binding>
+  </result>
+ </results>
+</sparql>

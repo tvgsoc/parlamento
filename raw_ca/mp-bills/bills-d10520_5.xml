@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1416</literal></binding>
+   <binding name="date"><literal>19690508</literal></binding>
+   <binding name="title"><literal>STORTI e SCALIA: Estensione delle norme previste per gli operai dipendenti dalle Amministrazioni della difesa, degli affari esteri, dei lavori pubblici, del tesoro, servizi di Zecca, dell&#39;agricoltura e foreste, Corpo forestale, adibiti con carattere permanente a mansioni di natura non salariale, agli operai dipendenti dalle altre amministrazioni dello Stato, adibiti alle stesse mansioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>804</literal></binding>
+   <binding name="date"><literal>19681223</literal></binding>
+   <binding name="title"><literal>STORTI ed altri: Perequazione dei trattamenti di maternità e modifiche alla legge 26 agosto 1950, n. 860, concernente le lavoratrici madri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>805</literal></binding>
+   <binding name="date"><literal>19681223</literal></binding>
+   <binding name="title"><literal>STORTI ed altri: Piano quinquennale per la istituzione di asili-nido comunali con il concorso dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1120</literal></binding>
+   <binding name="date"><literal>19690304</literal></binding>
+   <binding name="title"><literal>ZANIBELLI ed altri: Ampliamento e nuove norme del programma di costruzione di case per i lavoratori agricoli dipendenti di cui alla legge 30 dicembre 1960, n. 1676</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1285</literal></binding>
+   <binding name="date"><literal>19690328</literal></binding>
+   <binding name="title"><literal>IANNIELLO e STORTI: Retrodatazione della nomina degli insegnanti elementari vincitori del concorso magistrale del gennaio 1942 nelle province di Napoli e Latina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>256</literal></binding>
+   <binding name="date"><literal>19680725</literal></binding>
+   <binding name="title"><literal>NANNINI ed altri: Interventi in favore delle rivendite di generi di monopolio danneggiate dalle alluvioni</literal></binding>
+  </result>
+ </results>
+</sparql>

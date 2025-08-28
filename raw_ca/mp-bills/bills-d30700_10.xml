@@ -1,0 +1,652 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2512</literal></binding>
+   <binding name="date"><literal>19880323</literal></binding>
+   <binding name="title"><literal>TESTA ed altri: Norme per l&#39;attribuzione alle associazioni di protezione ambientale, di cui all&#39;articolo 13 della legge 8 luglio 1986, n. 349, di compiti di vigilanza in materia di reati ambientali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2616</literal></binding>
+   <binding name="date"><literal>19880421</literal></binding>
+   <binding name="title"><literal>TESTA ed altri: Norme per la regolamentazione e il controllo della velocità degli autoveicoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3376</literal></binding>
+   <binding name="date"><literal>19881118</literal></binding>
+   <binding name="title"><literal>TESTA ed altri: Sostituzione dell&#39;articolo 7 della legge 8 luglio 1986, n. 349, istitutiva del Ministero dell&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3662</literal></binding>
+   <binding name="date"><literal>19890221</literal></binding>
+   <binding name="title"><literal>TESTA: Norme per la prevenzione, il controllo, l&#39;informazione in materia di ricerca, sperimentazione e produzione di nuove combinazioni di materiale genetico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5380</literal></binding>
+   <binding name="date"><literal>19910117</literal></binding>
+   <binding name="title"><literal>TESTA: Norme per la riorganizzazione di competenze nell&#39;ambito del Ministero dell&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5443</literal></binding>
+   <binding name="date"><literal>19910208</literal></binding>
+   <binding name="title"><literal>TESTA ed altri: Istituzione di un&#39;anagrafe generale delle sostanze inquinanti con obbligo dell&#39;autodenuncia e definizione del sistema di accesso alle informazioni in essa contenute. Istituzione dell&#39;&quot;imposta ecologica&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6144</literal></binding>
+   <binding name="date"><literal>19911129</literal></binding>
+   <binding name="title"><literal>TESTA ed altri: Modifica dell&#39;articolo 1 del decreto-legge 9 settembre 1988, n. 397, convertito, con modificazioni, dalla legge 9 novembre 1988, n. 475, concernente l&#39;imposta di fabbricazione prevista sui sacchetti di plastica biodegradabili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1482</literal></binding>
+   <binding name="date"><literal>19870914</literal></binding>
+   <binding name="title"><literal>TESTA: Istituzione della provincia di Sulmona</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1494</literal></binding>
+   <binding name="date"><literal>19870917</literal></binding>
+   <binding name="title"><literal>TESTA ed altri: Modifica dell&#39;articolo 18 della legge 8 luglio 1986, n. 349, concernente l&#39;individuazione del danno pubblico ambientale, l&#39;azione di risarcimento, i poteri della Corte dei conti e della magistratura ordinaria, la costituzione di parte civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>827</literal></binding>
+   <binding name="date"><literal>19870715</literal></binding>
+   <binding name="title"><literal>TESTA ed altri: Norme concernenti l&#39;educazione ed informazione sui danni del fumo, il divieto di fumare in determinati locali, e la pubblicità dei prodotti da fumo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2087</literal></binding>
+   <binding name="date"><literal>19871218</literal></binding>
+   <binding name="title"><literal>CIAFARDINI ed altri: Norme per il controllo e la riduzione dell&#39;inquinamento acustico prodotto da vettori aerei civili in prossimità degli aeroporti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2148</literal></binding>
+   <binding name="date"><literal>19880113</literal></binding>
+   <binding name="title"><literal>NARDONE ed altri: Norme per l&#39;uso dei traccianti di evidenziazione nella commercializzazione e produzione di latte in polvere ad uso zootecnico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2160</literal></binding>
+   <binding name="date"><literal>19880114</literal></binding>
+   <binding name="title"><literal>ZANGHERI ed altri: Istituzione dell&#39;area di ricerca scientifica e tecnologica dell&#39;Aquila e fondi per il completamento del Laboratorio di fisica nucleare del Gran Sasso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2245</literal></binding>
+   <binding name="date"><literal>19880127</literal></binding>
+   <binding name="title"><literal>BOATO ed altri: Norme per la corretta denominazione degli aromatizzanti per alimenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2249</literal></binding>
+   <binding name="date"><literal>19880127</literal></binding>
+   <binding name="title"><literal>BOATO ed altri: Norme per la riduzione dell&#39;inquinamento nei centri urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2265</literal></binding>
+   <binding name="date"><literal>19880128</literal></binding>
+   <binding name="title"><literal>BULLERI ed altri: Modifiche ed integrazioni alla legge 27 luglio 1978, n. 392, concernente disciplina delle locazioni di immobili urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2377</literal></binding>
+   <binding name="date"><literal>19880219</literal></binding>
+   <binding name="title"><literal>RONCHI ed altri: Nuove norme per la tutela delle acque dall&#39;inquinamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2471</literal></binding>
+   <binding name="date"><literal>19880311</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Norme per la tutela delle aree gestite dalle associazioni naturalistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2683</literal></binding>
+   <binding name="date"><literal>19880512</literal></binding>
+   <binding name="title"><literal>DONATI ed altri: Norme per la produzione, commercializzazione e valorizzazione dei prodotti agricoli biologici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2729</literal></binding>
+   <binding name="date"><literal>19880519</literal></binding>
+   <binding name="title"><literal>ZANGHERI ed altri: Disposizioni per interventi programmatici in materia di prevenzione nei luoghi di vita e di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2859</literal></binding>
+   <binding name="date"><literal>19880609</literal></binding>
+   <binding name="title"><literal>CHERCHI ed altri: Norme per l&#39;istituzione e la disciplina della valutazione dell&#39;impatto ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2863</literal></binding>
+   <binding name="date"><literal>19880609</literal></binding>
+   <binding name="title"><literal>DONAZZON ed altri: Recupero e restauro ambientale dello spazio naturale e del paesaggio agrario della zona di pianura e di parte della zona di collina non compresa nel territorio delle comunità montane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2878</literal></binding>
+   <binding name="date"><literal>19880615</literal></binding>
+   <binding name="title"><literal>CEDERNA ed altri: Espropriazione di Villa Ada in Roma e sua assegnazione al patrimonio del comune di Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2965</literal></binding>
+   <binding name="date"><literal>19880706</literal></binding>
+   <binding name="title"><literal>CHERCHI ed altri: Norme sulle emergenze ambientali nelle attività industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3046</literal></binding>
+   <binding name="date"><literal>19880722</literal></binding>
+   <binding name="title"><literal>CEDERNA ed altri: Provvedimenti urgenti per la salvaguardia e la valorizzazione del patrimonio archeologico di Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3219</literal></binding>
+   <binding name="date"><literal>19881005</literal></binding>
+   <binding name="title"><literal>LODIGIANI ed altri: Nuove norme contro il maltrattamento degli animali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3256</literal></binding>
+   <binding name="date"><literal>19881014</literal></binding>
+   <binding name="title"><literal>CEDERNA ed altri: Finanziamento dei piani paesistici regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3358</literal></binding>
+   <binding name="date"><literal>19881115</literal></binding>
+   <binding name="title"><literal>BULLERI ed altri: Principi generali per la legislazione regionale di riforma economico-sociale dell&#39;edilizia residenziale pubblica e trasferimento di funzioni amministrative alle regioni ed ai comuni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3361</literal></binding>
+   <binding name="date"><literal>19881115</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Riconoscimento agli stranieri ed apolidi residenti in Italia dei diritti di riunione, di associazione e di elettorato attivo e passivo. Modificazione degli articoli 17, 18, 49, 50 e 54 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3417</literal></binding>
+   <binding name="date"><literal>19881201</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Istituzione di un fondo per la riconversione dell&#39;industria bellica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3496</literal></binding>
+   <binding name="date"><literal>19890103</literal></binding>
+   <binding name="title"><literal>CONTI e TESTA: Disposizioni per il recepimento della direttiva 79/409 della CEE sulla conservazione degli uccelli selvatici. Modifiche ed integrazioni della legge 27 dicembre 1977, n. 968</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3501</literal></binding>
+   <binding name="date"><literal>19890105</literal></binding>
+   <binding name="title"><literal>TAMINO ed altri: Norme per l&#39;assicurazione contro la tubercolosi e l&#39;AIDS</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3642</literal></binding>
+   <binding name="date"><literal>19890213</literal></binding>
+   <binding name="title"><literal>VISCO ed altri: Norme volte a ridurre l&#39;inquinamento atmosferico nei centri urbani mediante la trasformazione a metano o propano della alimentazione dei motori dei mezzi pubblici e dei veicoli adibiti a servizio pubblico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3766</literal></binding>
+   <binding name="date"><literal>19890329</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Norme a difesa dall&#39;inquinamento derivante da veicoli a motore e per incentivare la diffusione di veicoli e carburanti determinanti un minor tasso di inquinamento ambientale ed una maggiore sicurezza nella circolazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3820</literal></binding>
+   <binding name="date"><literal>19890413</literal></binding>
+   <binding name="title"><literal>BOSELLI ed altri: Misure per la salvaguardia del sistema idrografico dell&#39;Adige e per la pianificazione, programmazione ed esecuzione dei relativi interventi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3872</literal></binding>
+   <binding name="date"><literal>19890502</literal></binding>
+   <binding name="title"><literal>MENZIETTI ed altri: Riduzione dell&#39;aliquota dell&#39;imposta sul valore aggiunto applicata alle calzature</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3897</literal></binding>
+   <binding name="date"><literal>19890508</literal></binding>
+   <binding name="title"><literal>NARDONE ed altri: Nuove norme in materia di produzione, commercializzazione, vendita ed uso dei fitofarmaci e dei prodotti assimilati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3913</literal></binding>
+   <binding name="date"><literal>19890510</literal></binding>
+   <binding name="title"><literal>SCALIA ed altri: Istituzione della riserva naturale &quot;Monte e Capo Gallo - Isola di Fuori o delle Femmine&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3916</literal></binding>
+   <binding name="date"><literal>19890510</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Provvedimenti straordinari per la protezione dell&#39;ozonosfera e la riconversione e lo smaltimento di produzioni dannose per l&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3935</literal></binding>
+   <binding name="date"><literal>19890511</literal></binding>
+   <binding name="title"><literal>GUERZONI ed altri: Norme per l&#39;esercizio dell&#39;opzione fiscale in materia di spese per la difesa militare, contenimento della spesa per armamenti e istituzione del Dipartimento per la difesa civile non armata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4082</literal></binding>
+   <binding name="date"><literal>19890706</literal></binding>
+   <binding name="title"><literal>VISCO ed altri: Revisione del sistema di imposizione degli oli minerali al fine di contribuire al risparmio energetico, di tutelare l&#39;ambiente disincentivando il consumo dei prodotti più inquinanti, e di limitare le possibilità di frode fiscale. Riduzione al 16 per cento dell&#39;aliquota ordinaria dell&#39;IVA e fiscalizzazione di alcuni oneri impropri per l&#39;industria manifatturiera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4116</literal></binding>
+   <binding name="date"><literal>19890720</literal></binding>
+   <binding name="title"><literal>FERRARA ed altri: Modifica dell&#39;articolo 77 della Costituzione, concernente l&#39;adozione dei decreti-legge</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4161</literal></binding>
+   <binding name="date"><literal>19890803</literal></binding>
+   <binding name="title"><literal>BERNASCONI ed altri: Legge-quadro sui rischi derivati dall&#39;impiego di agenti biologici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4176</literal></binding>
+   <binding name="date"><literal>19890804</literal></binding>
+   <binding name="title"><literal>BORDON ed altri: Modifica del comprensorio del porto industriale di Trieste</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4277</literal></binding>
+   <binding name="date"><literal>19891016</literal></binding>
+   <binding name="title"><literal>RUTELLI ed altri: Obbligo per il comune di residenza di porre a dimora un albero per ogni neonato, all&#39;atto della registrazione anagrafica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4345</literal></binding>
+   <binding name="date"><literal>19891115</literal></binding>
+   <binding name="title"><literal>BULLERI ed altri: Piano per l&#39;edilizia residenziale pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4522</literal></binding>
+   <binding name="date"><literal>19900125</literal></binding>
+   <binding name="title"><literal>CIMA ed altri: Norme in materia di circolazione fuori strada dei veicoli a motore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4551</literal></binding>
+   <binding name="date"><literal>19900208</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Sistema di controlli per la lotta all&#39;inquinamento atmosferico causato dai veicoli a motore e dagli impianti termici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4739</literal></binding>
+   <binding name="date"><literal>19900410</literal></binding>
+   <binding name="title"><literal>MINOZZI ed altri: Legge quadro in materia di cave e torbiere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4759</literal></binding>
+   <binding name="date"><literal>19900417</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Contributi alle imprese radiofoniche private che abbiano svolto attività di informazione di interesse generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4835</literal></binding>
+   <binding name="date"><literal>19900522</literal></binding>
+   <binding name="title"><literal>MENZIETTI ed altri: Norme sulla regolamentazione delle reti pelagiche derivanti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4890</literal></binding>
+   <binding name="date"><literal>19900613</literal></binding>
+   <binding name="title"><literal>BONFATTI PAINI MOLINARO ed altri: Norme per l&#39;incentivazione alla redazione ed attuazione dei piani paesistici regionali e per il loro finanziamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4934</literal></binding>
+   <binding name="date"><literal>19900704</literal></binding>
+   <binding name="title"><literal>CEDERNA ed altri: Assegnazione al demanio dello Stato della collezione del Museo Torlonia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4999</literal></binding>
+   <binding name="date"><literal>19900726</literal></binding>
+   <binding name="title"><literal>MATTIOLI ed altri: Modifiche e integrazioni al decreto-legge 10 dicembre 1988, n. 522, convertito dalla legge 10 febbraio 1989, n. 42, recante disposizioni urgenti in materia di politica energetica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5140</literal></binding>
+   <binding name="date"><literal>19901011</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Tutela dei consumatori in caso di contratti negoziati fuori dei locali commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5141</literal></binding>
+   <binding name="date"><literal>19901011</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Norme relative all&#39;etichettatura nutrizionale dei prodotti alimentari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5506</literal></binding>
+   <binding name="date"><literal>19910306</literal></binding>
+   <binding name="title"><literal>GRASSI ed altri: Modifiche e integrazioni alla legge 19 marzo 1990, n. 57, recante l&#39;istituzione dell&#39;Autorità per l&#39;Adriatico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5521</literal></binding>
+   <binding name="date"><literal>19910311</literal></binding>
+   <binding name="title"><literal>ANDREIS ed altri: Modifica del decreto del Presidente della Repubblica 17 maggio 1988, n. 175, e recepimento della direttiva CEE n. 88/610, relativa ai rischi di incidenti rilevanti connessi con determinate attività industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5599</literal></binding>
+   <binding name="date"><literal>19910411</literal></binding>
+   <binding name="title"><literal>PALLANTI ed altri: Nuova disciplina in tema di collegamento automatico tra pensioni e retribuzioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5631</literal></binding>
+   <binding name="date"><literal>19910424</literal></binding>
+   <binding name="title"><literal>QUERCINI ed altri: Nuove norme per l&#39;introduzione dello scrutinio uninominale maggioritario a doppio turno eventuale, con lista unica nazionale, doppio voto e recupero dei secondi eletti nei collegi, per l&#39;elezione della Camera dei deputati. Norme per la moralizzazione delle campagne elettorali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5662</literal></binding>
+   <binding name="date"><literal>19910509</literal></binding>
+   <binding name="title"><literal>MONTANARI FORNARI ed altri: Norme per la sicurezza e prevenzione degli incidenti negli ambienti di civile abitazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5703</literal></binding>
+   <binding name="date"><literal>19910528</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Disposizioni per favorire il risparmio energetico, la sicurezza e la qualità ambientale nel sistema industriale, civile-domestico e dei trasporti urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5725</literal></binding>
+   <binding name="date"><literal>19910607</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Norme per l&#39;organizzazione di un sistema italiano di certificazione e per la qualità e la sicurezza dei prodotti. Istituzione di un sistema di controlli a tutela dei consumatori e dei cittadini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5731</literal></binding>
+   <binding name="date"><literal>19910603</literal></binding>
+   <binding name="title"><literal>SANFILIPPO ed altri: Norme per la ricostruzione delle zone colpite dal terremoto del 13 e 16 dicembre 1990 nelle province di Siracusa, Catania e Ragusa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5956</literal></binding>
+   <binding name="date"><literal>19910912</literal></binding>
+   <binding name="title"><literal>CICCIOMESSERE ed altri: Nuove norme per la prevenzione dell&#39;inquinamento marino causato da oli minerali nel trasporto alla rinfusa via mare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6003</literal></binding>
+   <binding name="date"><literal>19911003</literal></binding>
+   <binding name="title"><literal>MONTANARI FORNARI ed altri: Modifiche al decreto legislativo 15 agosto 1991, n. 277, recante attuazione di direttive comunitarie in materia di protezione dei lavoratori dai rischi derivanti da esposizione ad agenti nocivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6018</literal></binding>
+   <binding name="date"><literal>19911010</literal></binding>
+   <binding name="title"><literal>QUERCINI ed altri: Norme generali per il completamento dei piani di ricostruzione post-bellica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6031</literal></binding>
+   <binding name="date"><literal>19911016</literal></binding>
+   <binding name="title"><literal>PACETTI ed altri: Norme per la realizzazione di interventi di tutela e valorizzazione dei laghi salmastri di Portonovo (Ancona)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6063</literal></binding>
+   <binding name="date"><literal>19911106</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Istituzione del bilancio ecologico delle imprese, in materia di tutela ambientale, sanitaria e di sicurezza pubblica. Norme per la trasparenza, la semplificazione delle procedure e l&#39;istituzione dello sportello unico ambientale per le imprese e per il diritto di informazione e di accesso dei cittadini ai dati dei bilanci ecologici d&#39;impresa e per la compatibilità ambientale, sanitaria e di sicurezza in particolari aree critiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6225</literal></binding>
+   <binding name="date"><literal>19911220</literal></binding>
+   <binding name="title"><literal>TAMINO ed altri: Norme in materia di sperimentazione clinica sull&#39;uomo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6252</literal></binding>
+   <binding name="date"><literal>19911222</literal></binding>
+   <binding name="title"><literal>OCCHETTO ed altri: Confisca dei beni frutto di attività delittuose</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6300</literal></binding>
+   <binding name="date"><literal>19920116</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Istituzione di un sistema di controlli a tutela dei consumatori e dei cittadini e norme per l&#39;organizzazione di un sistema italiano di certificazione e per la qualità e la sicurezza dei prodotti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1019</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>SANNELLA ed altri: Norme relative alla eliminazione dei PCB (policlorobifenili), dei PCT (policloroterfenili) e del TCB (triclorobenzeni) e alla tutela dell&#39;ambiente e della sicurezza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1025</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BARBERA ed altri: Istituzione del difensore civico per l&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1373</literal></binding>
+   <binding name="date"><literal>19870805</literal></binding>
+   <binding name="title"><literal>BULLERI ed altri: Riforma degli IACP e norme sulla cessione in proprietà di alloggi pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1374</literal></binding>
+   <binding name="date"><literal>19870805</literal></binding>
+   <binding name="title"><literal>BOSELLI ed altri: Norme per la gestione del territorio e l&#39;edificabilità dei suoli e la determinazione delle indennità di espropriazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1375</literal></binding>
+   <binding name="date"><literal>19870805</literal></binding>
+   <binding name="title"><literal>ALBORGHETTI ed altri: Norme per la difesa e l&#39;uso razionale del suolo e delle acque e per l&#39;istituzione del Dipartimento del territorio e dell&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1435</literal></binding>
+   <binding name="date"><literal>19870810</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Abolizione dei pedaggi autostradali e rafforzamento dei servizi di vigilanza e di assistenza agli automobilisti sulle autostrade</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1717</literal></binding>
+   <binding name="date"><literal>19871020</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Norme per l&#39;adeguamento della legislazione alle prescrizioni della convenzione relativa alla conservazione della vita selvatica e dell&#39;ambiente in Europa, adottata a Berna il 19 settembre 1979 e ratificata con legge 5 agosto 1981, n. 503</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1989</literal></binding>
+   <binding name="date"><literal>19871130</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Ordinamento della professione di guida alpina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2002</literal></binding>
+   <binding name="date"><literal>19871202</literal></binding>
+   <binding name="title"><literal>CEDERNA ed altri: Finanziamento degli oneri aggiuntivi per gli adeguamenti contrattuali dei lavoratori del settore dei trasporti mediante riduzione di stanziamenti straordinari per opere autostradali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2244</literal></binding>
+   <binding name="date"><literal>19880127</literal></binding>
+   <binding name="title"><literal>BOATO ed altri: Patentino obbligatorio per elettricisti, idraulici e installatori di impianti a gas</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2796</literal></binding>
+   <binding name="date"><literal>19880601</literal></binding>
+   <binding name="title"><literal>PROCACCI ed altri: Norme sul randagismo e a tutela degli animali domestici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>33</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>ZANGHERI ed altri: Modifica dell&#39;articolo 34 della legge 25 maggio 1970, n. 352, recante norme sui referendum previsti dalla Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3561</literal></binding>
+   <binding name="date"><literal>19890125</literal></binding>
+   <binding name="title"><literal>SAVIO ed altri: Misure per la salvaguardia del sistema idrografico del Tevere e per la pianificazione, programmazione ed esecuzione dei relativi interventi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>36</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Norme per il sostegno degli enti e associazioni che perseguono finalità umanitarie, scientifiche, culturali, religiose, politiche, sindacali, di promozione sociale e civile, di salvaguardia dell&#39;ambiente naturale e del patrimonio culturale e artistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4267</literal></binding>
+   <binding name="date"><literal>19891011</literal></binding>
+   <binding name="title"><literal>CICERONE ed altri: Valutazione di impatto ambientale e realizzazione delle opere di completamento del laboratorio di fisica nucleare del Gran Sasso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>545</literal></binding>
+   <binding name="date"><literal>19870703</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Modifica dell&#39;articolo 34 della legge 25 maggio 1970, n. 352, recante norme sui referendum previsti dalla Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>560</literal></binding>
+   <binding name="date"><literal>19870703</literal></binding>
+   <binding name="title"><literal>GEREMICCA ed altri: Misure urgenti per la graduazione della esecuzione  dei provvedimenti di rilascio degli immobili adibiti ad uso abitativo e nuove norme per la durata dei contratti di locazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>715</literal></binding>
+   <binding name="date"><literal>19870709</literal></binding>
+   <binding name="title"><literal>ANGELONI ed altri: Utilizzazione a titolo gratuito del tratto di autostrada A-14 compreso tra Rimini e San Salvo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>785</literal></binding>
+   <binding name="date"><literal>19870709</literal></binding>
+   <binding name="title"><literal>TAGLIABUE ed altri: Norme per potenziare la ricerca scientifica nella lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1111</literal></binding>
+   <binding name="date"><literal>19870721</literal></binding>
+   <binding name="title"><literal>ZANGHERI ed altri: Norme in materia di tutela delle minoranze linguistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1372</literal></binding>
+   <binding name="date"><literal>19870805</literal></binding>
+   <binding name="title"><literal>SAPIO ed altri: Proroga del piano decennale di edilizia residenziale pubblica per il biennio 1988-1989</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1377</literal></binding>
+   <binding name="date"><literal>19870805</literal></binding>
+   <binding name="title"><literal>BOSELLI ed altri: Norme per la conservazione della natura e per le aree protette</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1964</literal></binding>
+   <binding name="date"><literal>19871126</literal></binding>
+   <binding name="title"><literal>CERUTI ed altri: Legge-quadro in materia di parchi nazionali, riserve naturali, parchi marini e riserve marine</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1979</literal></binding>
+   <binding name="date"><literal>19871126</literal></binding>
+   <binding name="title"><literal>PETROCELLI ed altri: Istituzione del Servizio nazionale della protezione civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2163</literal></binding>
+   <binding name="date"><literal>19880114</literal></binding>
+   <binding name="title"><literal>OCCHETTO ed altri: Provvedimenti per la ricostruzione della Valtellina e della Valbrembana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2661</literal></binding>
+   <binding name="date"><literal>19880505</literal></binding>
+   <binding name="title"><literal>ZANGHERI ed altri: Istituzione e disciplina dell&#39;autorità di bacino del Po</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3308</literal></binding>
+   <binding name="date"><literal>19881027</literal></binding>
+   <binding name="title"><literal>SERAFINI ed altri: Istituzione del Parco-museo delle miniere dell&#39;Amiata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3335</literal></binding>
+   <binding name="date"><literal>19881108</literal></binding>
+   <binding name="title"><literal>VELTRONI ed altri: Divieto dell&#39;interruzione pubblicitaria dei film</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3665</literal></binding>
+   <binding name="date"><literal>19890222</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Istituzione della &quot;Lotteria del Mare&quot; e destinazione dei relativi utili al risanamento del Mare Adriatico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3721</literal></binding>
+   <binding name="date"><literal>19890315</literal></binding>
+   <binding name="title"><literal>MINUCCI ed altri: Legge-quadro sulla protezione della fauna selvatica e sulla regolamentazione della caccia e recepimento delle direttive CEE 79/409 e 85/411, con i relativi annessi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3858</literal></binding>
+   <binding name="date"><literal>19890426</literal></binding>
+   <binding name="title"><literal>CEDERNA ed altri: Interventi per la riqualificazione di Roma capitale della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4305</literal></binding>
+   <binding name="date"><literal>19891026</literal></binding>
+   <binding name="title"><literal>BARZANTI ed altri: Costituzione del Parco di archeologia mineraria e metallurgica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4368</literal></binding>
+   <binding name="date"><literal>19891122</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Norme per il divieto di estrazione, di impiego e di commercializzazione dell&#39;amianto e di manufatti e prodotti contenenti amianto e per l&#39;attuazione di un piano di decontaminazione e bonifica dall&#39;amianto in attuazione della direttiva CEE 87/217</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4405</literal></binding>
+   <binding name="date"><literal>19891213</literal></binding>
+   <binding name="title"><literal>ZANGHERI ed altri: Istituzione e disciplina dell&#39;Autorità dell&#39;Adriatico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4467</literal></binding>
+   <binding name="date"><literal>19891229</literal></binding>
+   <binding name="title"><literal>BASSANINI e TESTA: Disposizione transitorie per la disciplina dell&#39;attività venatoria</literal></binding>
+  </result>
+ </results>
+</sparql>

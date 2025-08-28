@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6806</literal></binding>
+   <binding name="date"><literal>20000224</literal></binding>
+   <binding name="title"><literal>BOLOGNESI ed altri: Disposizioni per la tutela della salute dai danni derivanti dal fumo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6981</literal></binding>
+   <binding name="date"><literal>20000510</literal></binding>
+   <binding name="title"><literal>LUCÀ ed altri: Istituzione di una Commissione parlamentare di inchiesta sulla povertà minorile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7114</literal></binding>
+   <binding name="date"><literal>20000615</literal></binding>
+   <binding name="title"><literal>MUSSI ed altri: Norme in materia  di programmazione e di semplificazione delle procedure per la realizzazione di infrastrutture</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>898</literal></binding>
+   <binding name="date"><literal>19960515</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Nuove norme in materia di integrazione al trattamento minimo pensionistico</literal></binding>
+  </result>
+ </results>
+</sparql>

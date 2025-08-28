@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1242</literal></binding>
+   <binding name="date"><literal>19800109</literal></binding>
+   <binding name="title"><literal>GUI ed altri: Adeguamento e proroga dei contributi dello Stato alla Società europea di cultura (SEC)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1359</literal></binding>
+   <binding name="date"><literal>19800204</literal></binding>
+   <binding name="title"><literal>PICANO ed altri: Istituzione di una Sezione distaccata della Corte di appello di Roma a Frosinone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1410</literal></binding>
+   <binding name="date"><literal>19800215</literal></binding>
+   <binding name="title"><literal>REGGIANI ed altri: Norme per la nomina dei rappresentanti di categoria nei consigli di amministrazione degli enti pubblici preposti ad attività sportive, turistiche e del tempo libero, indicati nella tabella allegata alla legge 20 marzo 1975, n. 70</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1740</literal></binding>
+   <binding name="date"><literal>19800521</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Modifiche della legge 1° dicembre 1970, n. 898, concernente disciplina dei casi di scioglimento del matrimonio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1981</literal></binding>
+   <binding name="date"><literal>19800829</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Estensione dell&#39;assicurazione obbligatoria per l&#39;invalidità, la vecchiaia e i superstiti e contro gli infortuni alle casalinghe</literal></binding>
+  </result>
+ </results>
+</sparql>

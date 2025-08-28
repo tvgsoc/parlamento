@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>465</literal></binding>
+   <binding name="date"><literal>19720712</literal></binding>
+   <binding name="title"><literal>INGRAO ed altri: Modificazioni del primo comma dell&#39;articolo 48, del secondo comma dell&#39;articolo 56 e dell&#39;articolo 58 della Costituzione, concernenti la diminuzione dei limiti di età previsti per il diritto elettorale attivo e passivo sia per la Camera dei deputati che per il Senato della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1064</literal></binding>
+   <binding name="date"><literal>19721026</literal></binding>
+   <binding name="title"><literal>CARUSO ed altri: Estensione  dei benefici della legge 24 maggio 1970, n. 336 ai lavoratori dipendenti da aziende private e autonomi appartenenti alle categorie combattentistiche e riliquidazione delle pensioni ai pensionati delle categorie combattentistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>152</literal></binding>
+   <binding name="date"><literal>19720530</literal></binding>
+   <binding name="title"><literal>GRAMEGNA ed altri: Nuove norme per la Cassa integrazione guadagni dei lavoratori dell&#39;industria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2174</literal></binding>
+   <binding name="date"><literal>19730524</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Norme per l&#39;attuazione dei piani organici di difesa del suolo, di sistemazione idrogeologica e di razionale utilizzazione delle acque</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>75</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>SKERK ed altri: Disposizioni per il riconoscimento dei diritti nazionali e per la tutela della minoranza nazionale slovena della regione Friuli-Venezia Giulia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1991</literal></binding>
+   <binding name="date"><literal>19730406</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri: Norme di attuazione delle direttive della CEE nn. 159/72, 160/72, 161/72 per le strutture agricole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>26</literal></binding>
+   <binding name="date"><literal>19740125</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Aumento e riforma delle pensioni della previdenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>659</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>CARUSO ed altri: Modifiche ai compiti, all&#39;ordinamento ed alle strutture dell&#39;Istituto superiore di sanità</literal></binding>
+  </result>
+ </results>
+</sparql>

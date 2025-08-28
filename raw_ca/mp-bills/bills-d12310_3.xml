@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3509</literal></binding>
+   <binding name="date"><literal>19611215</literal></binding>
+   <binding name="title"><literal>SANFILIPPO: Autorizzazione per l&#39;esercizio di una casa da giuoco a Taormina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4071</literal></binding>
+   <binding name="date"><literal>19620804</literal></binding>
+   <binding name="title"><literal>SANFILIPPO: Modifica alla legge 1° agosto 1941, n. 1063, in materia di rendite da infortuni sul lavoro per gli addetti ai pubblici servizi di trasporto in concessione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4072</literal></binding>
+   <binding name="date"><literal>19620804</literal></binding>
+   <binding name="title"><literal>SANFILIPPO: Modifiche alla legge 6 agosto 1954, n. 858, concernente l&#39;approvazione delle tabelle nazionali delle qualifiche del personale dei pubblici servizi di trasporto in concessione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4443</literal></binding>
+   <binding name="date"><literal>19630111</literal></binding>
+   <binding name="title"><literal>SANFILIPPO: Modifica dell&#39;articolo 28 della legge 28 luglio 1961, n. 830, recante disposizioni in materia di previdenza per gli addetti ai pubblici servizi di trasporto in concessione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3961</literal></binding>
+   <binding name="date"><literal>19620712</literal></binding>
+   <binding name="title"><literal>GERMANI ed altri: Elevazione del contributo dello Stato all&#39;Istituto nazionale di economia agraria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4395</literal></binding>
+   <binding name="date"><literal>19621221</literal></binding>
+   <binding name="title"><literal>RADI ed altri: Provvidenze a favore dei circhi italiani e norme sulla attività dello spettacolo viaggiante</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2417</literal></binding>
+   <binding name="date"><literal>19810302</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Ulteriori norme per l&#39;accelerazione delle procedure per l&#39;esecuzione di opere pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3353</literal></binding>
+   <binding name="date"><literal>19820422</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Nuove disposizioni per i procedimenti riguardanti imputati detenuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3858</literal></binding>
+   <binding name="date"><literal>19830112</literal></binding>
+   <binding name="title"><literal>PERRONE ed altri: Norme per l&#39;immissione in ruolo di alcune categorie del personale docente della scuola elementare e secondaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4007</literal></binding>
+   <binding name="date"><literal>19830316</literal></binding>
+   <binding name="title"><literal>PERRONE ed altri: Competenze accessorie per il personale civile delle amministrazioni dello Stato in servizio ai centralini telefonici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4089</literal></binding>
+   <binding name="date"><literal>19830426</literal></binding>
+   <binding name="title"><literal>SCAIOLA ed altri: Limite massimo per l&#39;esonero della registrazione dei contratti di appalto verbali e di corrispondenza commerciale</literal></binding>
+  </result>
+ </results>
+</sparql>

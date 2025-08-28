@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1364</literal></binding>
+   <binding name="date"><literal>19770413</literal></binding>
+   <binding name="title"><literal>BENEDIKTER ed altri: Eliminazione dei simboli fascisti nella provincia di Bolzano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1039</literal></binding>
+   <binding name="date"><literal>19770120</literal></binding>
+   <binding name="title"><literal>GAMPER ed altri: Obbligatorietà dell&#39;iscrizione del gruppo sanguigno di appartenenza sui documenti di riconoscimento e sulle patenti di guida</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1260</literal></binding>
+   <binding name="date"><literal>19770317</literal></binding>
+   <binding name="title"><literal>MANCINI ed altri: Interpretazione autentica dell&#39;ultimo comma dell&#39;articolo 31 della legge 20 maggio 1970, n. 300, concernente lo statuto dei lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1894</literal></binding>
+   <binding name="date"><literal>19771124</literal></binding>
+   <binding name="title"><literal>LOMBARDO ed altri: Norme per la vendita al pubblico dei prodotti ittici da parte delle cooperative di pescatori e loro consorzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2067</literal></binding>
+   <binding name="date"><literal>19780302</literal></binding>
+   <binding name="title"><literal>GAMPER ed altri: Modifica della legge 23 ottobre 1961, n. 1165 (Indennità speciale di seconda lingua ai magistrati, ai dipendenti civili dello Stato compresi quelli delle amministrazioni con ordinamento autonomo ed agli appartenenti alle forze armate ed ai corpi organizzati militarmente in servizio nella provincia di Bolzano o presso uffici sedenti in Trento ed aventi competenza regionale)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2643</literal></binding>
+   <binding name="date"><literal>19790116</literal></binding>
+   <binding name="title"><literal>GAMPER ed altri: Adeguamento dei sovracanoni dovuti agli enti locali per effetto della legge 27 dicembre 1953, n. 959, nonché dall&#39;articolo 53 del testo unico 11 dicembre 1933, n. 1775, e successive modificazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>292</literal></binding>
+   <binding name="date"><literal>19760810</literal></binding>
+   <binding name="title"><literal>RIZ ed altri: Modifica alle tabelle A e B annesse al decreto del Presidente della Repubblica 26 ottobre 1972, n. 644, relativo alla revisione delle circoscrizioni degli Uffici distrettuali delle imposte dirette e degli Uffici del registro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>295</literal></binding>
+   <binding name="date"><literal>19760810</literal></binding>
+   <binding name="title"><literal>RIZ ed altri: Modifiche al regio decreto 28 marzo 1929, n. 499, per il coordinamento con la legge 19 maggio 1975, n. 151, sul nuovo diritto di famiglia</literal></binding>
+  </result>
+ </results>
+</sparql>

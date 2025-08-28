@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1240</literal></binding>
+   <binding name="date"><literal>19770311</literal></binding>
+   <binding name="title"><literal>GUERRINI ed altri: Contributi e facilitazioni ai pescatori per l&#39;uso dei prodotti petroliferi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1447</literal></binding>
+   <binding name="date"><literal>19770511</literal></binding>
+   <binding name="title"><literal>BOCCHI ed altri: Ristrutturazione e potenziamento dei trasporti urbani ed extraurbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1582</literal></binding>
+   <binding name="date"><literal>19770630</literal></binding>
+   <binding name="title"><literal>BARTOLINI ed altri: Riordinamento delle funzioni in materia di motorizzazione e circolazione su strada e di autotrasporti di cose</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2219</literal></binding>
+   <binding name="date"><literal>19780526</literal></binding>
+   <binding name="title"><literal>PANI ed altri: Credito agevolato per l&#39;autotrasporto merci per conto terzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2632</literal></binding>
+   <binding name="date"><literal>19790108</literal></binding>
+   <binding name="title"><literal>OTTAVIANO ed altri: Istituzione dell&#39;Azienda per le ferrovie dello Stato e soppressione dell&#39;Azienda autonoma delle ferrovie dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>638</literal></binding>
+   <binding name="date"><literal>19761020</literal></binding>
+   <binding name="title"><literal>OTTAVIANO ed altri: Modifica della legge 10 novembre 1973, n. 755, concernente la gestione unitaria del sistema aeroportuale della capitale e costruzione di una nuova aerostazione nell&#39;aeroporto intercontinentale &quot;Leonardo da Vinci&quot; di Roma-Fiumicino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1721</literal></binding>
+   <binding name="date"><literal>19770914</literal></binding>
+   <binding name="title"><literal>MORAZZONI ed altri: Proroga del termine di cui all&#39;articolo 1 della legge 8 maggio 1971, n. 420, concernente modifiche alle norme relative al sistema aeroportuale di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>231</literal></binding>
+   <binding name="date"><literal>19760804</literal></binding>
+   <binding name="title"><literal>MALAGUGINI ed altri: Inchiesta parlamentare sull&#39;incidente avvenuto il 20 luglio 1976 nello stabilimento ICMESA sito in comune di Seveso (Milano) e sulle attività industriali comportanti l&#39;impiego e la produzione di materiali, procedimenti o strumenti pericolosi</literal></binding>
+  </result>
+ </results>
+</sparql>

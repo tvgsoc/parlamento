@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>100</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>BROCCA ed altri: Norme per lo sviluppo della pratica delle attività motorie e sportive e dell&#39;associazionismo sportivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1633</literal></binding>
+   <binding name="date"><literal>19800424</literal></binding>
+   <binding name="title"><literal>FIORI ed altri: Norme sull&#39;ordinamento e sulle funzioni del Consiglio di Stato e dei Tribunali amministrativi regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>168</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>SABBATINI ed altri: Regolarizzazione del trattamento di previdenza e di quiescenza del personale già dipendente da enti pubblici trasferito alle regioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>198</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>CASATI ed altri: Ordinamento della scuola non statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3287</literal></binding>
+   <binding name="date"><literal>19820325</literal></binding>
+   <binding name="title"><literal>BUBBICO ed altri: Norme in materia di dirigenti e quadri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>525</literal></binding>
+   <binding name="date"><literal>19790808</literal></binding>
+   <binding name="title"><literal>SILVESTRI ed altri: Disposizioni normative per i cittadini eletti alle cariche di senatore, deputato e consigliere regionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>746</literal></binding>
+   <binding name="date"><literal>19791017</literal></binding>
+   <binding name="title"><literal>CONTU ed altri: Interventi per il miglioramento del sistema dei trasporti interessanti la Sardegna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1230</literal></binding>
+   <binding name="date"><literal>19800104</literal></binding>
+   <binding name="title"><literal>GALLONI ed altri: Norme di attuazione degli articoli 65, 67 e 69 della Costituzione in materia di stato giuridico ed economico dei membri del Parlamento e disposizioni sulla pubblicità dei redditi e dei patrimoni di titolari di cariche elettive e di uffici amministrativi e giudiziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2005</literal></binding>
+   <binding name="date"><literal>19800917</literal></binding>
+   <binding name="title"><literal>MAROLI ed altri: Riforma della Cassa nazionale di previdenza ed assistenza a favore dei geometri</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4200</literal></binding>
+   <binding name="date"><literal>19861120</literal></binding>
+   <binding name="title"><literal>GALLI ed altri: Norme relative alla localizzazione e realizzazione di opere di disinquinamento e protezione ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4052</literal></binding>
+   <binding name="date"><literal>19861009</literal></binding>
+   <binding name="title"><literal>RIGHI ed altri: Istituzione del Fondo nazionale per l&#39;innovazione e la promozione dell&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4093</literal></binding>
+   <binding name="date"><literal>19861022</literal></binding>
+   <binding name="title"><literal>RICCIUTI ed altri: Integrazione alla legge 13 giugno 1912, n. 555 concernente il riconoscimento della doppia cittadinanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4117</literal></binding>
+   <binding name="date"><literal>19861029</literal></binding>
+   <binding name="title"><literal>MEMMI ed altri: Norme sullo stato giuridico dei magistrati della Corte dei conti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4146</literal></binding>
+   <binding name="date"><literal>19861106</literal></binding>
+   <binding name="title"><literal>BRICCOLA ed altri: Modifica dell&#39;articolo 3 della legge 7 marzo 1967, n. 118, concernente le variazioni alle tariffe professionali dei periti industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4255</literal></binding>
+   <binding name="date"><literal>19861211</literal></binding>
+   <binding name="title"><literal>BALZARDI ed altri: Provvedimenti per la manutenzione straordinaria della viabilità provinciale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4346</literal></binding>
+   <binding name="date"><literal>19870121</literal></binding>
+   <binding name="title"><literal>MEMMI ed altri: Interpretazione autentica dell&#39;articolo 1 della legge 10 luglio 1984, n. 301, concernente norme di accesso alla dirigenza statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4512</literal></binding>
+   <binding name="date"><literal>19870311</literal></binding>
+   <binding name="title"><literal>MARTINAZZOLI ed altri: Norme sulla definizione e razionalizzazione di procedimenti amministrativi per la tutela preventiva dell&#39;ambiente</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1190</literal></binding>
+   <binding name="date"><literal>19791220</literal></binding>
+   <binding name="title"><literal>RICCI ed altri: Norme relative ai consigli giudiziari, alla istituzione dei consigli regionali di giustizia e alla temporaneità e rotazione degli incarichi direttivi della magistratura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1191</literal></binding>
+   <binding name="date"><literal>19791220</literal></binding>
+   <binding name="title"><literal>MANNUZZU ed altri: Norme relative alla composizione del tribunale nei giudizi in materia civile ed alla soppressione delle sezioni specializzate per le controversie agrarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1578</literal></binding>
+   <binding name="date"><literal>19800331</literal></binding>
+   <binding name="title"><literal>VIOLANTE ed altri: Nuove disposizioni in materia di competenza civile e penale, di interessi legali e di personale ausiliario degli uffici giudiziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1578-bis</literal></binding>
+   <binding name="date"><literal>19801104</literal></binding>
+   <binding name="title"><literal>VIOLANTE ed altri: Nuove disposizioni in materia di competenza civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1578-ter</literal></binding>
+   <binding name="date"><literal>19801104</literal></binding>
+   <binding name="title"><literal>VIOLANTE ed altri: Nuove disposizioni in materia di competenza penale, di interessi legali e di personale ausiliario degli uffici giudiziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2063</literal></binding>
+   <binding name="date"><literal>19801022</literal></binding>
+   <binding name="title"><literal>SATANASSI ed altri: Norme di attuazione delle direttive del Consiglio delle Comunità europee per la riforma dell&#39;agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1246</literal></binding>
+   <binding name="date"><literal>19800109</literal></binding>
+   <binding name="title"><literal>BRINI ed altri: Principi fondamentali in materia di artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1536</literal></binding>
+   <binding name="date"><literal>19800319</literal></binding>
+   <binding name="title"><literal>MARTORELLI ed altri: Legge penale militare per il tempo di pace</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>363</literal></binding>
+   <binding name="date"><literal>19790717</literal></binding>
+   <binding name="title"><literal>SPAGNOLI ed altri: Modifiche al sistema penale</literal></binding>
+  </result>
+ </results>
+</sparql>

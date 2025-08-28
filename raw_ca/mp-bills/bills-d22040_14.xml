@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>243</literal></binding>
+   <binding name="date"><literal>20010530</literal></binding>
+   <binding name="title"><literal>SOSPIRI: &quot;Istituzione dell&amp;#8217;Ente nazionale per la gestione dei rifiuti radioattivi&quot; (243)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>244</literal></binding>
+   <binding name="date"><literal>20010530</literal></binding>
+   <binding name="title"><literal>SOSPIRI: &quot;Norme per l&amp;#8217;utilizzazione del Laboratorio aereo per la ricerca ambientale del Consiglio nazionale delle ricerche ai fini del monitoraggio del territorio&quot; (244)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>247</literal></binding>
+   <binding name="date"><literal>20010530</literal></binding>
+   <binding name="title"><literal>SOSPIRI: &quot;Istituzione di una struttura nazionale specializzata per i controlli ambientali&quot; (247)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>369</literal></binding>
+   <binding name="date"><literal>20010531</literal></binding>
+   <binding name="title"><literal>SOSPIRI: &quot;Disposizioni per l&amp;#8217;utilizzazione di materiali contenenti amianto, sottoposti a trattamenti di vetrificazione, ceramizzazione o a modifica della matrice cristallina, come inerti per ripristini ambientali&quot; (369)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>370</literal></binding>
+   <binding name="date"><literal>20010531</literal></binding>
+   <binding name="title"><literal>SOSPIRI: &quot;Disposizioni per la riduzione dell&amp;#8217;inquinamento atmosferico nelle aree urbane derivante dal benzene e dagli altri idrocarburi aromatici&quot; (370)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>371</literal></binding>
+   <binding name="date"><literal>20010531</literal></binding>
+   <binding name="title"><literal>SOSPIRI: &quot;Disposizioni per la riduzione dell&amp;#8217;inquinamento atmosferico nelle aree urbane derivante dall&amp;#8217;uso del gasolio nel trasporto pubblico e privato&quot; (371)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>245</literal></binding>
+   <binding name="date"><literal>20010530</literal></binding>
+   <binding name="title"><literal>SOSPIRI: &quot;Introduzione dell&amp;#8217;insegnamento dell&amp;#8217;educazione ambientale nei programmi scolastici&quot; (245)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>246</literal></binding>
+   <binding name="date"><literal>20010530</literal></binding>
+   <binding name="title"><literal>SOSPIRI: &quot;Istituzione di una Commissione parlamentare di inchiesta sul ciclo dei rifiuti e sulle attività illecite ad esso connesse&quot; (246)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>368</literal></binding>
+   <binding name="date"><literal>20010531</literal></binding>
+   <binding name="title"><literal>SOSPIRI: &quot;Introduzione nel libro secondo del codice penale del titolo VI-bis concernente i delitti contro l&amp;#8217;ambiente, e disposizioni per combattere il fenomeno della criminalità in campo ambientale&quot; (368)</literal></binding>
+  </result>
+ </results>
+</sparql>

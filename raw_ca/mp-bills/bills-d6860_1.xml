@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>114</literal></binding>
+   <binding name="date"><literal>19480930</literal></binding>
+   <binding name="title"><literal>BETTIOL: Modifica alla legge 4 luglio 1941, n. 770 concernente imposta sull&#39;entrata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2622</literal></binding>
+   <binding name="date"><literal>19520325</literal></binding>
+   <binding name="title"><literal>BETTIOL e MANCINI: Modifiche al testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3081</literal></binding>
+   <binding name="date"><literal>19521215</literal></binding>
+   <binding name="title"><literal>BETTIOL ed altri: Esecuzione straordinaria di opere stradali sulle statali del Compartimento di Bolzano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>686</literal></binding>
+   <binding name="date"><literal>19490715</literal></binding>
+   <binding name="title"><literal>BETTIOL: Modifica all&#39;articolo 52 del testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici approvato con regio decreto 11 dicembre 1933, n. 1775</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2945</literal></binding>
+   <binding name="date"><literal>19521014</literal></binding>
+   <binding name="title"><literal>SANNICOLÒ ed altri: Riconoscimento del diritto a pensione per i cittadini che abbiano riacquistato la cittadinanza italiana in seguito al decreto legislativo 2 febbraio 1948, n. 23</literal></binding>
+  </result>
+ </results>
+</sparql>

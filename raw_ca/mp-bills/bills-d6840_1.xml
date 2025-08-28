@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1183</literal></binding>
+   <binding name="date"><literal>19500323</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Disposizione relative alla cinematografia per ragazzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1693</literal></binding>
+   <binding name="date"><literal>19501205</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Disciplina dell&#39;apprendistato, norme per l&#39;istruzione professionale e creazione dell&#39;Istituto nazionale per l&#39;addestramento professionale dei lavoratori (I.N.A.P.L.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1706</literal></binding>
+   <binding name="date"><literal>19501212</literal></binding>
+   <binding name="title"><literal>LOMBARDINI ed altri: Sulla formazione professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2398</literal></binding>
+   <binding name="date"><literal>19511207</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Proroga della legge 17 ottobre 1950, n. 840: &quot;Fondo per il finanziamento dell&#39;industria meccanica&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2484</literal></binding>
+   <binding name="date"><literal>19520125</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Ampliamento del piano di costruzione di case per lavoratori I.N.A.-Casa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2679</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>PESENTI ed altri: Sistemazione dell&#39;Istituto giuridico dell&#39;Università di Parma</literal></binding>
+  </result>
+ </results>
+</sparql>

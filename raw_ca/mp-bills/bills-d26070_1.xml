@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19500722</literal></binding>
+   <binding name="title"><literal>DONATINI ed altri: Provvidenze per la fabbriceria di Santa Maria del Fiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1682-ter</literal></binding>
+   <binding name="date"><literal>19521222</literal></binding>
+   <binding name="title"><literal>TREMELLONI ed altri: Proroga delle funzioni della Commissione parlamentare d&#39;inchiesta sulla disoccupazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1839</literal></binding>
+   <binding name="date"><literal>19510222</literal></binding>
+   <binding name="title"><literal>MORO ed altri: Concessione di un assegno annuo di lire 780.000 a Maria Montessori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1951</literal></binding>
+   <binding name="date"><literal>19510424</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Tutela giuridica dei figli naturali</literal></binding>
+  </result>
+ </results>
+</sparql>

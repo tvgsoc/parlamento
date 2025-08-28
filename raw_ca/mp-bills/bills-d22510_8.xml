@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3983</literal></binding>
+   <binding name="date"><literal>19830309</literal></binding>
+   <binding name="title"><literal>BOATO ed altri: Nuove misure per la difesa dell&#39;ordinamento costituzionale attraverso la dissociazione dal terrorismo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4041</literal></binding>
+   <binding name="date"><literal>19830314</literal></binding>
+   <binding name="title"><literal>BORTOLANI ed altri: Proroga del termine di cui all&#39;ultimo comma dell&#39;articolo 34 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, concernente la disciplina dell&#39;imposta sul valore aggiunto. Interpretazione autentica dei commi quarto, quinto, sesto ed undicesimo dello stesso articolo</literal></binding>
+  </result>
+ </results>
+</sparql>

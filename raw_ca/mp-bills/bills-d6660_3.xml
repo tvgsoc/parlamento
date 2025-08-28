@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1191</literal></binding>
+   <binding name="date"><literal>19590514</literal></binding>
+   <binding name="title"><literal>BIGNARDI ed altri: Provvedimenti per l&#39;incremento e la difesa dell&#39;apicoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1794</literal></binding>
+   <binding name="date"><literal>19591204</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Disciplina dell&#39;apertura e dell&#39;esercizio delle case da giuoco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>235</literal></binding>
+   <binding name="date"><literal>19580802</literal></binding>
+   <binding name="title"><literal>MALAGODI ed altri: Modificazioni nella struttura amministrativa della provincia di Milano, estensibili alle altre provincie che presentano particolari caratteristiche di sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2444</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Disciplina della scuola non statale e degli esami di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2448</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Inchiesta parlamentare sulla scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>495</literal></binding>
+   <binding name="date"><literal>19581031</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Istituzione di una scuola speciale per bibliotecari e archivisti paleografi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>604</literal></binding>
+   <binding name="date"><literal>19581127</literal></binding>
+   <binding name="title"><literal>FERIOLI ed altri: Modifica dell&#39;articolo 2110 del Codice civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>605</literal></binding>
+   <binding name="date"><literal>19581127</literal></binding>
+   <binding name="title"><literal>FERIOLI ed altri: Estensione della legge 15 maggio 1954, n. 277, contenente norme sull&#39;adeguamento di pensioni ordinarie al personale civile e militare dello Stato, agli ufficiali dell&#39;Esercito, della Marina e dell&#39;Aeronautica che hanno preso parte alla guerra 1915-18</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3170</literal></binding>
+   <binding name="date"><literal>19610705</literal></binding>
+   <binding name="title"><literal>BIGNARDI ed altri: Norme sulla temporanea sospensione e riduzione di imposte, sovrimposte e contributi agricoli unificati sui fondi vuoti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>579</literal></binding>
+   <binding name="date"><literal>19581121</literal></binding>
+   <binding name="title"><literal>COLITTO ed altri: Proroga del termine di entrata in vigore delle norme concernenti la disciplina della circolazione stradale, approvate con decreto del Presidente della Repubblica 27 ottobre 1958, n. 956</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>731</literal></binding>
+   <binding name="date"><literal>19581218</literal></binding>
+   <binding name="title"><literal>COLITTO ed altri: Modifica delle norme del decreto del Presidente della Repubblica 27 ottobre 1958, n. 956, concernente la disciplina della circolazione stradale</literal></binding>
+  </result>
+ </results>
+</sparql>

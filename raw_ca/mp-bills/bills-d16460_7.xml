@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1043</literal></binding>
+   <binding name="date"><literal>19770121</literal></binding>
+   <binding name="title"><literal>PORCELLANA ed altri: Compensi spettanti ai periti, consulenti tecnici, interpreti e traduttori per le operazioni eseguite a richiesta dell&#39;autorità giudiziaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2428</literal></binding>
+   <binding name="date"><literal>19780927</literal></binding>
+   <binding name="title"><literal>PORCELLANA e GORIA: Aliquota dell&#39;imposta sul valore aggiunto relativa ad opere pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1036</literal></binding>
+   <binding name="date"><literal>19770120</literal></binding>
+   <binding name="title"><literal>LO BELLO ed altri: Istituzione del corso di laurea in Educazione fisica e sport</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1643</literal></binding>
+   <binding name="date"><literal>19770715</literal></binding>
+   <binding name="title"><literal>PELLIZZARI ed altri: Istituzione della Cassa nazionale di previdenza ed assistenza a favore dei periti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2020</literal></binding>
+   <binding name="date"><literal>19780126</literal></binding>
+   <binding name="title"><literal>CARLOTTO e PORCELLANA: Norme per la limitazione delle scritte murali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2166</literal></binding>
+   <binding name="date"><literal>19780505</literal></binding>
+   <binding name="title"><literal>MARZOTTO CAOTORTA ed altri: Modifica dell&#39;articolo 117 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2431</literal></binding>
+   <binding name="date"><literal>19780929</literal></binding>
+   <binding name="title"><literal>ROCELLI ed altri: Iscrizione del personale dipendente dai consorzi fra gli Istituti autonomi per le case popolari e dall&#39;Associazione nazionale fra gli Istituti autonomi e consorzi case popolari alla Cassa pensioni dipendenti enti locali facente parte degli istituti di previdenza presso il Ministero del tesoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>600</literal></binding>
+   <binding name="date"><literal>19761015</literal></binding>
+   <binding name="title"><literal>MATARRESE ed altri: Modifiche alla legge 16 ottobre 1975, n. 492, sui finanziamenti per interventi di edilizia residenziale pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>756</literal></binding>
+   <binding name="date"><literal>19761112</literal></binding>
+   <binding name="title"><literal>DE PETRO ed altri: Modifiche alla legge 8 aprile 1976, n. 278, concernente norme sul decentramento e sulla partecipazione dei cittadini nella amministrazione del comune</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1054</literal></binding>
+   <binding name="date"><literal>19770124</literal></binding>
+   <binding name="title"><literal>MARZOTTO CAOTORTA ed altri: Sospensione della scadenza delle concessioni per grandi derivazioni di acqua per uso di forza motrice, assentite alle imprese degli enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>683</literal></binding>
+   <binding name="date"><literal>19761028</literal></binding>
+   <binding name="title"><literal>SCALIA ed altri: Pubblicità dei lavori della Commissione inquirente per i giudizi di accusa e soppressione dell&#39;articolo 7 della legge 25 gennaio 1962, n. 20</literal></binding>
+  </result>
+ </results>
+</sparql>

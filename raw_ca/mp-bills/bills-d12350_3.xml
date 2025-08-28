@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>515</literal></binding>
+   <binding name="date"><literal>19581031</literal></binding>
+   <binding name="title"><literal>BOVETTI ed altri: Modifica alla legge 8 marzo 1958, n. 233, relativa al riordinamento del ruolo dei servizi dell&#39;Aeronautica militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>472</literal></binding>
+   <binding name="date"><literal>19581029</literal></binding>
+   <binding name="title"><literal>PENNACCHINI ed altri: Modificazioni della legge 21 marzo 1958, n. 447, contenente delega al Governo per la disciplina della cessione in proprietà a favore degli assegnatari degli alloggi di tipo popolare ed economico costruiti o da costruire a totale carico dello Stato, ovvero con il suo concorso o contributo</literal></binding>
+  </result>
+ </results>
+</sparql>

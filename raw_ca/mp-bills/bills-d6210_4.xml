@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3315</literal></binding>
+   <binding name="date"><literal>19660713</literal></binding>
+   <binding name="title"><literal>ZACCAGNINI ed altri: Proroga della delega al Governo per l&#39;emanazione di norme relative all&#39;ordinamento dell&#39;Amministrazione degli Affari Esteri e per modificare e coordinare le norme vigenti in materia consolare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3794</literal></binding>
+   <binding name="date"><literal>19670215</literal></binding>
+   <binding name="title"><literal>ZACCAGNINI ed altri: Aumento del contributo dello Stato per il completamento del porto-canale Corsini e dell&#39;annessa zona industriale di Ravenna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2105</literal></binding>
+   <binding name="date"><literal>19650217</literal></binding>
+   <binding name="title"><literal>ZANIBELLI ed altri: Ampliamento e nuove norme del programma di costruzione di case per i lavoratori agricoli dipendenti di cui alla legge 30 dicembre 1960, n. 1676</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2287</literal></binding>
+   <binding name="date"><literal>19650420</literal></binding>
+   <binding name="title"><literal>CASSANDRO ed altri: Riconoscimento della Consulta nazionale quale legislatura della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2308</literal></binding>
+   <binding name="date"><literal>19650430</literal></binding>
+   <binding name="title"><literal>DE MARZI ed altri: Provvedimenti a favore della cooperazione</literal></binding>
+  </result>
+ </results>
+</sparql>

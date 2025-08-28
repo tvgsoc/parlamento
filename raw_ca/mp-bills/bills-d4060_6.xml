@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4410</literal></binding>
+   <binding name="date"><literal>19760402</literal></binding>
+   <binding name="title"><literal>MIGNANI ed altri: Commissione per il riesame delle pratiche di pensione di guerra respinte per insufficiente documentazione sulla causa bellica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2440</literal></binding>
+   <binding name="date"><literal>19731026</literal></binding>
+   <binding name="title"><literal>LETTIERI ed altri: Adeguamento dell&#39;indennità per servizio di istituto a favore dei sottufficiali, delle guardie scelte e delle guardie del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2725</literal></binding>
+   <binding name="date"><literal>19740207</literal></binding>
+   <binding name="title"><literal>TERRAROLI ed altri: Adeguamento economico e normativo dei trattamenti pensionistici di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4309</literal></binding>
+   <binding name="date"><literal>19760213</literal></binding>
+   <binding name="title"><literal>BOLDRINI ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sulle forniture e commesse di armi, mezzi militari e approvvigionamenti destinati alle forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2693</literal></binding>
+   <binding name="date"><literal>19740124</literal></binding>
+   <binding name="title"><literal>ANGELINI ed altri: Norme di avanzamento per gli ufficiali delle forze armate del servizio permanente effettivo provenienti dal complemento o da ruoli assimilati</literal></binding>
+  </result>
+ </results>
+</sparql>

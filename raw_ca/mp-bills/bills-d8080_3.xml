@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2876</literal></binding>
+   <binding name="date"><literal>19610307</literal></binding>
+   <binding name="title"><literal>COLASANTO ed altri: Esenzione fiscale a favore dell&#39;Ente autonomo del porto di Napoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3328</literal></binding>
+   <binding name="date"><literal>19611013</literal></binding>
+   <binding name="title"><literal>ARMOSINO ed altri: Piano per l&#39;irrigazione integrale congiunta alla difesa idraulica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>515</literal></binding>
+   <binding name="date"><literal>19581031</literal></binding>
+   <binding name="title"><literal>BOVETTI ed altri: Modifica alla legge 8 marzo 1958, n. 233, relativa al riordinamento del ruolo dei servizi dell&#39;Aeronautica militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>70</literal></binding>
+   <binding name="date"><literal>19580709</literal></binding>
+   <binding name="title"><literal>FODERARO ed altri: Istituzione dell&#39;Ente di previdenza ed assistenza per il clero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>71</literal></binding>
+   <binding name="date"><literal>19580709</literal></binding>
+   <binding name="title"><literal>FODERARO ed altri: Sistemazione giuridica del personale in servizio provvisorio presso il Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>72</literal></binding>
+   <binding name="date"><literal>19580709</literal></binding>
+   <binding name="title"><literal>FODERARO e FANELLI: Istituzione di un Fondo per il risarcimento obbligatorio del danno alle vittime della circolazione dei veicoli a motore</literal></binding>
+  </result>
+ </results>
+</sparql>

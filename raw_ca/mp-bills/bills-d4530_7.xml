@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19770619</literal></binding>
+   <binding name="title"><literal>PELLICANI ed altri: Interpretazione autentica di alcune norme dell&#39;articolo 14 del decreto-legge 29 dicembre 1977, n. 946, convertito, con modificazioni, nella legge 27 febbraio 1978, n. 43</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1212</literal></binding>
+   <binding name="date"><literal>19770302</literal></binding>
+   <binding name="title"><literal>DE MICHELIS ed altri: Aumento del contributo ordinario dello Stato per l&#39;Ente &quot;Biennale di Venezia&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1215</literal></binding>
+   <binding name="date"><literal>19770302</literal></binding>
+   <binding name="title"><literal>BELLOCCHIO ed altri: Istituzione dell&#39;Azienda di Stato per i sali ed i tabacchi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1538</literal></binding>
+   <binding name="date"><literal>19770615</literal></binding>
+   <binding name="title"><literal>TANTALO ed altri: Istituzione della Lotteria di Venezia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1720</literal></binding>
+   <binding name="date"><literal>19770914</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Modifiche al decreto-legge 8 aprile 1974, n. 95, recante disposizioni relative al mercato mobiliare e al trattamento fiscale dei titoli azionari, convertito con modificazioni nella legge 7 giugno 1974, n. 216</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>473</literal></binding>
+   <binding name="date"><literal>19760928</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Provvedimenti per la finanza locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1032</literal></binding>
+   <binding name="date"><literal>19770119</literal></binding>
+   <binding name="title"><literal>CASALINO ed altri: Finanziamento in favore dell&#39;opera di recupero della nave Cavtat</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>102</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>GAMPER ed altri: Interpretazione autentica dell&#39;articolo 7 della legge 14 agosto 1971, n. 817, concernente il diritto di prelazione dei proprietari di terreni confinanti con fondi offerti in vendita</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>103</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>GAMPER ed altri: Obbligatorietà dell&#39;iscrizione del gruppo sanguigno di appartenenza sui documenti di riconoscimento e sulle patenti di guida</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>8</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>GAMPER ed altri: Modifica della legge 23 ottobre 1961, n. 1165, concernente l&#39;indennità speciale di seconda lingua ai magistrati, ai dipendenti civili dello Stato compresi quelli delle amministrazioni con ordinamento autonomo ed agli appartenenti alle forze armate ed ai corpi organizzati militarmente in servizio nella provincia di Bolzano o presso uffici sedenti in Trento ed aventi competenza regionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>7</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>GAMPER ed altri: Adeguamento dei sovracanoni dovuti agli enti locali per effetto della legge 27 dicembre 1953, n. 959, nonché dell&#39;articolo 53 del testo unico approvato con regio decreto 11 dicembre 1933, n. 1775, e successive modificazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>RIZ ed altri: Norme a favore del gruppo linguistico ladino che vive nella provincia di Trento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>RIZ ed altri: Modifiche ed integrazioni della legge 23 ottobre 1961, n. 1165, concernente indennità speciale di seconda lingua ai magistrati, ai dipendenti civili dello Stato compresi quelli delle amministrazioni con ordinamento autonomo ed agli appartenenti alle forze armate ed ai corpi organizzati militarmente in servizio nella provincia di Bolzano o presso uffici sedenti in Trento ed aventi competenza regionale</literal></binding>
+  </result>
+ </results>
+</sparql>

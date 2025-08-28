@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3485</literal></binding>
+   <binding name="date"><literal>19820616</literal></binding>
+   <binding name="title"><literal>OCCHETTO ed altri: Norme per la determinazione del contributo a favore della regione siciliana, ai sensi dell&#39;articolo 38 dello Statuto regionale, e per la concessione del contributo stesso per il quinquennio 1982-1986</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4119</literal></binding>
+   <binding name="date"><literal>19830428</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Modifiche ed integrazioni della legge 5 agosto 1978, n. 468, concernente la riforma di alcune norme di contabilità generale dello Stato in materia di bilancio</literal></binding>
+  </result>
+ </results>
+</sparql>

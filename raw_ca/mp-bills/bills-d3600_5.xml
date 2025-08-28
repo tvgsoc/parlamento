@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1596</literal></binding>
+   <binding name="date"><literal>19690618</literal></binding>
+   <binding name="title"><literal>BADALONI ed altri: Nuove norme sulle competenze accessorie aventi carattere incentivante a favore del personale dell&#39;amministrazione centrale della pubblica istruzione e dei provveditorati agli studi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1676</literal></binding>
+   <binding name="date"><literal>19690707</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Organizzazione del settore dell&#39;assistenza sociale e interventi per le persone in condizione o situazione di incapacità e, in particolare, per i disadattati psichici, fisici, sensoriali e sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3144</literal></binding>
+   <binding name="date"><literal>19710226</literal></binding>
+   <binding name="title"><literal>MATTARELLI ed altri: Denominazioni dell&#39;olio di oliva e norme per la confezione e la vendita al minuto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3347</literal></binding>
+   <binding name="date"><literal>19710430</literal></binding>
+   <binding name="title"><literal>GIOIA ed altri: Norme per l&#39;incremento della piccola e media proprietà agricola imprenditrice e per lo sviluppo dell&#39;impresa agricola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3515</literal></binding>
+   <binding name="date"><literal>19710709</literal></binding>
+   <binding name="title"><literal>LA LOGGIA ed altri: Nuove norme sulla prescrizione dei reati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3793</literal></binding>
+   <binding name="date"><literal>19711117</literal></binding>
+   <binding name="title"><literal>ANDREOTTI ed altri: Disposizioni per la circolazione dei motoveicoli di piccola cilindrata e per prevenire lo scippo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3815</literal></binding>
+   <binding name="date"><literal>19711124</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Concessione di un contributo straordinario dello Stato al Comitato per le celebrazioni del bicentenario della nascita di Gaspare Spontini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3279</literal></binding>
+   <binding name="date"><literal>19710406</literal></binding>
+   <binding name="title"><literal>SCOTTI ed altri: Finanziamento della Cassa per il mezzogiorno</literal></binding>
+  </result>
+ </results>
+</sparql>

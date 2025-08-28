@@ -1,0 +1,568 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1529</literal></binding>
+   <binding name="date"><literal>20130808</literal></binding>
+   <binding name="title"><literal>RAMPELLI: &quot;Legge quadro sull&#39;ordinamento della polizia locale&quot; (1529)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1971</literal></binding>
+   <binding name="date"><literal>20140120</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sulle cause della mancata individuazione dei responsabili del disastro aereo avvenuto al largo dell&#39;isola di Ustica il 27 giugno 1980&quot; (1971)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2094</literal></binding>
+   <binding name="date"><literal>20140213</literal></binding>
+   <binding name="title"><literal>RAMPELLI: &quot;Disposizioni per il recupero e la valorizzazione delle città e dei nuclei di fondazione in Italia&quot; (2094)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2701</literal></binding>
+   <binding name="date"><literal>20141104</literal></binding>
+   <binding name="title"><literal>RAMPELLI: &quot;Istituzione del Parco nazionale dell&#39;Appia Antica&quot; (2701)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1161</literal></binding>
+   <binding name="date"><literal>20130605</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Norme in materia di riconoscimento della personalità giuridica e di finanziamento dei partiti politici, nonché delega al Governo per l&#39;emanazione di un testo unico delle leggi concernenti i partiti politici&quot; (1161)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4359</literal></binding>
+   <binding name="date"><literal>20170310</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Modifica dell&#39;articolo 90-ter del codice di procedura penale, in materia di comunicazioni dovute alle persone offese dal reato&quot; (4359)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4547</literal></binding>
+   <binding name="date"><literal>20170613</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Abrogazione della legge 2 agosto 1999, n. 264, recante norme in materia di accessi ai corsi universitari&quot; (4547)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2624</literal></binding>
+   <binding name="date"><literal>20140908</literal></binding>
+   <binding name="title"><literal>RAMPELLI: &quot;Norme in materia di impiego di collaboratori familiari dell&#39;imprenditore nel settore della panificazione&quot; (2624)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3018</literal></binding>
+   <binding name="date"><literal>20150408</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Disposizioni in materia di esenzione dall&#39;imposta municipale propria per i terreni agricoli&quot; (3018)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3160</literal></binding>
+   <binding name="date"><literal>20150604</literal></binding>
+   <binding name="title"><literal>RAMPELLI: &quot;Disposizioni per la salvaguardia e la valorizzazione dell&#39;architettura tradizionale e per la promozione di un nuovo rinascimento urbano&quot; (3160)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3136</literal></binding>
+   <binding name="date"><literal>20150521</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Introduzione del comma 639-bis dell&#39;articolo 1 della legge 27 dicembre 2013, n. 147, in materia di esenzione dall&#39;imposta unica comunale&quot; (3136)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3168</literal></binding>
+   <binding name="date"><literal>20150612</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Modifica all&#39;articolo 7 della legge 2 maggio 1974, n. 195, in materia di divieto del finanziamento dei partiti politici da parte delle cooperative sociali&quot; (3168)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3911</literal></binding>
+   <binding name="date"><literal>20160617</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sulla violenza politica negli anni tra il 1970 e il 1989&quot; (3911)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4186</literal></binding>
+   <binding name="date"><literal>20161221</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Modifiche al decreto-legge 30 ottobre 1995, n. 451, convertito dalla legge 29 dicembre 1995, n. 563, in materia di rendiconto dell&#39;impiego dei fondi erogati per fare fronte a situazioni di emergenza connesse con le attività di controllo della frontiera marittima nella regione Puglia&quot; (4186)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4421</literal></binding>
+   <binding name="date"><literal>20170410</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Modifiche al decreto legislativo 9 gennaio 2012, n. 4, in materia di sanzioni applicabili alle attività della pesca e dell&#39;acquacoltura&quot; (4421)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4446</literal></binding>
+   <binding name="date"><literal>20170424</literal></binding>
+   <binding name="title"><literal>RAMPELLI e LAFFRANCO: &quot;Modifiche al decreto legislativo 26 marzo 2010, n. 59, e al decreto legislativo 31 marzo 1998, n. 114, in materia di commercio sulle aree pubbliche&quot; (4446)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4477</literal></binding>
+   <binding name="date"><literal>20170510</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Modifica alla tabella A allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, per la riduzione dell&#39;aliquota dell&#39;imposta sul valore aggiunto relativa ai prodotti igienici e alimentari e ad accessori per l&#39;infanzia&quot; (4477)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2695</literal></binding>
+   <binding name="date"><literal>20141031</literal></binding>
+   <binding name="title"><literal>RAMPELLI e GIORGIA MELONI: &quot;Modifiche alla legge 30 marzo 2004, n. 92, recante istituzione del &#39;Giorno del ricordo&#39; in memoria delle vittime delle foibe, dell&#39;esodo giuliano-dalmata, delle vicende del confine orientale e concessione di un riconoscimento ai congiunti degli infoibati&quot; (2695)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3872</literal></binding>
+   <binding name="date"><literal>20160531</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Disposizioni in materia di videosorveglianza negli asili nido e nelle scuole dell&#39;infanzia nonché presso le strutture socio-assistenziali per anziani, disabili e minori in situazione di disagio&quot; (3872)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4293</literal></binding>
+   <binding name="date"><literal>20170214</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Disciplina delle elezioni primarie per la selezione dei candidati a cariche pubbliche elettive&quot; (4293)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3904</literal></binding>
+   <binding name="date"><literal>20160614</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Istituzione di una zona franca urbana nel territorio del sesto municipio del comune di Roma, capitale della Repubblica&quot; (3904)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2969</literal></binding>
+   <binding name="date"><literal>20150318</literal></binding>
+   <binding name="title"><literal>PAGANO ed altri: &quot;Testo unico dei diritti riconosciuti ai componenti di una unione di fatto&quot; (2969)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3380</literal></binding>
+   <binding name="date"><literal>20151022</literal></binding>
+   <binding name="title"><literal>LA RUSSA ed altri: &quot;Modifiche all&#39;articolo 52 del codice penale in materia di legittima difesa&quot; (3380)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4204</literal></binding>
+   <binding name="date"><literal>20170105</literal></binding>
+   <binding name="title"><literal>BIANCOFIORE ed altri: &quot;Istituzione di un fondo per il sostegno della comunità di lingua italiana della provincia autonoma di Bolzano&quot; (4204)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4203</literal></binding>
+   <binding name="date"><literal>20170105</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE BIANCOFIORE ed altri: &quot;Modifiche allo statuto speciale per il Trentino-Alto Adige in materia di organi e funzioni della regione e delle province autonome nonché per la garanzia della parità dei diritti dei gruppi linguistici italiano, tedesco e ladino&quot; (4203)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1951</literal></binding>
+   <binding name="date"><literal>20140115</literal></binding>
+   <binding name="title"><literal>CIRIELLI ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sulla condotta delle autorità nazionali nella vicenda relativa ai fucilieri di marina Massimiliano Latorre e Salvatore Girone&quot; (1951)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1970</literal></binding>
+   <binding name="date"><literal>20140120</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifica all&#39;articolo 4 della legge 24 gennaio 1979, n. 18, in materia di eleggibilità alla carica di membro del Parlamento europeo spettante all&#39;Italia&quot; (1970)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2104</literal></binding>
+   <binding name="date"><literal>20140219</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Norme per l&#39;attribuzione a soggetti pubblici della proprietà della Banca d&#39;Italia&quot; (2104)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3-35-182-358-551-632-718-746-747-749-876-894-932-998-1025-1026-1116-1143-1401-1452-1453-1511-1514-1657-1704-1794-1914-1946-1947-1977-2038-bis</literal></binding>
+   <binding name="date"><literal>20140311</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE D&#39;INIZIATIVA POPOLARE; CIRIELLI; PISICCHIO; BERSANI ed altri; FRANCESCO SAVERIO ROMANO; MIGLIORE ed altri; LENZI; ZAMPA e MARZANO; ZAMPA e GHIZZONI; MARTELLA; FRANCESCO SANNA; BOBBA ed altri; GIACHETTI ed altri; GIORGIA MELONI ed altri; RIGONI ed altri; RIGONI ed altri; NICOLETTI ed altri; MARTELLA ed altri; VARGIU; BURTONE ed altri; BALDUZZI ed altri; LAFFRANCO ed altri; VARGIU; TONINELLI ed altri; PORTA ed altri; ZACCAGNINI ed altri; VALIANTE ed altri; LAURICELLA; MICHELE BORDO; MARCO MELONI ed altri; DI BATTISTA ed altri: &quot;Disposizioni in materia di elezione della Camera dei deputati&quot; (Testo risultante dallo stralcio dell&#39;articolo 2 del testo unificato dei progetti di legge nn. 3-35-182-358-551-632-718-746-747-749-876-894-932-998-1025-1026-1116-1143-1401-1452-1453-1511-1514-1657-1704-1794-1914-1946-1947-1977-2038, approvato in sede referente dalla I Commissione permanente, stralciato con deliberazione dell&#39;Assemblea l&#39;11 marzo 2014) (3-35-182-358-551-632-718-746-747-749-876-894-932-998-1025-1026-1116-1143-1401-1452-1453-1511-1514-1657-1704-1794-1914-1946-1947-1977-2038-bis)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3-35-182-358-551-632-718-746-747-749-876-894-932-998-1025-1026-1116-1143-1401-1452-1453-1511-1514-1657-1704-1794-1914-1946-1947-1977-2038-ter</literal></binding>
+   <binding name="date"><literal>20140311</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE D&#39;INIZIATIVA POPOLARE; CIRIELLI; PISICCHIO; BERSANI ed altri; FRANCESCO SAVERIO ROMANO; MIGLIORE ed altri; LENZI; ZAMPA e MARZANO; ZAMPA e GHIZZONI; MARTELLA; FRANCESCO SANNA; BOBBA ed altri; GIACHETTI ed altri; GIORGIA MELONI ed altri; RIGONI ed altri; RIGONI ed altri; NICOLETTI ed altri; MARTELLA ed altri; VARGIU; BURTONE ed altri; BALDUZZI ed altri; LAFFRANCO ed altri; VARGIU; TONINELLI ed altri; PORTA ed altri; ZACCAGNINI ed altri; VALIANTE ed altri; LAURICELLA; MICHELE BORDO; MARCO MELONI ed altri; DI BATTISTA ed altri: &quot;Modifiche al sistema di elezione del Senato della Repubblica&quot; (Già articolo 2 del testo unificato dei progetti di legge n. 3-35-182-358-551-632-718-746-747-749-876-894-932-998-1025-1026-1116-1143-1401-1452-1453-1511-1514-1657-1704-1794-1914-1946-1947-1977-2038, approvato in sede referente dalla I Commissione permanente, stralciato con deliberazione dell&#39;Assemblea l&#39;11 marzo 2014) (3-35-182-358-551-632-718-746-747-749-876-894-932-998-1025-1026-1116-1143-1401-1452-1453-1511-1514-1657-1704-1794-1914-1946-1947-1977-2038-ter)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2702</literal></binding>
+   <binding name="date"><literal>20141104</literal></binding>
+   <binding name="title"><literal>CASTIELLO ed altri: &quot;Norme per la tracciabilità dei prodotti italiani e per il contrasto della contraffazione&quot; (2702)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4091</literal></binding>
+   <binding name="date"><literal>20161013</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifica all&#39;articolo 612-bis del codice penale concernente il reato di atti persecutori commesso nell&#39;esercizio di attività di recupero di crediti&quot; (4091)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4094</literal></binding>
+   <binding name="date"><literal>20161013</literal></binding>
+   <binding name="title"><literal>RIZZETTO ed altri: &quot;Modifica all&#39;articolo 612-bis del codice penale concernente il reato di atti persecutori commesso nell&#39;esercizio di attività di recupero di crediti&quot; (4094)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4243</literal></binding>
+   <binding name="date"><literal>20170124</literal></binding>
+   <binding name="title"><literal>CIRIELLI e VITO: &quot;Disposizioni concernenti la tutela assicurativa per infortuni e malattie del personale del comparto sicurezza e difesa&quot; (4243)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1047</literal></binding>
+   <binding name="date"><literal>20130524</literal></binding>
+   <binding name="title"><literal>CIRIELLI e RAMPELLI: &quot;Modifica all&#39;articolo 5 del decreto del Presidente della Repubblica 24 aprile 1982, n. 337, in materia di accesso al ruolo degli operatori e collaboratori tecnici della Polizia di Stato da parte dei congiunti di appartenenti alle Forze di polizia vittime del dovere&quot; (1047)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1048</literal></binding>
+   <binding name="date"><literal>20130524</literal></binding>
+   <binding name="title"><literal>CIRIELLI e RAMPELLI: &quot;Modifiche all&#39;articolo 17 della legge 28 luglio 1999, n. 266, concernente il trasferimento del personale delle Forze armate e delle Forze di polizia&quot; (1048)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>109</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Modifica all&#39;articolo 635 del codice dell&#39;ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, e altre disposizioni in materia di parametri fisici per l&#39;ammissione ai concorsi per il reclutamento nelle Forze armate, nelle Forze di polizia e nel Corpo nazionale dei vigili del fuoco&quot; (109)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1213</literal></binding>
+   <binding name="date"><literal>20130617</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE GIORGIA MELONI ed altri: &quot;Modifica all&#39;articolo 53 della Costituzione, in materia di princìpi del sistema tributario e di limite alla pressione fiscale complessiva&quot; (1213)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1253</literal></binding>
+   <binding name="date"><literal>20130621</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Disposizioni in materia di pensioni superiori a dieci volte l&#39;integrazione al trattamento minimo INPS&quot; (1253)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1319</literal></binding>
+   <binding name="date"><literal>20130708</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE GIORGIA MELONI ed altri: &quot;Introduzione dell&#39;articolo 31-bis e modifiche agli articoli 56, 58 e 84 della Costituzione, concernenti la partecipazione dei giovani alla vita economica, sociale, culturale e politica della nazione nonché i requisiti di età per l&#39;elezione del Presidente della Repubblica e dei membri del Parlamento&quot; (1319)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1358</literal></binding>
+   <binding name="date"><literal>20130711</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifiche al decreto del Presidente della Repubblica 29 settembre 1973, n. 602, in materia di impignorabilità dell&#39;abitazione principale, e altre norme per la tutela dei contribuenti&quot; (1358)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1611</literal></binding>
+   <binding name="date"><literal>20130920</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifica all&#39;articolo 444 del codice di procedura penale, concernente l&#39;esclusione dell&#39;applicazione della pena su richiesta nei procedimenti per delitti sessuali contro i minori&quot; (1611)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1742</literal></binding>
+   <binding name="date"><literal>20131028</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifica all&#39;articolo 10 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, in materia di separazione tra le banche commerciali e le banche d&#39;affari&quot; (1742)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1812</literal></binding>
+   <binding name="date"><literal>20131114</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Norme per la prevenzione e il contrasto del gioco d&#39;azzardo patologico, nonché in materia di pubblicità del gioco d&#39;azzardo, di tutela dei minori e di disciplina dell&#39;apertura di sale da gioco&quot; (1812)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1843</literal></binding>
+   <binding name="date"><literal>20131125</literal></binding>
+   <binding name="title"><literal>FIORONI ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sul rapimento e sulla morte di Aldo Moro&quot; (1843)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>214</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI e RAMPELLI: &quot;Disposizioni in materia di assunzione dei vincitori di concorsi per il reclutamento nelle Forze armate, nelle Forze di polizia e nel Corpo nazionale dei vigili del fuoco&quot; (214)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>30</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE CIRIELLI: &quot;Modifica dell&#39;articolo 27 della Costituzione in materia di responsabilità penale&quot; (30)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>31</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE CIRIELLI: &quot;Modifica all&#39;articolo 111 della Costituzione in materia di tutela delle vittime di reati e delle persone danneggiate da reati&quot; (31)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>37</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Modifica all&#39;articolo 138 del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, in materia di requisiti delle guardie particolari giurate&quot; (37)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>38</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Disposizioni in materia di concessione della cittadinanza italiana a cittadini somali che hanno frequentato le Accademie militari e le Scuole ufficiali italiane&quot; (38)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>39</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Introduzione dell&#39;articolo 187-bis del codice penale e altre disposizioni in materia di risarcimento dei danni da parte dello Stato in favore delle vittime di reati&quot; (39)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>40</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Introduzione dell&#39;articolo 640-bis.1 del codice penale in materia di truffa ai danni di soggetti minori o anziani&quot; (40)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>41</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Modifica all&#39;articolo 37 del codice penale militare di pace, concernente la definizione di reato militare&quot; (41)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>42</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Modifiche all&#39;articolo 5 della legge 22 maggio 1975, n. 152, e all&#39;articolo 380 del codice di procedura penale, concernenti il delitto di travisamento in occasione di manifestazioni che si svolgano in luogo pubblico o aperto al pubblico&quot; (42)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>43</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Modifiche agli articoli 3, 8 e 75 del codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, concernenti l&#39;applicazione di misure di prevenzione al fine di contrastare la pedofilia&quot; (43)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>44</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Modifica dell&#39;articolo 1 e abrogazione dell&#39;articolo 1-bis del decreto legislativo 22 gennaio 1948, n. 66, recante norme per assicurare la libera circolazione sulle strade ferrate e ordinarie e la libera navigazione&quot; (44)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>45</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Disposizioni concernenti le missioni all&#39;estero svolte dal personale appartenente alle Forze armate e alle Forze di polizia ad ordinamento militare&quot; (45)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>46</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Delega al Governo per l&#39;istituzione di un Servizio nazionale militare di volontari per la mobilitazione&quot; (46)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>47</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI ed altri: &quot;Modifiche agli articoli 703, 1014 e 2199 del codice dell&#39;ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, in materia di riserve di posti in favore dei volontari delle Forze armate in ferma prefissata e in ferma breve&quot; (47)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>49</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Modifica all&#39;articolo 17 della legge 23 marzo 1983, n. 78, in materia di cumulabilità delle indennità operative dei piloti e dei paracadutisti dell&#39;Aeronautica militare&quot; (49)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>50</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Modifiche agli articoli 105 del testo unico di cui al regio decreto 31 agosto 1933, n. 1592, e 897 del codice dell&#39;ordinamento militare, di cui al decreto legislativo 15 marzo 2010, n. 66, in materia di cumulo degli incarichi di ufficiale superiore o generale delle Forze armate e di professore o ricercatore universitario&quot; (50)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>52</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI: &quot;Disposizioni per il censimento e la bonifica dell&#39;amianto nonché in materia di benefìci per i lavoratori esposti ed ex esposti all&#39;amianto o che hanno contratto malattie derivanti da tale esposizione&quot; (52)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>53</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI ed altri: &quot;Delega al Governo per l&#39;adozione di uno &#39;statuto partecipativo&#39; delle imprese finalizzato alla partecipazione dei lavoratori alla gestione e ai risultati dell&#39;impresa&quot; (53)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>54</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CIRIELLI ed altri: &quot;Modifiche alla legge 11 febbraio 1992, n. 157, recante norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio&quot; (54)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>839</literal></binding>
+   <binding name="date"><literal>20130423</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE LA RUSSA ed altri: &quot;Modifiche alla parte seconda della Costituzione concernenti la composizione delle Camere del Parlamento e la forma di governo&quot; (839)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>998</literal></binding>
+   <binding name="date"><literal>20130517</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, e al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica, nonché disposizioni concernenti l&#39;espressione dei voti di preferenza e lo svolgimento di elezioni primarie&quot; (998)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4611</literal></binding>
+   <binding name="date"><literal>20170731</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifiche al codice penale in materia di violenza, minaccia o resistenza a pubblico ufficiale&quot; (4611)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3987</literal></binding>
+   <binding name="date"><literal>20160721</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Introduzione del reato di integralismo islamico&quot; (3987)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4618</literal></binding>
+   <binding name="date"><literal>20170802</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifiche all&#39;articolo 2233 del codice civile e al decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, e altre disposizioni in materia di compenso delle prestazioni professionali e di termine di prescrizione per l&#39;azione di responsabilità professionale&quot; (4618)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3756</literal></binding>
+   <binding name="date"><literal>20160418</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifica all&#39;articolo 12 della legge 19 febbraio 2004, n. 40, in materia di perseguibilità del reato di surrogazione di maternità commesso all&#39;estero da cittadino italiano&quot; (3756)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4148</literal></binding>
+   <binding name="date"><literal>20161116</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE ROCCELLA ed altri: &quot;Modifiche agli articoli 56 e 57 della Costituzione concernenti la riduzione del numero dei componenti della Camera dei deputati e del Senato della Repubblica e la loro elezione a suffragio universale e diretto&quot; (4148)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4219</literal></binding>
+   <binding name="date"><literal>20170112</literal></binding>
+   <binding name="title"><literal>DISTASO ed altri: &quot;Istituzione del &#39;Premio biennale Giuseppe Tatarella&#39; e disposizioni in favore della biblioteca e dell&#39;archivio storico della Fondazione Tatarella, per la conservazione della memoria del deputato scomparso l&#39;8 febbraio 1999&quot; (4219)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4309</literal></binding>
+   <binding name="date"><literal>20170217</literal></binding>
+   <binding name="title"><literal>LA RUSSA ed altri: &quot;Modifiche ai testi unici di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione della Camera dei deputati e del Senato della Repubblica&quot; (4309)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4371</literal></binding>
+   <binding name="date"><literal>20170316</literal></binding>
+   <binding name="title"><literal>ALTIERI ed altri: &quot;Modifiche al codice penale, concernenti il delitto di intermediazione illecita e sfruttamento del lavoro, e altre disposizioni in materia di semplificazione della disciplina del lavoro agricolo&quot; (4371)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4191</literal></binding>
+   <binding name="date"><literal>20161222</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifica all&#39;articolo 24-bis del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, in materia di divieto di affidamento di servizi da parte delle pubbliche amministrazioni a operatori che abbiano delocalizzato l&#39;attività di call center&quot; (4191)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2818</literal></binding>
+   <binding name="date"><literal>20150114</literal></binding>
+   <binding name="title"><literal>BINETTI: &quot;Norme per l&#39;incremento del livello di sicurezza del parto naturale&quot; (2818)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4546</literal></binding>
+   <binding name="date"><literal>20170612</literal></binding>
+   <binding name="title"><literal>RIZZETTO ed altri: &quot;Istituzione del Garante nazionale per la tutela dei diritti delle vittime dei reati intenzionali violenti&quot; (4546)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2794</literal></binding>
+   <binding name="date"><literal>20141222</literal></binding>
+   <binding name="title"><literal>FITZGERALD NISSOLI ed altri: &quot;Modifica all&#39;articolo 17 della legge 5 febbraio 1992, n. 91, in materia di riacquisto della cittadinanza da parte dei soggetti nati in Italia da almeno un genitore italiano, che l&#39;hanno perduta a seguito di espatrio&quot; (2794)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3792</literal></binding>
+   <binding name="date"><literal>20160429</literal></binding>
+   <binding name="title"><literal>BALDELLI ed altri: &quot;Disposizioni a tutela dei consumatori in materia di fatturazione a conguaglio per l&#39;erogazione di energia elettrica, gas e servizi idrici&quot; (3792)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3831</literal></binding>
+   <binding name="date"><literal>20160516</literal></binding>
+   <binding name="title"><literal>LA MARCA ed altri: &quot;Istituzione della Giornata nazionale degli italiani nel mondo&quot; (3831)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3-35-182-358-551-632-718-746-747-749-876-894-932-998-1025-1026-1116-1143-1401-1452-1453-1511-1514-1657-1704-1794-1914-1946-1947-1977-2038-bis-B</literal></binding>
+   <binding name="date"><literal>20150128</literal></binding>
+   <binding name="title"><literal>S. 1385. - PROPOSTA DI LEGGE D&#39;INIZIATIVA POPOLARE; CIRIELLI; PISICCHIO; BERSANI ed altri; FRANCESCO SAVERIO ROMANO; MIGLIORE ed altri; LENZI; ZAMPA e MARZANO; ZAMPA e GHIZZONI; MARTELLA; FRANCESCO SANNA; BOBBA ed altri; GIACHETTI ed altri; GIORGIA MELONI ed altri; RIGONI ed altri; RIGONI ed altri; NICOLETTI ed altri; MARTELLA ed altri; VARGIU; BURTONE ed altri; BALDUZZI ed altri; LAFFRANCO ed altri; VARGIU; TONINELLI ed altri; PORTA ed altri; ZACCAGNINI ed altri; VALIANTE ed altri; LAURICELLA; MICHELE BORDO; MARCO MELONI ed altri; DI BATTISTA ed altri: &quot;Disposizioni in materia di elezione della Camera dei deputati&quot; (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (3-35-182-358-551-632-718-746-747-749-876-894-932-998-1025-1026-1116-1143-1401-1452-1453-1511-1514-1657-1704-1794-1914-1946-1947-1977-2038-bis-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2401</literal></binding>
+   <binding name="date"><literal>20140522</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE PELLEGRINO ed altri: &quot;Modifica all&#39;articolo 1 della Costituzione, in materia di riconoscimento della bellezza quale elemento costitutivo dell&#39;identità nazionale&quot; (2401)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2402</literal></binding>
+   <binding name="date"><literal>20140522</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE LA RUSSA ed altri: &quot;Modifiche agli articoli 97, 117 e 119 della Costituzione, concernenti il rapporto tra l&#39;ordinamento italiano e l&#39;ordinamento dell&#39;Unione europea&quot; (2402)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3474</literal></binding>
+   <binding name="date"><literal>20151203</literal></binding>
+   <binding name="title"><literal>CIRIELLI ed altri: &quot;Modifiche al codice penale, al codice di procedura penale e altre disposizioni in materia di sicurezza pubblica e di tutela delle vittime di reati&quot; (3474)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3471</literal></binding>
+   <binding name="date"><literal>20151203</literal></binding>
+   <binding name="title"><literal>FITZGERALD NISSOLI ed altri: &quot;Modifica all&#39;articolo 17 della legge 5 febbraio 1992, n. 91, in materia di riacquisto della cittadinanza da parte dei soggetti nati in Italia, che l&#39;hanno perduta a seguito di espatrio&quot; (3471)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3748</literal></binding>
+   <binding name="date"><literal>20160414</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Istituzione di un fondo per la solidarietà alle vittime dei reati intenzionali violenti&quot; (3748)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2609</literal></binding>
+   <binding name="date"><literal>20140807</literal></binding>
+   <binding name="title"><literal>CIRIELLI ed altri: &quot;Delega al Governo per la modifica della struttura e delle competenze degli organi della rappresentanza militare e delle procedure per la definizione del contratto di lavoro del personale delle Forze armate e delle Forze di polizia ad ordinamento militare&quot; (2609)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2823</literal></binding>
+   <binding name="date"><literal>20150116</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifica all&#39;articolo 10 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di determinazione degli oneri deducibili, e delega al Governo per la revisione della disciplina delle spese fiscali&quot; (2823)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>45-933-952-1959-B</literal></binding>
+   <binding name="date"><literal>20160310</literal></binding>
+   <binding name="title"><literal>S. 1917. - CIRIELLI ed altri; DURANTI ed altri; GAROFANI ed altri; ARTINI ed altri: &quot;Disposizioni concernenti la partecipazione dell&#39;Italia alle missioni internazionali&quot; (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (45-933-952-1959-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4297</literal></binding>
+   <binding name="date"><literal>20170215</literal></binding>
+   <binding name="title"><literal>RIZZETTO ed altri: &quot;Modifiche al decreto legislativo 15 giugno 2015, n. 81, in materia di disciplina del lavoro accessorio&quot; (4297)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3824</literal></binding>
+   <binding name="date"><literal>20160512</literal></binding>
+   <binding name="title"><literal>MISIANI ed altri: &quot;Modifica all&#39;articolo 75 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, in materia di decadenza dai benefìci in caso di dichiarazioni non veritiere&quot; (3824)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2619</literal></binding>
+   <binding name="date"><literal>20140902</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Modifiche alla legge 4 maggio 1983, n. 184, in materia di adozione del minore&quot; (2619)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2952</literal></binding>
+   <binding name="date"><literal>20150311</literal></binding>
+   <binding name="title"><literal>GIORGIA MELONI ed altri: &quot;Istituzione della festa nazionale del 17 marzo per la celebrazione della proclamazione dell&#39;unità d&#39;Italia&quot; (2952)</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>257</literal></binding>
+   <binding name="date"><literal>19720614</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Norme modificative della disciplina delle società per azioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3129</literal></binding>
+   <binding name="date"><literal>19740724</literal></binding>
+   <binding name="title"><literal>LOMBARDI e SIGNORILE: Istituzione di una Commissione parlamentare di inchiesta sui servizi di sicurezza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1655</literal></binding>
+   <binding name="date"><literal>19730211</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Disciplina dell&#39;aborto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2290</literal></binding>
+   <binding name="date"><literal>19730723</literal></binding>
+   <binding name="title"><literal>BALLARDINI ed altri: Principi fondamentali in materia di istruzione professionale del personale addetto agli asili-nido</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2579</literal></binding>
+   <binding name="date"><literal>19731206</literal></binding>
+   <binding name="title"><literal>ZAFFANELLA ed altri: Rifinanziamento dei lavori di costruzione dell&#39;idrovia Milano-Cremona-Po</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3862</literal></binding>
+   <binding name="date"><literal>19750701</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Riordinamento dell&#39;amministrazione della pubblica sicurezza e del Corpo delle guardie di pubblica sicurezza. Istituzione del servizio civile denominato &quot;Corpo di polizia della Repubblica italiana&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>626</literal></binding>
+   <binding name="date"><literal>19720801</literal></binding>
+   <binding name="title"><literal>GALLI ed altri: Modifiche alla legge 4 agosto 1955, n. 722, per la parziale devoluzione degli utili delle lotterie nazionali ad organizzazioni della Resistenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>701</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>TORTORELLA ed altri: Proposta di inchiesta parlamentare sugli episodi di violenza e di terrorismo determinati da motivi politici, verificatisi a Milano dal 1969 ad oggi</literal></binding>
+  </result>
+ </results>
+</sparql>

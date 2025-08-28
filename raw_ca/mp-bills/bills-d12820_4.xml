@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1156</literal></binding>
+   <binding name="date"><literal>19640318</literal></binding>
+   <binding name="title"><literal>PISTELLI ed altri: Riconoscimento giuridico dell&#39;obiezione di coscienza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1121</literal></binding>
+   <binding name="date"><literal>19640313</literal></binding>
+   <binding name="title"><literal>DE ZAN ed altri: Nuove disposizioni sulla pubblicità dei film vietati ai minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>46</literal></binding>
+   <binding name="date"><literal>19630528</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Corresponsione di una rendita di riversibilità a favore delle vedove e degli orfani dei lavoratori titolari di rendita di infortunio sul lavoro o malattia professionale</literal></binding>
+  </result>
+ </results>
+</sparql>

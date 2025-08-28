@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1087</literal></binding>
+   <binding name="date"><literal>19870720</literal></binding>
+   <binding name="title"><literal>MELILLO: Istituzione della provincia di Sulmona</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1170</literal></binding>
+   <binding name="date"><literal>19870722</literal></binding>
+   <binding name="title"><literal>MELILLO: Intervento a favore delle aziende cerealicole della provincia di Foggia colpite da siccità nell&#39;autunno 1986-primavera 1987</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1216</literal></binding>
+   <binding name="date"><literal>19870724</literal></binding>
+   <binding name="title"><literal>MELILLO e BATTISTUZZI: Disposizioni sull&#39;adozione e sulla obbligatorietà dell&#39;uso delle cinture di sicurezza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1003</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti il Governo e la pubblica amministrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1004</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione sull&#39;amministrazione della giustizia e sulla funzione giurisdizionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1005</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti l&#39;ordinamento regionale e locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1006</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti i sindacati e il governo dell&#39;economia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1007</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti il Presidente della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1008</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti la composizione e le funzioni delle Camere del Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1009</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti i diritti civili e politici e le libertà fondamentali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1010</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti le fonti normative e la disciplina dei referendum</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1291</literal></binding>
+   <binding name="date"><literal>19870729</literal></binding>
+   <binding name="title"><literal>DE LUCA ed altri: Norme contro lo sfruttamento della prostituzione</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2601</literal></binding>
+   <binding name="date"><literal>19781215</literal></binding>
+   <binding name="title"><literal>TOCCO ed altri: Riconoscimento al personale insegnante di ruolo della scuola materna statale del servizio prestato presso l&#39;ESMAS - Ente per le scuole materne in Sardegna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1180</literal></binding>
+   <binding name="date"><literal>19770222</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Legge cornice sulle cave e torbiere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>12</literal></binding>
+   <binding name="date"><literal>19760705</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Riordinamento dell&#39;amministrazione della pubblica sicurezza e del Corpo delle guardie di pubblica sicurezza. Istituzione del servizio civile denominato &quot;Corpo di polizia della Repubblica italiana&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1406</literal></binding>
+   <binding name="date"><literal>19770428</literal></binding>
+   <binding name="title"><literal>GIGLIA ed altri: Proroga della delega di cui all&#39;articolo 21 della legge 2 maggio 1976, n. 183, riguardante il testo unico delle leggi sugli interventi nel Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1947</literal></binding>
+   <binding name="date"><literal>19771220</literal></binding>
+   <binding name="title"><literal>FRASCA ed altri: Studio e controllo dell&#39;alimentazione animale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>208</literal></binding>
+   <binding name="date"><literal>19760729</literal></binding>
+   <binding name="title"><literal>VENTURINI ed altri: Nuova disciplina giuridica delle imprese artigiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2556</literal></binding>
+   <binding name="date"><literal>19781123</literal></binding>
+   <binding name="title"><literal>ACCAME ed altri: Norme per combattere la diffusione dell&#39;uso della droga nelle caserme</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1154</literal></binding>
+   <binding name="date"><literal>19770216</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sulla illiceità di alcune forme di discriminazione basate sul sesso e sullo stato civile e per la promozione della parità di condizioni tra uomini e donne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>26</literal></binding>
+   <binding name="date"><literal>19760705</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sull&#39;interruzione della gravidanza</literal></binding>
+  </result>
+ </results>
+</sparql>

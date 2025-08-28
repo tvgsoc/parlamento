@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1829</literal></binding>
+   <binding name="date"><literal>20061017</literal></binding>
+   <binding name="title"><literal>CARTA ed altri: &quot;Disposizioni in materia di tutela del diritto all&#39;oblio dei soggetti sottoposti a procedimento penale&quot; (1829)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2365</literal></binding>
+   <binding name="date"><literal>20070315</literal></binding>
+   <binding name="title"><literal>RAITI ed altri: &quot;Norme per l&#39;istituzione di case da gioco nel territorio della Regione siciliana&quot; (2365)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>566</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>VIOLANTE ed altri: &quot;Strumenti finanziari e istituzionali per lo sviluppo della Sicilia&quot; (566)</literal></binding>
+  </result>
+ </results>
+</sparql>

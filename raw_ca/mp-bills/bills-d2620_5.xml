@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3559</literal></binding>
+   <binding name="date"><literal>19710722</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Concessione di un contributo straordinario dello Stato al Comitato per le celebrazioni del IX centenario della morte di San Pier Damiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3815</literal></binding>
+   <binding name="date"><literal>19711124</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Concessione di un contributo straordinario dello Stato al Comitato per le celebrazioni del bicentenario della nascita di Gaspare Spontini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>597</literal></binding>
+   <binding name="date"><literal>19681028</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Norme per facilitare l&#39;avvicendamento negli incarichi di amministrazione degli enti pubblici</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>732</literal></binding>
+   <binding name="date"><literal>19581218</literal></binding>
+   <binding name="title"><literal>TERRAGNI ed altri: Obbligatorietà degli smussi stradali a carico dei Comuni onde accrescere la visibilità al traffico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>429</literal></binding>
+   <binding name="date"><literal>19581023</literal></binding>
+   <binding name="title"><literal>TERRAGNI: Istituzione di un&#39;imposta comunale sulle aree per il finanziamento di lavori pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1526</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Istituzione dell&#39;Ente comunale di assistenza familiare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1527</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Protezione e assistenza della maternità e dell&#39;infanzia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1528</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Protezione e assistenza della fanciullezza e dell&#39;adolescenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1641</literal></binding>
+   <binding name="date"><literal>19591016</literal></binding>
+   <binding name="title"><literal>FRANZO ed altri: Modifiche alla legge 26 marzo 1958, n. 425, per quanto concerne i quadri di classificazione del personale dell&#39;Amministrazione delle ferrovie dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1765</literal></binding>
+   <binding name="date"><literal>19591127</literal></binding>
+   <binding name="title"><literal>FRANZO ed altri: Inquadramento nella carriera del personale direttivo delle ferrovie dello Stato di funzionari della carriera del personale di concetto della stessa Amministrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1766</literal></binding>
+   <binding name="date"><literal>19591127</literal></binding>
+   <binding name="title"><literal>RIPAMONTI ed altri: Provvedimenti per l&#39;esecuzione di opere straordinarie negli aeroporti di Milano-Linate e Milano-Malpensa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1849</literal></binding>
+   <binding name="date"><literal>19591218</literal></binding>
+   <binding name="title"><literal>MARTINELLI ed altri: Norme integrative dell&#39;articolo 1 della legge 24 luglio 1959, n. 622</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3328</literal></binding>
+   <binding name="date"><literal>19611013</literal></binding>
+   <binding name="title"><literal>ARMOSINO ed altri: Piano per l&#39;irrigazione integrale congiunta alla difesa idraulica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3450</literal></binding>
+   <binding name="date"><literal>19611127</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione degli assegni familiari ai coltivatori diretti, mezzadri, coloni parziari e compartecipanti familiari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3719</literal></binding>
+   <binding name="date"><literal>19620405</literal></binding>
+   <binding name="title"><literal>GORRIERI ed altri: Nuovi provvedimenti per le aree depresse dell&#39;Italia centrale e settentrionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4395</literal></binding>
+   <binding name="date"><literal>19621221</literal></binding>
+   <binding name="title"><literal>RADI ed altri: Provvidenze a favore dei circhi italiani e norme sulla attività dello spettacolo viaggiante</literal></binding>
+  </result>
+ </results>
+</sparql>

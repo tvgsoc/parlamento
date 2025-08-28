@@ -1,0 +1,100 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>694</literal></binding>
+   <binding name="date"><literal>19681119</literal></binding>
+   <binding name="title"><literal>SARTOR: Disposizioni concernenti il personale civile delle amministrazioni dello Stato versante in particolari situazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2261</literal></binding>
+   <binding name="date"><literal>19700126</literal></binding>
+   <binding name="title"><literal>SARTOR: Interpretazione autentica dell&#39;articolo 10 della legge 23 aprile 1965, n. 488, concernente provvidenze per gli invalidi per servizio e per i congiunti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1921</literal></binding>
+   <binding name="date"><literal>19691021</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Inchiesta parlamentare sulla condizione e sui problemi della famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2036</literal></binding>
+   <binding name="date"><literal>19691121</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2131</literal></binding>
+   <binding name="date"><literal>19691216</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Istituzione di una commissione d&#39;inchiesta sull&#39;edilizia e sull&#39;urbanistica e loro crisi, e sulla casa in proprietà per le famiglie italiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2416</literal></binding>
+   <binding name="date"><literal>19700413</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Nuove norme per la repressione del commercio illegale, la propaganda e l&#39;uso illegittimo di stupefacenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2546</literal></binding>
+   <binding name="date"><literal>19700521</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Finanziamento dei partiti e delle organizzazioni di categoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2611</literal></binding>
+   <binding name="date"><literal>19700623</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Provvedimenti per le famiglie dei pensionati, degli invalidi, dei disoccupati, dei semi-occupati, e per le vedove e gli orfani dei lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2689</literal></binding>
+   <binding name="date"><literal>19700803</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Provvedimenti in favore dei cittadini italiani espulsi dalla Libia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3142</literal></binding>
+   <binding name="date"><literal>19710226</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Concessione di mutui edilizi per i lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4046</literal></binding>
+   <binding name="date"><literal>19720228</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Provvedimenti a favore delle vedove e degli orfani dei lavoratori dipendenti ed autonomi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>418</literal></binding>
+   <binding name="date"><literal>19680926</literal></binding>
+   <binding name="title"><literal>LETTIERI ed altri: Modifica dell&#39;articolo 9 della legge 13 marzo 1958, n. 165, modificato successivamente dall&#39;articolo 1 della legge 28 luglio 1961, n. 381, riguardante il personale direttivo degli istituti di istruzione secondaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>419</literal></binding>
+   <binding name="date"><literal>19680926</literal></binding>
+   <binding name="title"><literal>LETTIERI ed altri: Provvidenze a favore del personale insegnante cieco delle scuole e degli istituti di istruzione secondaria ed artistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>453</literal></binding>
+   <binding name="date"><literal>19681003</literal></binding>
+   <binding name="title"><literal>LETTIERI ed altri: Passaggio nel ruolo B degli insegnanti tecnico-pratici, degli insegnanti di dattilografia, di stenografia, di calligrafia e di strumento musicale in servizio negli istituti tecnici, professionali e magistrali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>552</literal></binding>
+   <binding name="date"><literal>19681017</literal></binding>
+   <binding name="title"><literal>LETTIERI ed altri: Carriera, classi di stipendio e inquadramento del personale direttivo degli istituti di istruzione secondaria</literal></binding>
+  </result>
+ </results>
+</sparql>

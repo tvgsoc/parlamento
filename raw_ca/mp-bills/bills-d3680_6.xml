@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2499</literal></binding>
+   <binding name="date"><literal>19731114</literal></binding>
+   <binding name="title"><literal>MANCINI: Aggregazione dei tribunali di Palmi e Locri alla sezione di corte di appello di Reggio Calabria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>651</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>MANCINI ed altri: Istituzione della Scuola superiore per la specializzazione del personale direttivo delle Regioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1655</literal></binding>
+   <binding name="date"><literal>19730211</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Disciplina dell&#39;aborto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2440</literal></binding>
+   <binding name="date"><literal>19731026</literal></binding>
+   <binding name="title"><literal>LETTIERI ed altri: Adeguamento dell&#39;indennità per servizio di istituto a favore dei sottufficiali, delle guardie scelte e delle guardie del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3339</literal></binding>
+   <binding name="date"><literal>19741219</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Modifica dell&#39;articolo 135 della Costituzione e dell&#39;articolo 3 della legge costituzionale 22 gennaio 1967, n. 2</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3862</literal></binding>
+   <binding name="date"><literal>19750701</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Riordinamento dell&#39;amministrazione della pubblica sicurezza e del Corpo delle guardie di pubblica sicurezza. Istituzione del servizio civile denominato &quot;Corpo di polizia della Repubblica italiana&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4052</literal></binding>
+   <binding name="date"><literal>19751010</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Norme sull&#39;abusivismo in edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4216</literal></binding>
+   <binding name="date"><literal>19751219</literal></binding>
+   <binding name="title"><literal>FELISETTI ed altri: Modifica dell&#39;articolo 2 del regio decreto-legge 31 maggio 1946, n. 511, sulle guarentigie della magistratura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>71</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>GULLOTTI ed altri: Aumento del contributo a favore dell&#39;Istituto per il medio ed estremo oriente</literal></binding>
+  </result>
+ </results>
+</sparql>

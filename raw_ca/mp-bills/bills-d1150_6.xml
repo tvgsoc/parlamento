@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4183</literal></binding>
+   <binding name="date"><literal>19751211</literal></binding>
+   <binding name="title"><literal>BRUSCHI ed altri: Inquadramento previdenziale ed assicurativo dei lavoratori dipendenti da cooperative agricole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4316</literal></binding>
+   <binding name="date"><literal>19760219</literal></binding>
+   <binding name="title"><literal>BRUSCHI ed altri: Modifica all&#39;articolo 12, comma quarto, della legge 4 novembre 1965, n. 1213, concernente il nuovo ordinamento dei provvedimenti a favore della cinematografia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4331</literal></binding>
+   <binding name="date"><literal>19760223</literal></binding>
+   <binding name="title"><literal>BRUSCHI: Integrazione della Commissione centrale e dei comitati provinciali dei prezzi di cui al decreto legislativo luogotenenziale 19 ottobre 1944, n. 347</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4404</literal></binding>
+   <binding name="date"><literal>19760331</literal></binding>
+   <binding name="title"><literal>BRUSCHI ed altri: Modifiche ed integrazioni alla legge 22 dicembre 1975, n. 727, recante norme sulla sistemazione di lavoratori dipendenti da imprese e cooperative appaltatrici di servizi presso l&#39;Amministrazione autonoma dei monopoli di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4215</literal></binding>
+   <binding name="date"><literal>19751219</literal></binding>
+   <binding name="title"><literal>TRUZZI ed altri: Interventi urgenti a sostegno della vitivinicultura</literal></binding>
+  </result>
+ </results>
+</sparql>

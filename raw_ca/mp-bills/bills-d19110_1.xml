@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2456</literal></binding>
+   <binding name="date"><literal>19510115</literal></binding>
+   <binding name="title"><literal>LOPARDI ed altri: Graduatoria del concorso magistrale bandito con ordinanza 2720 del 12 agosto 1950</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1055</literal></binding>
+   <binding name="date"><literal>19500131</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Inchiesta parlamentare sui fatti di Modena</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1325</literal></binding>
+   <binding name="date"><literal>19500601</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Sulle incompatibilità parlamentari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>140</literal></binding>
+   <binding name="date"><literal>19481015</literal></binding>
+   <binding name="title"><literal>GIAVI ed altri: Ricostituzione del Commissariato generale dell&#39;emigrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2062</literal></binding>
+   <binding name="date"><literal>19510628</literal></binding>
+   <binding name="title"><literal>ZANFAGNINI ed altri: Proroga dei termini di cui agli articoli 1 e 2 della legge 21 ottobre 1950, n. 841, riguardante lo stralcio della riforma fondiaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2331</literal></binding>
+   <binding name="date"><literal>19511122</literal></binding>
+   <binding name="title"><literal>TREMELLONI ed altri: Per un piano orientativo ai fini di una sistematica regolazione delle acque e per una relazione annua del Ministero dei lavori pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2680</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>DELLI CASTELLI ed altri: Concessione di un mutuo garantito dallo Stato al comune di Pescara</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2931</literal></binding>
+   <binding name="date"><literal>19521008</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Interpretazione autentica dell&#39;articolo 2108 del Codice civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2948</literal></binding>
+   <binding name="date"><literal>19521014</literal></binding>
+   <binding name="title"><literal>GIORDANI ed altri: Concessione di una pensione alla signora Vydia Morici, vedova di Giuseppe Donati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2989</literal></binding>
+   <binding name="date"><literal>19521029</literal></binding>
+   <binding name="title"><literal>ZANFAGNINI ed altri: Rivalutazione delle assicurazioni sulla vita</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3275</literal></binding>
+   <binding name="date"><literal>19530313</literal></binding>
+   <binding name="title"><literal>ZANFAGNINI ed altri: Modifiche al testo unico delle leggi sanitarie approvato con regio decreto 27 luglio 1934, n. 1265, per quanto riguarda il capo II: Del servizio farmaceutico</literal></binding>
+  </result>
+ </results>
+</sparql>

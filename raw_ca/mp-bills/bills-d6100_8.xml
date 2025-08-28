@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1086</literal></binding>
+   <binding name="date"><literal>19791205</literal></binding>
+   <binding name="title"><literal>GIURA LONGO ed altri: &quot;Nuova disciplina nei servizi di riscossione delle imposte dirette&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2840</literal></binding>
+   <binding name="date"><literal>19810924</literal></binding>
+   <binding name="title"><literal>GIURA LONGO ed altri: Modifica alla disciplina sui versamenti in Tesoreria delle somme relative al capitolo 1026 del bilancio dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>332</literal></binding>
+   <binding name="date"><literal>19790712</literal></binding>
+   <binding name="title"><literal>BELLOCCHIO ed altri: Istituzione dell&#39;Azienda di Stato per i sali ed i tabacchi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>418</literal></binding>
+   <binding name="date"><literal>19790725</literal></binding>
+   <binding name="title"><literal>TRIVA ed altri: Nuovo ordinamento delle autonomie locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2685</literal></binding>
+   <binding name="date"><literal>19810625</literal></binding>
+   <binding name="title"><literal>BERNARDINI ed altri: Aumento degli importi dei redditi da lavoro dipendente e similari ai fini delle detrazioni d&#39;imposta ed ai fini dell&#39;applicazione delle disposizioni in materia di ritenute alla fonte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>495</literal></binding>
+   <binding name="date"><literal>19790802</literal></binding>
+   <binding name="title"><literal>GUALANDI ed altri: Misure urgenti per un primo adeguamento delle indennità degli amministratori comunali, provinciali e delle circoscrizioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>937</literal></binding>
+   <binding name="date"><literal>19791114</literal></binding>
+   <binding name="title"><literal>TRIVA ed altri: Provvedimenti per la finanza locale per il 1980</literal></binding>
+  </result>
+ </results>
+</sparql>

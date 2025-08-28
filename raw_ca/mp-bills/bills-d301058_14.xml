@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5639</literal></binding>
+   <binding name="date"><literal>20050221</literal></binding>
+   <binding name="title"><literal>ROSATO ed altri: &quot;Disposizioni per incentivare l&#39;integrazione del trasporto marittimo, ferroviario e aereo delle merci&quot; (5639)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5817</literal></binding>
+   <binding name="date"><literal>20050504</literal></binding>
+   <binding name="title"><literal>RUGGERI ed altri: &quot;Contributo per le province in cui sono ubicati gli impianti di produzione di energia elettrica&quot; (5817)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5970</literal></binding>
+   <binding name="date"><literal>20050706</literal></binding>
+   <binding name="title"><literal>SINISCALCHI e D&#39;ANTONI: &quot;Piano pluriennale di sicurezza per contrastare e prevenire la criminalità nella città di Napoli&quot; (5970)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5980</literal></binding>
+   <binding name="date"><literal>20050708</literal></binding>
+   <binding name="title"><literal>RIA ed altri: &quot;Disposizioni per favorire la dilazione del recupero delle agevolazioni contributive per i contratti di formazione e lavoro&quot; (5980)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5470</literal></binding>
+   <binding name="date"><literal>20041202</literal></binding>
+   <binding name="title"><literal>IANNUZZI ed altri: &quot;Disposizioni per il recupero e la valorizzazione dei centri storici&quot; (5470)</literal></binding>
+  </result>
+ </results>
+</sparql>

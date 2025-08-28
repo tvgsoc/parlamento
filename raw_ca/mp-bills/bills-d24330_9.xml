@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1861</literal></binding>
+   <binding name="date"><literal>19840704</literal></binding>
+   <binding name="title"><literal>CAPRILI ed altri: Norme per l&#39;organizzazione e l&#39;ordinamento dello sport</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2174</literal></binding>
+   <binding name="date"><literal>19841018</literal></binding>
+   <binding name="title"><literal>CAPRILI ed altri: Norme sulla struttura ed il funzionamento dell&#39;Ente nazionale italiano per il turismo (ENIT)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3783</literal></binding>
+   <binding name="date"><literal>19860521</literal></binding>
+   <binding name="title"><literal>FORNASARI ed altri: Realizzazione della autostrada Livorno-Civitavecchia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3843</literal></binding>
+   <binding name="date"><literal>19860612</literal></binding>
+   <binding name="title"><literal>BARZANTI ed altri: Istituzione della soprintendenza archeologica per il territorio dell&#39;Etruria centrale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4496</literal></binding>
+   <binding name="date"><literal>19870304</literal></binding>
+   <binding name="title"><literal>MACCIOTTA ed altri: Norme per la cessione alle regioni autonome della Sardegna, del Friuli-Venezia Giulia ed alla regione Toscana di beni immobili afferenti direttamente o indirettamente, attività minerarie, mineralurgiche e metallurgiche dismesse</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4513</literal></binding>
+   <binding name="date"><literal>19870311</literal></binding>
+   <binding name="title"><literal>LAGORIO ed altri: Istituzione di un &quot;Parco nazionale della pace&quot; a S. Anna di Stazzema</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1393</literal></binding>
+   <binding name="date"><literal>19840308</literal></binding>
+   <binding name="title"><literal>BULLERI ed altri: Modifica dell&#39;articolo 3 della legge 21 febbraio 1963, n. 491, concernente la subconcessione ad enti pubblici di ricerca di alcuni terreni assegnati all&#39;Università di Pisa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1500</literal></binding>
+   <binding name="date"><literal>19840328</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Misure per lo sviluppo economico e sociale del Mezzogiorno</literal></binding>
+  </result>
+ </results>
+</sparql>

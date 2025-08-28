@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2436-4543-4551-4586-4622-4639-4705-4746-4747-4785-4971-5179-ter-5294-B</literal></binding>
+   <binding name="date"><literal>20051013</literal></binding>
+   <binding name="title"><literal>S. 3328. - ARMANI ed altri; BENVENUTO ed altri: LETTIERI e BENVENUTO; LA MALFA ed altri; DILIBERTO ed altri; FASSINO ed altri; DISEGNO DI LEGGE D&#39;INIZIATIVA DEL GOVERNO; ANTONIO PEPE ed altri; LETTA ed altri; LETTIERI ed altri; COSSA ed altri; DISEGNO DI LEGGE D&#39;INIZIATIVA DEL GOVERNO; GRANDI ed altri: &quot;Disposizioni per la tutela del risparmio e la disciplina dei mercati finanziari&quot; (approvato, in un testo unificato, dalla Camera e modificato dal Senato) (2436-4543-4551-4586-4622-4639-4705-4746-4747-4785-4971-5179-ter-5294-B).</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5049</literal></binding>
+   <binding name="date"><literal>20040614</literal></binding>
+   <binding name="title"><literal>LA MALFA: &quot;Istituzione del Ministero per lo sviluppo del Mezzogiorno&quot; (5049)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3707</literal></binding>
+   <binding name="date"><literal>20030224</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE LA MALFA: &quot;Modifiche al titolo V della parte seconda della Costituzione&quot; (3707)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4586</literal></binding>
+   <binding name="date"><literal>20040113</literal></binding>
+   <binding name="title"><literal>LA MALFA ed altri: &quot;Modifiche al testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, in materia di obbligazioni dei soggetti con elevata concentrazione dell&#39;esposizione debitoria verso le banche&quot; (4586)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2224</literal></binding>
+   <binding name="date"><literal>20020128</literal></binding>
+   <binding name="title"><literal>TABACCI ed altri: &quot;Nuove norme in materia di Autorità di garanzia, regolazione e vigilanza&quot; (2224)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3377</literal></binding>
+   <binding name="date"><literal>20021118</literal></binding>
+   <binding name="title"><literal>GRILLINI ed altri: &quot;Ripristino della festa nazionale del 20 settembre&quot; (3377)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3699</literal></binding>
+   <binding name="date"><literal>20030220</literal></binding>
+   <binding name="title"><literal>MILIOTO ed altri: &quot;Interventi in favore del polo universitario di Agrigento&quot; (3699)</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,521 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>500</literal></binding>
+   <binding name="date"><literal>19830921</literal></binding>
+   <binding name="title"><literal>MEROLLI ed altri: Disciplina fiscale dei redditi degli Istituti per l&#39;edilizia economica e popolare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1008</literal></binding>
+   <binding name="date"><literal>19831215</literal></binding>
+   <binding name="title"><literal>ROCELLI ed altri: Delega al Governo per l&#39;emanazione di un testo unico per il riordino, l&#39;integrazione e la modifica di tutte le disposizioni in materia di edilizia residenziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1102</literal></binding>
+   <binding name="date"><literal>19830104</literal></binding>
+   <binding name="title"><literal>BERNARDI ed altri: Istituzione di un tribunale civile e penale in Gaeta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1144</literal></binding>
+   <binding name="date"><literal>19840118</literal></binding>
+   <binding name="title"><literal>PICANO ed altri: Norme per la tutela del diritto alla riservatezza delle persone fisiche nel trattamento automatizzato dei dati e delle informazioni personali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19840119</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Norme concernenti la prevenzione, cura e riabilitazione delle alcooldipendenze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1241</literal></binding>
+   <binding name="date"><literal>19840202</literal></binding>
+   <binding name="title"><literal>MEMMI ed altri: Norme integrative della disciplina del contenzioso tributario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1261</literal></binding>
+   <binding name="date"><literal>19840203</literal></binding>
+   <binding name="title"><literal>GARAVAGLIA ed altri: Disciplina delle sostanze stupefacenti e psicotrope, dei loro sostitutivi e norme per la prevenzione, cura e riabilitazione degli stati di tossicodipendenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1275</literal></binding>
+   <binding name="date"><literal>19840209</literal></binding>
+   <binding name="title"><literal>BERNARDI ed altri: Ristrutturazione del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1423</literal></binding>
+   <binding name="date"><literal>19840314</literal></binding>
+   <binding name="title"><literal>CRISTOFORI ed altri: Norme per la ricongiunzione dei periodi assicurativi ai fini previdenziali per i liberi professionisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1443</literal></binding>
+   <binding name="date"><literal>19840315</literal></binding>
+   <binding name="title"><literal>ABETE ed altri: Norme a tutela del consumatore in materia di produzione e commercializzazione di materie plastiche e loro manufatti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1461</literal></binding>
+   <binding name="date"><literal>19840320</literal></binding>
+   <binding name="title"><literal>CRISTOFORI ed altri: Riforma del sistema pensionistico e ristrutturazione dell&#39;Istituto nazionale della previdenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1534</literal></binding>
+   <binding name="date"><literal>19840404</literal></binding>
+   <binding name="title"><literal>MENSORIO ed altri: Norme per la modifica degli Istituti superiori di educazione fisica in corso di laurea</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1567</literal></binding>
+   <binding name="date"><literal>19840412</literal></binding>
+   <binding name="title"><literal>ABETE ed altri: Norme per l&#39;impiego di carboni con contenuto in zolfo fino al tre per cento negli impianti industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1577</literal></binding>
+   <binding name="date"><literal>19840413</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Norme sulle assunzioni obbligatorie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1636</literal></binding>
+   <binding name="date"><literal>19840430</literal></binding>
+   <binding name="title"><literal>STEGAGNINI ed altri: Norme per la promozione e il coordinamento delle attività informatiche nell&#39;amministrazione statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1739</literal></binding>
+   <binding name="date"><literal>19840524</literal></binding>
+   <binding name="title"><literal>CRISTOFORI ed altri: Istituzione del Fondo di previdenza per i membri degli istituti religiosi e delle società di vita apostolica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1782</literal></binding>
+   <binding name="date"><literal>19840531</literal></binding>
+   <binding name="title"><literal>MERLONI ed altri: Modifica dell&#39;articolo 211 dell&#39;ordinamento giudiziario approvato con regio-decreto 30 gennaio 1941, n. 12, e riammissione in servizio di magistrati che hanno lasciato l&#39;ordine giudiziario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1839</literal></binding>
+   <binding name="date"><literal>19840627</literal></binding>
+   <binding name="title"><literal>CASATI ed altri: Ordinamento della scuola non statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1898</literal></binding>
+   <binding name="date"><literal>19840712</literal></binding>
+   <binding name="title"><literal>MONGIELLO ed altri: Istituzione del terzo centro universitario pugliese a Foggia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1934</literal></binding>
+   <binding name="date"><literal>19840719</literal></binding>
+   <binding name="title"><literal>USELLINI ed altri: Norme per l&#39;unificazione delle procedure di esecuzione per la riscossione coattiva delle entrate dello Stato e degli enti pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1941</literal></binding>
+   <binding name="date"><literal>19840724</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Modifiche alla legge 23 dicembre 1978, n. 833, concernenti alcune strutture del servizio sanitario nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1996</literal></binding>
+   <binding name="date"><literal>19840801</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: Nuove norme per evitare la formazione del precariato scolastico e per la graduale sistemazione del personale precario esistente, docente e non docente delle scuole di ogni ordine e grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2143</literal></binding>
+   <binding name="date"><literal>19841015</literal></binding>
+   <binding name="title"><literal>SCAIOLA ed altri: Modifiche degli articoli 27 e 28 della legge 8 agosto 1977, n. 513, concernenti il riscatto degli alloggi dell&#39;edilizia residenziale pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>224</literal></binding>
+   <binding name="date"><literal>19830720</literal></binding>
+   <binding name="title"><literal>BROCCA ed altri: Concessione di una indennità di malattia ai lavoratori addetti ai servizi domestici e familiari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>225</literal></binding>
+   <binding name="date"><literal>19830720</literal></binding>
+   <binding name="title"><literal>BROCCA ed altri: Istituzione del ruolo unico degli Ispettori tecnici della pubblica istruzione e norme sull&#39;esercizio della funzione ispettiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2276</literal></binding>
+   <binding name="date"><literal>19841115</literal></binding>
+   <binding name="title"><literal>MENSORIO ed altri: Obbligatorietà dell&#39;insegnamento e dell&#39;esercizio dell&#39;educazione fisico-sportiva nella scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2326</literal></binding>
+   <binding name="date"><literal>19841128</literal></binding>
+   <binding name="title"><literal>TEDESCHI ed altri: Modifica alla legge 10 dicembre 1981, n. 741, recante ulteriori norme per l&#39;accelerazione delle procedure per l&#39;esecuzione di opere pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2464</literal></binding>
+   <binding name="date"><literal>19850122</literal></binding>
+   <binding name="title"><literal>NICOTRA ed altri: Norme relative ai procedimenti di adozione ordinaria a favore dei minori, non conclusi alla data di entrata in vigore della legge 4 maggio 1983, n. 184, concernente la disciplina dell&#39;adozione e dell&#39;affidamento dei minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2527</literal></binding>
+   <binding name="date"><literal>19850207</literal></binding>
+   <binding name="title"><literal>NUCCI MAURO ed altri: Obbligatorietà della liquidazione da parte degli ordini e collegi professionali delle parcelle relative a prestazioni degli ingegneri, architetti, geologi, dottori agronomi, geometri, periti agrari e periti industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2590</literal></binding>
+   <binding name="date"><literal>19850226</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Programma triennale di interventi straordinari di solidarietà con l&#39;Argentina e l&#39;Uruguay</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2710</literal></binding>
+   <binding name="date"><literal>19850321</literal></binding>
+   <binding name="title"><literal>MORA ed altri: Interpretazione autentica dell&#39;articolo 10 e modifiche ed integrazioni alla legge 3 gennaio 1981, n. 6, in materia di previdenza per gli ingegneri e gli architetti, e alla legge 4 marzo 1958, n. 179, sull&#39;istituzione ed ordinamento della Cassa nazionale di previdenza e assistenza per gli ingegneri ed architetti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2865</literal></binding>
+   <binding name="date"><literal>19850506</literal></binding>
+   <binding name="title"><literal>ABETE ed altri: Disciplina degli enti per la gestione di investimenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3001</literal></binding>
+   <binding name="date"><literal>19850703</literal></binding>
+   <binding name="title"><literal>BOTTA ed altri: Delega al Presidente della Repubblica per la concessione dell&#39;amnistia per i reati commessi in occasione di abusi edilizi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3031</literal></binding>
+   <binding name="date"><literal>19850711</literal></binding>
+   <binding name="title"><literal>PIREDDA ed altri: Organizzazione di un sistema nazionale e regionale di ricerca sperimentale e applicata, di divulgazione delle nuove tecnologie e di assistenza tecnica per lo sviluppo dell&#39;agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3066</literal></binding>
+   <binding name="date"><literal>19850718</literal></binding>
+   <binding name="title"><literal>LA RUSSA ed altri: Ordinamento della professione forense</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3300</literal></binding>
+   <binding name="date"><literal>19851121</literal></binding>
+   <binding name="title"><literal>ABETE ed altri: Legge quadro in materia di pesca nelle acque interne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3392</literal></binding>
+   <binding name="date"><literal>19860115</literal></binding>
+   <binding name="title"><literal>DE MITA ed altri: Introduzione dello scrutinio elettronico nelle operazioni elettorali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3429</literal></binding>
+   <binding name="date"><literal>19860125</literal></binding>
+   <binding name="title"><literal>NICOTRA ed altri: Estensione ai dottori commercialisti della previsione di cui all&#39;articolo 351 del codice di procedura penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3434</literal></binding>
+   <binding name="date"><literal>19860127</literal></binding>
+   <binding name="title"><literal>BOTTA ed altri: Interventi per la manutenzione straordinaria e la conservazione statico-strutturale del patrimonio di interesse storico ed artistico
+</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3470</literal></binding>
+   <binding name="date"><literal>19860205</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Istituzione di una Commissione parlamentare di inchiesta sulla attuazione della legge 22 maggio 1978, n. 194, per quanto concerne la prevenzione dell&#39;aborto volontario con particolare riguardo al funzionamento dei consultori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3525</literal></binding>
+   <binding name="date"><literal>19860226</literal></binding>
+   <binding name="title"><literal>ROGNONI ed altri: Agevolazioni alle piccole e medie imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3643</literal></binding>
+   <binding name="date"><literal>19860402</literal></binding>
+   <binding name="title"><literal>SCAIOLA ed altri: Autorizzazione ad effettuare negli anni 1986, 1987 e 1988 la lotteria del festival della canzone di Sanremo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3924</literal></binding>
+   <binding name="date"><literal>19860717</literal></binding>
+   <binding name="title"><literal>ANSELMI ed altri: Norme per la concessione di una indennità speciale per l&#39;autonomia delle persone sorde prelinguali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3925</literal></binding>
+   <binding name="date"><literal>19860717</literal></binding>
+   <binding name="title"><literal>ROSSI DI MONTELERA ed altri: Modifiche alla legge 26 gennaio 1983, n. 18, concernente l&#39;obbligo da parte di determinate categorie di contribuenti dell&#39;imposta sul valore aggiunto di rilasciare uno scontrino fiscale mediante l&#39;uso di speciali registratori di cassa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>469</literal></binding>
+   <binding name="date"><literal>19830919</literal></binding>
+   <binding name="title"><literal>GAROCCHIO ed altri: Norme per il miglioramento delle pensioni di reversibilità spettanti ai superstiti dei dipendenti statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>471</literal></binding>
+   <binding name="date"><literal>19830919</literal></binding>
+   <binding name="title"><literal>GAROCCHIO ed altri: Applicazione dell&#39;articolo 10 del decreto-legge 29 gennaio 1983, n. 17, convertito in legge, con modificazioni, dalla legge 25 marzo 1983, n. 79, recante norme per il contenimento del costo del lavoro, ai soli soggetti assunti in servizio nelle amministrazioni dello Stato in data successiva al 28 gennaio 1983</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>527</literal></binding>
+   <binding name="date"><literal>19830922</literal></binding>
+   <binding name="title"><literal>CIRINO POMICINO ed altri: Modifiche agli articoli 33, 34, 35 e 64 della legge 23 dicembre 1978, n. 833, istitutiva del Servizio sanitario nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>528</literal></binding>
+   <binding name="date"><literal>19830922</literal></binding>
+   <binding name="title"><literal>CIRINO POMICINO ed altri: Nuovo ordinamento degli studi universitari di medicina in relazione alla normativa comunitaria europea ed alla istituzione del servizio sanitario nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>551</literal></binding>
+   <binding name="date"><literal>19830928</literal></binding>
+   <binding name="title"><literal>ANDREOLI ed altri: Norme sulla istituzione del ruolo dei magistrati tributari e sul loro stato giuridico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>560</literal></binding>
+   <binding name="date"><literal>19830928</literal></binding>
+   <binding name="title"><literal>USELLINI ed altri: Disciplina del contenzioso tributario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>567</literal></binding>
+   <binding name="date"><literal>19830929</literal></binding>
+   <binding name="title"><literal>PICANO ed altri: Delega al Governo per l&#39;introduzione di criteri migliorativi per la determinazione dei trattamenti pensionistici di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>610</literal></binding>
+   <binding name="date"><literal>19831006</literal></binding>
+   <binding name="title"><literal>VISCARDI ed altri: Modifica dell&#39;articolo 11 della legge 24 aprile 1980, n. 146, relativamente alla composizione del comitato di coordinamento del corpo degli ispettori tributari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>681</literal></binding>
+   <binding name="date"><literal>19831020</literal></binding>
+   <binding name="title"><literal>BROCCA ed altri: Disciplina dell&#39;attività di promozione culturale e didattica riguardante i beni culturali ed ambientali svolta dagli organi del Ministero per i beni culturali ed ambientali e del Ministero della pubblica istruzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>682</literal></binding>
+   <binding name="date"><literal>19831020</literal></binding>
+   <binding name="title"><literal>BROCCA ed altri: Istituzione della facoltà di scienze del mare e di nuovi corsi di laurea presso l&#39;Università degli studi di Bari con decentramento a Taranto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>720</literal></binding>
+   <binding name="date"><literal>19831026</literal></binding>
+   <binding name="title"><literal>BROCCA ed altri: Norme per la disciplina dell&#39;insegnamento a distanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>722</literal></binding>
+   <binding name="date"><literal>19831026</literal></binding>
+   <binding name="title"><literal>TEDESCHI ed altri: Disciplina del rapporto di lavoro a tempo parziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>779</literal></binding>
+   <binding name="date"><literal>19831104</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Integrazione all&#39;articolo 48 della Costituzione per la estensione del diritto di voto nelle elezioni amministrative ai cittadini degli Stati membri della Comunità europea ed ai residenti in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>834</literal></binding>
+   <binding name="date"><literal>19831114</literal></binding>
+   <binding name="title"><literal>FIORI ed altri: Norme in materia di riscatto dagli alloggi di edilizia residenziale pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>860</literal></binding>
+   <binding name="date"><literal>19831116</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Norme in materia di riscatto di immobili dello Stato e degli enti pubblici e per la costruzione di abitazioni civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>943</literal></binding>
+   <binding name="date"><literal>19831130</literal></binding>
+   <binding name="title"><literal>ABETE ed altri: Norme per l&#39;introduzione dell&#39;educazione stradale nella scuola media</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>982</literal></binding>
+   <binding name="date"><literal>19831206</literal></binding>
+   <binding name="title"><literal>STEGAGNINI ed altri: Nuovo ordinamento del museo nazionale delle armi di Castel Sant&#39;Angelo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2327</literal></binding>
+   <binding name="date"><literal>19841129</literal></binding>
+   <binding name="title"><literal>LUSSIGNOLI ed altri: Nuova disciplina dei prelievi di parti di cadavere a scopo di trapianto terapeutico e norme sul prelievo dell&#39;ipofisi da cadavere a scopo di produzione di estratti per uso terapeutico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1052</literal></binding>
+   <binding name="date"><literal>19831219</literal></binding>
+   <binding name="title"><literal>RIGHI ed altri: Norme per la ricongiunzione dei periodi assicurativi ai fini previdenziali per i liberi professionisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1206</literal></binding>
+   <binding name="date"><literal>19840127</literal></binding>
+   <binding name="title"><literal>RIGHI ed altri: Legge-quadro per l&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1433</literal></binding>
+   <binding name="date"><literal>19840315</literal></binding>
+   <binding name="title"><literal>PICCOLI ed altri: Interventi urgenti e straordinari diretti ad assicurare nel 1984, e comunque entro 12 mesi, la sopravvivenza di almeno tre milioni di persone minacciate dalla fame, dalla denutrizione e dal sottosviluppo nelle regioni dei Paesi in via di sviluppo dove si registrano i più alti tassi di mortalità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1438</literal></binding>
+   <binding name="date"><literal>19840315</literal></binding>
+   <binding name="title"><literal>ABETE ed altri: Integrazioni e modifiche al decreto del Presidente della Repubblica 9 novembre 1976, n. 902, concernente disciplina del credito agevolato al settore industriale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1480</literal></binding>
+   <binding name="date"><literal>19840322</literal></binding>
+   <binding name="title"><literal>CRISTOFORI ed altri: Perequazione dei trattamenti pensionistici in atto dei pubblici dipendenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1581</literal></binding>
+   <binding name="date"><literal>19840414</literal></binding>
+   <binding name="title"><literal>USELLINI ed altri: Modifica delle norme concernenti il trattamento tributario dell&#39;indennità di fine rapporto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1740</literal></binding>
+   <binding name="date"><literal>19840524</literal></binding>
+   <binding name="title"><literal>RIGHI ed altri: Misure urgenti per il rilancio dell&#39;apprendistato e per favorire l&#39;occupazione giovanile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1967</literal></binding>
+   <binding name="date"><literal>19840726</literal></binding>
+   <binding name="title"><literal>CATTANEI ed altri: Modifica del regio decreto 11 febbraio 1929, n. 274, concernente l&#39;ordinamento professionale dei geometri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1968</literal></binding>
+   <binding name="date"><literal>19840726</literal></binding>
+   <binding name="title"><literal>CATTANEI ed altri: Modificazioni alla legge 20 ottobre 1982, n. 773, sulla riforma della Cassa nazionale di previdenza ed assistenza a favore dei geometri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>201</literal></binding>
+   <binding name="date"><literal>19830719</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: Modifiche alla legge 20 maggio 1982, n. 270, concernente la sistemazione del personale docente e non docente precario della scuola materna, elementare, secondaria di primo e secondo grado ed artistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2119</literal></binding>
+   <binding name="date"><literal>19841004</literal></binding>
+   <binding name="title"><literal>ROSINI ed altri: Norme per la rivalutazione dei trattamenti pensionistici di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2192</literal></binding>
+   <binding name="date"><literal>19841023</literal></binding>
+   <binding name="title"><literal>FORMICA ed altri: Modifiche ed integrazioni alla vigente normativa in materia di pensioni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2230</literal></binding>
+   <binding name="date"><literal>19841031</literal></binding>
+   <binding name="title"><literal>MASTELLA ed altri: Norme concernenti il calendario settimanale delle lezioni nelle scuole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>237</literal></binding>
+   <binding name="date"><literal>19830726</literal></binding>
+   <binding name="title"><literal>SILVESTRI ed altri: Norme per il ripristino della festività dell&#39;Epifania</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2453</literal></binding>
+   <binding name="date"><literal>19850116</literal></binding>
+   <binding name="title"><literal>BOTTA ed altri: Provvedimenti per agevolare l&#39;acquisizione della prima casa da parte dei lavoratori dipendenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>470</literal></binding>
+   <binding name="date"><literal>19830919</literal></binding>
+   <binding name="title"><literal>GAROCCHIO ed altri: Norme per il riconoscimento dell&#39;anzianità pregressa ai fini della quiescenza e dell&#39;indennità di buonuscita ai pensionati dello Stato, già inquadrati nei livelli retributivi e cessati dal servizio dopo le decorrenze giuridiche previste dalla legge 11 luglio 1980, n. 312</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>472</literal></binding>
+   <binding name="date"><literal>19830919</literal></binding>
+   <binding name="title"><literal>GAROCCHIO ed altri: Estensione ai dipendenti statali dei benefici di cui all&#39;articolo 3 della legge 7 luglio 1980, n. 299, recante conversione in legge, con modificazioni, del decreto-legge 7 maggio 1980, n. 153, concernente norme per l&#39;attività gestionale e finanziaria degli enti locali per l&#39;anno 1980 e collegamento delle pensioni alla dinamica retributiva del personale in attività di servizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>517</literal></binding>
+   <binding name="date"><literal>19830921</literal></binding>
+   <binding name="title"><literal>MAZZOTTA ed altri: Modifiche al primo comma dell&#39;articolo 2095 del codice civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>529</literal></binding>
+   <binding name="date"><literal>19830922</literal></binding>
+   <binding name="title"><literal>FALCIER ed altri: Stato giuridico degli amministratori locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>653</literal></binding>
+   <binding name="date"><literal>19831013</literal></binding>
+   <binding name="title"><literal>MORA ed altri: Introduzione dell&#39;obbligo del casco protettivo nella circolazione di ciclomotori e motocicli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>683</literal></binding>
+   <binding name="date"><literal>19831020</literal></binding>
+   <binding name="title"><literal>BROCCA ed altri: Norme per la concessione di contributi finanziari a carico dello Stato per gli archivi di notevole interesse storico in possesso di enti pubblici e di privati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>796</literal></binding>
+   <binding name="date"><literal>19831109</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Norme concernenti diritti e garanzie degli immigrati extracomunitari in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>959</literal></binding>
+   <binding name="date"><literal>19831201</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Istituzione dei comitati consolari</literal></binding>
+  </result>
+ </results>
+</sparql>

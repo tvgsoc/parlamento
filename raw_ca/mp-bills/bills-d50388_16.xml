@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>222</literal></binding>
+   <binding name="date"><literal>20080429</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Norme per la tutela e la valorizzazione delle botteghe storiche di interesse artistico e degli antichi mestieri&quot; (222)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4815</literal></binding>
+   <binding name="date"><literal>20111130</literal></binding>
+   <binding name="title"><literal>BRAMBILLA ed altri: &quot;Divieto di allevamento, cattura e uccisione di animali per la produzione di pellicce&quot; (4815)</literal></binding>
+  </result>
+ </results>
+</sparql>

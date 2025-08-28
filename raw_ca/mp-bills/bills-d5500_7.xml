@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1205</literal></binding>
+   <binding name="date"><literal>19770224</literal></binding>
+   <binding name="title"><literal>SIGNORILE ed altri: Modifiche all&#39;ordinamento delle Casse di risparmio e dei Monti di credito su pegno di I categoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2125</literal></binding>
+   <binding name="date"><literal>19780418</literal></binding>
+   <binding name="title"><literal>SIGNORILE ed altri: Norme di modificazione degli ordinamenti delle aziende di credito, aventi natura di istituti di credito di diritto pubblico, e degli istituti e aziende di credito autorizzati all&#39;esercizio del credito a medio e lungo termine, aventi natura di enti di diritto pubblico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1066</literal></binding>
+   <binding name="date"><literal>19770126</literal></binding>
+   <binding name="title"><literal>CAPRIA ed altri: Istituzione dell&#39;Ente chimico italiano (ECHIMIT)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1333</literal></binding>
+   <binding name="date"><literal>19770404</literal></binding>
+   <binding name="title"><literal>CAPRIA ed altri: Costituzione dell&#39;Ente di gestione delle partecipazioni pubbliche nella Montedison</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1971</literal></binding>
+   <binding name="date"><literal>19771222</literal></binding>
+   <binding name="title"><literal>CALDORO ed altri: Norme per il coordinamento nazionale dei trasporti: istituzione del Comitato nazionale dei trasporti e dell&#39;Ente nazionale delle ferrovie italiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>710</literal></binding>
+   <binding name="date"><literal>19761109</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Provvedimenti urgenti per il risanamento della crisi economica e finanziaria degli enti locali e per l&#39;istituzione di tributi locali a favore dei comuni e delle province</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>872</literal></binding>
+   <binding name="date"><literal>19761201</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Aumento del contributo di cui alla legge 6 dicembre 1971, n. 1044, concernente il piano quinquennale per l&#39;istituzione di asili nido comunali con il concorso dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>883</literal></binding>
+   <binding name="date"><literal>19761202</literal></binding>
+   <binding name="title"><literal>FRACANZANI ed altri: Modifiche alla legge 15 dicembre 1972, n. 772, recante norme per il riconoscimento dell&#39;obiezione di coscienza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1154</literal></binding>
+   <binding name="date"><literal>19770216</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sulla illiceità di alcune forme di discriminazione basate sul sesso e sullo stato civile e per la promozione della parità di condizioni tra uomini e donne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>26</literal></binding>
+   <binding name="date"><literal>19760705</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sull&#39;interruzione della gravidanza</literal></binding>
+  </result>
+ </results>
+</sparql>

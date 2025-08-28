@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2410</literal></binding>
+   <binding name="date"><literal>19511213</literal></binding>
+   <binding name="title"><literal>CAVALLOTTI e PERROTTI: Lotta sociale antireumatica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>293</literal></binding>
+   <binding name="date"><literal>19490125</literal></binding>
+   <binding name="title"><literal>CAVALLOTTI ed altri: Proroga del mantenimento in servizio dei lavoratori reduci e partigiani riassunti ed assunti in servizio nelle aziende private</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>857</literal></binding>
+   <binding name="date"><literal>19491028</literal></binding>
+   <binding name="title"><literal>CAVALLOTTI e LOZZA: Istituzione di Scuole universitarie di odontoiatria e protesi dentaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>139</literal></binding>
+   <binding name="date"><literal>19481015</literal></binding>
+   <binding name="title"><literal>CAPALOZZA ed altri: Delega al Presidente della Repubblica per concedere amnistia ed indulto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2116</literal></binding>
+   <binding name="date"><literal>19510801</literal></binding>
+   <binding name="title"><literal>PINO ed altri: Modifica delle disposizioni sulla assicurazione contro la disoccupazione involontaria, disciplinate dal regio decreto legge 4 ottobre 1935, n. 1827, convertito nella legge 6 aprile 1936, n. 1155</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2148</literal></binding>
+   <binding name="date"><literal>19510809</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Completamento della Facoltà di medicina e chirurgia presso l&#39;Università degli studi di Ferrara</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2413</literal></binding>
+   <binding name="date"><literal>19511214</literal></binding>
+   <binding name="title"><literal>PIERACCINI ed altri: Gratifica natalizia di lire 3.000 per i pensionati della Previdenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>715</literal></binding>
+   <binding name="date"><literal>19490722</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Analgesia nei parti</literal></binding>
+  </result>
+ </results>
+</sparql>

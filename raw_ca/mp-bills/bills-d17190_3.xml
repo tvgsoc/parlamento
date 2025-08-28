@@ -1,0 +1,83 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1851</literal></binding>
+   <binding name="date"><literal>19591218</literal></binding>
+   <binding name="title"><literal>MUSCARIELLO ed altri: Provvedimenti per alcune categorie del personale dell&#39;Azienda autonoma delle ferrovie dello Stato dell&#39;ex grado VI</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1593</literal></binding>
+   <binding name="date"><literal>19590930</literal></binding>
+   <binding name="title"><literal>CALABRÒ ed altri: Disposizioni per la cinematografia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1631</literal></binding>
+   <binding name="date"><literal>19591015</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Ricostituzione dell&#39;Istituto romano cooperativo per le case degli impiegati dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1714</literal></binding>
+   <binding name="date"><literal>19591118</literal></binding>
+   <binding name="title"><literal>FOSCHINI ed altri: Disposizioni per la tutela della libertà economica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1812</literal></binding>
+   <binding name="date"><literal>19591211</literal></binding>
+   <binding name="title"><literal>ROMANO ed altri: Inchiesta parlamentare sugli stabilimenti di pena</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>466</literal></binding>
+   <binding name="date"><literal>19581027</literal></binding>
+   <binding name="title"><literal>CAFIERO ed altri: Modificazioni alla legge 12 novembre 1955, n. 1137, sull&#39;avanzamento degli ufficiali dell&#39;Esercito, della Marina e dell&#39;Aeronautica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>663</literal></binding>
+   <binding name="date"><literal>19581204</literal></binding>
+   <binding name="title"><literal>PREZIOSI ed altri: Interpretazione autentica dell&#39;articolo 68 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>797</literal></binding>
+   <binding name="date"><literal>19590123</literal></binding>
+   <binding name="title"><literal>CASALINUOVO ed altri: Introduzione dell&#39;orario unico per i dipendenti dagli Istituti previdenziali ed assistenziali, dagli Istituti di credito, dalle Imprese di assicurazione, dall&#39;Istituto di emissione e dagli Enti di diritto pubblico e dalle Aziende soggette comunque al controllo o vigilanza dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>81</literal></binding>
+   <binding name="date"><literal>19580710</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Provvedimenti per la Lucania</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1384</literal></binding>
+   <binding name="date"><literal>19590630</literal></binding>
+   <binding name="title"><literal>LAURO ed altri: Provvedimenti straordinari per lo sviluppo economico e sociale della città di Napoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1713</literal></binding>
+   <binding name="date"><literal>19591118</literal></binding>
+   <binding name="title"><literal>FOSCHINI ed altri: Norme per l&#39;estensione dell&#39;assicurazione obbligatoria per l&#39;invalidità, la vecchiaia ed i superstiti alle donne casalinghe</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6</literal></binding>
+   <binding name="date"><literal>19580612</literal></binding>
+   <binding name="title"><literal>LAURO ed altri: Trattamento economico-giuridico dei sottufficiali dell&#39;Esercito, della Marina, dell&#39;Aeronautica e dei Corpi della Guardia di finanza, della Pubblica sicurezza, degli Agenti di custodia e del Corpo forestale dello Stato
+</literal></binding>
+  </result>
+ </results>
+</sparql>

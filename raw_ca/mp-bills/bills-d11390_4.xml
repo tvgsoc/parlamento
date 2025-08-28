@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1599</literal></binding>
+   <binding name="date"><literal>19640807</literal></binding>
+   <binding name="title"><literal>D&#39;ONOFRIO ed altri: Riforma dell&#39;ordinamento comunale e provinciale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1036</literal></binding>
+   <binding name="date"><literal>19640227</literal></binding>
+   <binding name="title"><literal>GULLO ed altri: Riesame delle posizioni dei dipendenti dalle pubbliche Amministrazioni che furono arbitrariamente dimissionati, licenziati o comunque allontanati dal servizio e danneggiati nella carriera durante il periodo fascista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1785</literal></binding>
+   <binding name="date"><literal>19641029</literal></binding>
+   <binding name="title"><literal>GAMBELLI FENILI ed altri: Norme per l&#39;ordinamento amministrativo dei servizi del Pio Istituto di Santo Spirito ed Ospedali Riuniti di Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2201</literal></binding>
+   <binding name="date"><literal>19650323</literal></binding>
+   <binding name="title"><literal>PELLEGRINO ed altri: Integrazioni e modificazioni della legislazione a favore dei perseguitati politici italiani antifascisti o razziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2229</literal></binding>
+   <binding name="date"><literal>19650401</literal></binding>
+   <binding name="title"><literal>D&#39;ALESSIO ed altri: Disposizioni in materia di contratti stipulati dall&#39;Opera nazionale per i combattenti per il trasferimento dei poderi a coltivatori assegnatari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4</literal></binding>
+   <binding name="date"><literal>19630516</literal></binding>
+   <binding name="title"><literal>PAJETTA ed altri: Norme per la elezione dei Consigli regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3789</literal></binding>
+   <binding name="date"><literal>19670213</literal></binding>
+   <binding name="title"><literal>VENTUROLI ed altri: Modificazioni all&#39;articolo 14 del decreto legislativo luogotenenziale 21 novembre 1945, n. 722</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4436</literal></binding>
+   <binding name="date"><literal>19671011</literal></binding>
+   <binding name="title"><literal>OLMINI ed altri: Finanziamenti agevolati alle piccole e medie imprese commerciali e agli Enti cooperativi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5</literal></binding>
+   <binding name="date"><literal>19630516</literal></binding>
+   <binding name="title"><literal>LIZZERO ed altri: Norme per la elezione e la convocazione del primo Consiglio regionale del Friuli - Venezia Giulia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>908</literal></binding>
+   <binding name="date"><literal>19640131</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Passaggio in enfiteusi ed affrancazione, a favore dei coltivatori insediati, delle terre condotte con contratti agrari di qualsiasi tipo nel Mezzogiorno, nelle Isole, nel Lazio</literal></binding>
+  </result>
+ </results>
+</sparql>

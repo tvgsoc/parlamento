@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4795</literal></binding>
+   <binding name="date"><literal>20111123</literal></binding>
+   <binding name="title"><literal>VENTUCCI ed altri: &quot;Modifiche alla legge 13 gennaio 1994, n. 43, in materia di disciplina delle cambiali finanziarie, e altre disposizioni concernenti la dematerializzazione delle medesime&quot; (4795)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5295</literal></binding>
+   <binding name="date"><literal>20120619</literal></binding>
+   <binding name="title"><literal>PAPA ed altri: &quot;Modifiche agli articoli 275, 294, 303, 310 e 453 del codice di procedura penale, concernenti la riduzione dei casi e dei termini di durata della custodia cautelare, la composizione del collegio del tribunale del riesame nei giudizi di appello e le garanzie in favore delle persone sottoposte a custodia cautelare, nonché disposizioni per la loro separazione dai soggetti detenuti in carcere per l&#39;esecuzione delle pene&quot; (5295)</literal></binding>
+  </result>
+ </results>
+</sparql>

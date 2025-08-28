@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3594</literal></binding>
+   <binding name="date"><literal>19890201</literal></binding>
+   <binding name="title"><literal>STALLER: Nuove norme sulla revisione delle opere cinematografiche e teatrali e modifica delle norme in materia di atti, pubblicazioni e spettacoli osceni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4062</literal></binding>
+   <binding name="date"><literal>19890704</literal></binding>
+   <binding name="title"><literal>STALLER: Modificazioni ed integrazioni alla legge 26 luglio 1975, n. 354, per la regolamentazione del diritto alla affettività dei detenuti, l&#39;introduzione delle aree miste all&#39;interno delle carceri e la distribuzione gratuita di mezzi contraccezionali ai detenuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4184</literal></binding>
+   <binding name="date"><literal>19890823</literal></binding>
+   <binding name="title"><literal>STALLER: Istituzione dei parchi e degli alberghi dell&#39;amore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4201</literal></binding>
+   <binding name="date"><literal>19890919</literal></binding>
+   <binding name="title"><literal>STALLER: Studio della sessualità nelle scuole della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4390</literal></binding>
+   <binding name="date"><literal>19891204</literal></binding>
+   <binding name="title"><literal>STALLER: Istituzione della tassa ecologica sugli autoveicoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4493</literal></binding>
+   <binding name="date"><literal>19900118</literal></binding>
+   <binding name="title"><literal>STALLER: Istituzione del divieto di fabbricazione, compravendita e propaganda di indumenti in pelliccia e istituzione del divieto di sperimentazione su animali vivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5463</literal></binding>
+   <binding name="date"><literal>19910219</literal></binding>
+   <binding name="title"><literal>STALLER: Norme sull&#39;esercizio della prostituzione e abrogazione della legge 20 febbraio 1958, n. 75</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>426</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FACCIO ed altri: Esclusione della Federazione italiana della caccia dall&#39;elenco delle federazioni aderenti al Comitato olimpico nazionale italiano (CONI)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>427</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FACCIO ed altri: Abolizione degli zoo all&#39;interno dei comuni con più di duecentomila abitanti</literal></binding>
+  </result>
+ </results>
+</sparql>

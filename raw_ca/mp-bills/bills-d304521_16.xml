@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3019</literal></binding>
+   <binding name="date"><literal>20091203</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Modifiche al decreto legislativo 23 luglio 1999, n. 242, per l&#39;adeguamento dell&#39;organizzazione del Comitato olimpico nazionale italiano in senso federalista, regionale e provinciale&quot; (3019)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3266</literal></binding>
+   <binding name="date"><literal>20100303</literal></binding>
+   <binding name="title"><literal>COTA ed altri: &quot;Concessione di un indennizzo ai cittadini italiani militari e civili deportati e internati nei campi di concentramento nazisti e destinati al lavoro coatto&quot; (3266)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3357</literal></binding>
+   <binding name="date"><literal>20100330</literal></binding>
+   <binding name="title"><literal>GOISIS ed altri: &quot;Disposizioni concernenti il sistema dell&#39;istruzione, il governo delle istituzioni scolastiche, il trasferimento delle funzioni amministrative relative al personale della scuola alle regioni, nonché il reclutamento, l&#39;organizzazione e l&#39;inquadramento del personale scolastico nei ruoli regionali e l&#39;istituzione di autonomi livelli di contrattazione collettiva integrativa regionale&quot; (3357)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3391</literal></binding>
+   <binding name="date"><literal>20100413</literal></binding>
+   <binding name="title"><literal>NICOLA MOLTENI ed altri: &quot;Modifiche alla legge 5 giugno 1997, n. 147, concernenti la durata dei trattamenti speciali di disoccupazione in favore dei lavoratori frontalieri italiani in Svizzera rimasti disoccupati a seguito della cessazione del rapporto di lavoro&quot; (3391)</literal></binding>
+  </result>
+ </results>
+</sparql>

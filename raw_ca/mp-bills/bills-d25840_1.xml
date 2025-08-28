@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1383</literal></binding>
+   <binding name="date"><literal>19500622</literal></binding>
+   <binding name="title"><literal>FASCETTI ed altri: Istituzione, in Pisa, della &quot;Domus Mazziniana&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2681</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>FASCETTI e GERMANI: Provvedimenti finanziari per gli Enti di riforma che operano fuori del territorio della Cassa per opere straordinarie di pubblico interesse nell&#39;Italia meridionale (Cassa del Mezzogiorno)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1148</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>REGGIO D&#39;ACI ed altri: Perequazione del trattamento economico al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19500722</literal></binding>
+   <binding name="title"><literal>DONATINI ed altri: Provvidenze per la fabbriceria di Santa Maria del Fiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1995</literal></binding>
+   <binding name="date"><literal>19510612</literal></binding>
+   <binding name="title"><literal>DAMI ed altri: Autorizzazione di spesa per la costruzione dell&#39;autostrada Porrettana (Signorino-Spedaletto)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2050</literal></binding>
+   <binding name="date"><literal>19510626</literal></binding>
+   <binding name="title"><literal>BARTOLE e FASCETTI: Modifica dell&#39;articolo 1 della legge 27 ottobre 1950, n. 910</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2494</literal></binding>
+   <binding name="date"><literal>19520130</literal></binding>
+   <binding name="title"><literal>GENNAI TONIETTI ed altri: Istituzione di una tassa sui minerali nei comuni dell&#39;Isola d&#39;Elba</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2764</literal></binding>
+   <binding name="date"><literal>19520610</literal></binding>
+   <binding name="title"><literal>CHIOSTERGI ed altri: Disposizioni a favore dell&#39;Unione nazionale mutilati per servizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3232</literal></binding>
+   <binding name="date"><literal>19530306</literal></binding>
+   <binding name="title"><literal>TOGNI e FASCETTI: Istituzione della facoltà di economia e commercio, con sezione di lingue e letterature straniere, presso l&#39;Università degli studi di Pisa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3278</literal></binding>
+   <binding name="date"><literal>19530313</literal></binding>
+   <binding name="title"><literal>GENNAI TONIETTI ed altri: Contributo a favore dell&#39;ente per la valorizzazione dell&#39;isola d&#39;Elba</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3302</literal></binding>
+   <binding name="date"><literal>19530327</literal></binding>
+   <binding name="title"><literal>TOGNI e FASCETTI: Aumento del contributo annuo per il funzionamento della &quot;Domus Galilaeana&quot; di Pisa</literal></binding>
+  </result>
+ </results>
+</sparql>

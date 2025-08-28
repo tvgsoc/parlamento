@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4245</literal></binding>
+   <binding name="date"><literal>20170124</literal></binding>
+   <binding name="title"><literal>VITO: &quot;Disposizioni per la tutela del personale delle Forze armate e di polizia e del Corpo nazionale dei vigili del fuoco&quot; (4245)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3958</literal></binding>
+   <binding name="date"><literal>20160630</literal></binding>
+   <binding name="title"><literal>VITO e CENTEMERO: &quot;Disposizioni in materia di organizzazione e funzioni dei corpi e dei servizi di polizia locale e di inquadramento del personale da essi dipendente&quot; (3958)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4243</literal></binding>
+   <binding name="date"><literal>20170124</literal></binding>
+   <binding name="title"><literal>CIRIELLI e VITO: &quot;Disposizioni concernenti la tutela assicurativa per infortuni e malattie del personale del comparto sicurezza e difesa&quot; (4243)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1037</literal></binding>
+   <binding name="date"><literal>20130522</literal></binding>
+   <binding name="title"><literal>GIAMMANCO ed altri: &quot;Norme in materia di videosorveglianza negli asili nido e nelle scuole dell&#39;infanzia nonché presso le strutture socio-assistenziali per anziani, disabili e minori in situazione di disagio&quot; (1037)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3629</literal></binding>
+   <binding name="date"><literal>20160224</literal></binding>
+   <binding name="title"><literal>DE GIROLAMO: &quot;Norme in materia di videosorveglianza negli asili nido e nelle scuole dell&#39;infanzia nonché presso le strutture socio-assistenziali per anziani, disabili e minori in situazione di disagio e altre disposizioni in materia di requisiti di idoneità psico-attitudinale del personale scolastico e sanitario&quot; (3629)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4581</literal></binding>
+   <binding name="date"><literal>20170710</literal></binding>
+   <binding name="title"><literal>BERGAMINI: &quot;Introduzione dell&#39;articolo 172-bis del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, concernente l&#39;obbligo di installazione di dispositivi per prevenire l&#39;abbandono di bambini e animali nei veicoli chiusi&quot; (4581)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3499</literal></binding>
+   <binding name="date"><literal>20151216</literal></binding>
+   <binding name="title"><literal>BRUNETTA ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sullo stato del sistema bancario italiano e sui casi di crisi verificatisi dal 1° gennaio 1999, in connessione con l&#39;inizio dell&#39;operatività in strumenti finanziari denominati in euro&quot; (3499)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3427</literal></binding>
+   <binding name="date"><literal>20151113</literal></binding>
+   <binding name="title"><literal>GELMINI: &quot;Modifica all&#39;articolo 52 del codice penale, in materia di difesa legittima&quot; (3427)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4327</literal></binding>
+   <binding name="date"><literal>20170223</literal></binding>
+   <binding name="title"><literal>BRUNETTA ed altri: &quot;Modifiche al testo unico di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di elezione della Camera dei deputati, al testo unico di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di elezione del Senato della Repubblica, e alla legge 27 dicembre 2001, n. 459, in materia di diritto di voto dei cittadini italiani residenti all&#39;estero, nonché delega al Governo per la determinazione dei collegi circoscrizionali e uninominali&quot; (4327)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3443</literal></binding>
+   <binding name="date"><literal>20151120</literal></binding>
+   <binding name="title"><literal>GREGORIO FONTANA ed altri: &quot;Modifiche all&#39;articolo 11 del decreto-legge 21 marzo 1978, n. 59, convertito, con modificazioni, dalla legge 18 maggio 1978, n. 191, concernenti la durata del fermo per l&#39;accertamento dell&#39;identità personale da parte degli organi di pubblica sicurezza&quot; (3443)</literal></binding>
+  </result>
+ </results>
+</sparql>

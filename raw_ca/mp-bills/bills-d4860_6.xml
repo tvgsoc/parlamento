@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1112</literal></binding>
+   <binding name="date"><literal>19721107</literal></binding>
+   <binding name="title"><literal>QUERCI ed altri: Soppressione del ruolo aiutanti ufficiali giudiziari ed inquadramento degli stessi nel ruolo degli ufficiali giudiziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>452</literal></binding>
+   <binding name="date"><literal>19720710</literal></binding>
+   <binding name="title"><literal>QUERCI ed altri: Esclusione dei rivenditori professionali della stampa periodica e dei librai dalla responsabilità derivante dagli articoli 526 e 725 del codice penale e dagli articoli 14 e 15 della legge 8 febbraio 1948, n. 47</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1946</literal></binding>
+   <binding name="date"><literal>19730329</literal></binding>
+   <binding name="title"><literal>LA BELLA ed altri: Modifiche e integrazioni al decreto-legge 1° aprile 1971, n. 119, convertito, con modificazioni, nella legge 26 maggio 1971, n. 288, concernente provvidenze a favore delle popolazioni dei comuni colpiti dal terremoto del febbraio 1971 in provincia di Viterbo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2628</literal></binding>
+   <binding name="date"><literal>19731220</literal></binding>
+   <binding name="title"><literal>CONCAS ed altri: Soppressione dell&#39;ente &quot;Gioventù italiana&quot; e trasferimento delle attività del patrimonio e del personale alle regioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2631</literal></binding>
+   <binding name="date"><literal>19731220</literal></binding>
+   <binding name="title"><literal>IANNIELLO ed altri: Norme a favore dei dipendenti dell&#39;Azienda delle ferrovie dello Stato in servizio durante il periodo 1940-1945</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3193</literal></binding>
+   <binding name="date"><literal>19740810</literal></binding>
+   <binding name="title"><literal>MERLI ed altri: Norme per la tutela delle acque dall&#39;inquinamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3197</literal></binding>
+   <binding name="date"><literal>19740810</literal></binding>
+   <binding name="title"><literal>VINEIS ed altri: Integrazioni della legge 2 maggio 1974, n. 195, sul contributo dello Stato al finanziamento dei partiti politici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4034</literal></binding>
+   <binding name="date"><literal>19751003</literal></binding>
+   <binding name="title"><literal>ARTALI ed altri: Modifiche alla legge 15 dicembre 1972, n. 772, recante norme per il riconoscimento dell&#39;obiezione di coscienza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4106</literal></binding>
+   <binding name="date"><literal>19751111</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Norme per lo snellimento delle procedure in materia di esecuzione di opere pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>836</literal></binding>
+   <binding name="date"><literal>19721003</literal></binding>
+   <binding name="title"><literal>BERTOLDI ed altri: Modificazione dell&#39;articolo 269 del codice di procedura penale concernente la scarcerazione ordinata dal giudice istruttore o dal pretore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>937</literal></binding>
+   <binding name="date"><literal>19721013</literal></binding>
+   <binding name="title"><literal>VAGHI ed altri: Riconoscimenti combattentistici in favore dei ferrovieri in servizio durante la guerra 1940-45</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,16 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4415</literal></binding>
+   <binding name="date"><literal>19870205</literal></binding>
+   <binding name="title"><literal>MIGLIASSO ed altri: Adeguamento delle indennità di accompagnamento dei ciechi assoluti e degli invalidi civili totalmente inabili secondo quanto previsto dal comma 2 dell&#39;articolo 1 della legge 6 ottobre 1986, n. 656, di modifica ed integrazioni alla normativa sulle pensioni di guerra</literal></binding>
+  </result>
+ </results>
+</sparql>

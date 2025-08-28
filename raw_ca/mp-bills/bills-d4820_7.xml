@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1123</literal></binding>
+   <binding name="date"><literal>19770209</literal></binding>
+   <binding name="title"><literal>PRINCIPE e MANCINI: Norme per l&#39;iscrizione degli studenti della libera università di Catanzaro presso la facoltà di giurisprudenza, scienze politiche e magistero, statali e riconosciute dallo Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1210</literal></binding>
+   <binding name="date"><literal>19770301</literal></binding>
+   <binding name="title"><literal>PRINCIPE e MANCINI: Provvedimenti integrativi delle provvidenze disposte in favore della Regione Calabria con decreto-legge 22 gennaio 1973, n. 2, convertito, con modifiche, nella legge 23 marzo 1973, n. 36, per interventi urgenti nei settori delle infrastrutture civili e della difesa degli abitati colpiti da calamità naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>726</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>PRINCIPE ed altri: Riordinamento dei compiti e delle strutture del Corpo forestale dello Stato e dell&#39;Azienda di Stato per le foreste demaniali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1066</literal></binding>
+   <binding name="date"><literal>19770126</literal></binding>
+   <binding name="title"><literal>CAPRIA ed altri: Istituzione dell&#39;Ente chimico italiano (ECHIMIT)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1205</literal></binding>
+   <binding name="date"><literal>19770224</literal></binding>
+   <binding name="title"><literal>SIGNORILE ed altri: Modifiche all&#39;ordinamento delle Casse di risparmio e dei Monti di credito su pegno di I categoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1333</literal></binding>
+   <binding name="date"><literal>19770404</literal></binding>
+   <binding name="title"><literal>CAPRIA ed altri: Costituzione dell&#39;Ente di gestione delle partecipazioni pubbliche nella Montedison</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1154</literal></binding>
+   <binding name="date"><literal>19770216</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sulla illiceità di alcune forme di discriminazione basate sul sesso e sullo stato civile e per la promozione della parità di condizioni tra uomini e donne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>26</literal></binding>
+   <binding name="date"><literal>19760705</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sull&#39;interruzione della gravidanza</literal></binding>
+  </result>
+ </results>
+</sparql>

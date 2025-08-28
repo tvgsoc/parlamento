@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1056</literal></binding>
+   <binding name="date"><literal>19770124</literal></binding>
+   <binding name="title"><literal>GORLA ed altri: Abrogazione di norme restrittive dei diritti dei cittadini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2490</literal></binding>
+   <binding name="date"><literal>19781023</literal></binding>
+   <binding name="title"><literal>GORLA e PINTO: Istituzione di una Commissione parlamentare d&#39;inchiesta sulle vicende che hanno portato alla morte dell&#39;onorevole Aldo Moro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2517</literal></binding>
+   <binding name="date"><literal>19781108</literal></binding>
+   <binding name="title"><literal>GORLA e PINTO: Attribuzione alle regioni e alle province autonome di Trento e di Bolzano della podestà di acquistare direttamente dalle industrie produttrici i medicinali necessari all&#39;assistenza della popolazione residente nel territorio di loro competenza, e di distribuirli tramite le strutture sanitarie pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2779</literal></binding>
+   <binding name="date"><literal>19790313</literal></binding>
+   <binding name="title"><literal>GORLA e PINTO: Abrogazione dell&#39;articolo 7 e modifiche ed integrazioni all&#39;articolo 8 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>769</literal></binding>
+   <binding name="date"><literal>19761116</literal></binding>
+   <binding name="title"><literal>GORLA e CASTELLINA: Abolizione dell&#39;ergastolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1105</literal></binding>
+   <binding name="date"><literal>19770203</literal></binding>
+   <binding name="title"><literal>GORLA ed altri: Istituzione del Servizio nazionale sanitario e sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1524</literal></binding>
+   <binding name="date"><literal>19770609</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Norme per la tutela sociale della maternità e sull&#39;interruzione volontaria della gravidanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>258</literal></binding>
+   <binding name="date"><literal>19760809</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Commissione d&#39;inchiesta parlamentare sulle cause e conseguenze della sciagura causata il 1° luglio 1976 a Seveso (Milano) per l&#39;inquinamento di dioxina dovuto al cattivo funzionamento di un reattore dello stabilimento della società ICMESA</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2746</literal></binding>
+   <binding name="date"><literal>19790221</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Aumento del contributo annuo disposto a favore dell&#39;Ente autonomo Esposizione triennale internazionale delle arti decorative e industriali moderne e dell&#39;architettura moderna, Triennale di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>625</literal></binding>
+   <binding name="date"><literal>19761019</literal></binding>
+   <binding name="title"><literal>MILANI ed altri: Norme di attuazione della Costituzione sui diritti e i doveri dei cittadini appartenenti alle forze armate e per la costituzione di organismi di rappresentanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>737</literal></binding>
+   <binding name="date"><literal>19761111</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Provvedimenti per la Società Umanitaria Fondazione P. M. Loria di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1656</literal></binding>
+   <binding name="date"><literal>19770719</literal></binding>
+   <binding name="title"><literal>CASTELLINA ed altri: Delega al Presidente della Repubblica per la concessione di amnistia e di indulto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>227</literal></binding>
+   <binding name="date"><literal>19760802</literal></binding>
+   <binding name="title"><literal>BONINO ed altri: Provvedimenti per l&#39;interruzione della gravidanza in casi di intossicazione dipendente dalla nube di gas fuoriuscita dalla ditta ICMESA nel comune di Seveso (Milano)</literal></binding>
+  </result>
+ </results>
+</sparql>

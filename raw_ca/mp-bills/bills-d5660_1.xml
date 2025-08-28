@@ -1,0 +1,130 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>152</literal></binding>
+   <binding name="date"><literal>19481029</literal></binding>
+   <binding name="title"><literal>SULLO: Ricostituzione del comune di Cesinali in provincia di Avellino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2043</literal></binding>
+   <binding name="date"><literal>19510621</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Agevolazioni fiscali per opere concesse dalla Cassa per il Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2263</literal></binding>
+   <binding name="date"><literal>19511026</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Nuove norme per la disciplina della costruzione dei campi sportivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2327</literal></binding>
+   <binding name="date"><literal>19511121</literal></binding>
+   <binding name="title"><literal>SULLO: Modificazioni dell&#39;articolo 14 della legge 12 aprile 1949, n. 419</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2405</literal></binding>
+   <binding name="date"><literal>19511211</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Norme integrative della legge 3 agosto 1949, n. 589, sulla esecuzione di opere pubbliche di interesse degli Enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2626</literal></binding>
+   <binding name="date"><literal>19520326</literal></binding>
+   <binding name="title"><literal>SULLO: Ampliamento del comprensorio di attività dell&#39;Ente per l&#39;irrigazione in Puglia e Lucania</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2818</literal></binding>
+   <binding name="date"><literal>19520709</literal></binding>
+   <binding name="title"><literal>SULLO: Modificazioni alla legge 16 novembre 1950, n. 979, sulle promozioni per merito di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3201</literal></binding>
+   <binding name="date"><literal>19530219</literal></binding>
+   <binding name="title"><literal>SULLO: Modifiche al decreto legislativo del Capo provvisorio dello Stato 29 luglio 1947, n. 919</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>869</literal></binding>
+   <binding name="date"><literal>19491030</literal></binding>
+   <binding name="title"><literal>SULLO: Modificazioni del decreto legislativo del Capo provvisorio dello Stato 8 novembre 1947, n. 1596, relativo all&#39;acquedotto dell&#39;Alta Irpinia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2026</literal></binding>
+   <binding name="date"><literal>19510613</literal></binding>
+   <binding name="title"><literal>FANFANI ed altri: Miglioramento del trattamento economico ai lavoratori dei cantieri scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>238</literal></binding>
+   <binding name="date"><literal>19481216</literal></binding>
+   <binding name="title"><literal>PETRILLI ed altri: Miglioramenti provvisori ai pensionati civili e militari dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2823</literal></binding>
+   <binding name="date"><literal>19520710</literal></binding>
+   <binding name="title"><literal>PALENZONA e SULLO: Norme concernenti l&#39;obbligo di corrispondere le retribuzioni ai lavoratori a mezzo di prospetti di paga</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2946</literal></binding>
+   <binding name="date"><literal>19521014</literal></binding>
+   <binding name="title"><literal>BELLONI ed altri: Disciplina della odontoiatria e dell&#39;arte ausiliaria dell&#39;odontotecnica in difesa della salute pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3051</literal></binding>
+   <binding name="date"><literal>19521206</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Istituzione dell&#39;Opera nazionale per la gioventù</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3204</literal></binding>
+   <binding name="date"><literal>19530224</literal></binding>
+   <binding name="title"><literal>FABRIANI ed altri: Prolungamento da tre a cinque anni dei termini stabiliti dall&#39;articolo 5 del decreto legislativo 14 dicembre 1947, n. 1598</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3230</literal></binding>
+   <binding name="date"><literal>19530305</literal></binding>
+   <binding name="title"><literal>PAGANELLI ed altri: Iscrizione, in un ruolo transitorio, degli insegnanti non di ruolo di educazione fisica, muniti del diploma di abilitazione ai sensi della legge 3 giugno 1950, n. 415</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>367</literal></binding>
+   <binding name="date"><literal>19490223</literal></binding>
+   <binding name="title"><literal>CAPPUGI ed altri: Concessione di un acconto ai dipendenti statali su futuri miglioramenti economici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>864</literal></binding>
+   <binding name="date"><literal>19491029</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Estensione all&#39;Ente Autonomo &quot;Mostra d&#39;oltremare e del lavoro italiano nel mondo&quot; dell&#39;articolo 27 della legge 26 ottobre 1940, n. 1543, concernente ricostruzione di beni immobili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>889</literal></binding>
+   <binding name="date"><literal>19491114</literal></binding>
+   <binding name="title"><literal>FABRIANI ed altri: Efficacia delle norme del decreto-legge luogotenenziale 20 marzo 1945, n. 212, sugli atti privati non registrati, di cui al regio decreto-legge 27 settembre 1941, n. 1015</literal></binding>
+  </result>
+ </results>
+</sparql>

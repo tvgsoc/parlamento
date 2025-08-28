@@ -1,0 +1,340 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2499</literal></binding>
+   <binding name="date"><literal>19930401</literal></binding>
+   <binding name="title"><literal>GUIDI ed altri: Modifiche alla legge 2 aprile 1980, n. 123, recante norme per l&#39;erogazione di contributi statali ad enti culturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2676</literal></binding>
+   <binding name="date"><literal>19930518</literal></binding>
+   <binding name="title"><literal>GUIDI ed altri: Istituzione della lotteria del Fiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2809</literal></binding>
+   <binding name="date"><literal>19930617</literal></binding>
+   <binding name="title"><literal>GUIDI ed altri: Norme per il trasferimento ai rispettivi comuni di appartenenza degli Istituti di educazione femminili denominati &quot;Conservatori della Toscana&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3274</literal></binding>
+   <binding name="date"><literal>19931021</literal></binding>
+   <binding name="title"><literal>GUIDI e LONGO: Autonomia amministrativa delle biblioteche pubbliche statali e degli archivi di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1036</literal></binding>
+   <binding name="date"><literal>19920617</literal></binding>
+   <binding name="title"><literal>FELISSARI ed altri: Norme per lo sviluppo dei territori montani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1094</literal></binding>
+   <binding name="date"><literal>19920624</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Provvedimenti straordinari per la protezione dell&#39;ozonosfera. Norme per la raccolta, il riciclo e lo smaltimento delle sostanze dannose e per l&#39;informazione e la tutela dei consumatori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1095</literal></binding>
+   <binding name="date"><literal>19920524</literal></binding>
+   <binding name="title"><literal>RUTELLI ed altri: Provvedimenti straordinari per la protezione dell&#39;ozonosfera. Individuazione delle sostanze dannose e termini per la cessazione della loro produzione, importazione, commercializzazione e utilizzazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1122</literal></binding>
+   <binding name="date"><literal>19920625</literal></binding>
+   <binding name="title"><literal>MASINI ed altri: Istituzione delle graduatorie permanenti relative ai concorsi per titoli ed esami del personale della scuola e nuove norme in materia di passaggi di cattedra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1126</literal></binding>
+   <binding name="date"><literal>19920625</literal></binding>
+   <binding name="title"><literal>MASINI ed altri: Legge quadro per l&#39;edilizia scolastica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1138</literal></binding>
+   <binding name="date"><literal>19920625</literal></binding>
+   <binding name="title"><literal>MATULLI ed altri: Istituzione in Firenze dell&#39;Istituto per lo studio del medioevo latino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1142</literal></binding>
+   <binding name="date"><literal>19920625</literal></binding>
+   <binding name="title"><literal>MASINI ed altri: Abrogazione del comma 5 dell&#39;articolo 9 della legge 5 giugno 1990, n. 148,concernente la sostituzione dei docenti delle scuole elementari assenti per periodi inferiori a cinque giorni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1168</literal></binding>
+   <binding name="date"><literal>19920701</literal></binding>
+   <binding name="title"><literal>CACCAVARI ed altri: Norme di riordino del settore termale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1293</literal></binding>
+   <binding name="date"><literal>19920714</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Modificazioni all&#39;articolo 11 della legge 30 dicembre 1991, n. 413, in materia di regime fiscale delle plusvalenze relative a cessioni di terreni nel corso o a seguito di procedimenti espropriativi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1311</literal></binding>
+   <binding name="date"><literal>19920715</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Statuto dei diritti del cittadino. Tutela dei diritti dei consumatori e degli utenti. Costituzione dell&#39;Istituto nazionale per il consumo e norme per il diritto di informazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1322</literal></binding>
+   <binding name="date"><literal>19920716</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Norme a tutela del consumatore contro le clausole inique o vessatorie inserite nei contratti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1585</literal></binding>
+   <binding name="date"><literal>19920921</literal></binding>
+   <binding name="title"><literal>TARADASH ed altri: Modifiche alla legge 5 giugno 1990, n. 135, in materia di provvedimenti per i malati terminali di AIDS nelle carceri e per l&#39;assistenza alle persone affette da AIDS</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1624</literal></binding>
+   <binding name="date"><literal>19920928</literal></binding>
+   <binding name="title"><literal>MATTIOLI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Integrazione dell&#39;articolo 9 della Costituzione in tema di tutela dell&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1640</literal></binding>
+   <binding name="date"><literal>19920929</literal></binding>
+   <binding name="title"><literal>BERTEZZOLO ed altri: Istituzione di una Commissione parlamentare di inchiesta sull&#39;attuazione della legge 26 febbraio 1987, n. 49, recante nuova disciplina della cooperazione dell&#39;Italia con i paesi in via di sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1671</literal></binding>
+   <binding name="date"><literal>19921002</literal></binding>
+   <binding name="title"><literal>SANGIORGIO ed altri: Norme in materia di autonomia delle università e degli enti di ricerca</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1768</literal></binding>
+   <binding name="date"><literal>19921022</literal></binding>
+   <binding name="title"><literal>VITI ed altri: Ordinamento delle professioni di archeologo, di storico dell&#39;arte, di archivista storico-scientifico e di bibliotecario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>179</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>ARTIOLI ed altri: Disciplina della informazione sessuale nelle scuole statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1868</literal></binding>
+   <binding name="date"><literal>19921110</literal></binding>
+   <binding name="title"><literal>ALVETI ed altri: Disciplina delle società sportive dilettantistiche e degli enti di promozione sportiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2080</literal></binding>
+   <binding name="date"><literal>19921229</literal></binding>
+   <binding name="title"><literal>PECORARO SCANIO ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta per l&#39;accertamento degli illeciti arricchimenti conseguiti da titolari di cariche elettive e direttive, nonchè per la conseguente formulazione di proposte per la devoluzione allo Stato dei patrimoni di non giustificata provenienza e per la repressione delle associazioni a delinquere di tipo politico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2216</literal></binding>
+   <binding name="date"><literal>19930205</literal></binding>
+   <binding name="title"><literal>FINOCCHIARO ed altri: Concessione di indulto per le pene relative a reati commessi con finalità di terrorismo e di eversione dell&#39;ordinamento costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2265</literal></binding>
+   <binding name="date"><literal>19930217</literal></binding>
+   <binding name="title"><literal>PISCITELLO ed altri: Abolizione della pena di morte nel codice penale militare di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2387</literal></binding>
+   <binding name="date"><literal>19930311</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Modifiche al decreto legislativo 25 gennaio 1992, n. 74, in materia di pubblicità ingannevole e norme a tutela degli interessi dei consumatori e degli utenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2388</literal></binding>
+   <binding name="date"><literal>19930311</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Norme sulla pubblicità comparativa a tutela del consumatore e della corretta concorrenza tra le imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2389</literal></binding>
+   <binding name="date"><literal>19930311</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Norme per la rappresentanza in giudizio delle associazioni di tutela dei consumatori e degli utenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2399</literal></binding>
+   <binding name="date"><literal>19930316</literal></binding>
+   <binding name="title"><literal>BATTAGLIA ed altri: Norme per il collocamento al lavoro delle persone handicappate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2402</literal></binding>
+   <binding name="date"><literal>19930317</literal></binding>
+   <binding name="title"><literal>DI PRISCO ed altri: Istituzione degli istituti superiori di formazione e ricerca e norme in materia di riordinamento dell&#39;istituzione artistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2446</literal></binding>
+   <binding name="date"><literal>19930323</literal></binding>
+   <binding name="title"><literal>MELILLA ed altri: Modifica dell&#39;articolo 11 del decreto-legge 11 luglio 1992, n. 333, convertito, con modificazioni, dalla legge 8 agosto 1992, n. 359, in materia di locazione di immobili urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2447</literal></binding>
+   <binding name="date"><literal>19930323</literal></binding>
+   <binding name="title"><literal>MELILLA ed altri: Misure urgenti per fronteggiare l&#39;emergenza abitativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2493</literal></binding>
+   <binding name="date"><literal>19930401</literal></binding>
+   <binding name="title"><literal>INNOCENTI ed altri: Disposizioni urgenti a favore delle imprese di trasporto a fune</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2500</literal></binding>
+   <binding name="date"><literal>19930401</literal></binding>
+   <binding name="title"><literal>GIANNOTTI ed altri: Disposizioni per la soppressione dei ticket e per la razionalizzazione della spesa sanitaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2561</literal></binding>
+   <binding name="date"><literal>19930422</literal></binding>
+   <binding name="title"><literal>MARGUTTI ed altri: Depenalizzazione di reati contravvenzionali commessi da pubblici amministratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2674</literal></binding>
+   <binding name="date"><literal>19930518</literal></binding>
+   <binding name="title"><literal>CRIPPA ed altri: Nuove norme sugli organismi di rappresentanza militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2694</literal></binding>
+   <binding name="date"><literal>19930521</literal></binding>
+   <binding name="title"><literal>MASINI ed altri: Modifiche al decreto-legge 6 agosto 1988, n. 323, convertito, con modificazioni, dalla legge 6 ottobre 1988, n. 426, in materia di istituzioni scolastiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2746</literal></binding>
+   <binding name="date"><literal>19930608</literal></binding>
+   <binding name="title"><literal>CAMPATELLI ed altri: Norme sulla compensazione di crediti vantati da imprese nei confronti dell&#39;Ente partecipazioni e finanziamento industria manifatturiera (EFIM) e delle società partecipate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2753</literal></binding>
+   <binding name="date"><literal>19930608</literal></binding>
+   <binding name="title"><literal>CAMPATELLI ed altri: Contributo straordinario a sostegno della regione Toscana colpita dagli eventi calamitosi dei mesi di ottobre e novembre 1992</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2754</literal></binding>
+   <binding name="date"><literal>19930608</literal></binding>
+   <binding name="title"><literal>CAMPATELLI ed altri: Norme in materia di accordi mutualistici contrattuali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2980</literal></binding>
+   <binding name="date"><literal>19930727</literal></binding>
+   <binding name="title"><literal>CIONI ed altri: Divieto di appartenenza ad associazioni operanti in modo occulto o clandestino per i pubblici dipendenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3013</literal></binding>
+   <binding name="date"><literal>19930804</literal></binding>
+   <binding name="title"><literal>INGRAO ed altri: Norme a favore dei volontari feriti o caduti nei territori della ex-Jugoslavia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3035</literal></binding>
+   <binding name="date"><literal>19930805</literal></binding>
+   <binding name="title"><literal>BATTAGLIA ed altri: Nuove norme sulla mutualità volontaria integrativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3323</literal></binding>
+   <binding name="date"><literal>19931109</literal></binding>
+   <binding name="title"><literal>NARDONE ed altri: Istituzione della Soprintendenza per i beni ambientali, architettonici, artistici e storici per le province di Avellino e Benevento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3324</literal></binding>
+   <binding name="date"><literal>19931109</literal></binding>
+   <binding name="title"><literal>NARDONE ed altri: Istituzione della Soprintendenza archeologica di Avellino e Benevento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3357</literal></binding>
+   <binding name="date"><literal>19931119</literal></binding>
+   <binding name="title"><literal>CIONI ed altri: Modifiche alla legge 30 luglio 1990, n. 217, recante norme per l&#39;istituzione del patrocinio a spese dello Stato per i non abbienti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3379</literal></binding>
+   <binding name="date"><literal>19931124</literal></binding>
+   <binding name="title"><literal>GIANNOTTI ed altri: Norme in materia di esercizio da parte delle regioni delle competenze in campo ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3477</literal></binding>
+   <binding name="date"><literal>19931214</literal></binding>
+   <binding name="title"><literal>DE SIMONE ed altri: Modifiche alla legge 26 luglio 1975, n. 354, in materia di trattamento penitenziario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3531</literal></binding>
+   <binding name="date"><literal>19931222</literal></binding>
+   <binding name="title"><literal>ALVETI ed altri: Norme per il recupero e la valorizzazione culturale del patrimonio storico-archeologico-artistico della &quot;terra di Saturno&quot; e dei territori sede delle mura ciclopiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>354</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>MASINI ed altri: Norme per lo sviluppo e la qualificazione degli asili nido</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>355</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>MASINI ed altri: Norme per lo sviluppo della scuola dell&#39;infanzia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3605</literal></binding>
+   <binding name="date"><literal>19940112</literal></binding>
+   <binding name="title"><literal>INNOCENTI ed altri: Istituzione del Servizio cartografico nazionale e dell&#39;Istituto geograficonazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>362</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>SANGIORGIO ed altri: Norme per la scolarizzazione delle bambine e dei bambini Rom, Sinti e delle minoranze etniche nomadi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>363</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>SANGIORGIO ed altri: Legge quadro di riordino degli strumenti di politica attiva del lavoro e di formazione professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>504</literal></binding>
+   <binding name="date"><literal>19920430</literal></binding>
+   <binding name="title"><literal>STRADA ed altri: Norme per la tutela dei diritti dei consumatori e degli utenti e istituzioni di organismi di garanzia</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1079</literal></binding>
+   <binding name="date"><literal>19500209</literal></binding>
+   <binding name="title"><literal>AMENDOLA: Costituzione in comune autonomo della frazione di Dugenta del comune di Melizzano, in provincia di Benevento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1134</literal></binding>
+   <binding name="date"><literal>19500304</literal></binding>
+   <binding name="title"><literal>GRIFONE ed altri: Proroga delle vigenti disposizioni in materia di affittanza agraria e riduzione dei canoni in natura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1419</literal></binding>
+   <binding name="date"><literal>19500705</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Norme interpretative dell&#39;articolo 1 della legge 18 aprile 1950, n. 199, sulla concessione di terreni incolti ai contadini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2040</literal></binding>
+   <binding name="date"><literal>19510620</literal></binding>
+   <binding name="title"><literal>PERLINGIERI ed altri: Concessione di una pensione straordinaria alla vedova di Arnaldo Lucci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2116</literal></binding>
+   <binding name="date"><literal>19510801</literal></binding>
+   <binding name="title"><literal>PINO ed altri: Modifica delle disposizioni sulla assicurazione contro la disoccupazione involontaria, disciplinate dal regio decreto legge 4 ottobre 1935, n. 1827, convertito nella legge 6 aprile 1936, n. 1155</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2370</literal></binding>
+   <binding name="date"><literal>19511130</literal></binding>
+   <binding name="title"><literal>CERABONA ed altri: Norme su la revisione dei  redditi diminuiti in seguito agli eventi naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2683</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Estensione ai mezzadri, coloni parziari e compartecipanti familiari, dell&#39;assicurazione obbligatoria per l&#39;invalidità, la vecchiaia e superstiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2684</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>CAPALOZZA ed altri: Norme interpretative ed integrative dell&#39;articolo 2161 e dell&#39;articolo 2163, n. 1, del codice civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3179</literal></binding>
+   <binding name="date"><literal>19530205</literal></binding>
+   <binding name="title"><literal>GRIFONE ed altri: Disciplina dei canoni d&#39;affitto di fondi rustici con corrispettivo in canapa</literal></binding>
+  </result>
+ </results>
+</sparql>

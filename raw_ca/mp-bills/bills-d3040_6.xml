@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2074</literal></binding>
+   <binding name="date"><literal>19730427</literal></binding>
+   <binding name="title"><literal>GUADALUPI: Norme interpretative della legge 27 giugno 1961, n. 550, sulla valutazione, ai fini del trattamento di quiescenza, dei servizi resi dai militari delle categorie in congedo nelle forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3576</literal></binding>
+   <binding name="date"><literal>19750311</literal></binding>
+   <binding name="title"><literal>GUADALUPI: Ristrutturazione del Servizio informazioni difesa (SID)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3892</literal></binding>
+   <binding name="date"><literal>19750708</literal></binding>
+   <binding name="title"><literal>GUADALUPI ed altri: Interpretazione autentica dell&#39;articolo 6 della legge 20 dicembre 1973, n. 824, concernente norme sugli ufficiali di complemento e della riserva di complemento e sui sottufficiali di complemento e della riserva richiamati o trattenuti in servizio per lunghi periodi di tempo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>574</literal></binding>
+   <binding name="date"><literal>19720727</literal></binding>
+   <binding name="title"><literal>GUADALUPI ed altri: Istituzione della corte d&#39;assise di primo grado a Brindisi e Taranto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2440</literal></binding>
+   <binding name="date"><literal>19731026</literal></binding>
+   <binding name="title"><literal>LETTIERI ed altri: Adeguamento dell&#39;indennità per servizio di istituto a favore dei sottufficiali, delle guardie scelte e delle guardie del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2628</literal></binding>
+   <binding name="date"><literal>19731220</literal></binding>
+   <binding name="title"><literal>CONCAS ed altri: Soppressione dell&#39;ente &quot;Gioventù italiana&quot; e trasferimento delle attività del patrimonio e del personale alle regioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>665</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>GUI ed altri: Statizzazione di scuole per sordomuti, materne, elementari e di istruzione secondaria di primo grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>666</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Disposizioni in materia di assistenza ai sordomuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1881</literal></binding>
+   <binding name="date"><literal>19730316</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Nuove norme per la repressione del traffico di stupefacenti e psicodroghe e per la prevenzione e cura delle tossicomanie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1990</literal></binding>
+   <binding name="date"><literal>19730406</literal></binding>
+   <binding name="title"><literal>ALLOCCA ed altri: Stanziamento di 300 miliardi alla Cassa per il Mezzogiorno</literal></binding>
+  </result>
+ </results>
+</sparql>

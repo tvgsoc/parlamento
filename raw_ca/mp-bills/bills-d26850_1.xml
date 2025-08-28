@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1253</literal></binding>
+   <binding name="date"><literal>19500505</literal></binding>
+   <binding name="title"><literal>GHISLANDI ed altri: Proroga del mantenimento in servizio dei lavoratori reduci e partigiani assunti o riassunti in servizio nelle aziende private</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1566</literal></binding>
+   <binding name="date"><literal>19501005</literal></binding>
+   <binding name="title"><literal>CUTTITTA ed altri: Trattamento di quiescenza e indennità di liquidazione a favore dei sottufficiali e dei militari di truppa dell&#39;Arma dei carabinieri richiamati o trattenuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>182</literal></binding>
+   <binding name="date"><literal>19481125</literal></binding>
+   <binding name="title"><literal>PIERACCINI ed altri: Ordinamento dell&#39;Ente Nazionale Assistenza Lavoratori (E.N.A.L.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2274</literal></binding>
+   <binding name="date"><literal>19511030</literal></binding>
+   <binding name="title"><literal>BASSO ed altri: Sul comportamento delle pubbliche autorità nei confronti del banditismo siciliano e sulle relative cause di natura sociale, economica e politica.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>230</literal></binding>
+   <binding name="date"><literal>19481216</literal></binding>
+   <binding name="title"><literal>SILIPO ed altri: Modificazioni al decreto legislativo del Capo provvisorio dello Stato 24 gennaio 1947, n. 457, per il riordinamento dei Patronati scolastici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2679</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>PESENTI ed altri: Sistemazione dell&#39;Istituto giuridico dell&#39;Università di Parma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>420</literal></binding>
+   <binding name="date"><literal>19490316</literal></binding>
+   <binding name="title"><literal>BOTTONELLI ed altri: Riduzione della ferma ordinaria ed aumento delle paghe ai militari e graduati dell&#39;esercito, marina e aeronautica</literal></binding>
+  </result>
+ </results>
+</sparql>

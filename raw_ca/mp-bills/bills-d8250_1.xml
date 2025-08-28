@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1760</literal></binding>
+   <binding name="date"><literal>19510111</literal></binding>
+   <binding name="title"><literal>FORESI e CIMENTI: Regime tributario degli enti cooperativi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2633</literal></binding>
+   <binding name="date"><literal>19520401</literal></binding>
+   <binding name="title"><literal>FORESI ed altri: Interpretazione autentica delle disposizioni sull&#39;avanzamento in tempo di guerra, per gli ufficiali dell&#39;Esercito</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1148</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>REGGIO D&#39;ACI ed altri: Perequazione del trattamento economico al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>143</literal></binding>
+   <binding name="date"><literal>19481022</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19500722</literal></binding>
+   <binding name="title"><literal>DONATINI ed altri: Provvidenze per la fabbriceria di Santa Maria del Fiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1693</literal></binding>
+   <binding name="date"><literal>19501205</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Disciplina dell&#39;apprendistato, norme per l&#39;istruzione professionale e creazione dell&#39;Istituto nazionale per l&#39;addestramento professionale dei lavoratori (I.N.A.P.L.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1995</literal></binding>
+   <binding name="date"><literal>19510612</literal></binding>
+   <binding name="title"><literal>DAMI ed altri: Autorizzazione di spesa per la costruzione dell&#39;autostrada Porrettana (Signorino-Spedaletto)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>42</literal></binding>
+   <binding name="date"><literal>19480707</literal></binding>
+   <binding name="title"><literal>PASTORE ed altri: Concessione di una pensione straordinaria alla vedova dell&#39;onorevole Achille Grandi</literal></binding>
+  </result>
+ </results>
+</sparql>

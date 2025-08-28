@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5124</literal></binding>
+   <binding name="date"><literal>20040708</literal></binding>
+   <binding name="title"><literal>ROSATO ed altri: &quot;Concessione di un contributo al Collegio del Mondo Unito dell&#39;Adriatico, con sede in Duino&quot; (5124)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5579</literal></binding>
+   <binding name="date"><literal>20050203</literal></binding>
+   <binding name="title"><literal>DUILIO ed altri: &quot;Modifiche all&#39;articolo 110 del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, in materia di gioco&quot; (5579)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5757</literal></binding>
+   <binding name="date"><literal>20050406</literal></binding>
+   <binding name="title"><literal>ROSATO ed altri: &quot;Disposizioni in materia di indennizzo dei beni abbandonati nei territori italiani ceduti alla Jugoslavia&quot; (5757)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5817</literal></binding>
+   <binding name="date"><literal>20050504</literal></binding>
+   <binding name="title"><literal>RUGGERI ed altri: &quot;Contributo per le province in cui sono ubicati gli impianti di produzione di energia elettrica&quot; (5817)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6007</literal></binding>
+   <binding name="date"><literal>20050721</literal></binding>
+   <binding name="title"><literal>RUTA ed altri: &quot;Interventi in favore della ripresa economica delle zone colpite da eventi calamitosi&quot; (6007)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6154</literal></binding>
+   <binding name="date"><literal>20051028</literal></binding>
+   <binding name="title"><literal>SANTINO ADAMO LODDO ed altri: &quot;Istituzione, presso la Presidenza del Consiglio dei ministri, dell&#39;Ufficio per contrastare l&#39;uso di ricambi aeronautici non approvati&quot; (6154)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5470</literal></binding>
+   <binding name="date"><literal>20041202</literal></binding>
+   <binding name="title"><literal>IANNUZZI ed altri: &quot;Disposizioni per il recupero e la valorizzazione dei centri storici&quot; (5470)</literal></binding>
+  </result>
+ </results>
+</sparql>

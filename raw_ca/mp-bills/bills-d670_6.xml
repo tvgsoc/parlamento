@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3935</literal></binding>
+   <binding name="date"><literal>19750717</literal></binding>
+   <binding name="title"><literal>BELUSSI ed altri: Modifica dell&#39;articolo 1 della legge 26 ottobre 1952, n. 1463: &quot;Statizzazione delle scuole elementari per ciechi&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4108</literal></binding>
+   <binding name="date"><literal>19751112</literal></binding>
+   <binding name="title"><literal>BELUSSI ed altri: Norme per l&#39;aggiornamento di alcuni titolo di studio riguardanti la scuola media superiore di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3445</literal></binding>
+   <binding name="date"><literal>19750208</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Modifica dell&#39;articolo 328 del codice penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3525</literal></binding>
+   <binding name="date"><literal>19750227</literal></binding>
+   <binding name="title"><literal>MANCINI ed altri: Nuove norme per l&#39;ordinamento della professione di consulente del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3669</literal></binding>
+   <binding name="date"><literal>19750410</literal></binding>
+   <binding name="title"><literal>CASSANMAGNAGO CERRETTI ed altri: Nuove norme sui minimi dei trattamenti pensionistici per gli handicappati fisici, psichici e sensoriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3928</literal></binding>
+   <binding name="date"><literal>19750715</literal></binding>
+   <binding name="title"><literal>CERVONE ed altri: Riforma dell&#39;ordinamento della scuola secondaria superiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4206</literal></binding>
+   <binding name="date"><literal>19751218</literal></binding>
+   <binding name="title"><literal>ZOLLA ed altri: Aumento del contributo statale in favore della Biblioteca italiana per i ciechi &quot;Regina Margherita&quot; e del &quot;Centro nazionale del libro parlato&quot; dell&#39;Unione italiana ciechi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4386</literal></binding>
+   <binding name="date"><literal>19760318</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Principi fondamentali in materia di formazione professionale</literal></binding>
+  </result>
+ </results>
+</sparql>

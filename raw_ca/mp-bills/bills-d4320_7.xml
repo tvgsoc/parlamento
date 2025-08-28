@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1778</literal></binding>
+   <binding name="date"><literal>19771005</literal></binding>
+   <binding name="title"><literal>NOBERASCO ed altri: Istituzione della Cassa nazionale di previdenza per i liberi professionisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1074</literal></binding>
+   <binding name="date"><literal>19770127</literal></binding>
+   <binding name="title"><literal>BERTANI FOGLI ed altri: Soppressione dell&#39;Ente nazionale di previdenza ed assistenza delle ostetriche (ENPAO) ed equiparazione dei trattamenti previdenziali ed assistenziali a quelli in vigore nell&#39;INPS</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1127</literal></binding>
+   <binding name="date"><literal>19770209</literal></binding>
+   <binding name="title"><literal>GRAMEGNA ed altri: Norme per l&#39;accertamento e la riscossione unificata dei contributi previdenziali ed assistenziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1477</literal></binding>
+   <binding name="date"><literal>19770520</literal></binding>
+   <binding name="title"><literal>ROSOLEN ed altri: Nuove norme sul collocamento obbligatorio presso le pubbliche amministrazioni e le aziende private</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2386</literal></binding>
+   <binding name="date"><literal>19780802</literal></binding>
+   <binding name="title"><literal>ROSOLEN ed altri: Aumento del limite di reddito ai fini del diritto alla pensione sociale nel caso di cumulo con il reddito del coniuge</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>714</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>CHIARANTE ed altri: Principi in materia di formazione professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>820</literal></binding>
+   <binding name="date"><literal>19761124</literal></binding>
+   <binding name="title"><literal>LODOLINI ed altri: Revisione del testo unico delle norme sugli assegni familiari approvato con il decreto del Presidente della Repubblica 30 maggio 1955, n. 797</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>968</literal></binding>
+   <binding name="date"><literal>19761222</literal></binding>
+   <binding name="title"><literal>ZOPPETTI ed altri: Disciplina del rapporto di lavoro e formazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>976</literal></binding>
+   <binding name="date"><literal>19761222</literal></binding>
+   <binding name="title"><literal>GUERRINI ed altri: Interpretazione autentica del terzo comma dell&#39;articolo 17 del decreto-legge 2 marzo 1974, n. 30, come modificato dalla legge di conversione 16 aprile 1974, n. 114</literal></binding>
+  </result>
+ </results>
+</sparql>

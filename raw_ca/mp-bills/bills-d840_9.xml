@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4136</literal></binding>
+   <binding name="date"><literal>19861105</literal></binding>
+   <binding name="title"><literal>BIANCO: Revisione degli articoli 56, 57, 58, 70 e 74 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4356</literal></binding>
+   <binding name="date"><literal>19870122</literal></binding>
+   <binding name="title"><literal>BIANCO: Norme per la ricomposizione del compendio librario dello scienziato Vito Volterra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1639</literal></binding>
+   <binding name="date"><literal>19840430</literal></binding>
+   <binding name="title"><literal>TEODORI ed altri: Norme per la nomina per sorteggio degli scrutatori nelle elezioni politiche e amministrative</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>176</literal></binding>
+   <binding name="date"><literal>19830715</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: Istituzione in Foggia di una sezione distaccata della Corte d&#39;appello di Bari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1876</literal></binding>
+   <binding name="date"><literal>19840705</literal></binding>
+   <binding name="title"><literal>ROCELLI ed altri: Nuovi interventi per la salvaguardia di Venezia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2207</literal></binding>
+   <binding name="date"><literal>19841025</literal></binding>
+   <binding name="title"><literal>LO BELLO ed altri: Modifica dell&#39;articolo 5 della legge 2 febbraio 1939, n. 397, sulla sede dell&#39;Istituto Nazionale del dramma antico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3607</literal></binding>
+   <binding name="date"><literal>19860320</literal></binding>
+   <binding name="title"><literal>DE MITA ed altri: Aiuto pubblico, programmi di cooperazione e interventi di emergenza nei paesi in via di sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4093</literal></binding>
+   <binding name="date"><literal>19861022</literal></binding>
+   <binding name="title"><literal>RICCIUTI ed altri: Integrazione alla legge 13 giugno 1912, n. 555 concernente il riconoscimento della doppia cittadinanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4259</literal></binding>
+   <binding name="date"><literal>19861211</literal></binding>
+   <binding name="title"><literal>GARAVAGLIA ed altri: Conferimento di borse di studio presso l&#39;Istituto superiore per la prevenzione e la sicurezza del lavoro (ISPESL)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2192</literal></binding>
+   <binding name="date"><literal>19841023</literal></binding>
+   <binding name="title"><literal>FORMICA ed altri: Modifiche ed integrazioni alla vigente normativa in materia di pensioni di guerra</literal></binding>
+  </result>
+ </results>
+</sparql>

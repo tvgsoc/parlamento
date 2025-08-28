@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2483</literal></binding>
+   <binding name="date"><literal>19700508</literal></binding>
+   <binding name="title"><literal>CUSUMANO e MUSOTTO: Istituzione di un ufficio distaccato della Corte dei conti e di un ufficio distaccato della Ragioneria generale dello Stato presso l&#39;Ispettorato generale per le zone colpite dai terremoti del gennaio 1968</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2749</literal></binding>
+   <binding name="date"><literal>19701014</literal></binding>
+   <binding name="title"><literal>CUSUMANO: Costruzione di un canale di gronda sul versante meridionale di monte Erice a difesa dell&#39;abitato di Trapani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2428</literal></binding>
+   <binding name="date"><literal>19700417</literal></binding>
+   <binding name="title"><literal>CUSUMANO ed altri: Modifica dell&#39;articolo 3 della legge 5 febbraio 1970, n. 21, concernente provvidenze in favore delle zone della Sicilia colpite dai terremoti del 1967 e del 1968</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2987</literal></binding>
+   <binding name="date"><literal>19710119</literal></binding>
+   <binding name="title"><literal>CUSUMANO: Modifiche ed integrazioni alla legge 5 febbraio 1970, n. 21, concernente provvidenze in favore delle zone della Sicilia colpite dai terremoti del 1967 e del 1968</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1830</literal></binding>
+   <binding name="date"><literal>19690926</literal></binding>
+   <binding name="title"><literal>MONTANTI ed altri: Istituzione di una sezione distaccata di Corte d&#39;appello in Trapani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1979</literal></binding>
+   <binding name="date"><literal>19691030</literal></binding>
+   <binding name="title"><literal>GIOIA ed altri: Integrazioni e modifiche alla legge 14 novembre 1961, n. 1268, concernente la costituzione dell&#39;Ente autonomo del porto di Palermo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3522</literal></binding>
+   <binding name="date"><literal>19710713</literal></binding>
+   <binding name="title"><literal>SCALFARI ed altri: Giudizio di conformità costituzionale delle materie oggetto di referendum abrogativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3685</literal></binding>
+   <binding name="date"><literal>19711014</literal></binding>
+   <binding name="title"><literal>MUSOTTO e CUSUMANO: Istituzione del tribunale penale e civile di Gela</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1136</literal></binding>
+   <binding name="date"><literal>19690304</literal></binding>
+   <binding name="title"><literal>LA LOGGIA ed altri: Disposizioni integrative del decreto-legge 27 febbraio 1968, n. 79, modificato con la legge di conversione 18 marzo 1968, n. 241, e con la legge 29 luglio 1968, n. 858</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2429</literal></binding>
+   <binding name="date"><literal>19700417</literal></binding>
+   <binding name="title"><literal>MATTARELLA e CUSUMANO: Estensione delle provvidenze previste dall&#39;articolo 1 del decreto-legge 27 febbraio 1968, n. 79, convertito, con modificazioni, nella legge 18 marzo 1968, n. 241, al monastero dell&#39;Angelo Custode - Ordine benedettino - di Alcamo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2780</literal></binding>
+   <binding name="date"><literal>19701023</literal></binding>
+   <binding name="title"><literal>BALLARDINI ed altri: Istituzione del servizio civile alternativo del servizio militare per la valle del Belice</literal></binding>
+  </result>
+ </results>
+</sparql>

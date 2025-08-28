@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1482</literal></binding>
+   <binding name="date"><literal>19500721</literal></binding>
+   <binding name="title"><literal>LUPIS ed altri: Denuncia dei beni, diritti ed interessi dei cittadini italiani nei territori sui quali l&#39;Italia e stata privata della sovranità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1664</literal></binding>
+   <binding name="date"><literal>19501122</literal></binding>
+   <binding name="title"><literal>LUPIS: Finanziamenti in pesos a favore dell&#39;emigrazione italiana in Argentina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>490</literal></binding>
+   <binding name="date"><literal>19490411</literal></binding>
+   <binding name="title"><literal>LUPIS: Modifica dell&#39;articolo 1 della legge 1° marzo 1949, n. 51, riguardante i profughi d&#39;Africa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1008</literal></binding>
+   <binding name="date"><literal>19491221</literal></binding>
+   <binding name="title"><literal>CARIGNANI ed altri: Riforma della legge 21 agosto 1912, concernente l&#39;assunzione obbligatoria al lavoro degli invalidi di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1122</literal></binding>
+   <binding name="date"><literal>19500224</literal></binding>
+   <binding name="title"><literal>LECCISO ed altri: Rinnovazione graduale del patrimonio immobiliare dell&#39;Istituto nazionale per le case degli impiegati dello Stato e degli Istituti similari al fine di incrementare le nuove costruzioni, e disciplina di alcuni rapporti fra gli stessi enti e i loro inquilini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1325</literal></binding>
+   <binding name="date"><literal>19500601</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Sulle incompatibilità parlamentari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2456</literal></binding>
+   <binding name="date"><literal>19510115</literal></binding>
+   <binding name="title"><literal>LOPARDI ed altri: Graduatoria del concorso magistrale bandito con ordinanza 2720 del 12 agosto 1950</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3185</literal></binding>
+   <binding name="date"><literal>19530211</literal></binding>
+   <binding name="title"><literal>CARIGNANI ed altri: Provvedimenti a favore degli insegnanti di scuole elementari e medie mutilati ed invalidi di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>999</literal></binding>
+   <binding name="date"><literal>19491219</literal></binding>
+   <binding name="title"><literal>CARIGNANI ed altri: Proroga dei trattamenti assistenziali previsti a favore dei profughi nel Decreto legislativo 19 aprile 1948, n. 556, e nella legge 1° agosto 1949, n. 453</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1318</literal></binding>
+   <binding name="date"><literal>19500531</literal></binding>
+   <binding name="title"><literal>CARIGNANI ed altri: Per l&#39;assistenza e soccorso ai profughi in dipendenza degli eventi bellici</literal></binding>
+  </result>
+ </results>
+</sparql>

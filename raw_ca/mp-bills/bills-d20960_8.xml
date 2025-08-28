@@ -1,0 +1,100 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1791</literal></binding>
+   <binding name="date"><literal>19800512</literal></binding>
+   <binding name="title"><literal>CERQUETTI ed altri: Norme sulla polizia locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4105</literal></binding>
+   <binding name="date"><literal>19830427</literal></binding>
+   <binding name="title"><literal>CERQUETTI ed altri: Norme sulla organizzazione, sulla preparazione e sull&#39;impiego delle forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1819</literal></binding>
+   <binding name="date"><literal>19800625</literal></binding>
+   <binding name="title"><literal>BERNINI ed altri: Norme sull&#39;esportazione e il transito di materiale bellico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2112</literal></binding>
+   <binding name="date"><literal>19801113</literal></binding>
+   <binding name="title"><literal>ZANINI ed altri: Norme per la concessione delle uniformi e di altri oggetti di equipaggiamento agli ufficiali e marescialli delle Forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2293</literal></binding>
+   <binding name="date"><literal>19810129</literal></binding>
+   <binding name="title"><literal>ZANINI ed altri: Norme relative all&#39;istituzione per il 1980 di un quadro suppletivo di avanzamento degli ufficiali dei carabinieri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2519</literal></binding>
+   <binding name="date"><literal>19810408</literal></binding>
+   <binding name="title"><literal>LODOLINI ed altri: Norme per la ristrutturazione del servizio sanitario militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2936</literal></binding>
+   <binding name="date"><literal>19811106</literal></binding>
+   <binding name="title"><literal>MARTORELLI ed altri: Istituzione della Commissione per il personale della magistratura militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3097</literal></binding>
+   <binding name="date"><literal>19820122</literal></binding>
+   <binding name="title"><literal>BARACETTI ed altri: Modifiche e integrazioni alla legge 24 dicembre 1976, n. 898, concernente la nuova regolamentazione delle servitù militari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>710</literal></binding>
+   <binding name="date"><literal>19791010</literal></binding>
+   <binding name="title"><literal>CRAVEDI ed altri: Norme sul trasferimento d&#39;uso di aree demaniali a fini pubblici e sociali e sulla materia di costruzioni militari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>711</literal></binding>
+   <binding name="date"><literal>19791010</literal></binding>
+   <binding name="title"><literal>TESI ed altri: Riforma del servizio militare di leva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>736</literal></binding>
+   <binding name="date"><literal>19791017</literal></binding>
+   <binding name="title"><literal>CRAVEDI ed altri: Norme per la determinazione del fabbisogno edilizio per l&#39;accesso del personale militare alla abitazione nell&#39;ambito del piano decennale per l&#39;edilizia residenziale ed in relazione al programma di alloggi di servizio per gli appartenenti alle Forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>775</literal></binding>
+   <binding name="date"><literal>19791024</literal></binding>
+   <binding name="title"><literal>ANGELINI ed altri: Piano decennale di ristrutturazione e di riconversione degli stabilimenti e degli arsenali militari della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1134</literal></binding>
+   <binding name="date"><literal>19791212</literal></binding>
+   <binding name="title"><literal>MARTORELLI ed altri: Riforma dell&#39;ordinamento giudiziario militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1536</literal></binding>
+   <binding name="date"><literal>19800319</literal></binding>
+   <binding name="title"><literal>MARTORELLI ed altri: Legge penale militare per il tempo di pace</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>686</literal></binding>
+   <binding name="date"><literal>19791009</literal></binding>
+   <binding name="title"><literal>ANGELINI ed altri: Avanzamento dei sottufficiali e degli ufficiali delle forze armate</literal></binding>
+  </result>
+ </results>
+</sparql>

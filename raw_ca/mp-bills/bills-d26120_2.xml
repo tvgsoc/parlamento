@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3247</literal></binding>
+   <binding name="date"><literal>19571025</literal></binding>
+   <binding name="title"><literal>GRECO ed altri: Trattamento economico-giuridico dei sottufficiali dell&#39;Esercito, della Marina, dell&#39;Aeronautica e dei Corpi della guardia di finanza, della pubblica sicurezza, degli agenti di custodia e del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>845</literal></binding>
+   <binding name="date"><literal>19540504</literal></binding>
+   <binding name="title"><literal>GRECO: Promozione dei ferrovieri di ruolo richiamati sotto le armi per la guerra in Africa Orientale Italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19560420</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Provvedimenti a favore dei menomati negli arti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2340</literal></binding>
+   <binding name="date"><literal>19560625</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Modifica dell&#39;articolo 95 del testo unico delle leggi di pubblica sicurezza approvato con regio decreto 18 giugno 1931, n. 773</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>885</literal></binding>
+   <binding name="date"><literal>19540512</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Autorizzazione alla liquidazione della spesa occorsa per la esecuzione dei lavori per il ripristino delle opere dell&#39;Ente Autonomo Mostra d&#39;Oltremare e del Lavoro Italiano nel Mondo, danneggiate dalla guerra</literal></binding>
+  </result>
+ </results>
+</sparql>

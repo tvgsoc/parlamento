@@ -1,0 +1,982 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1939</literal></binding>
+   <binding name="date"><literal>19950131</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Riforma della previdenza in agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1991</literal></binding>
+   <binding name="date"><literal>19950208</literal></binding>
+   <binding name="title"><literal>POLI BORTONE e NAPOLI: Istituzione in Firenze dell&#39;Istituto per lo studio del Medioevo latino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2093</literal></binding>
+   <binding name="date"><literal>19950223</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Disciplina delle &quot;strade del vino&quot; italiano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2159</literal></binding>
+   <binding name="date"><literal>19950307</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Interventi per la ripresa dell&#39;occupazione e delle attività imprenditoriali nei settori della produzione agricola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2160</literal></binding>
+   <binding name="date"><literal>19950307</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Disciplina dei consorzi agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2180</literal></binding>
+   <binding name="date"><literal>19950308</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme per l&#39;istituzione di uffici di statistica presso le amministrazioni e gli enti che fruiscono di contributi pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2181</literal></binding>
+   <binding name="date"><literal>19950308</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme per il trasferimento alle regioni o per l&#39;alienazione degli impiantidi interesse pubblico realizzati in attuazione dell&#39;articolo 10 della legge 27ottobre 1966, n. 910</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2185</literal></binding>
+   <binding name="date"><literal>19950309</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Legge quadro in materia forestale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2186</literal></binding>
+   <binding name="date"><literal>19950309</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Riforma del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2187</literal></binding>
+   <binding name="date"><literal>19950309</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Interventi urgenti per la lotta contro gli incendi boschivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>221</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Modifica all&#39;articolo 15 della legge 30 luglio 1973, n. 477, in materia di collocamento a riposo del personale della scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>222</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Provvedimenti per prevenire la violenza giovanile nello sport</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2228</literal></binding>
+   <binding name="date"><literal>19950314</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme in materia di gestione di ammasso dei prodotti agricoli e campagne di commercializzazione del grano per gli anni 1962-1963 e 1963-1964</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>223</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Ordinamento della professione di statistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>224</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Disciplina delle attività di ingegneria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>225</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Istituzione dell&#39;ora di educazione sociale negli istituti di istruzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>226</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Finanziamenti per il restauro ed il recupero dei &quot;trulli di Alberobello&quot; e della valle dei trulli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>227</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE e MUSSOLINI: Modifica all&#39;articolo 6 del decreto-legge 12 settembre 1983, n. 463, convertito, con modificazioni dalla legge 11 novembre 1983, n. 638, in materia di requisiti reddituali soggettivi per l&#39;integrazione del trattamento minimo pensionistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2272</literal></binding>
+   <binding name="date"><literal>19950323</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Delega al Governo per il riordino delle incentivazioni e delle agevolazioni per il credito in agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>228</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 117 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>229</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE e PARLATO: Norme per la celebrazione del cinquantenario della morte di Filippo Tommaso Marinetti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>230</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Modifica all&#39;articolo 9 del decreto-legge 6 dicembre 1984, n. 807, convertito, con modificazioni, dalla legge 4 febbraio 1985, n. 10, in materia di attività professionale degli avvocati e procuratori della RAI</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>231</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE e PAMPO: Norme concernenti il personale sanitario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>232</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Modifica all&#39;articolo 1 della legge 1° giugno 1939, n. 1089, concernente le opere in cartapesta presenti sul territorio nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>235</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Concessione di un contributo straordinario dello Stato alla fondazione &quot;Ugo Spirito&quot; per la completa catalogazione del patrimonio artistico e bibliografico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2377</literal></binding>
+   <binding name="date"><literal>19950406</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Nuove norme sulla proprietà diretta coltivatrice e riordinamento della Cassa per la formazione della proprietà contadina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>238</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme sullo stato giuridico degli insegnanti della religione cattolica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>239</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Provvedimenti per garantire il minimo vitale per l&#39;infanzia e l&#39;indennità di maternità per le donne che non godano di analoghi trattamenti ad altro titolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>240</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Modifiche alla legge 29 luglio 1975, n. 405, recante istituzione dei consultori familiari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>241</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme in materia di collocamento fuori ruolo dei professori universitari associati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>242</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 58 della Costituzione per l&#39;ampliamento dell&#39;elettorato attivo per la elezione del Senato della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>243</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Istituzione del servizio militare volontario femminile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>244</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Obbligo per le donne di sottoporsi ad esami annuali per la prevenzione delle malattie oncologiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>245</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Norme per la concessione di un assegno mensile quale riconoscimento della funzione sociale ed economica del lavoro casalingo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>246</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Modifiche alla normativa in materia di diffusione e fruizione di materiale pornografico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>247</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Istituzione dei ruoli provinciali dei tecnici di laboratorio e soppressione dei ruoli provinciali dei collaboratori tecnici negli istituti e scuole di ogni ordine e grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>248</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Ripristino della festività nazionale del 4 novembre</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>249</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Abolizione della dizione &quot;coniuge a carico&quot; con riferimento alla donna senza reddito proprio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>250</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE e ALOI: Norme sull&#39;esclusione dal giudizio di conferma per i professori universitari associati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2501</literal></binding>
+   <binding name="date"><literal>19950510</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Interventi per il settore agricolo in applicazione di direttive della Comunità europea</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>251</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Modifica dell&#39;articolo 2 della legge 15 ottobre 1982, n. 757, in materia di equipollenza tra la laurea in scienze bancarie e la laurea in economia e commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>252</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Modifiche degli articoli 43 e 44 della legge 20 maggio 1982, n. 270, concernenti l&#39;abilitazione all&#39;insegnamento dei docenti di educazione fisica senza titolo di studio e dei docenti di educazione musicale privi di diploma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>253</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme per il passaggio di presidenza nella scuola secondaria di secondo grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>254</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Interventi per la pianificazione ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>255</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Modifica della durata del corso di studi negli Istituti superiori di educazione fisica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>256</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE e ALOI: Istituzione della facoltà di giornalismo presso le università statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>257</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme per il riassetto istituzionale della Lega italiana per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>258</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Modifiche al modello della carta di identità concernenti lo stato civile della donna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>259</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE e BASILE: Norme per la concessione di mutui agevolati alle strutture sanitarie convenzionate ubicate nel Meridione d&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>260</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Obbligatorietà dell&#39;uso della divisa militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>261</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Modifiche agli articoli 1, 2 e 13 della legge 28 febbraio 1987, n. 56 recante norme sull&#39;organizzazione del mercato del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>262</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Legge quadro sulla famiglia italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>263</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Abrogazione dei commi 5, 6 e 7 dell&#39;articolo 9 della legge 5 giugno 1990,n. 148, concernenti i criteri per la sostituzione dei docenti assenti nelle scuole elementari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>264</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Estensione a tutte le categorie di insegnanti del diritto al riscatto degli anni del corso di laurea ai fini pensionistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>265</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme in materia di ricongiunzione dei periodi di contribuzione assicurativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>266</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Norme per il trasferimento nei ruoli degli insegnanti elementari delle scuole statali del personale dipendente dai comuni che abbia svolto attività scolastiche integrative</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>267</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Istituzione della cattedra di metodologia e didattica presso gli istituti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2671</literal></binding>
+   <binding name="date"><literal>19950614</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Norme per la tutela dell&#39;embrione e la dignità della procreazione assistita</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>268</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme in materia di dottorato di ricerca</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>269</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme per l&#39;indizione di un concorso a cattedra di prima fascia riservato ai professori universitari associati di cui all&#39;articolo 5 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382 e successive modificazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>270</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme in materia di esonero dal pagamento del canone di abbonamento radiotelevisivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>271</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme per l&#39;applicazione dei benefici di cui all&#39;articolo 3-bis del decreto-legge 11 gennaio 1985, n. 2, convertito, con modificazioni, dalla legge 8 marzo 1985, n. 72, ai dirigenti superiori delle camere di commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>272</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Modifica all&#39;articolo 13 della legge 14 agosto 1967, n. 800, concernente l&#39;integrazione della composizione dei consigli di amministrazione degli enti lirici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>273</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Norme per il passaggio dei tecnici laureati nel ruolo ad esaurimento degli assistenti universitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>274</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 36 della Costituzione, per la tutela dei diritti del lavoratore in quiescenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>275</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Provvedimenti urgenti per il recupero e la protezione del patrimonio artistico barocco della città di Lecce</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>276</literal></binding>
+   <binding name="date"><literal>19940418</literal></binding>
+   <binding name="title"><literal>POLI BORTONE: Modifica all&#39;articolo 1 della legge 31 maggio 1984, n. 193, in materia di ripristino del diritto di opzione della donna lavoratrice per il proseguimento dell&#39;attività lavorativa sino al compimento del sessantesimo anno d&#39;età</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2774</literal></binding>
+   <binding name="date"><literal>19950627</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Norme concernenti l&#39;attività di informazione scientifica sui farmaci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2973</literal></binding>
+   <binding name="date"><literal>19950727</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Legge quadro per la tutela dell&#39;artigianato artistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2974</literal></binding>
+   <binding name="date"><literal>19950727</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Norme per la repressione del lavoro abusivo e della concorrenza sleale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3123</literal></binding>
+   <binding name="date"><literal>19950915</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Riforma della ricerca e della programmazione agraria e istituzione dell&#39;Ente nazionale per la ricerca e la sperimentazione agro-alimentare e forestale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3206</literal></binding>
+   <binding name="date"><literal>19951004</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Istituzione di una Commissione parlamentare di inchiesta sulle conseguenze economico-sociali determinate dall&#39;alluvione del novembre 1994 nella regione Piemonte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3245</literal></binding>
+   <binding name="date"><literal>19951011</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Modifiche all&#39;articolo 3 della legge 14 febbraio 1992, n. 185, recante disciplina del Fondo di solidarietà nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3255</literal></binding>
+   <binding name="date"><literal>19951012</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Disciplina dell&#39;esercizio dell&#39;attività agromeccanica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3262</literal></binding>
+   <binding name="date"><literal>19951013</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Istituzione di una Commissione parlamentare di inchiesta sulla regolarita&#39;delle attività svolte dalla Lega delle cooperative e dalle sue associate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3687</literal></binding>
+   <binding name="date"><literal>19960111</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Abrogazione dell&#39;articolo 63 della legge 29 dicembre 1990, n. 428, e sanatoria per le violazioni in materia di prelievo di corresponsabilità sui cereali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3690</literal></binding>
+   <binding name="date"><literal>19960111</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Sanatoria degli effetti prodotti dall&#39;articolo 18 dei decreti-legge 23 settembre 1994, n. 548, 25 novembre 1994, n. 648, 26 gennaio 1995, n. 23 e 27 marzo 1995, n. 87, non convertiti in legge, in materia di giudizio di idoneità per i ricercatori in servizio presso gli istituti di ricerca e sperimentazione agraria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3738</literal></binding>
+   <binding name="date"><literal>19960124</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Istituzione dell&#39;Ente per gli interventi nel mercato agricolo - E.I.M.A.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>475</literal></binding>
+   <binding name="date"><literal>19940506</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Provvedimenti in favore della maternità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>478</literal></binding>
+   <binding name="date"><literal>19940506</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Riordino della docenza universitaria e delle categorie ad essa collegate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>484</literal></binding>
+   <binding name="date"><literal>19940509</literal></binding>
+   <binding name="title"><literal>POLI BORTONE ed altri: Norme sull&#39;Istituto di studi politici &quot;San Pio V&quot; di Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>137</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per la celebrazione dell&#39;VIII centenario della nascita dell&#39;Imperatore Federico II di Svevia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>138</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme in materia di assunzioni speciali nelle amministrazioni e nelle aziende dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>140</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione del Notiziario ufficiale dei comuni, delle province e delle unità sanitarie locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>141</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Esenzione dal pagamento dei contributi agricoli unificati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1813</literal></binding>
+   <binding name="date"><literal>19941222</literal></binding>
+   <binding name="title"><literal>ROSSO ed altri: Contributo dello Stato in favore dell&#39;ente morale &quot;S.O.S. - Il telefono azzurro&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>189</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per l&#39;affidamento di incarichi professionali di progettazione, direzione dei lavori e collaudo di opere pubbliche da parte di unità sanitarie locali, comuni, province e regioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>190</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per l&#39;affidamento di incarichi professionali di consulenza ed assistenza legale da parte di unità sanitarie locali, comuni, province e regioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>192</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Divieto di bandire concorsi pubblici e gare di appalto nel mese di agosto e proroga dei termini che vengano a scadenza nello stesso mese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>193</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Disposizioni sul confezionamento e sulla commercializzazione dei vini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1938</literal></binding>
+   <binding name="date"><literal>19950131</literal></binding>
+   <binding name="title"><literal>NAPOLI ed altri: Nuove norme sulla violenza sessuale e istituzione del Fondo per i centri di sostegno a favore delle vittime di maltrattamenti e di violenza sessuale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1980</literal></binding>
+   <binding name="date"><literal>19950208</literal></binding>
+   <binding name="title"><literal>FUSCAGNI ed altri: Istituzione in Firenze dell&#39;Istituto per lo studio del Medioevo latino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1990</literal></binding>
+   <binding name="date"><literal>19950208</literal></binding>
+   <binding name="title"><literal>LUCCHESE ed altri: Norme per il riconoscimento dello stato giuridico del neonato sano e per una corretta assistenza neonatale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2032</literal></binding>
+   <binding name="date"><literal>19950215</literal></binding>
+   <binding name="title"><literal>BLANCO ed altri: Istituzione della corte di assise presso il tribunale ordinario di Gela</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>205</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Delega al Governo per la concessione alle lavoratrici madri di un periodo  di aspettativa nei primi tre anni di vita del proprio figlio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>210</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>MARTINAT ed altri: Istituzione del servizio fiscale gratuito e norme relative al gratuito patrocinio in materia fiscale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>219</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>FINI ed altri: Istituzione di una Commissione parlamentare di inchiesta sul fenomeno della mafia e sulle altre associazioni criminali similari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2485</literal></binding>
+   <binding name="date"><literal>19950505</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione dei provveditorati regionali alle opere di architettura moderna contemporanea</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2506</literal></binding>
+   <binding name="date"><literal>19950510</literal></binding>
+   <binding name="title"><literal>TATARELLA ed altri: Norme in favore dei soggetti che hanno contratto mutui in ECU o in altre monete apprezzatesi nei confronti della lira</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2550</literal></binding>
+   <binding name="date"><literal>19950517</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Norme per contenere la riduzione dei trasferimenti erariali di cui al decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85, per i comuni del Mezzogiorno e delle aree depresse</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2566</literal></binding>
+   <binding name="date"><literal>19950519</literal></binding>
+   <binding name="title"><literal>SELVA ed altri: Regolamentazione del sistema radiotelevisivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2571</literal></binding>
+   <binding name="date"><literal>19950522</literal></binding>
+   <binding name="title"><literal>NAPOLI ed altri: Nuove norme contro la violenza sessuale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2658</literal></binding>
+   <binding name="date"><literal>19950613</literal></binding>
+   <binding name="title"><literal>BASILE ed altri: Istituzione del registro nazionale dei donatori di midollo osseo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2725</literal></binding>
+   <binding name="date"><literal>19950620</literal></binding>
+   <binding name="title"><literal>CUSCUNÀ ed altri: Norme sulla riabilitazione per mezzo del cavallo e istituzione dell&#39;Albo professionale nazionale dei tecnici ippoterapeuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2731</literal></binding>
+   <binding name="date"><literal>19950621</literal></binding>
+   <binding name="title"><literal>CABRINI ed altri: Norme in materia di tutela, conservazione ed incremento del patrimonio arboreo ed arbustivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2732</literal></binding>
+   <binding name="date"><literal>19950621</literal></binding>
+   <binding name="title"><literal>CABRINI ed altri: Modifiche alla legge 16 dicembre 1985, n. 752, e nuove norme in materia di raccolta dei tartufi destinati al consumo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2739</literal></binding>
+   <binding name="date"><literal>19950622</literal></binding>
+   <binding name="title"><literal>FINI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 75 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2790</literal></binding>
+   <binding name="date"><literal>19950628</literal></binding>
+   <binding name="title"><literal>NANIA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche all&#39;articolo 138 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>281</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>MARENCO ed altri: Statalizzazione dell&#39;Accademia ligustica di belle arti di Genova</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>282</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>MARENCO ed altri: Disciplina dell&#39;attività di spedizioniere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>285</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>TATARELLA ed altri: Norme per l&#39;incentivazione degli investimenti nelle imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2872</literal></binding>
+   <binding name="date"><literal>19950712</literal></binding>
+   <binding name="title"><literal>NANIA ed altri: Norme per la parità di accesso ai mezzi di comunicazione di massa durante le campagne elettorali e referendarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2874</literal></binding>
+   <binding name="date"><literal>19950712</literal></binding>
+   <binding name="title"><literal>MARINO ed altri: Principi fondamentali per la tutela del paesaggio e del patrimonio archeologico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2884</literal></binding>
+   <binding name="date"><literal>19950713</literal></binding>
+   <binding name="title"><literal>AMORUSO ed altri: Modifica al sistema di assicurazione e di finanziamento dei crediti inerenti alle esportazioni di merci e servizi ed alla esecuzione di lavori all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2885</literal></binding>
+   <binding name="date"><literal>19950713</literal></binding>
+   <binding name="title"><literal>AMORUSO ed altri: Riforma dell&#39;Istituto nazionale per il commercio estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2933</literal></binding>
+   <binding name="date"><literal>19950720</literal></binding>
+   <binding name="title"><literal>CALDERISI ed altri: Norme sulla parità di accesso ai mezzi di informazione durante la campagna elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2947</literal></binding>
+   <binding name="date"><literal>19950725</literal></binding>
+   <binding name="title"><literal>ARDICA ed altri: Norme per la salvaguardia e la tutela del lago di Pergusa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>306</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per il riconoscimento dell&#39;indennità di missione ai dipendenti dello Stato, delle altre amministrazioni pubbliche, delle regioni e delle unità sanitarie locali che prestano servizio in regioni diverse da quelle di residenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>307</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Modifiche agli articoli 2 e 3 del decreto-legge 30 ottobre 1984, n. 726, convertito, con modificazioni, dalla legge 19 dicembre 1984, n. 863, recante misure urgenti a sostegno e ad incremento dei livelli occupazionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>308</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione del Fondo di solidarietà per le future madri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>309</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sulla gestione del Consiglio nazionale delle ricerche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>310</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Modifica all&#39;articolo 6 della legge 21 novembre 1955, n. 1108, in materia di estensione della carta libera di circolazione sulle ferrovie dello Stato a talune categorie di grandi invalidi di guerra con assegno di superinvalidità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>311</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per garantire la gratuità dei mezzi di trasporto agli studenti pendolari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3113</literal></binding>
+   <binding name="date"><literal>19950913</literal></binding>
+   <binding name="title"><literal>VENEZIA ed altri: Nuove norme in materia di riscossione dei contributi sindacali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3173</literal></binding>
+   <binding name="date"><literal>19950926</literal></binding>
+   <binding name="title"><literal>TOFANI e POLI BORTONE: Modifiche alla legge 8 marzo 1989, n. 95, recante disposizioni sulla nomina delle persone idonee all&#39;ufficio di scrutatore di seggio elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>319</literal></binding>
+   <binding name="date"><literal>19940421</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione dell&#39;anagrafe delle imprese del Meridione d&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>320</literal></binding>
+   <binding name="date"><literal>19940421</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione della graduatoria nazionale ad esaurimento dei concorrenti dichiarati idonei nei concorsi per le scuole elementari e materne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>321</literal></binding>
+   <binding name="date"><literal>19940421</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme in materia di sgravi contributivi a favore delle aziende a carattere stagionale del Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3280</literal></binding>
+   <binding name="date"><literal>19951019</literal></binding>
+   <binding name="title"><literal>BONO ed altri: Legge quadro sul turismo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3300</literal></binding>
+   <binding name="date"><literal>19951024</literal></binding>
+   <binding name="title"><literal>ALEMANNO ed altri: Disciplina delle attività subacquee ed iperbariche professionali e norme per la prevenzione degli infortuni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3312</literal></binding>
+   <binding name="date"><literal>19951025</literal></binding>
+   <binding name="title"><literal>TOFANI ed altri: Norme per la liquidazione delle prestazioni previdenziali ed assistenziali il cui diritto sia riconosciuto a seguito di sentenze della Corte costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3413</literal></binding>
+   <binding name="date"><literal>19951116</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Disciplina degli istituti di vigilanza privata e delle guardie giurate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>355</literal></binding>
+   <binding name="date"><literal>19940426</literal></binding>
+   <binding name="title"><literal>TRANTINO ed altri: Norme a tutela delle casalinghe, dei minori, delle lavoratrici madri, dei vedovi con prole a carico, dei celibi, dei separati e dei divorziati con figli conviventi a carico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3586</literal></binding>
+   <binding name="date"><literal>19951218</literal></binding>
+   <binding name="title"><literal>FRAGALÀ ed altri: Modifiche al codice di procedura penale in materia di coordinamento del processo penale con il processo contabile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3613</literal></binding>
+   <binding name="date"><literal>19951222</literal></binding>
+   <binding name="title"><literal>CECCONI ed altri: Disposizioni per l&#39;immissione in ruolo degli operai assunti con contratto a tempo determinato presso il Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>367</literal></binding>
+   <binding name="date"><literal>19940427</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per la vigenza triennale dei contratti collettivi nazionali di lavoro stipulati per il personale delle Ferrovie dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3671</literal></binding>
+   <binding name="date"><literal>19960110</literal></binding>
+   <binding name="title"><literal>PEZZELLA ed altri: Abrogazione dei commi 163, 164, 165, 166 e 167 dell&#39;articolo 3 della legge 28 dicembre 1995, n. 549, in materia di esazione della tassa sugli autoveicoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>369</literal></binding>
+   <binding name="date"><literal>19940427</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per la tutela delle aree agricole esistenti nei centri urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>370</literal></binding>
+   <binding name="date"><literal>19940427</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per assicurare la funzionalità dei collegi inquirenti per i reati ministeriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>371</literal></binding>
+   <binding name="date"><literal>19940427</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sulla mancata applicazione della riserva del 2 per cento dell&#39;importo relativo alla costruzione di edifici pubblici da destinare ad opere d&#39;arte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3740</literal></binding>
+   <binding name="date"><literal>19960124</literal></binding>
+   <binding name="title"><literal>BONO ed altri: Disposizioni per attuare una politica creditizia che favorisca il riequilibrio territoriale delle aree depresse e l&#39;uniformità dei tassi attivi e passivi praticati sul territorio nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>412</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Norme per il funzionamento delle Istituzioni scolastiche italiane d&#39;oltreoceano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>413</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Integrazione all&#39;articolo 83 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>414</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Norme per il funzionamento delle scuole italiane bilingui d&#39;America nonché dei corsi di lingua italiana per i discendenti degli emigrati italiani in America</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>415</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sui rapporti commerciali di società italiane e a capitale misto italiano e straniero con i Paesi dell&#39;est e sui finanziamenti e tangenti di intermediazione a enti e a partiti politici italiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>416</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Ripristino delle decorazioni al valor militare per i combattenti della guerra di Spagna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>417</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Riconoscimento del servizio militare prestato alle dipendenze delle forze armate della Repubblica Sociale Italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>418</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Aumento del contributo per la stampa italiana all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>419</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Provvidenze a favore dei cittadini rimasti invalidi in conseguenza di azioni terroristiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>420</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Integrazione della legge 2 aprile 1968, n. 482, concernente l&#39;assunzione obbligatoria presso le pubbliche amministrazioni e le aziende private dei lavoratori che hanno prestato lavoro subordinato all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>421</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Riconoscimento dei contributi versati per la mutualità scolastica ai fini della pensione di invalidità e vecchiaia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>422</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Estensione del trattamento di pensione sociale ai cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>423</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Tutela dei lavoratori italiani dipendenti da imprese private italiane operanti all&#39;estero o con partecipazione di capitale statale italiano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>436</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per l&#39;affidamento della gestione dei beni culturali minori ad associazioni di volontariato, istituti scolastici, consigli di quartiere e cooperative giovanili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>437</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Riapertura dei termini per la presentazione di proposte di decorazioni al valore militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>438</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per la diffusione dell&#39;azionariato tra i dipendenti degli enti e delle società a partecipazione statale oggetto di provvedimenti di privatizzazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>439</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Norme per favorire l&#39;azionariato degli utenti di servizi e forniture erogati da enti, aziende e società</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>440</literal></binding>
+   <binding name="date"><literal>19940504</literal></binding>
+   <binding name="title"><literal>PARLATO ed altri: Modifica all&#39;articolo 1 della legge 23 dicembre 1986, n. 942, per il riconoscimento dell&#39;anzianità pregressa ai dipendenti dell&#39;ex Azienda autonoma delle Ferrovie dello Stato collocati in quiescenza nel periodo dal 2 luglio 1977 al 31 dicembre 1980</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>464</literal></binding>
+   <binding name="date"><literal>19940505</literal></binding>
+   <binding name="title"><literal>SBARBATI ed altri: Introduzione dell&#39;insegnamento di una seconda lingua comunitaria nella scuola media</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>469</literal></binding>
+   <binding name="date"><literal>19940506</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche agli articoli 48, 56 e 57 della Costituzione per consentire il voto degli italiani all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>50</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Norme per l&#39;esercizio del diritto di voto all&#39;estero dei cittadini italiani residenti oltreconfine</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2670</literal></binding>
+   <binding name="date"><literal>19950614</literal></binding>
+   <binding name="title"><literal>FUSCAGNI ed altri: Istituzione del difensore civico nazionale</literal></binding>
+  </result>
+ </results>
+</sparql>

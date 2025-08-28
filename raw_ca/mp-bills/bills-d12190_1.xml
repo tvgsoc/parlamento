@@ -1,0 +1,47 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2219</literal></binding>
+   <binding name="date"><literal>19511009</literal></binding>
+   <binding name="title"><literal>MALAGUGINI: Abrogazione dell&#39;articolo 3 del regio decreto 11 gennaio 1923, n. 85, riguardante la trattenuta del 5 per cento sulla pensione dei funzionari od agenti delle ferrovie dello Stato esonerati dal servizio ai sensi del regio decreto 16 febbraio 1922, n. 207</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1085</literal></binding>
+   <binding name="date"><literal>19500210</literal></binding>
+   <binding name="title"><literal>TARGETTI ed altri: Proroga della scadenza dei Consigli comunali
+</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>182</literal></binding>
+   <binding name="date"><literal>19481125</literal></binding>
+   <binding name="title"><literal>PIERACCINI ed altri: Ordinamento dell&#39;Ente Nazionale Assistenza Lavoratori (E.N.A.L.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1839</literal></binding>
+   <binding name="date"><literal>19510222</literal></binding>
+   <binding name="title"><literal>MORO ed altri: Concessione di un assegno annuo di lire 780.000 a Maria Montessori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2274</literal></binding>
+   <binding name="date"><literal>19511030</literal></binding>
+   <binding name="title"><literal>BASSO ed altri: Sul comportamento delle pubbliche autorità nei confronti del banditismo siciliano e sulle relative cause di natura sociale, economica e politica.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>230</literal></binding>
+   <binding name="date"><literal>19481216</literal></binding>
+   <binding name="title"><literal>SILIPO ed altri: Modificazioni al decreto legislativo del Capo provvisorio dello Stato 24 gennaio 1947, n. 457, per il riordinamento dei Patronati scolastici</literal></binding>
+  </result>
+ </results>
+</sparql>

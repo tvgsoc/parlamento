@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3040</literal></binding>
+   <binding name="date"><literal>19710204</literal></binding>
+   <binding name="title"><literal>SALVATORE ed altri: Norme per la trasformazione della mezzadria, colonia parziaria e dei contratti atipici di concessione di fondi rustici in contratti di affitto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2273</literal></binding>
+   <binding name="date"><literal>19700126</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Norme per la costruzione e l&#39;esercizio dei porti turistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3522</literal></binding>
+   <binding name="date"><literal>19710713</literal></binding>
+   <binding name="title"><literal>SCALFARI ed altri: Giudizio di conformità costituzionale delle materie oggetto di referendum abrogativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3630</literal></binding>
+   <binding name="date"><literal>19710929</literal></binding>
+   <binding name="title"><literal>BERTOLDI ed altri: Contributo dello Stato al finanziamento dei partiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3886</literal></binding>
+   <binding name="date"><literal>19711214</literal></binding>
+   <binding name="title"><literal>LOSPINOSO SEVERINI ed altri: Integrazione dell&#39;articolo 68, secondo comma, della legge 22 ottobre 1971, n. 865, concernente l&#39;edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Casi di scioglimento del matrimonio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2149</literal></binding>
+   <binding name="date"><literal>19691219</literal></binding>
+   <binding name="title"><literal>FELICI ed altri: Norme per le imbarcazioni da diporto</literal></binding>
+  </result>
+ </results>
+</sparql>

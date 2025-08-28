@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1234</literal></binding>
+   <binding name="date"><literal>20060629</literal></binding>
+   <binding name="title"><literal>STRAMACCIONI: &quot;Istituzione di un Archivio nazionale della memoria dei crimini nazifascisti&quot; (1234)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2689</literal></binding>
+   <binding name="date"><literal>20070529</literal></binding>
+   <binding name="title"><literal>STRAMACCIONI: &quot;Disposizioni in materia di assistenza sanitaria e medico-legale del personale militare&quot; (2689)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1951</literal></binding>
+   <binding name="date"><literal>20061115</literal></binding>
+   <binding name="title"><literal>GIULIETTI: &quot;Riconoscimento dell&#39;8 settembre quale &#39;Giornata della rinascita della Patrià &quot; (1951)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1987</literal></binding>
+   <binding name="date"><literal>20061129</literal></binding>
+   <binding name="title"><literal>PISCITELLO ed altri: &quot;Interventi in favore dei cittadini italiani militari e civili deportati e costretti al lavoro coatto nei territori del Terzo Reich&quot; (1987)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2372</literal></binding>
+   <binding name="date"><literal>20070315</literal></binding>
+   <binding name="title"><literal>RUGGHIA e STRAMACCIONI: &quot;Disposizioni per la concessione di una promozione a titolo onorifico agli ufficiali e ai sottufficiali delle Forze armate, dell&#39;Arma dei carabinieri e del Corpo della guardia di finanza collocati nella riserva o in congedo assoluto&quot; (2372)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>375</literal></binding>
+   <binding name="date"><literal>20060504</literal></binding>
+   <binding name="title"><literal>SPINI: &quot;Delega al Governo per il riordino dell&#39;ordinamento giudiziario militare&quot; (375)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>376</literal></binding>
+   <binding name="date"><literal>20060504</literal></binding>
+   <binding name="title"><literal>SPINI e STRAMACCIONI: &quot;Disposizioni per la tutela della memoria dei crimini nazifascisti&quot; (376)</literal></binding>
+  </result>
+ </results>
+</sparql>

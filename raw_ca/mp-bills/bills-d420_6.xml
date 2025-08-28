@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1265</literal></binding>
+   <binding name="date"><literal>19721206</literal></binding>
+   <binding name="title"><literal>SCIPIONI ed altri: Uso di radio-telefoni operanti sulla frequenza dei 27 megacicli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2284</literal></binding>
+   <binding name="date"><literal>19730720</literal></binding>
+   <binding name="title"><literal>SCIPIONI ed altri: Concessione di indennità accessorie al personale delle aziende dipendenti dal Ministero delle poste e delle telecomunicazioni ed aumento delle dotazioni organiche di alcune tabelle dell&#39;amministrazione delle poste e delle telecomunicazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2487</literal></binding>
+   <binding name="date"><literal>19731108</literal></binding>
+   <binding name="title"><literal>DAMICO ed altri: Disciplina del monopolio pubblico del servizio radiotelevisivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3246</literal></binding>
+   <binding name="date"><literal>19741004</literal></binding>
+   <binding name="title"><literal>MILANI ed altri: Integrazione dell&#39;articolo 13 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, a favore delle cooperative di abitazione a proprietà indivisa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3491</literal></binding>
+   <binding name="date"><literal>19750220</literal></binding>
+   <binding name="title"><literal>PANI ed altri: Soppressione delle assuntorie di stazione, di fermata e di passo a livello nelle ferrovie in concessione e nei servizi della navigazione interna e sistemazione del relativo personale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4068</literal></binding>
+   <binding name="date"><literal>19751017</literal></binding>
+   <binding name="title"><literal>FIORIELLO ed altri: Modifica della legge 10 novembre 1973, n. 375, concernente la gestione unitaria del sistema aeroportuale della capitale e costruzione di una nuova aerostazione nell&#39;aeroporto intercontinentale &quot;Leonardo da Vinci&quot; di Roma-Fiumicino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1352</literal></binding>
+   <binding name="date"><literal>19721215</literal></binding>
+   <binding name="title"><literal>DAMICO ed altri: Disciplina transitoria del monopolio pubblico del servizio radiotelevisivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1884</literal></binding>
+   <binding name="date"><literal>19730320</literal></binding>
+   <binding name="title"><literal>GALLUZZI ed altri: Riforma della radiotelevisione e istituzione di un Ente nazionale italiano radiotelevisivo</literal></binding>
+  </result>
+ </results>
+</sparql>

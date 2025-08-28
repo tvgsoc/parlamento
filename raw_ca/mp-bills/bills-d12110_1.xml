@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1839</literal></binding>
+   <binding name="date"><literal>19510222</literal></binding>
+   <binding name="title"><literal>MORO ed altri: Concessione di un assegno annuo di lire 780.000 a Maria Montessori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>261</literal></binding>
+   <binding name="date"><literal>19481221</literal></binding>
+   <binding name="title"><literal>TARGETTI ed altri: Concessione di una pensione straordinaria alla vedova dell&#39;onorevole Giuseppe Emanuele Modigliani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2844</literal></binding>
+   <binding name="date"><literal>19520716</literal></binding>
+   <binding name="title"><literal>NASI ed altri: Modificazione della XII Norma transitoria della Costituzione e proroga dell&#39;articolo 93 del testo unico 5 febbraio 1948, n. 26</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3055</literal></binding>
+   <binding name="date"><literal>19521209</literal></binding>
+   <binding name="title"><literal>CHIOSTERGI ed altri: Ricostruzione della carriera degli insegnanti statali di ruolo che al momento dell&#39;entrata in vigore delle leggi razziali o di gravi provvedimenti politici a loro carico già prestavano servizio governativo fuori ruolo quali laureati e abilitati all&#39;esercizio professionale dell&#39;insegnamento medio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3112</literal></binding>
+   <binding name="date"><literal>19521223</literal></binding>
+   <binding name="title"><literal>LONGHENA ed altri: Applicazione in favore dell&#39;Associazione italiana della Croce Rossa di un contributo sui premi di alcune assicurazioni</literal></binding>
+  </result>
+ </results>
+</sparql>

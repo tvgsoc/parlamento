@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1592</literal></binding>
+   <binding name="date"><literal>19550426</literal></binding>
+   <binding name="title"><literal>SCIAUDONE e MUSCARIELLO: Ammasso per contingente della canapa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1656</literal></binding>
+   <binding name="date"><literal>19550613</literal></binding>
+   <binding name="title"><literal>SCIAUDONE ed altri: Provvidenze a favore del personale già in servizio negli uffici del Genio militare per le requisizioni alleate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1031</literal></binding>
+   <binding name="date"><literal>19540714</literal></binding>
+   <binding name="title"><literal>MARTUSCELLI ed altri: Modificazioni all&#39;articolo 10 della legge 13 giugno 1952, n. 690, in favore degli insegnanti elementari colpiti dal divieto di cumulo delle pensioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2784</literal></binding>
+   <binding name="date"><literal>19570312</literal></binding>
+   <binding name="title"><literal>COVELLI ed altri: Istituzione della zona industriale di Rovigo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3455</literal></binding>
+   <binding name="date"><literal>19580123</literal></binding>
+   <binding name="title"><literal>DEGLI OCCHI ed altri: Modificazione delle norme vigenti in materia di epurazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>828</literal></binding>
+   <binding name="date"><literal>19540427</literal></binding>
+   <binding name="title"><literal>CUTTITTA e SCIAUDONE: Completamento del ruolo ufficiali naviganti speciale dell&#39;Aeronautica militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>885</literal></binding>
+   <binding name="date"><literal>19540512</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Autorizzazione alla liquidazione della spesa occorsa per la esecuzione dei lavori per il ripristino delle opere dell&#39;Ente Autonomo Mostra d&#39;Oltremare e del Lavoro Italiano nel Mondo, danneggiate dalla guerra</literal></binding>
+  </result>
+ </results>
+</sparql>

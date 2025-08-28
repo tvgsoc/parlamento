@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1657</literal></binding>
+   <binding name="date"><literal>19770720</literal></binding>
+   <binding name="title"><literal>MATTA: Anticipazioni sull&#39;indennità di anzianità ai dipendenti dello Stato e delle pubbliche Amministrazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1636</literal></binding>
+   <binding name="date"><literal>19770714</literal></binding>
+   <binding name="title"><literal>CARUSO ed altri: Modifiche alle disposizioni transitorie della legge 10 dicembre 1973, n. 804, recante norme per gli ufficiali delle forze armate e dei corpi di polizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2589</literal></binding>
+   <binding name="date"><literal>19781207</literal></binding>
+   <binding name="title"><literal>MASTELLA ed altri: Concorso per merito distinto per il passaggio anticipato dalla 3^ alla 4^ classe di stipendio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2744</literal></binding>
+   <binding name="date"><literal>19790221</literal></binding>
+   <binding name="title"><literal>CASADEI ed altri: Nuove norme per il riconoscimento dell&#39;obiezione di coscienza nei confronti del servizio militare e per l&#39;attuazione del servizio civile alternativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>760</literal></binding>
+   <binding name="date"><literal>19761112</literal></binding>
+   <binding name="title"><literal>LA LOGGIA ed altri: Integrazioni e modifiche della legge 14 novembre 1961, n. 1268, concernente la costituzione dell&#39;Ente autonomo del porto di Palermo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1390</literal></binding>
+   <binding name="date"><literal>19770421</literal></binding>
+   <binding name="title"><literal>LOMBARDO ed altri: Determinazione della misura del contributo a favore della Regione siciliana a norma dell&#39;articolo 38 dello Statuto e concessione del contributo per il quinquennio 1977-1981</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2354</literal></binding>
+   <binding name="date"><literal>19780726</literal></binding>
+   <binding name="title"><literal>LIMA ed altri: Modifiche alle leggi 29 aprile 1949, n. 264, 14 agosto 1967, n. 800 ed al decreto del Presidente della Repubblica 15 marzo 1971, n. 686, riguardanti le attività lirico-sinfoniche</literal></binding>
+  </result>
+ </results>
+</sparql>

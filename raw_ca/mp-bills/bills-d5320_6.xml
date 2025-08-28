@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1097</literal></binding>
+   <binding name="date"><literal>19721030</literal></binding>
+   <binding name="title"><literal>SARTOR: Disposizioni per l&#39;esodo volontario dei dipendenti civili dello Stato in particolari situazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2773</literal></binding>
+   <binding name="date"><literal>19740220</literal></binding>
+   <binding name="title"><literal>LETTIERI ed altri: Norme di attuazione degli articoli 65, 67 e 69 della Costituzione sullo stato giuridico ed economico dei membri del Parlamento; e disposizioni sulla pubblicità dei redditi e dei patrimoni di titolari di cariche elettive e di uffici amministrativi e giudiziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3928</literal></binding>
+   <binding name="date"><literal>19750715</literal></binding>
+   <binding name="title"><literal>CERVONE ed altri: Riforma dell&#39;ordinamento della scuola secondaria superiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>710</literal></binding>
+   <binding name="date"><literal>19720807</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>870</literal></binding>
+   <binding name="date"><literal>19721006</literal></binding>
+   <binding name="title"><literal>OLIVI ed altri: Ordinamento del tributo di soggiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19730529</literal></binding>
+   <binding name="title"><literal>BECCIU ed altri: Modifiche al decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, e successive modificazioni, concernente l&#39;ordinamento degli ufficiali giudiziari</literal></binding>
+  </result>
+ </results>
+</sparql>

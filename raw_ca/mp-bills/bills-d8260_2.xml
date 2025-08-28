@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1742</literal></binding>
+   <binding name="date"><literal>19550725</literal></binding>
+   <binding name="title"><literal>ROBERTI ed altri: Socializzazione delle imprese statali ed a partecipazione statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1783</literal></binding>
+   <binding name="date"><literal>19550930</literal></binding>
+   <binding name="title"><literal>CALABRÒ ed altri: Disposizioni per la cinematografia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2072</literal></binding>
+   <binding name="date"><literal>19560224</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Estensione delle disposizioni degli articoli 13 e 14 del decreto legislativo 16 aprile 1948, n. 830, ai direttori didattici incaricati del concorso B/3</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2467</literal></binding>
+   <binding name="date"><literal>19561001</literal></binding>
+   <binding name="title"><literal>MICHELINI ed altri: Revisione del titolo V della parte II della Costituzione, relativo a &quot;Le Regioni, le Province, i Comuni&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2685</literal></binding>
+   <binding name="date"><literal>19570130</literal></binding>
+   <binding name="title"><literal>CALABRÒ ed altri: alla programmazione obbligatoria della riedizione di film italiani prodotti antecedentemente al 31 dicembre 1947, di alto valore artistico o educativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2902</literal></binding>
+   <binding name="date"><literal>19570506</literal></binding>
+   <binding name="title"><literal>MACRELLI ed altri: Norme relative alle autenticazioni delle dichiarazioni e dei motivi di impugnazione in materia processuale penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3167</literal></binding>
+   <binding name="date"><literal>19570918</literal></binding>
+   <binding name="title"><literal>ANFUSO ed altri: Nuove norme sulla gestione e l&#39;organizzazione della Esposizione biennale internazionale d&#39;arte di Venezia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3345</literal></binding>
+   <binding name="date"><literal>19571204</literal></binding>
+   <binding name="title"><literal>CARONIA ed altri: Provvidenze a favore dei comuni di Messina e Reggio Calabria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3582</literal></binding>
+   <binding name="date"><literal>19580221</literal></binding>
+   <binding name="title"><literal>ROBERTI ed altri: Riconoscimento giuridico delle Forze armate della Repubblica Sociale Italiana</literal></binding>
+  </result>
+ </results>
+</sparql>

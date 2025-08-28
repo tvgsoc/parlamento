@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1284</literal></binding>
+   <binding name="date"><literal>19500517</literal></binding>
+   <binding name="title"><literal>LATORRE e GUADALUPI: Estensione delle disposizioni di cui al decreto legislativo del Capo provvisorio dello Stato 12 dicembre 1947, n. 1488, e al decreto-legge 7 maggio 1948, n. 809, a tutti i salariati già dipendenti dalle Amministrazioni dell&#39;esercito e della marina licenziati in applicazione del regio decreto-legge 19 aprile 1923, n. 945</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>124</literal></binding>
+   <binding name="date"><literal>19481007</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Norme per la disciplina dei contratti di mezzadria impropria, colonia parziaria, compartecipazione</literal></binding>
+  </result>
+ </results>
+</sparql>

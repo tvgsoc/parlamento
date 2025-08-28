@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6205</literal></binding>
+   <binding name="date"><literal>20051130</literal></binding>
+   <binding name="title"><literal>GALANTE ed altri: &quot;Riforma delle istituzioni scolastiche italiane all&#39;estero e interventi per la promozione della lingua e della cultura italiane all&#39;estero&quot; (6205)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5738</literal></binding>
+   <binding name="date"><literal>20050322</literal></binding>
+   <binding name="title"><literal>VIOLANTE ed altri: &quot;Disposizioni in favore delle vittime di atti dinamitardi verificatisi a decorrere dal 21 agosto 1994 in Friuli Venezia Giulia e in Veneto&quot; (5738)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5909</literal></binding>
+   <binding name="date"><literal>20050614</literal></binding>
+   <binding name="title"><literal>PISTONE ed altri: &quot;Istituzione del Fondo nazionale straordinario per la costruzione, l&#39;acquisizione e la manutenzione di immobili da destinare all&#39;edilizia residenziale pubblica per il triennio 2005-2007&quot; (5909)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5935</literal></binding>
+   <binding name="date"><literal>20050623</literal></binding>
+   <binding name="title"><literal>SPINI ed altri: &quot;Disposizioni per la tutela del patrimonio storico della guerra di Liberazione e della lotta partigiana&quot; (5935)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6154</literal></binding>
+   <binding name="date"><literal>20051028</literal></binding>
+   <binding name="title"><literal>SANTINO ADAMO LODDO ed altri: &quot;Istituzione, presso la Presidenza del Consiglio dei ministri, dell&#39;Ufficio per contrastare l&#39;uso di ricambi aeronautici non approvati&quot; (6154)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6183</literal></binding>
+   <binding name="date"><literal>20051117</literal></binding>
+   <binding name="title"><literal>SGOBIO ed altri: &quot;Piano di interventi integrati per la non autosufficienza&quot; (6183)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6216</literal></binding>
+   <binding name="date"><literal>20051214</literal></binding>
+   <binding name="title"><literal>SGOBIO ed altri: &quot;Disposizioni per l&#39;elevamento dell&#39;obbligo di istruzione gratuita fino a 18 anni di età&quot; (6216)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5618</literal></binding>
+   <binding name="date"><literal>20050215</literal></binding>
+   <binding name="title"><literal>DILIBERTO ed altri: &quot;Disposizioni per la concessione di contributi statali alle Associazioni combattentistiche&quot; (5618)</literal></binding>
+  </result>
+ </results>
+</sparql>

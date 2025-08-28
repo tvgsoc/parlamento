@@ -1,0 +1,442 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1506</literal></binding>
+   <binding name="date"><literal>19640625</literal></binding>
+   <binding name="title"><literal>MIOTTI CARLI ed altri: Modifiche alla legge 7 dicembre 1959, n. 1083, istitutiva del Corpo di polizia femminile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1007</literal></binding>
+   <binding name="date"><literal>19640220</literal></binding>
+   <binding name="title"><literal>COLOMBO ed altri: Modifiche alla legge 19 gennaio 1955, n. 25, sulla disciplina dell&#39;apprendistato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1121</literal></binding>
+   <binding name="date"><literal>19640313</literal></binding>
+   <binding name="title"><literal>DE ZAN ed altri: Nuove disposizioni sulla pubblicità dei film vietati ai minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1230</literal></binding>
+   <binding name="date"><literal>19640416</literal></binding>
+   <binding name="title"><literal>PENNACCHINI ed altri: Norme per la protezione della selvaggina e per l&#39;esercizio della caccia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1347</literal></binding>
+   <binding name="date"><literal>19640508</literal></binding>
+   <binding name="title"><literal>CANESTRARI ed altri: Deroga dell&#39;articolo 12 del decreto legislativo luogotenenziale 21 agosto 1945 n. 518 per la presentazione della proposta di concessione della medaglia d&#39;argento al valor militare al comune di Vestenanova, in provincia di Verona</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1374</literal></binding>
+   <binding name="date"><literal>19640514</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Riconoscimento del servizio prestato dagli ex sottufficiali e vigili del fuoco volontari continuativi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1467</literal></binding>
+   <binding name="date"><literal>19640615</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Riabilitazione dei soggetti in età evolutiva che presentano irregolarità psichiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>148</literal></binding>
+   <binding name="date"><literal>19630626</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Obbligatorietà della scuola materna per minorati dell&#39;udito</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1489</literal></binding>
+   <binding name="date"><literal>19640620</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Legittimazione per adozione a favore di minori in stato di abbandono</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>154</literal></binding>
+   <binding name="date"><literal>19630627</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Modifica agli articoli del Codice civile: 269 (dichiarazione giudiziale di paternità), 271 (legittimazione attiva e termine) e 279 (alimenti)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1629</literal></binding>
+   <binding name="date"><literal>19640904</literal></binding>
+   <binding name="title"><literal>COLOMBO ed altri: Modifiche alla legge 26 agosto 1950, n. 860 sulla tutela fisica ed economica delle lavoratrici madri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1731</literal></binding>
+   <binding name="date"><literal>19641015</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Ordinamento delle attribuzioni, dei ruoli e della carriera degli Assistenti dipendenti dal Ministero dei lavori pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1735</literal></binding>
+   <binding name="date"><literal>19641015</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Modificazioni e integrazioni delle norme sulla Cassa nazionale di previdenza e assistenza a favore dei geometri, di cui alle leggi 24 ottobre 1955, n. 990 e 9 febbraio 1963, n. 152</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1756</literal></binding>
+   <binding name="date"><literal>19641020</literal></binding>
+   <binding name="title"><literal>COCCO ed altri: Ordinamento della professione e istituzione dell&#39;albo degli assistenti sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1814</literal></binding>
+   <binding name="date"><literal>19641106</literal></binding>
+   <binding name="title"><literal>PEDINI ed altri: Norme integrative del Capo IX del decreto del Presidente della Repubblica 14 febbraio 1964, n. 237, per la dispensa dal servizio di leva dei cittadini che prestino servizio di assistenza tecnica in Paesi in via di sviluppo secondo accordi stipulati dallo Stato italiano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>185</literal></binding>
+   <binding name="date"><literal>19630705</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Istituzione del ruolo permanente della carriera esecutiva dei massaggiatori e massofisioterapisti ciechi negli ospedali e stabilimenti termali militari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2053</literal></binding>
+   <binding name="date"><literal>19650205</literal></binding>
+   <binding name="title"><literal>CANESTRARI ed altri: Modifiche alla legge 21 dicembre 1961, n. 1336, sulla istituzione del ruolo dei collaboratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2054</literal></binding>
+   <binding name="date"><literal>19650205</literal></binding>
+   <binding name="title"><literal>CANESTRARI ed altri: Estensione delle disposizioni contenute nell&#39;articolo 4 del decreto legislativo luogotenenziale 29 marzo 1946, n. 154, e nell&#39;articolo 4 del decreto legislativo del Capo provvisorio dello Stato 6 settembre 1946, n. 106, agli ufficiali del Corpo delle guardie di pubblica sicurezza, già ufficiali di formazioni partigiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2058</literal></binding>
+   <binding name="date"><literal>19650205</literal></binding>
+   <binding name="title"><literal>BONTADE ed altri: Assistenza legale gratuita ai ricorrenti non abbienti e semplificazione del procedimento amministrativo e del procedimento giurisdizionale presso la Corte dei conti in materia di pensioni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>220</literal></binding>
+   <binding name="date"><literal>19630712</literal></binding>
+   <binding name="title"><literal>AMADEO ed altri: Modificazioni alla legge 24 luglio 1961, n. 729, recante norme per il piano di nuove costruzioni stradali e autostradali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2220</literal></binding>
+   <binding name="date"><literal>19650331</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Incarichi nelle Università degli studi e negli Istituti di istruzione superiore a presidi e professori di ruolo degli Istituti di istruzione secondaria in possesso del titolo di abilitazione alla libera docenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2286</literal></binding>
+   <binding name="date"><literal>19650414</literal></binding>
+   <binding name="title"><literal>GUERRIERI ed altri: Estensione ai decorati al valor militare che non usufruiscono di alcuna riduzione di una speciale concessione ferroviaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2308</literal></binding>
+   <binding name="date"><literal>19650430</literal></binding>
+   <binding name="title"><literal>DE MARZI ed altri: Provvedimenti a favore della cooperazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2376</literal></binding>
+   <binding name="date"><literal>19650522</literal></binding>
+   <binding name="title"><literal>CERVONE ed altri: Esposizione della bandiera nazionale nelle aule scolastiche e nei pubblici uffici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2425</literal></binding>
+   <binding name="date"><literal>19650603</literal></binding>
+   <binding name="title"><literal>ABATE ed altri: Determinazione della indennità spettante ai membri del Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2481</literal></binding>
+   <binding name="date"><literal>19650626</literal></binding>
+   <binding name="title"><literal>GAGLIARDI ed altri: Autorizzazione a vendere, a trattativa privata, alla Mensa Patriarcale di Venezia, l&#39;immobile demaniale &quot;Villa Elena&quot; sito in Mestre (Venezia)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>249</literal></binding>
+   <binding name="date"><literal>19630719</literal></binding>
+   <binding name="title"><literal>TITOMANLIO ed altri: Modificazione dell&#39;articolo 295 del regio decreto 26 aprile 1928, n. 1297, concernente l&#39;approvazione del regolamento generale sui servizi dell&#39;istruzione elementare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2549</literal></binding>
+   <binding name="date"><literal>19650715</literal></binding>
+   <binding name="title"><literal>GUARIENTO ed altri: Modificazione delle norme in materia di assicurazioni dei dipendenti da Enti locali e Istituzioni pubbliche di assistenza e beneficenza assunti per brevi periodi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2678</literal></binding>
+   <binding name="date"><literal>19651014</literal></binding>
+   <binding name="title"><literal>GUARIENTO ed altri: Modifica dell&#39;articolo 26 della legge 9 novembre 1961, n. 1240, recante norme sulle pensioni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2835</literal></binding>
+   <binding name="date"><literal>19651210</literal></binding>
+   <binding name="title"><literal>GONELLA ed altri: Concessione e finanziamento dell&#39;idrovia Milano Nord-Mincio-Mare Adriatico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>307</literal></binding>
+   <binding name="date"><literal>19630726</literal></binding>
+   <binding name="title"><literal>FODERARO ed altri: Aumento del contributo per le spese di funzionamento dell&#39;Istituto italiano per l&#39;Africa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3204</literal></binding>
+   <binding name="date"><literal>19660530</literal></binding>
+   <binding name="title"><literal>NANNINI ed altri: Modifica dell&#39;articolo 282 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3 per il Conferimento di posti a Provveditore agli studi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3238</literal></binding>
+   <binding name="date"><literal>19660617</literal></binding>
+   <binding name="title"><literal>FORNALE ed altri: Riconoscimento alle zone di Monte Cengio e Monte Ortigara del carattere di monumentalità ai sensi del decreto-legge 29 ottobre 1922, n. 1386, convertito nella legge 26 giugno 1927, n. 985</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3258</literal></binding>
+   <binding name="date"><literal>19660624</literal></binding>
+   <binding name="title"><literal>SAVIO ed altri: Modifiche al regio decreto-legge 21 novembre 1929, n. 2330, riguardante le scuole convitto professionali per infermiere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3276</literal></binding>
+   <binding name="date"><literal>19660701</literal></binding>
+   <binding name="title"><literal>IMPERIALE ed altri: Norme riguardanti il personale del ruolo cassieri degli Uffici del Registro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3370</literal></binding>
+   <binding name="date"><literal>19660721</literal></binding>
+   <binding name="title"><literal>LETTIERI ed altri: Passaggio nel ruolo B) degli insegnanti tecnico-pratici, degli insegnanti di dattilografia e degli insegnanti di stenografia in servizio negli istituti tecnici e professionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3466</literal></binding>
+   <binding name="date"><literal>19661003</literal></binding>
+   <binding name="title"><literal>FADA ed altri: Modifiche al decreto del Presidente della Repubblica 30 giugno 1965, n. 1124 : Testo unico delle disposizioni per l&#39;assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3613</literal></binding>
+   <binding name="date"><literal>19661202</literal></binding>
+   <binding name="title"><literal>GAGLIARDI ed altri: Norme per l&#39;assicurazione di familiare addetto ai servizi domestici a favore di ministri di culto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3614</literal></binding>
+   <binding name="date"><literal>19661202</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Modifica dell&#39;articolo 2 del regio decreto-legge 30 novembre 1937, n. 2145, convertito nella legge 25 aprile 1938, n. 614, concernente i fondi per la integrazione dei bilanci degli E.C.A.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3748</literal></binding>
+   <binding name="date"><literal>19670126</literal></binding>
+   <binding name="title"><literal>TERRANOVA ed altri: Istituzione del Centro italiano di studi per l&#39;impiego dell&#39;elicottero nei servizi di pubblico interesse (C.I.S.I.E.S.P.I.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3755</literal></binding>
+   <binding name="date"><literal>19670128</literal></binding>
+   <binding name="title"><literal>TRUZZI ed altri: Norme di tutela per la maternità per le coltivatrici dirette, colone e mezzadre</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3793</literal></binding>
+   <binding name="date"><literal>19670215</literal></binding>
+   <binding name="title"><literal>CANESTRARI ed altri: Provvidenze a favore dei figli dei lavoratori postelegrafonici e delle vedove del personale del Ministero delle poste e delle telecomunicazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3801</literal></binding>
+   <binding name="date"><literal>19670216</literal></binding>
+   <binding name="title"><literal>PUCCI DI BARSENTO ed altri: Tutela della creazione dei modelli dell&#39;abbigliamento e degli accessori della moda</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3926</literal></binding>
+   <binding name="date"><literal>19670317</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Premio di fedeltà ai componenti attivi di famiglie coltivatrici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3982</literal></binding>
+   <binding name="date"><literal>19670413</literal></binding>
+   <binding name="title"><literal>CANESTRARI ed altri: Provvidenze a favore dei figli e delle vedove dei dipendenti dell&#39;Amministrazione delle poste e delle telecomunicazioni e dell&#39;Azienda di Stato per i servizi telefonici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4089</literal></binding>
+   <binding name="date"><literal>19670519</literal></binding>
+   <binding name="title"><literal>BORRA ed altri: Istituzione di un esame speciale per il conseguimento del diploma di Stato per l&#39;esercizio della professione di infermiera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4136</literal></binding>
+   <binding name="date"><literal>19670610</literal></binding>
+   <binding name="title"><literal>VILLA ed altri: Aumento del contributo annuo a favore dell&#39;Istituto del Nastro Azzurro fra combattenti decorati al valor militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4178</literal></binding>
+   <binding name="date"><literal>19670623</literal></binding>
+   <binding name="title"><literal>BARBI ed altri: Modificazioni ed integrazioni dell&#39;articolo 6 della legge 14 febbraio 1963, n. 60, concernente la liquidazione del patrimonio edilizio della Gestione INA-Casa e dell&#39;articolo 40 del decreto del Presidente della Repubblica 11 ottobre 1963, n. 1471, concernente il Regolamento di attuazione della legge medesima</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4183</literal></binding>
+   <binding name="date"><literal>19670623</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Modifica all&#39;articolo 97 del Codice civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4229</literal></binding>
+   <binding name="date"><literal>19670707</literal></binding>
+   <binding name="title"><literal>COCCO ed altri: Norme per il funzionamento delle scuole e per la regolamentazione della professione di terapisti della riabilitazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4382</literal></binding>
+   <binding name="date"><literal>19670921</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Agevolazioni fiscali in favore delle famiglie numerose</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4517</literal></binding>
+   <binding name="date"><literal>19671031</literal></binding>
+   <binding name="title"><literal>COCCO ed altri: Aggiornamento degli organici del personale amministrativo, degli uffici tecnici e delle biblioteche di facoltà e scuole, dei seminari e degli istituti scientifici, in servizio presso le università e gli istituti di istruzione universitaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4807</literal></binding>
+   <binding name="date"><literal>19680124</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Concessione di una indennità di accompagnamento ai ciechi civili assoluti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4881</literal></binding>
+   <binding name="date"><literal>19680215</literal></binding>
+   <binding name="title"><literal>GIRARDIN ed altri: Modifiche della legge 4 febbraio 1958, n. 158, concernente norme relative all&#39;espropriazione di terreni e all&#39;attuazione di opere nella zona industriale e nel porto fluviale di Padova</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4892</literal></binding>
+   <binding name="date"><literal>19680221</literal></binding>
+   <binding name="title"><literal>GUARIENTO ed altri: Modifica all&#39;articolo 1 del decreto del Presidente della Repubblica 11 febbraio 1961, n. 249, riguardante gli enti operanti nel settore sanitario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4956</literal></binding>
+   <binding name="date"><literal>19680304</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>499</literal></binding>
+   <binding name="date"><literal>19630928</literal></binding>
+   <binding name="title"><literal>BUTTÈ ed altri: Ammissione dei licenziati dalle scuole di avviamento professionale agli istituti tecnici e valutazione dei certificati di studio rilasciati dai corsi postelementari istituiti a norma dell&#39;articolo 172 del testo unico 5 febbraio 1928, n. 577</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>519</literal></binding>
+   <binding name="date"><literal>19631004</literal></binding>
+   <binding name="title"><literal>CAIAZZA ed altri: Contributo annuo all&#39;Ente nazionale &quot;Giovanni Boccaccio&quot; per il mantenimento della Casa del Boccaccio e della Biblioteca annessa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>793</literal></binding>
+   <binding name="date"><literal>19631129</literal></binding>
+   <binding name="title"><literal>DE MARZI ed altri: Costruzione della &quot;Conca di Pontelongo&quot; in provincia di Padova ai fini dell&#39;irrigazione, navigazione interna ed usi industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>944</literal></binding>
+   <binding name="date"><literal>19640207</literal></binding>
+   <binding name="title"><literal>TITOMANLIO ed altri: Norme integrative dell&#39;articolo 21 della legge 28 luglio 1961, n. 831, in favore del personale insegnante dei Conservatori di musica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>997</literal></binding>
+   <binding name="date"><literal>19640220</literal></binding>
+   <binding name="title"><literal>DEGAN ed altri: Disciplina per l&#39;esecuzione dei piani di ricostruzione dei comuni sinistrati dalla guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1144</literal></binding>
+   <binding name="date"><literal>19640314</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Provvedimenti per l&#39;assistenza sanitaria agli invalidi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1632</literal></binding>
+   <binding name="date"><literal>19640908</literal></binding>
+   <binding name="title"><literal>SIMONACCI ed altri: Tutela dell&#39;azienda alberghiera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1742</literal></binding>
+   <binding name="date"><literal>19641016</literal></binding>
+   <binding name="title"><literal>DEGAN ed altri: Modifiche alla legge 24 luglio 1961, n. 729, sul piano di nuove costruzioni stradali e autostradali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1910</literal></binding>
+   <binding name="date"><literal>19641204</literal></binding>
+   <binding name="title"><literal>TERRANOVA ed altri: Norme per favorire la ripresa del teatro lirico e del concertismo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>22</literal></binding>
+   <binding name="date"><literal>19630517</literal></binding>
+   <binding name="title"><literal>SAVIO ed altri: Attribuzione di posti di insegnante elementare agli idonei del concorso magistrale autorizzato con ordinanza ministeriale n. 2250/48 del 31 luglio 1961</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>234</literal></binding>
+   <binding name="date"><literal>19630718</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Nuovi provvedimenti per le aree depresse dell&#39;Italia centrale e settentrionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3640</literal></binding>
+   <binding name="date"><literal>19661212</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Modifiche alla legge 30 gennaio 1963, n. 141, per la sistemazione degli ufficiali di complemento e della riserva di complemento in servizio presso l&#39;Ispettorato generale dell&#39;aviazione civile del Ministero dei trasporti e dell&#39;aviazione civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3745</literal></binding>
+   <binding name="date"><literal>19670126</literal></binding>
+   <binding name="title"><literal>DEGAN ed altri: Modifica alla legge 5 maggio 1907, n. 257, e successive integrazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4017</literal></binding>
+   <binding name="date"><literal>19670426</literal></binding>
+   <binding name="title"><literal>NANNINI ed altri: Norme integrative alla legge 25 luglio 1966, n. 603, concernente immissione di insegnanti abilitati nei ruoli della scuola media</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>426</literal></binding>
+   <binding name="date"><literal>19630913</literal></binding>
+   <binding name="title"><literal>FABBRI ed altri: Modifica alle norme relative ai concorsi magistrali ed all&#39;assunzione in ruolo degli insegnanti elementari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>524</literal></binding>
+   <binding name="date"><literal>19631004</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Provvidenze a favore dei circhi italiani e norme sulla attività dello spettacolo viaggiante</literal></binding>
+  </result>
+ </results>
+</sparql>

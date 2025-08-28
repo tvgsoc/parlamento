@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>166</literal></binding>
+   <binding name="date"><literal>19580726</literal></binding>
+   <binding name="title"><literal>REALE ed altri: Norme per la elezione dei Consigli regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1826</literal></binding>
+   <binding name="date"><literal>19591212</literal></binding>
+   <binding name="title"><literal>LA MALFA e REALE: Inchiesta parlamentare sulla R.A.I. e sui servizi di radioaudizioni, televisione e telediffusione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4349</literal></binding>
+   <binding name="date"><literal>19621212</literal></binding>
+   <binding name="title"><literal>LEONE ed altri: Mantenimento in servizio degli insegnanti abilitati all&#39;insegnamento di particolari materie nelle scuole ed istituti di istruzione secondaria di primo grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4612</literal></binding>
+   <binding name="date"><literal>19630208</literal></binding>
+   <binding name="title"><literal>BALDELLI ed altri: Proroga del termine stabilito dall&#39;articolo 55 della legge 24 luglio 1962, n. 1072</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>667</literal></binding>
+   <binding name="date"><literal>19581205</literal></binding>
+   <binding name="title"><literal>MACRELLI ed altri: Proroga del termine di entrata in vigore delle norme concernenti la disciplina della circolazione stradale, approvate con decreto del Presidente della Repubblica 27 ottobre 1958, n. 956</literal></binding>
+  </result>
+ </results>
+</sparql>

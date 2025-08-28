@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2596</literal></binding>
+   <binding name="date"><literal>19520314</literal></binding>
+   <binding name="title"><literal>ARCAINI e ADONNINO: Autonomia e riorganizzazione dell&#39;organico del personale delle Ragionerie delle Intendenze di finanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1407</literal></binding>
+   <binding name="date"><literal>19500703</literal></binding>
+   <binding name="title"><literal>ADONNINO ed altri: Per l&#39;elezione dei delegati alla prima sessione dell&#39;Assemblea Costituente Mondiale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2435</literal></binding>
+   <binding name="date"><literal>19511219</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Esenzione fiscale all&#39;Associazione nazionale mutilati civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2958</literal></binding>
+   <binding name="date"><literal>19521015</literal></binding>
+   <binding name="title"><literal>REPOSSI e ARCAINI: Nuove concessioni in materia di temporanea importazione ed esportazione</literal></binding>
+  </result>
+ </results>
+</sparql>

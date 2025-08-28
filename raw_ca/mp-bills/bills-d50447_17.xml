@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1576</literal></binding>
+   <binding name="date"><literal>20130912</literal></binding>
+   <binding name="title"><literal>DORINA BIANCHI ed altri: &quot;Norme concernenti l&#39;accesso ai corsi universitari e le relative prove di ammissione&quot; (1576)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2142</literal></binding>
+   <binding name="date"><literal>20140226</literal></binding>
+   <binding name="title"><literal>PIZZOLANTE ed altri: &quot;Disposizioni per la valorizzazione delle aree demaniali marittime e per la promozione degli investimenti nel settore turistico-alberghiero e ambientale&quot; (2142)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>129</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: &quot;Modifica all&#39;articolo 32 del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, in materia di tariffe assicurative&quot; (129)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2324</literal></binding>
+   <binding name="date"><literal>20140423</literal></binding>
+   <binding name="title"><literal>ROCCELLA ed altri: &quot;Norme per garantire la libertà di educazione e la responsabilità educativa dei genitori&quot; (2324)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2229</literal></binding>
+   <binding name="date"><literal>20140326</literal></binding>
+   <binding name="title"><literal>ROCCELLA ed altri: &quot;Disposizioni in materia di alleanza terapeutica, di consenso informato e di dichiarazioni anticipate di trattamento&quot; (2229)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>20140318</literal></binding>
+   <binding name="title"><literal>ATTAGUILE ed altri: &quot;Modifica all&#39;articolo 10 della legge 23 marzo 1981, n. 91, in materia di proprietà e organizzazione delle società sportive professionistiche&quot; (2202)</literal></binding>
+  </result>
+ </results>
+</sparql>

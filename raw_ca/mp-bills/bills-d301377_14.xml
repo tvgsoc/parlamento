@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5777</literal></binding>
+   <binding name="date"><literal>20050413</literal></binding>
+   <binding name="title"><literal>AIRAGHI ed altri: &quot;Istituzione del Giorno del ricordo delle vittime cadute nei gulag sovietici&quot; (5777)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5783</literal></binding>
+   <binding name="date"><literal>20050414</literal></binding>
+   <binding name="title"><literal>PAOLO RUSSO ed altri: &quot;Disposizioni in materia di tutela penale dell&#39;ambiente&quot; (5783)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5866</literal></binding>
+   <binding name="date"><literal>20050523</literal></binding>
+   <binding name="title"><literal>TAMBURRO ed altri: &quot;Disposizioni per l&#39;organizzazione delle centrali operative &#39;118&#39;, dei pronto soccorso e dei dipartimenti di emergenza&quot; (5866)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5919</literal></binding>
+   <binding name="date"><literal>20050616</literal></binding>
+   <binding name="title"><literal>D&#39;AGRÒ ed altri: &quot;Modifica all&#39;articolo 16 del decreto legislativo 15 dicembre 1997, n. 446, in materia di aliquota IRAP per gli enti pubblici istituiti esclusivamente per l&#39;esercizio di attività assistenziali e sanitarie&quot; (5919)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6078</literal></binding>
+   <binding name="date"><literal>20050916</literal></binding>
+   <binding name="title"><literal>TAMBURRO ed altri: &quot;Modifica all&#39;articolo 2 del decreto-legge 13 marzo 1988, n. 69, convertito, con modificazioni, dalla legge 13 maggio 1988, n. 153, in materia di assegni familiari&quot; (6078)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6109</literal></binding>
+   <binding name="date"><literal>20051006</literal></binding>
+   <binding name="title"><literal>D&#39;AGRÒ ed altri: &quot;Modifica dell&#39;articolo 639 del codice penale in materia di deturpamento e imbrattamento di cose altrui&quot; (6109)</literal></binding>
+  </result>
+ </results>
+</sparql>

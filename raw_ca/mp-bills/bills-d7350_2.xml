@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2571</literal></binding>
+   <binding name="date"><literal>19561127</literal></binding>
+   <binding name="title"><literal>GARLATO ed altri: Istituzione della provincia di Pordenone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2697</literal></binding>
+   <binding name="date"><literal>19570201</literal></binding>
+   <binding name="title"><literal>CHIARINI ed altri: Interpretazione autentica dell&#39;articolo 8 della legge 7 gennaio 1949, n. 1</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2826</literal></binding>
+   <binding name="date"><literal>19570329</literal></binding>
+   <binding name="title"><literal>GOTELLI ed altri: Norme per il riordinamento dei Patronati scolastici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2841</literal></binding>
+   <binding name="date"><literal>19570404</literal></binding>
+   <binding name="title"><literal>CAPPUGI ed altri: Modifiche alle disposizioni che regolano le speciali concessioni ferroviarie ai pensionati civili e militari dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3466</literal></binding>
+   <binding name="date"><literal>19580128</literal></binding>
+   <binding name="title"><literal>NEGRARI ed altri: Regolamentazione e disciplina del tiro a segno nazionale e costituzione della Federazione italiana del tiro a segno</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2091</literal></binding>
+   <binding name="date"><literal>19691204</literal></binding>
+   <binding name="title"><literal>BERLINGUER ed altri: Nuove norme sull&#39;orario di lavoro e riposo settimanale ed annuale dei lavoratori dipendenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>25</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>INGRAO ed altri: Modificazioni del primo comma dell&#39;articolo 48, del secondo comma dell&#39;articolo 56 e dell&#39;articolo 58 della Costituzione concernenti la diminuzione dei limiti di età previsti per il diritto elettorale attivo e passivo sia per la Camera dei deputati che per il Senato della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3975</literal></binding>
+   <binding name="date"><literal>19720127</literal></binding>
+   <binding name="title"><literal>LA BELLA ed altri: Modifiche e integrazioni al decreto-legge 1° aprile 1971, n. 119, convertito, con modificazioni, nella legge 26 maggio 1971, n. 288, concernente provvidenze a favore delle popolazioni dei comuni colpiti dal terremoto del febbraio 1971 in provincia di Viterbo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1176</literal></binding>
+   <binding name="date"><literal>19690312</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Norme per lo sviluppo democratico dell&#39;economia montana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Modifiche e integrazioni alla legge 18 marzo 1968, n. 238, ed al successivo decreto del Presidente della Repubblica 27 aprile 1968, n. 488 - Aumento e nuovo sistema di calcolo delle pensioni a carico dell&#39;assicurazione generale obbligatoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3239</literal></binding>
+   <binding name="date"><literal>19710324</literal></binding>
+   <binding name="title"><literal>LA BELLA ed altri: Provvedimenti in favore delle popolazioni di Tuscania, Arlena di Castro e di altri centri del viterbese, nonché di Assisi, Valfabbrica, Bastia Umbra e Gubbio in provincia di Perugia, colpite dal terremoto del 6 febbraio 1971</literal></binding>
+  </result>
+ </results>
+</sparql>

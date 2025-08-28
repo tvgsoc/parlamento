@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2035</literal></binding>
+   <binding name="date"><literal>19691121</literal></binding>
+   <binding name="title"><literal>USVARDI ed altri: Riposo settimanale per gli esercizi pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>223</literal></binding>
+   <binding name="date"><literal>19680719</literal></binding>
+   <binding name="title"><literal>BEMPORAD ed altri: Concessione di un contributo straordinario per il V Congresso internazionale di igiene e medicina preventiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2273</literal></binding>
+   <binding name="date"><literal>19700126</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Norme per la costruzione e l&#39;esercizio dei porti turistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2149</literal></binding>
+   <binding name="date"><literal>19691219</literal></binding>
+   <binding name="title"><literal>FELICI ed altri: Norme per le imbarcazioni da diporto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>231</literal></binding>
+   <binding name="date"><literal>19680722</literal></binding>
+   <binding name="title"><literal>NAPOLI ed altri: Estensione dell&#39;assistenza sanitaria e farmaceutica ai congiunti dei caduti, dei dispersi e delle vittime civili di guerra</literal></binding>
+  </result>
+ </results>
+</sparql>

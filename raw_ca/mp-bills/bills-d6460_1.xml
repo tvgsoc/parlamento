@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1511</literal></binding>
+   <binding name="date"><literal>19500728</literal></binding>
+   <binding name="title"><literal>CARCATERRA ed altri: Istituzione del grado VIII e abolizione del grado XIII nel gruppo C dei dipendenti delle Amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2411</literal></binding>
+   <binding name="date"><literal>19511213</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Disposizioni integrative dell&#39;articolo 36 della legge 25 giugno 1949, n. 409, per agevolare la ricostruzione delle abitazioni distrutte dagli eventi bellici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2435</literal></binding>
+   <binding name="date"><literal>19511219</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Esenzione fiscale all&#39;Associazione nazionale mutilati civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>699</literal></binding>
+   <binding name="date"><literal>19490716</literal></binding>
+   <binding name="title"><literal>LUCIFREDI ed altri: Proroga del termine per l&#39;effettuazione delle elezioni dei Consigli regionali e degli organi elettivi delle amministrazioni provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>995</literal></binding>
+   <binding name="date"><literal>19491219</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Vigilanza e controllo della stampa destinata all&#39;infanzia e all&#39;adolescenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1811</literal></binding>
+   <binding name="date"><literal>19510209</literal></binding>
+   <binding name="title"><literal>GIAMMARCO ed altri: Autorizzazione al Ministro dei lavori pubblici della spesa di lire 19.809.700.000 per la costruzione di case popolari da assegnare a famiglie alloggiate in baracche in dipendenza dei terremoti del 28 dicembre 1908 e del 15 gennaio 1915</literal></binding>
+  </result>
+ </results>
+</sparql>

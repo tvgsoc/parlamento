@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4479</literal></binding>
+   <binding name="date"><literal>19671019</literal></binding>
+   <binding name="title"><literal>CASTELLI ed altri: Iscrizione dell&#39;idrovia Melegnano-Pavia-Po tra le linee navigabili di seconda classe</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4956</literal></binding>
+   <binding name="date"><literal>19680304</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4975</literal></binding>
+   <binding name="date"><literal>19680306</literal></binding>
+   <binding name="title"><literal>TOGNI ed altri: Ente di previdenza ed assistenza a favore dei consulenti del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4665</literal></binding>
+   <binding name="date"><literal>19671214</literal></binding>
+   <binding name="title"><literal>FRANZO ed altri: Estensione anche alle colture delle provvidenze previste dall&#39;articolo 7 della legge 27 ottobre 1966, n. 910</literal></binding>
+  </result>
+ </results>
+</sparql>

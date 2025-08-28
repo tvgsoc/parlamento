@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4195</literal></binding>
+   <binding name="date"><literal>19751217</literal></binding>
+   <binding name="title"><literal>TARSIA INCURIA: Estensione delle disposizioni contenute nell&#39;articolo 10 della legge 10 ottobre 1974, n. 496, al personale del corpo delle guardie di pubblica sicurezza già militarizzate nelle forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4405</literal></binding>
+   <binding name="date"><literal>19760331</literal></binding>
+   <binding name="title"><literal>TARSIA INCURIA: Riconoscimento dei servizi prestati dagli ufficiali del Ruolo d&#39;onore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4078</literal></binding>
+   <binding name="date"><literal>19751023</literal></binding>
+   <binding name="title"><literal>DE MARZIO ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sui livelli retributivi nell&#39;impiego pubblico e assimilabile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4188</literal></binding>
+   <binding name="date"><literal>19751212</literal></binding>
+   <binding name="title"><literal>GUARRA ed altri: Nuovo ordinamento delle attività urbanistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4258</literal></binding>
+   <binding name="date"><literal>19760113</literal></binding>
+   <binding name="title"><literal>DÈ VIDOVICH ed altri: Indennizzo definitivo dei beni abbandonati nei territori ceduti alla Jugoslavia e nella zona &quot;B&quot; di Trieste</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4323</literal></binding>
+   <binding name="date"><literal>19760221</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta per la moralizzazione della vita politica italiana. Accertamento delle responsabilità di società e di enti economici o finanziari pubblici e privati e dei servizi speciali italiani e stranieri in danno dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4324</literal></binding>
+   <binding name="date"><literal>19760221</literal></binding>
+   <binding name="title"><literal>ROBERTI ed altri: Aumento dei limiti di reddito per la concessione delle provvidenze di cui all&#39;articolo 7 del decreto-legge 2 marzo 1974, n. 30, convertito, con modificazioni, nella legge 16 aprile 1974, n. 114, a favore dei mutilati ed invalidi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4389</literal></binding>
+   <binding name="date"><literal>19760316</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Inchiesta parlamentare sull&#39;attuazione delle provvidenze e degli interventi già disposti per la costruzione e la ripresa economica dei comuni della Sicilia colpiti dai terremoti del 1968</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4182</literal></binding>
+   <binding name="date"><literal>19751211</literal></binding>
+   <binding name="title"><literal>SANTAGATI ed altri: Provvidenze per il rilancio del Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4391</literal></binding>
+   <binding name="date"><literal>19760325</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Provvedimenti per accelerare e completare la ricostruzione dei paesi della Sicilia colpiti dai terremoti del gennaio 1968</literal></binding>
+  </result>
+ </results>
+</sparql>

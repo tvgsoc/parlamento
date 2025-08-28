@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1406</literal></binding>
+   <binding name="date"><literal>19500703</literal></binding>
+   <binding name="title"><literal>MONTERISI ed altri: Ratizzazione dei prestiti o delle quote di prestiti agrari di esercizio scadenti in provincia di Foggia durante l&#39;anno 1949</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1385</literal></binding>
+   <binding name="date"><literal>19500623</literal></binding>
+   <binding name="title"><literal>SEMERARO ed altri: Disposizioni per un più sicuro e stabile impiego della mano d&#39;opera agricola disoccupata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1671</literal></binding>
+   <binding name="date"><literal>19501124</literal></binding>
+   <binding name="title"><literal>TROISI ed altri: Provvedimenti per il completamento dell&#39;ospedale policlinico di Bari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>168</literal></binding>
+   <binding name="date"><literal>19481118</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Estensione delle provvidenze dell&#39;Opera nazionale per i pensionati della previdenza sociale a tutte le categorie dei pensionati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2176</literal></binding>
+   <binding name="date"><literal>19510919</literal></binding>
+   <binding name="title"><literal>CACCURI ed altri: Estensione della legge 11 marzo 1951, n. 134, sulla abilitazione provvisoria dell&#39;esercizio professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3273</literal></binding>
+   <binding name="date"><literal>19530313</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Assistenza sanitaria agli artigiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>344</literal></binding>
+   <binding name="date"><literal>19490217</literal></binding>
+   <binding name="title"><literal>SEMERARO ed altri: Istituzione della Direzione generale per l&#39;assistenza alla gioventù presso la Presidenza del Consiglio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>408</literal></binding>
+   <binding name="date"><literal>19490312</literal></binding>
+   <binding name="title"><literal>CACCURI ed altri: Regolazione del servizio di riscossione delle imposte di consumo e tasse affini col sistema per conto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>409</literal></binding>
+   <binding name="date"><literal>19490312</literal></binding>
+   <binding name="title"><literal>ARMOSINO ed altri: Unificazione dell&#39;imposta consumo sui vini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>495</literal></binding>
+   <binding name="date"><literal>19490411</literal></binding>
+   <binding name="title"><literal>MONTICELLI ed altri: Autorizzazione della spesa di lire 100.000.000 per il finanziamento della repressione delle frodi nella preparazione e nel commercio di sostanze di uso agrario e di prodotti agrari, con speciale riguardo al settore vitivinicolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>707</literal></binding>
+   <binding name="date"><literal>19490720</literal></binding>
+   <binding name="title"><literal>MONTICELLI ed altri: Modificazioni al decreto-legge 15 ottobre 1925, n. 2033, per quanto concerne la repressione delle frodi nella preparazione e nel commercio del vino e dell&#39;aceto</literal></binding>
+  </result>
+ </results>
+</sparql>

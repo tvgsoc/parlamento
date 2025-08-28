@@ -1,0 +1,94 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1497</literal></binding>
+   <binding name="date"><literal>19550303</literal></binding>
+   <binding name="title"><literal>DANTE: Modifiche al testo unico della legge sul terremoto del 28 dicembre 1909, approvato con decreto-legge luogotenenziale 19 agosto 1917, n. 1399</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2462</literal></binding>
+   <binding name="date"><literal>19561001</literal></binding>
+   <binding name="title"><literal>DANTE: Modifiche al regio decreto 11 dicembre 1930, n. 1945, concernente norme per l&#39;ordinamento dell&#39;istruzione musicale ed approvazione dei programmi di esami</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1291</literal></binding>
+   <binding name="date"><literal>19541202</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Assegnazione di posti di notaio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1778</literal></binding>
+   <binding name="date"><literal>19550927</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Estensione del credito alle attività pescherecce del Meridione e delle Isole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2406</literal></binding>
+   <binding name="date"><literal>19560718</literal></binding>
+   <binding name="title"><literal>ALDISIO ed altri: Istituzione di una Sezione speciale della Corte Costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2727</literal></binding>
+   <binding name="date"><literal>19570221</literal></binding>
+   <binding name="title"><literal>BONTADE ed altri: Ricorrenza festiva del 4 ottobre in onore dei Patroni speciali d&#39;Italia San Francesco d&#39;Assisi e Santa Caterina da Siena</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2780</literal></binding>
+   <binding name="date"><literal>19570312</literal></binding>
+   <binding name="title"><literal>BUFFONE ed altri: Trattamento giuridico ed economico dei sottufficiali dell&#39;Esercito, della Marina e dell&#39;Aeronautica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2788</literal></binding>
+   <binding name="date"><literal>19570315</literal></binding>
+   <binding name="title"><literal>ALDISIO ed altri: Contributi per le opere dell&#39;Ente siciliano di elettricità (E.S.E.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3132</literal></binding>
+   <binding name="date"><literal>19570731</literal></binding>
+   <binding name="title"><literal>BUFFONE ed altri: Istituzione della provincia di Castrovillari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3209</literal></binding>
+   <binding name="date"><literal>19571007</literal></binding>
+   <binding name="title"><literal>CACCURI ed altri: Istituzione della provincia di Barletta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3345</literal></binding>
+   <binding name="date"><literal>19571204</literal></binding>
+   <binding name="title"><literal>CARONIA ed altri: Provvidenze a favore dei comuni di Messina e Reggio Calabria</literal></binding>
+  </result>
+ </results>
+</sparql>

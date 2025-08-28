@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1088</literal></binding>
+   <binding name="date"><literal>19590418</literal></binding>
+   <binding name="title"><literal>ROMANATO ed altri: Estensione al liceo linguistico &quot;Marianum&quot; di Padova delle norme in vigore per l&#39;iscrizione ai corsi per il conseguimento della laurea in lingue e letterature straniere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1644</literal></binding>
+   <binding name="date"><literal>19591016</literal></binding>
+   <binding name="title"><literal>MIGLIORI ed altri: Disposizioni concernenti l&#39;affissione e l&#39;esposizione al pubblico di manifesti, immagini, oggetti contrari al pudore o alla decenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2825</literal></binding>
+   <binding name="date"><literal>19610216</literal></binding>
+   <binding name="title"><literal>DE MARZI ed altri: Intitolazione della Stazione bacologica sperimentale di Padova al professore Enrico Verson</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>43</literal></binding>
+   <binding name="date"><literal>19580620</literal></binding>
+   <binding name="title"><literal>DE MARZI ed altri: Istituzione di una scuola nazionale di Stato per la meccanica agraria</literal></binding>
+  </result>
+ </results>
+</sparql>

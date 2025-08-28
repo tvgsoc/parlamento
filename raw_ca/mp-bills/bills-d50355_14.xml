@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6013</literal></binding>
+   <binding name="date"><literal>20050725</literal></binding>
+   <binding name="title"><literal>MARZANO: &quot;Disposizioni in materia di prestiti vitalizi ipotecari in favore di persone di età superiore ai 65 anni&quot; (6013)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6049</literal></binding>
+   <binding name="date"><literal>20050822</literal></binding>
+   <binding name="title"><literal>MARZANO: &quot;Disposizioni per garantire la celerità negli adempimenti a carico degli uffici della motorizzazione civile&quot; (6049)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5783</literal></binding>
+   <binding name="date"><literal>20050414</literal></binding>
+   <binding name="title"><literal>PAOLO RUSSO ed altri: &quot;Disposizioni in materia di tutela penale dell&#39;ambiente&quot; (5783)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5919</literal></binding>
+   <binding name="date"><literal>20050616</literal></binding>
+   <binding name="title"><literal>D&#39;AGRÒ ed altri: &quot;Modifica all&#39;articolo 16 del decreto legislativo 15 dicembre 1997, n. 446, in materia di aliquota IRAP per gli enti pubblici istituiti esclusivamente per l&#39;esercizio di attività assistenziali e sanitarie&quot; (5919)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5977</literal></binding>
+   <binding name="date"><literal>20050707</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: &quot;Disposizioni per la rivalutazione delle pensioni in relazione alle variazioni del potere di acquisto della moneta&quot; (5977)</literal></binding>
+  </result>
+ </results>
+</sparql>

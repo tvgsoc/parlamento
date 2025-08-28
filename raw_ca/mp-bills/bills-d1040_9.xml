@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>92</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>BORTOLANI ed altri: Istituzione dell&#39;albo professionale degli agrotecnici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>116</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>CARLOTTO ed altri: Cessione ai comuni di immobili del demanio dello Stato dismessi dall&#39;autorità militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>122</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>CARLOTTO ed altri: Norme per la vendita ambulante di prodotti vinosi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>124</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>CARLOTTO ed altri: Provvedimenti in favore dei coltivatori diretti delle zone montane in materia di tariffe telefoniche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>125</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>CARLOTTO ed altri: Norme sulle strade vicinali di uso pubblico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3811</literal></binding>
+   <binding name="date"><literal>19860605</literal></binding>
+   <binding name="title"><literal>ANSELMI ed altri: Disciplina dei farmaci per uso veterinario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>121</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>CARLOTTO ed altri: Modifica dell&#39;articolo 86 del testo unico 15 giugno 1959, n. 393, e successive modificazioni, concernente il limite minimo di età per la guida di macchine agricole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>201</literal></binding>
+   <binding name="date"><literal>19830719</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: Modifiche alla legge 20 maggio 1982, n. 270, concernente la sistemazione del personale docente e non docente precario della scuola materna, elementare, secondaria di primo e secondo grado ed artistica</literal></binding>
+  </result>
+ </results>
+</sparql>

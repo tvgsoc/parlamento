@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5888</literal></binding>
+   <binding name="date"><literal>19910725</literal></binding>
+   <binding name="title"><literal>GAVA ed altri: Criteri di indicizzazione e automatico adeguamento degli stipendi dei magistrati e dell&#39;indennità parlamentare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5890</literal></binding>
+   <binding name="date"><literal>19910726</literal></binding>
+   <binding name="title"><literal>GAVA ed altri: Modifica del comma 6 dell&#39;articolo 48 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, riguardante la tassazione delle indennità percepite dai membri del Parlamento nazionale, del Parlamento Europeo, dei consigli regionali e della Corte costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5440</literal></binding>
+   <binding name="date"><literal>19910207</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Linee di indirizzo per una politica per la famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5867</literal></binding>
+   <binding name="date"><literal>19910720</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Modifiche al testo unico delle leggi recanti norme per le elezione della Camera dei deputati, approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e alla legge 6 febbraio 1948, n. 29, recante norme per la elezione del Senato della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5868</literal></binding>
+   <binding name="date"><literal>19910720</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Modifica degli articoli 88, 92, 93, 94 e 95 e introduzione degli articoli 70-bis e 77-bis della Costituzione</literal></binding>
+  </result>
+ </results>
+</sparql>

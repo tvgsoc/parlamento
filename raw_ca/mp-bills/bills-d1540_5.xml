@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3260</literal></binding>
+   <binding name="date"><literal>19710401</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Nuove norme sulle servitù militari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>123</literal></binding>
+   <binding name="date"><literal>19680704</literal></binding>
+   <binding name="title"><literal>CECCHERINI: Distacco del comune di Forgaria nel Friuli dalla provincia di Pordenone e sua inclusione in quella di Udine</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1829</literal></binding>
+   <binding name="date"><literal>19690925</literal></binding>
+   <binding name="title"><literal>CORTI ed altri: Modifiche alle norme del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, concernenti il personale assunto a contratto dalle rappresentanze diplomatiche e dagli uffici consolari del Ministero degli esteri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2022</literal></binding>
+   <binding name="date"><literal>19691114</literal></binding>
+   <binding name="title"><literal>SILVESTRI ed altri: Istituzione e ordinamento del fondo di previdenza per gli agenti di cambio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2037</literal></binding>
+   <binding name="date"><literal>19691121</literal></binding>
+   <binding name="title"><literal>SARGENTINI ed altri: Integrazione della legge 28 luglio 1967, n. 669, sulla estensione dell&#39;assicurazione contro le malattie in favore dei sacerdoti di culto cattolico e dei ministri delle altre confessioni religiose</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2166</literal></binding>
+   <binding name="date"><literal>19691219</literal></binding>
+   <binding name="title"><literal>NAPOLI ed altri: Estensione dei benefici previsti dall&#39;articolo 9 della legge 2 aprile 1968, n. 408, ad alcune categorie degli ufficiali del Corpo delle guardie di pubblica sicurezza iscritti nel ruolo ordinario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2192</literal></binding>
+   <binding name="date"><literal>19700115</literal></binding>
+   <binding name="title"><literal>CIAMPAGLIA e CECCHERINI: Modifica della legge 10 marzo 1955, n. 96, concernente provvidenze a favore dei perseguitati politici antifascisti o razziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2906</literal></binding>
+   <binding name="date"><literal>19701211</literal></binding>
+   <binding name="title"><literal>CALVETTI ed altri: Modifica all&#39;articolo unico del decreto legislativo del Capo provvisorio dello Stato 6 marzo 1948, n. 341, concernente il collaudo di lavori pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3695</literal></binding>
+   <binding name="date"><literal>19711015</literal></binding>
+   <binding name="title"><literal>GUI ed altri: Concessione di un contributo annuo all&#39;Ente nazionale Francesco Petrarca in Padova</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3736</literal></binding>
+   <binding name="date"><literal>19711027</literal></binding>
+   <binding name="title"><literal>CANESTRARI ed altri: Rivalutazione automatica e revisione periodica delle pensioni ai dipendenti degli enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1662</literal></binding>
+   <binding name="date"><literal>19690703</literal></binding>
+   <binding name="title"><literal>LIZZERO ed altri: Modifiche ed integrazione alla legge 27 novembre 1939, n. 1780, sull&#39;Ente nazionale per le Tre Venezie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2360</literal></binding>
+   <binding name="date"><literal>19700225</literal></binding>
+   <binding name="title"><literal>BERSANI ed altri: Norme per il riconoscimento del servizio volontario nella cooperazione tecnica internazionale</literal></binding>
+  </result>
+ </results>
+</sparql>

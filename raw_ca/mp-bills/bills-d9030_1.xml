@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2295</literal></binding>
+   <binding name="date"><literal>19511112</literal></binding>
+   <binding name="title"><literal>MANZINI: Assegnazione di un nuovo termine per la presentazione delle domande di pagamento delle indennità di cui agli articoli 1 e 15 della legge 9 gennaio 1951, n. 10</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2361</literal></binding>
+   <binding name="date"><literal>19511129</literal></binding>
+   <binding name="title"><literal>MANZINI: Irripetibilità dei contributi diretti in capitale e rateali e dei premi di acceleramento ed intangibilità dei mutui ipotecari col concorso statale di cui ai decreti legislativi luogotenenziali 17 novembre 1944, n. 366, 18 gennaio 1945, n. 4, e 9 giugno 1945, n. 305, nonché al decreto legislativo del Capo provvisorio dello Stato 10 aprile 1947, n. 261, concessi per la riparazione e la ricostruzione di fabbricati rurali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>47</literal></binding>
+   <binding name="date"><literal>19480712</literal></binding>
+   <binding name="title"><literal>MANZINI ed altri: Ripristino delle linee elettriche nei Comuni montani danneggiati dalla guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>73</literal></binding>
+   <binding name="date"><literal>19480802</literal></binding>
+   <binding name="title"><literal>MANZINI ed altri: Erezione in comune autonomo delle frazioni di Piano del Voglio, Montefredente, Qualto, e borgate di Cà dei Berti, Cà dei Camillini, Cà dei Zattoni e Cà dei Falgheroni del comune di San Benedetto Val di Sambro, con capoluogo in Piano del Voglio (Bologna)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1142</literal></binding>
+   <binding name="date"><literal>19500308</literal></binding>
+   <binding name="title"><literal>MELLONI ed altri: Concessione di pensione straordinaria alle vedove di Giuseppe Donati e di Adriano Tilgher</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1183</literal></binding>
+   <binding name="date"><literal>19500323</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Disposizione relative alla cinematografia per ragazzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2398</literal></binding>
+   <binding name="date"><literal>19511207</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Proroga della legge 17 ottobre 1950, n. 840: &quot;Fondo per il finanziamento dell&#39;industria meccanica&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>995</literal></binding>
+   <binding name="date"><literal>19491219</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Vigilanza e controllo della stampa destinata all&#39;infanzia e all&#39;adolescenza</literal></binding>
+  </result>
+ </results>
+</sparql>

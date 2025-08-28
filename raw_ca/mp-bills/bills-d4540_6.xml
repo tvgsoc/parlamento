@@ -1,0 +1,100 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>18</literal></binding>
+   <binding name="date"><literal>19720517</literal></binding>
+   <binding name="title"><literal>PELLICANI: Elettorato attivo al compimento del diciottesimo anno di età, e modifica dell&#39;articolo 48 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1287</literal></binding>
+   <binding name="date"><literal>19721207</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Riforma dell&#39;ordinamento universitario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1599</literal></binding>
+   <binding name="date"><literal>19730201</literal></binding>
+   <binding name="title"><literal>VITTORELLI ed altri: Concessione di un contributo annuo di lire 80.000.000 a favore della Fondazione Giacomo Brodolini con sede a Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1655</literal></binding>
+   <binding name="date"><literal>19730211</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Disciplina dell&#39;aborto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2261</literal></binding>
+   <binding name="date"><literal>19730704</literal></binding>
+   <binding name="title"><literal>MASCIADRI ed altri: Norme per la riorganizzazione ed il funzionamento del servizio repressione frodi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>257</literal></binding>
+   <binding name="date"><literal>19720614</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Norme modificative della disciplina delle società per azioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3905</literal></binding>
+   <binding name="date"><literal>19750709</literal></binding>
+   <binding name="title"><literal>VENTURINI ed altri: Proroga della durata in carica delle commissioni provinciali dell&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4052</literal></binding>
+   <binding name="date"><literal>19751010</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Norme sull&#39;abusivismo in edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>644</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>CATTANEO PETRINI ed altri: Contributo al Centro internazionale di studi per la divulgazione della musica italiana con sede in Venezia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>679</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Abrogazione di alcune norme del codice penale e modifica del decreto legislativo 22 gennaio 1948, n. 66, concernenti norme per assicurare la libera circolazione nelle strade ferrate ed ordinarie e la libera navigazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>81</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>GRAMEGNA ed altri: Estensione delle disposizioni in materia di pensioni di guerra ai civili caduti nel corso di dimostrazioni avvenute dopo il 25 luglio 1943</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1881</literal></binding>
+   <binding name="date"><literal>19730316</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Nuove norme per la repressione del traffico di stupefacenti e psicodroghe e per la prevenzione e cura delle tossicomanie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1990</literal></binding>
+   <binding name="date"><literal>19730406</literal></binding>
+   <binding name="title"><literal>ALLOCCA ed altri: Stanziamento di 300 miliardi alla Cassa per il Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>616</literal></binding>
+   <binding name="date"><literal>19720731</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Riconoscimento dell&#39;obiezione di coscienza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>754</literal></binding>
+   <binding name="date"><literal>19720911</literal></binding>
+   <binding name="title"><literal>CONCAS ed altri: Modificazione all&#39;articolo 277 del codice di procedura penale concernente il mandato di cattura obbligatorio e la libertà provvisoria condizionata</literal></binding>
+  </result>
+ </results>
+</sparql>

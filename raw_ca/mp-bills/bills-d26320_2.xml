@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1608</literal></binding>
+   <binding name="date"><literal>19550510</literal></binding>
+   <binding name="title"><literal>CARONIA ed altri: Collocamento a riposo dei sanitari ospedalieri di ruolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1894</literal></binding>
+   <binding name="date"><literal>19551124</literal></binding>
+   <binding name="title"><literal>ROSINI ed altri: Sistemazione dell&#39;Archivio di Stato di Venezia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2164</literal></binding>
+   <binding name="date"><literal>19560328</literal></binding>
+   <binding name="title"><literal>DE LAURO MATERA ed altri: Norme per l&#39;organizzazione dell&#39;istruzione primaria e stato giuridico del personale ispettivo, direttivo e insegnante della scuola elementare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2165</literal></binding>
+   <binding name="date"><literal>19560328</literal></binding>
+   <binding name="title"><literal>LOZZA ed altri: Stato giuridico del personale direttivo e docente degli Istituti di istruzione secondaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>278</literal></binding>
+   <binding name="date"><literal>19531020</literal></binding>
+   <binding name="title"><literal>BARDINI ed altri: Sistemazione delle cliniche dell&#39;Università di Siena</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>31</literal></binding>
+   <binding name="date"><literal>19530725</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Ammissione dei diplomati degli Istituti tecnici alle Facoltà universitarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>631</literal></binding>
+   <binding name="date"><literal>19540128</literal></binding>
+   <binding name="title"><literal>AUDISIO ed altri: Contributi ed agevolazioni per le cantine sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>648</literal></binding>
+   <binding name="date"><literal>19540218</literal></binding>
+   <binding name="title"><literal>BERNIERI ed altri: Istituzione delle biblioteche comunali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>910</literal></binding>
+   <binding name="date"><literal>19540520</literal></binding>
+   <binding name="title"><literal>GATTO ed altri: Provvedimenti per la salvaguardia del carattere lagunare e monumentale di Venezia attraverso opere di risanamento civico e di interesse turistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>186</literal></binding>
+   <binding name="date"><literal>19530929</literal></binding>
+   <binding name="title"><literal>CAPALOZZA ed altri: Norme interpretative degli articoli 102 e 103 della Costituzione in relazione alla giurisdizione militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>69</literal></binding>
+   <binding name="date"><literal>19530819</literal></binding>
+   <binding name="title"><literal>LOZZA e MARCHESI: Modificazioni al decreto legislativo del Capo provvisorio dello Stato 24 gennaio 1947, n. 457, per il riordinamento dei patronati scolastici</literal></binding>
+  </result>
+ </results>
+</sparql>

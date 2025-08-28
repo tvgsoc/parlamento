@@ -1,0 +1,16 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>586</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>BOCO: &quot;Norme per la valorizzazione della &#39;Via Francigenà e delle antiche &#39;Vie del Camminò&quot; (586)</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>843</literal></binding>
+   <binding name="date"><literal>19920525</literal></binding>
+   <binding name="title"><literal>AMATO e ROSINI: Norme relative alla previdenza complementare collettiva e all&#39;istituzione dei &quot;fondi pensione&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>120</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Riforma dell&#39;ordinamento regionale dello Stato e nuova struttura bicamerale del Parlamento. Modifiche agli articoli 11,69, 70, 72 e 97 della Costituzione; introduzione degli articoli 72-bis e 95-bis</literal></binding>
+  </result>
+ </results>
+</sparql>

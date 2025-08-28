@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2795</literal></binding>
+   <binding name="date"><literal>19610204</literal></binding>
+   <binding name="title"><literal>MARZOTTO: Modifica dell&#39;articolo 3 della legge 20 dicembre 1932, n. 1849, sulla riforma del testo unico delle leggi sulle servitù militari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>737</literal></binding>
+   <binding name="date"><literal>19581218</literal></binding>
+   <binding name="title"><literal>MARZOTTO: Integrazione, a carico dell&#39;erario, dei bilanci dell&#39;Amministrazione provinciale di Rovigo e delle Amministrazioni comunali di Ariano Polesine, Taglio di Po, Porto Tolle, Contarina e Donada in relazione con la concessione di sgravi di sovrimposte concessi o da concedere in conseguenza dei danni arrecati dalle alluvioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1794</literal></binding>
+   <binding name="date"><literal>19591204</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Disciplina dell&#39;apertura e dell&#39;esercizio delle case da giuoco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1816</literal></binding>
+   <binding name="date"><literal>19591212</literal></binding>
+   <binding name="title"><literal>FERIOLI ed altri: Estensione dei benefici previsti dalla legge 2 aprile 1958, n. 364, ai cittadini italiani residenti nelle provincie di Trento, Bolzano e Belluno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2027</literal></binding>
+   <binding name="date"><literal>19600217</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Riconoscimento agli insegnanti di educazione fisica del servizio di ruolo anteriore al 1946, ai fini della indennità di buonuscita</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>223</literal></binding>
+   <binding name="date"><literal>19580802</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Riforma del contenzioso tributario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>238</literal></binding>
+   <binding name="date"><literal>19580802</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Facoltà di istituire con legge ordinaria giudici speciali in materia tributaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2444</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Disciplina della scuola non statale e degli esami di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2448</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Inchiesta parlamentare sulla scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>634</literal></binding>
+   <binding name="date"><literal>19581128</literal></binding>
+   <binding name="title"><literal>ALPINO ed altri: Interpretazione autentica del primo comma dell&#39;articolo 17 della legge 2 luglio 1949, n. 408</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>579</literal></binding>
+   <binding name="date"><literal>19581121</literal></binding>
+   <binding name="title"><literal>COLITTO ed altri: Proroga del termine di entrata in vigore delle norme concernenti la disciplina della circolazione stradale, approvate con decreto del Presidente della Repubblica 27 ottobre 1958, n. 956</literal></binding>
+  </result>
+ </results>
+</sparql>

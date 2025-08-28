@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1695</literal></binding>
+   <binding name="date"><literal>19550623</literal></binding>
+   <binding name="title"><literal>VIALE: Proroga del termine per la sostituzione dei biglietti della Banca d&#39;Italia da lire 500 e da lire 1000, di vecchie emissioni, e dei titoli provvisori della Banca d&#39;Italia da lire 5.000 e 10.000</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2425</literal></binding>
+   <binding name="date"><literal>19560721</literal></binding>
+   <binding name="title"><literal>VIALE: Norme per agevolare il conseguimento dei gradi al personale marittimo di macchina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>111</literal></binding>
+   <binding name="date"><literal>19530824</literal></binding>
+   <binding name="title"><literal>MENOTTI ed altri: Aumento dell&#39;imposta di soggiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>112</literal></binding>
+   <binding name="date"><literal>19530824</literal></binding>
+   <binding name="title"><literal>MENOTTI ed altri: Aumento del contributo di cura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1552</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>SAVIO ed altri: Provvedimenti a favore della scuola elementare in montagna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19560420</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Provvedimenti a favore dei menomati negli arti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>252</literal></binding>
+   <binding name="date"><literal>19531013</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione della pensione di invalidità e vecchiaia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2961</literal></binding>
+   <binding name="date"><literal>19570611</literal></binding>
+   <binding name="title"><literal>LUCIFREDI ed altri: Provvidenze per la regolarizzazione del titolo di proprietà in favore della piccola proprietà rurale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>266</literal></binding>
+   <binding name="date"><literal>19531015</literal></binding>
+   <binding name="title"><literal>CAPPA ed altri: Provvidenze a favore delle zone disastrate dall&#39;alluvione del 19 settembre 1953 nelle provincie di Genova e Piacenza</literal></binding>
+  </result>
+ </results>
+</sparql>

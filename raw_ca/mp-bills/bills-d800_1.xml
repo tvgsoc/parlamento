@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1122</literal></binding>
+   <binding name="date"><literal>19500224</literal></binding>
+   <binding name="title"><literal>LECCISO ed altri: Rinnovazione graduale del patrimonio immobiliare dell&#39;Istituto nazionale per le case degli impiegati dello Stato e degli Istituti similari al fine di incrementare le nuove costruzioni, e disciplina di alcuni rapporti fra gli stessi enti e i loro inquilini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1428</literal></binding>
+   <binding name="date"><literal>19500708</literal></binding>
+   <binding name="title"><literal>ROSELLI ed altri: Consumo obbligatorio di minerali nazionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19500722</literal></binding>
+   <binding name="title"><literal>DONATINI ed altri: Provvidenze per la fabbriceria di Santa Maria del Fiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2263</literal></binding>
+   <binding name="date"><literal>19511026</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Nuove norme per la disciplina della costruzione dei campi sportivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2494</literal></binding>
+   <binding name="date"><literal>19520130</literal></binding>
+   <binding name="title"><literal>GENNAI TONIETTI ed altri: Istituzione di una tassa sui minerali nei comuni dell&#39;Isola d&#39;Elba</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3230</literal></binding>
+   <binding name="date"><literal>19530305</literal></binding>
+   <binding name="title"><literal>PAGANELLI ed altri: Iscrizione, in un ruolo transitorio, degli insegnanti non di ruolo di educazione fisica, muniti del diploma di abilitazione ai sensi della legge 3 giugno 1950, n. 415</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2371</literal></binding>
+   <binding name="date"><literal>19880218</literal></binding>
+   <binding name="title"><literal>ZAVETTIERI ed altri: Norme per inserire l&#39;insegnamento della lingua internazionale &quot;Esperanto&quot; nelle scuole medie dell&#39;obbligo e superiori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2536</literal></binding>
+   <binding name="date"><literal>19880330</literal></binding>
+   <binding name="title"><literal>CRAXI ed altri: Disciplina dell&#39;intervento organico in attuazione dell&#39;articolo 13 dello Statuto speciale della Regione autonoma della Sardegna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3938</literal></binding>
+   <binding name="date"><literal>19890512</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifiche ed integrazioni alla legge 22 maggio 1978, n. 194, recante norme per la tutela sociale della maternità e sull&#39;interruzione volontaria della gravidanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5329</literal></binding>
+   <binding name="date"><literal>19901219</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Istituzione dell&#39;assegno di maternità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5336</literal></binding>
+   <binding name="date"><literal>19901220</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifiche e integrazioni alla legge 4 maggio 1983, n. 184, recante disciplina dell&#39;adozione e dell&#39;affidamento dei minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6099</literal></binding>
+   <binding name="date"><literal>19911114</literal></binding>
+   <binding name="title"><literal>POTÌ ed altri: Norme per il finanziamento della realizzazione di un acquedotto sottomarino tra l&#39;Albania e l&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>622</literal></binding>
+   <binding name="date"><literal>19870707</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Norme per la tutela dei lavoratori italiani all&#39;estero</literal></binding>
+  </result>
+ </results>
+</sparql>

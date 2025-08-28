@@ -1,0 +1,556 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1656</literal></binding>
+   <binding name="date"><literal>19960626</literal></binding>
+   <binding name="title"><literal>BACCINI ed altri: Interventi straordinari per il litorale del Lazio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2190</literal></binding>
+   <binding name="date"><literal>19960909</literal></binding>
+   <binding name="title"><literal>BACCINI: Norme per il riordino su base regionale della Cassa depositi e prestiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2307</literal></binding>
+   <binding name="date"><literal>19960925</literal></binding>
+   <binding name="title"><literal>BACCINI: Riforma fiscale in senso federalista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2329</literal></binding>
+   <binding name="date"><literal>19960926</literal></binding>
+   <binding name="title"><literal>BACCINI ed altri: Norme per la deducibilità totale, ai fini dell&#39;IRPEF, delle spese mediche e di assistenza specifica a favore di soggetti gravemente handicappati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2330</literal></binding>
+   <binding name="date"><literal>19960926</literal></binding>
+   <binding name="title"><literal>BACCINI: Norme per la deducibilità totale, ai fini dell&#39;IRPEF, delle spese legalisostenute dai soggetti nei confronti dei quali è stata pronunciata sentenza di non luogo a procedere o di proscioglimento non piu&#39;impugnabile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2542</literal></binding>
+   <binding name="date"><literal>19961023</literal></binding>
+   <binding name="title"><literal>BACCINI: Norme in materia di alienazione degli immobili di proprietà dell&#39;INA S.p.a. e della CONSAP S.p.a.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2707</literal></binding>
+   <binding name="date"><literal>19961114</literal></binding>
+   <binding name="title"><literal>BACCINI: Norme in materia di modalità di alienazione degli immobili già trasferiti dall&#39;Azienda di Stato per i servizi telefonici all&#39;Amministrazione delle poste e delle telecomunicazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2766</literal></binding>
+   <binding name="date"><literal>19961126</literal></binding>
+   <binding name="title"><literal>BACCINI: Modifica all&#39;articolo 18 del decreto legislativo 21 aprile 1993, n. 124, in materia di previdenza integrativa privata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2798</literal></binding>
+   <binding name="date"><literal>19961129</literal></binding>
+   <binding name="title"><literal>BACCINI ed altri: Istituzione dell&#39;ordine professionale degli informatici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3018</literal></binding>
+   <binding name="date"><literal>19970122</literal></binding>
+   <binding name="title"><literal>BACCINI ed altri: Istituzione di una Commissione parlamentare di inchiesta sulla sicurezza del sistema ferroviario italiano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3303</literal></binding>
+   <binding name="date"><literal>19970226</literal></binding>
+   <binding name="title"><literal>BACCINI ed altri: Istituzione di una tabella nazionale di riferimento per il risarcimento del danno biologico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4157</literal></binding>
+   <binding name="date"><literal>19970923</literal></binding>
+   <binding name="title"><literal>BACCINI: Modifica all&#39;articolo 18 del regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, in materiadi accesso alla professione di avvocato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4563</literal></binding>
+   <binding name="date"><literal>19980216</literal></binding>
+   <binding name="title"><literal>BACCINI: Nuove disposizioni in materia di avanzamento di carriera per il personalemilitare parzialmente riformato per causa di servizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5685</literal></binding>
+   <binding name="date"><literal>19990215</literal></binding>
+   <binding name="title"><literal>BACCINI ed altri: Istituzione dell&#39;Autorità di garanzia per i trasporti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>602</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BACCINI: Modifiche  all&#39;imposizione fiscale per alcune forme di somministrazione di gas di petrolio liquefatti per usi domestici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>603</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BACCINI: Norme per il prolungamento, fino al ventunesimo anno di età, dell&#39;assistenza ai giovani da parte delle strutture pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>604</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BACCINI: Modifica dell&#39;articolo 4 del decreto-legge 5 ottobre 1993, n. 398, convertito, con modificazioni, dalla legge 4 dicembre 1993, n. 493, in materia di procedure per il rilascio delle autorizzazioni e delle concessioni edilizie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>605</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BACCINI: Interventi straordinari per il comune di Fiumicino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>606</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BACCINI: Modifica all&#39;articolo 2 del decreto legislativo 3 febbraio 1993, n. 29, concernente la revisione della disciplina del pubblico impiego</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>607</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BACCINI: Modifiche alla legge 28 febbraio 1985, n. 47, e nuove norme in materia disanatoria edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>608</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BACCINI: Modifiche all&#39;articolo 11 del decreto-legge 11 luglio 1992, n. 333, convertito, con modificazioni, dalla legge 8 agosto 1992, n. 359, concernenti la defiscalizzazione dei redditi derivanti da canoni di locazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6115</literal></binding>
+   <binding name="date"><literal>19990603</literal></binding>
+   <binding name="title"><literal>BACCINI: Disposizioni in materia di assunzione a tempo indeterminato dei lavoratori addetti ai lavori socialmente utili impiegati presso il Ministero di grazia e giustizia e del personale addetto ai centri di prima accoglienza femminile dellagiustizia minorile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6679</literal></binding>
+   <binding name="date"><literal>20000118</literal></binding>
+   <binding name="title"><literal>BACCINI ed altri: Istituzione di una Commissione parlamentare di inchiesta sull&#39;abusivismo edilizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6700</literal></binding>
+   <binding name="date"><literal>20000124</literal></binding>
+   <binding name="title"><literal>BACCINI ed altri: Nuove norme per l&#39;esercizio del diritto di voto per corrispondenza degli elettori italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>7547</literal></binding>
+   <binding name="date"><literal>20010124</literal></binding>
+   <binding name="title"><literal>BACCINI: Norme per l&#39;inquadramento nei ruoli del Ministero della giustizia del personale addetto ai centri di prima accoglienza e alle comunità della giustizia minorile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>7661</literal></binding>
+   <binding name="date"><literal>20010301</literal></binding>
+   <binding name="title"><literal>BACCINI: Istituzione di una Commissione parlamentare d&#39;inchiesta sulla privatizzazione dell&#39;Ente nazionale di assistenza al volo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>7679</literal></binding>
+   <binding name="date"><literal>20010306</literal></binding>
+   <binding name="title"><literal>BACCINI: Istituzione del registro nazionale dei consulenti di infortunistica stradale presso l&#39;istituto per la vigilanza sulle associazioni private e di interessecollettivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>814</literal></binding>
+   <binding name="date"><literal>19960514</literal></binding>
+   <binding name="title"><literal>BACCINI e SCOCA: Istituzione del tribunale ordinario e della pretura circondariale di Tivoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1454</literal></binding>
+   <binding name="date"><literal>19960606</literal></binding>
+   <binding name="title"><literal>FRAGALÀ ed altri: Istituzione nel territorio della Sicilia delle zone franche di Cefalù, Patti, Capo d&#39;Orlando, Taormina, Giarre-Riposto, Augusta, Capo Passero, Modica, Comiso, Gela, Piazza Armerina, Porto Empedocle, Sciacca, Marsala, San Vito Lo Capo, Lampedusa, Pantelleria, Favignana e Lipari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1455</literal></binding>
+   <binding name="date"><literal>19960606</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 102 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1456</literal></binding>
+   <binding name="date"><literal>19960606</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: PROSPOSTA DI LEGGE COSTITUZIONALE: Modifica dell&#39;articolo 77 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1457</literal></binding>
+   <binding name="date"><literal>19960606</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica degli 71 e 75 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1458</literal></binding>
+   <binding name="date"><literal>19960606</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: Modifica all&#39;articolo 34 della legge 25 maggio 1970, n. 352, in materia di referendum abrogativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1586</literal></binding>
+   <binding name="date"><literal>19960620</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: Nuove norme per la promozione della concorrenza e per lo sviluppo del mercato nel settore delle telecomunicazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1658</literal></binding>
+   <binding name="date"><literal>19960626</literal></binding>
+   <binding name="title"><literal>MESSA ed altri: Istituzione del tribunale ordinario e della pretura circondariale di Tivoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2076</literal></binding>
+   <binding name="date"><literal>19960801</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: Nuove norme in materia di trasporto pubblico locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2077</literal></binding>
+   <binding name="date"><literal>19960801</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: Norme per l&#39;introduzione del &quot;risparmio casa&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>213</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>COLLAVINI ed altri: Norme per l&#39;istituzione e l&#39;esercizio delle case da gioco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2194</literal></binding>
+   <binding name="date"><literal>19960910</literal></binding>
+   <binding name="title"><literal>GIOVANARDI ed altri: Disciplina delle cooperative e dei consorzi di garanzia collettiva fidi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2638</literal></binding>
+   <binding name="date"><literal>19961106</literal></binding>
+   <binding name="title"><literal>VITO ed altri: Modifica all&#39;articolo 8 del testo unico approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di ineleggibilità del magistrato in caso di scioglimento anticipato delle Camere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3017</literal></binding>
+   <binding name="date"><literal>19970122</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: Legge quadro in materia di noleggio di veicoli con conducente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3306</literal></binding>
+   <binding name="date"><literal>19970226</literal></binding>
+   <binding name="title"><literal>MANGIACAVALLO ed altri: Norme per la prevenzione dell&#39;asma bronchiale e delle malattie respiratorie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3390</literal></binding>
+   <binding name="date"><literal>19970310</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Norme organiche di indirizzo per lo sviluppo del sistema educativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3397</literal></binding>
+   <binding name="date"><literal>19970311</literal></binding>
+   <binding name="title"><literal>MANTOVANO ed altri: Modifiche al testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, in materia di uso e detenzione di sostanze stupefacenti e psicotrope, nonchè in materia di misure alternative alla detenzione in favore dei tossicodipendenti che abbiano in corso programmi di recupero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3481</literal></binding>
+   <binding name="date"><literal>19970326</literal></binding>
+   <binding name="title"><literal>MALGIERI ed altri: Istituzione di una Commissione parlamentare di inchiesta sugli eventi criminosi postbellici verificatisi in Italia tra il 1945 ed il 1948 e sulle cause della mancata individuazione o del mancato perseguimento dei responsabili di eccidi, massacri, stermini e delle stragi ispirate da motivazioni di &quot;pulizia&quot; etnica o politica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3674</literal></binding>
+   <binding name="date"><literal>19970508</literal></binding>
+   <binding name="title"><literal>GIOVANARDI ed altri: Modifica all&#39;articolo 1-bis del decreto-legge 23 ottobre 1996, n. 542, convertito, con modificazioni, dalla legge 23 dicembre 1996, n. 649, in materia diparificazione per le scuole pubbliche e private dei termini per l&#39;adeguamento ai requisiti di sicurezza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3703</literal></binding>
+   <binding name="date"><literal>19970514</literal></binding>
+   <binding name="title"><literal>BUONTEMPO ed altri: Modifiche alle leggi 25 marzo 1993, n. 81, e 8 giugno 1990, n. 142, in materia di elezione diretta del vicesindaco e del vicepresidente della provincia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>375</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BALOCCHI ed altri: Riconoscimento  e disciplina della chiropratica come professione sanitaria primaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3840</literal></binding>
+   <binding name="date"><literal>19970609</literal></binding>
+   <binding name="title"><literal>NOCERA ed altri: Modifiche all&#39;articolo 3 della legge 23 gennaio 1992, n. 32, in materia di concessione di contributi per le zone colpite dagli eventi sismici del novembre 1980, del febbraio 1981 e del marzo 1982</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3867</literal></binding>
+   <binding name="date"><literal>19970616</literal></binding>
+   <binding name="title"><literal>PERETTI ed altri: Modifiche ai decreti del Presidente della Repubblica 26 ottobre 1972, n. 633, e 29 settembre 1973, n. 600, in materia di preavvisi al contribuente in relazione ad ispezioni e verifiche dell&#39;Amministrazione finanziaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3892</literal></binding>
+   <binding name="date"><literal>19970619</literal></binding>
+   <binding name="title"><literal>DI LUCA ed altri: Modifiche al decreto legislativo 11 febbraio 1997, n. 55, in materia di libero uso delle antenne satellitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>409</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Disposizioni per l&#39;uso della bandiera della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>414</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Introduzione dell&#39;articolo 235-bis del codice civile in materia di inseminazione artificiale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4303</literal></binding>
+   <binding name="date"><literal>19971031</literal></binding>
+   <binding name="title"><literal>PERETTI ed altri: Norme per la riduzione dell&#39;impatto ambientale nelle operazioni di distribuzione di prodotti biologici e chimici in agricoltura e per la modernizzazione del settore agro-meccanico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4479</literal></binding>
+   <binding name="date"><literal>19980122</literal></binding>
+   <binding name="title"><literal>DE FRANCISCIS ed altri: Istituzione del tribunale di Caserta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4504</literal></binding>
+   <binding name="date"><literal>19980129</literal></binding>
+   <binding name="title"><literal>GIULIANO ed altri: Norme per la redazione e la pubblicazione del rendiconto annuale di esercizio dei sindacati e delle loro associazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4800</literal></binding>
+   <binding name="date"><literal>19980421</literal></binding>
+   <binding name="title"><literal>GIOVANARDI ed altri: Disposizioni in materia di istruzione e formazione delle persone colpite da sordità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4844</literal></binding>
+   <binding name="date"><literal>19980430</literal></binding>
+   <binding name="title"><literal>GIOVANARDI ed altri: Istituzione di una Commissione parlamentare di inchiesta sui comportamenti dei responsabili pubblici, politici e amministrativi, delle imprese pubbliche e private e sui loro reciproci rapporti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4934</literal></binding>
+   <binding name="date"><literal>19980528</literal></binding>
+   <binding name="title"><literal>PERETTI ed altri: Modifica all&#39;articolo 1 della legge 25 febbraio 1992, n. 210, in  materiadi indennizzo a favore dei soggetti danneggiati da complicanze di tipo irreversibile a causa di vaccinazioni obbligatorie, trasfusioni e somministrazione di emoderivati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5107</literal></binding>
+   <binding name="date"><literal>19980715</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Norme per l&#39;innalzamento dell&#39;obbligo di istruzione e di formazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5120</literal></binding>
+   <binding name="date"><literal>19980717</literal></binding>
+   <binding name="title"><literal>ASCIERTO ed altri: Incentivi in favore del personale delle forze di polizia trasferito d&#39;ufficio in sede disagiate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5289</literal></binding>
+   <binding name="date"><literal>19981007</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Norme per la dotazione dei libri di testo nelle scuole di ogni ordine e grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5293</literal></binding>
+   <binding name="date"><literal>19981008</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Disposizioni per contrastare il fenomeno dei sequestri di persona</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5737</literal></binding>
+   <binding name="date"><literal>19990224</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Disciplina dei servizi regolari di trasporto con autobus ad offerta libera e dei servizi occasionali su commissione di terzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5902</literal></binding>
+   <binding name="date"><literal>19990414</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Agevolazioni tributarie e previdenziali in favore dei soggetti residenti nella regione Puglia a seguito degli eventi bellici nei territori della Repubblica federale di Jugoslavia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5907</literal></binding>
+   <binding name="date"><literal>19990414</literal></binding>
+   <binding name="title"><literal>LUCCHESE ed altri: Disposizioni in materia di regolarizzazioni contributive e di retribuzioni imponibili ai fini contributivi, previdenziali ed assistenziali, nonchè di sanzioni amministrative in materia di legislazione sociale e del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6030</literal></binding>
+   <binding name="date"><literal>19990517</literal></binding>
+   <binding name="title"><literal>LUCCHESE ed altri: Istituzione di una rete di centri pubblici uro-andrologici per la prevenzione e la cura delle patologie dell&#39;età puberale alla teza atà</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6163</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche agli articoli 303 e 304 del codice di procedura penale, concernenti i termini della custodia cautelare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6165</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche all&#39;articolo 1 della legge 8 agosto 1995, n. 335, recante riforma del sistema pensionistico obbligatorio e complementare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6170</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Nuove disposizioni in materia di contratto di lavoro a tempo determinato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6171</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Abrogazione del decreto legislativo del Capo provvisorio dello Stato 29 luglio 1947, n. 804, recante riconoscimento giuridico degli Istituti di patronatoe di assistenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6172</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifica all&#39;articolo 16 dell&#39;ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, in materia di incarichi extragiudiziari dei magistrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6173</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Abrogazione dell&#39;articolo 5 del decreto-legge 30 ottobre 1984, n. 726, convertito, con modificazioni, dalla legge 19 dicembre 1984, n. 863, in materia dicontratti di lavoro a tempo parziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6174</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Abrogazione dell&#39;articolo 18 della legge 20 maggio 1970, n. 300, in materia di vincoli al licenziamento nelle imprese con  più di quindici dipendenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6175</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Abrogazione della legge 4 giugno 1973, n. 311, recante disposizioni in materia di estensione del servizio di riscossione dei contributi associativi tramite gli enti previdenziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6176</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche al codice di procedura civile e al codice di procedura penale in materia di perentorietà dei termini processuali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6215</literal></binding>
+   <binding name="date"><literal>19990708</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Disciplina del trattamento delle segnalazioni di pericolo relative alla aviazione civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6291</literal></binding>
+   <binding name="date"><literal>19990728</literal></binding>
+   <binding name="title"><literal>LUCCHESE ed altri: Introduzione dell&#39;articolo 137-bis della Costituzione, concernente gli effetti delle pronunce della Corte costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6295</literal></binding>
+   <binding name="date"><literal>19990729</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Disposizioni per la tutela dei minori nei servizi audiovisivi e d&#39;informazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6296</literal></binding>
+   <binding name="date"><literal>19990729</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Riforma delle professioni intellettuali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6323</literal></binding>
+   <binding name="date"><literal>19990907</literal></binding>
+   <binding name="title"><literal>BONO ed altri: Disposizioni per contrastare le frodi assicurative</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6338</literal></binding>
+   <binding name="date"><literal>19990915</literal></binding>
+   <binding name="title"><literal>FIORI ed altri: Istituzione di una Commissione parlamentare di inchiesta sul sistema pensionistico e sull&#39;utilizzo e la gestione dei fondi della previdenza pubblica e privata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6365</literal></binding>
+   <binding name="date"><literal>19990921</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Modifiche al testo unico delle disposizioni concernenti la disciplina dell&#39;immigrazione e norme sulla condizione dello straniero, emanato con decreto legislativo 25 luglio 1998, n. 286</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6398</literal></binding>
+   <binding name="date"><literal>19990929</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Ordinamento della scuola non statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6435</literal></binding>
+   <binding name="date"><literal>19991008</literal></binding>
+   <binding name="title"><literal>FOLLINI ed altri: Istituzione di una COmmissione parlamentare di inchiesta sulla &quot;Missione Arcobaleno&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6584</literal></binding>
+   <binding name="date"><literal>19991123</literal></binding>
+   <binding name="title"><literal>GIOVANARDI ed altri: Nuove disposizioni in materia di pensioni di reversibilità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6584-bis</literal></binding>
+   <binding name="date"><literal>20000712</literal></binding>
+   <binding name="title"><literal>GIOVANARDI ed altri: Nuove disposizioni in materia di pensioni di reversibilità (testo risultante dallo stralcio dell&#39;articolo 3 della proposta di legge n. 6584, deliberato dall&#39;Assemblea il 12 luglio 2000)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6584-ter</literal></binding>
+   <binding name="date"><literal>20000712</literal></binding>
+   <binding name="title"><literal>GIOVANARDI ed altri: Abrogazione dell&#39;articolo 1, comma 43, della legge 8 agosto 1995, n. 335,recante riforma del sistema pensionistico  obbligatorio e complementare (già articolo 3 della proposta di legge n. 6584, stralciato, con deliberazione dall&#39;Assemblea il 12 luglio 2000)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6845</literal></binding>
+   <binding name="date"><literal>20000308</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Disposizioni concernenti la repressione del contrabbando</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7001</literal></binding>
+   <binding name="date"><literal>20000522</literal></binding>
+   <binding name="title"><literal>FOLLINI ed altri: Istituzione di una Commissione parlamentare di inchiesta sulle sette in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2519</literal></binding>
+   <binding name="date"><literal>19961022</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Norme a tutela degli utenti dei servizi di telefonia</literal></binding>
+  </result>
+ </results>
+</sparql>

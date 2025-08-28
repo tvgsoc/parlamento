@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1834</literal></binding>
+   <binding name="date"><literal>20131121</literal></binding>
+   <binding name="title"><literal>CRIMI ed altri: &quot;Disposizioni per favorire la costruzione e la ristrutturazione di impianti sportivi anche a sostegno della candidatura dell&#39;Italia a manifestazioni sportive di rilievo europeo o internazionale&quot; (1834)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4204</literal></binding>
+   <binding name="date"><literal>20170105</literal></binding>
+   <binding name="title"><literal>BIANCOFIORE ed altri: &quot;Istituzione di un fondo per il sostegno della comunità di lingua italiana della provincia autonoma di Bolzano&quot; (4204)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4203</literal></binding>
+   <binding name="date"><literal>20170105</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE BIANCOFIORE ed altri: &quot;Modifiche allo statuto speciale per il Trentino-Alto Adige in materia di organi e funzioni della regione e delle province autonome nonché per la garanzia della parità dei diritti dei gruppi linguistici italiano, tedesco e ladino&quot; (4203)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2497</literal></binding>
+   <binding name="date"><literal>20140627</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: &quot;Modifiche alla legge 20 febbraio 2006, n. 77, concernenti la tutela e la valorizzazione del patrimonio culturale immateriale&quot; (2497)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3990</literal></binding>
+   <binding name="date"><literal>20160721</literal></binding>
+   <binding name="title"><literal>BIASOTTI ed altri: &quot;Istituzione della Giornata nazionale in memoria delle vittime della strada&quot; (3990)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4216</literal></binding>
+   <binding name="date"><literal>20170111</literal></binding>
+   <binding name="title"><literal>RICCIATTI ed altri: &quot;Istituzione di una zona franca nei territori delle regioni Abruzzo, Lazio, Marche e Umbria colpiti dagli eventi sismici dei mesi di agosto e ottobre 2016&quot; (4216)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3499</literal></binding>
+   <binding name="date"><literal>20151216</literal></binding>
+   <binding name="title"><literal>BRUNETTA ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sullo stato del sistema bancario italiano e sui casi di crisi verificatisi dal 1° gennaio 1999, in connessione con l&#39;inizio dell&#39;operatività in strumenti finanziari denominati in euro&quot; (3499)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3933</literal></binding>
+   <binding name="date"><literal>20160627</literal></binding>
+   <binding name="title"><literal>GIAMMANCO ed altri: &quot;Norme in materia di videosorveglianza negli asili nido e nelle scuole dell&#39;infanzia nonché presso le strutture socio-assistenziali per anziani, disabili e minori in situazione di disagio&quot; (3933)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4692</literal></binding>
+   <binding name="date"><literal>20171010</literal></binding>
+   <binding name="title"><literal>DE GIROLAMO ed altri: &quot;Introduzione del divieto dell&#39;uso anonimo della rete internet e disposizioni in materia di tutela del diritto all&#39;oblio&quot; (4692)</literal></binding>
+  </result>
+ </results>
+</sparql>

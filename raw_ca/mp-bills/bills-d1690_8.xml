@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2327</literal></binding>
+   <binding name="date"><literal>19810206</literal></binding>
+   <binding name="title"><literal>CICCARDINI: Norme per l&#39;accesso del personale militare alla proprietà della casa e per l&#39;agevolazione dell&#39;accesso alla proprietà della casa per il personale civile e militare dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2533</literal></binding>
+   <binding name="date"><literal>19810414</literal></binding>
+   <binding name="title"><literal>CICCARDINI: Abilitazione all&#39;esercizio odontoiatrico per gli odontotecnici che hanno operato in tempo di guerra anche come medici dentisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>125</literal></binding>
+   <binding name="date"><literal>19790621</literal></binding>
+   <binding name="title"><literal>MERLONI ed altri: Provvedimenti a favore dei profughi del Vietnam</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>165</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>LOMBARDO ed altri: Riforma della legislazione cooperativistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2328</literal></binding>
+   <binding name="date"><literal>19810206</literal></binding>
+   <binding name="title"><literal>BIANCO e CICCARDINI: Norme per la elezione popolare diretta del sindaco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2338</literal></binding>
+   <binding name="date"><literal>19810211</literal></binding>
+   <binding name="title"><literal>CERIONI ed altri: Norme relative alla istituzione e regolamentazione delle Borse merci e dei mercati a termine</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>757</literal></binding>
+   <binding name="date"><literal>19791018</literal></binding>
+   <binding name="title"><literal>CARELLI ed altri: Modifica della tabella A allegata al testo unico delle leggi per la elezione della Camera dei deputati approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, concernente le circoscrizioni dei collegi per la elezione della Camera dei deputati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>200</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>FRACANZANI ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sulla strage di via Fani, sul sequestro e l&#39;assassinio del deputato Aldo Moro e sul terrorismo in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>213</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>ZACCAGNINI ed altri: Istituzione dei Comitati consolari elettivi e dei Comitati d&#39;Ambasciata</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1952</literal></binding>
+   <binding name="date"><literal>19551215</literal></binding>
+   <binding name="title"><literal>PACCIARDI ed altri: Mantenimento in servizio per un periodo di cinque anni oltre i rispettivi limiti di età degli ufficiali e sottufficiali delle Forze armate già perseguitati per ragioni razziali o politiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1416</literal></binding>
+   <binding name="date"><literal>19550128</literal></binding>
+   <binding name="title"><literal>ANGELINI ed altri: Provvedimenti a favore della zona portuale e industriale Livorno-Pisa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1709</literal></binding>
+   <binding name="date"><literal>19550713</literal></binding>
+   <binding name="title"><literal>MACRELLI ed altri: Assicurazione sociale delle donne casalinghe</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1821</literal></binding>
+   <binding name="date"><literal>19551014</literal></binding>
+   <binding name="title"><literal>SIMONINI ed altri: Concessione di una pensione straordinaria alla figlia dell&#39;onorevole Camillo Prampolini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1938</literal></binding>
+   <binding name="date"><literal>19551213</literal></binding>
+   <binding name="title"><literal>TOGNI ed altri: Proroga delle agevolazioni fiscali e tributarie disposte dalla legge 12 luglio 1951, n. 561, a favore della zona industriale di Livorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2145</literal></binding>
+   <binding name="date"><literal>19560324</literal></binding>
+   <binding name="title"><literal>DE VITA ed altri: Modifica alla legge 28 dicembre 1950, n. 1079, relativa alla disciplina di talune situazioni riferentisi ai pubblici dipendenti non di ruolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>251</literal></binding>
+   <binding name="date"><literal>19531013</literal></binding>
+   <binding name="title"><literal>DIAZ ed altri: Mutui per il risanamento edilizio di Livorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2789</literal></binding>
+   <binding name="date"><literal>19570315</literal></binding>
+   <binding name="title"><literal>MACRELLI ed altri: Concessione di un contributo straordinario di lire 50 milioni per la celebrazione del 150° anniversario della nascita e il 75° anniversario della morte di Giuseppe Garibaldi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>521</literal></binding>
+   <binding name="date"><literal>19531217</literal></binding>
+   <binding name="title"><literal>MACRELLI ed altri: Finanziamenti speciali e sgravi di oneri sociali diretti a facilitare il riassorbimento del personale licenziato da stabilimenti industriali chiusi o &quot;riconvertiti&quot;</literal></binding>
+  </result>
+ </results>
+</sparql>

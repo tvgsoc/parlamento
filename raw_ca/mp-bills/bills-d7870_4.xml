@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4651</literal></binding>
+   <binding name="date"><literal>19671207</literal></binding>
+   <binding name="title"><literal>DE STASIO: Estensione del requisito della residenza al personale dell&#39;esercito e dell&#39;aeronautica militare comandato fuori sede ai fini del riconoscimento del diritto per l&#39;assegnazione di alloggi popolari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4418</literal></binding>
+   <binding name="date"><literal>19671005</literal></binding>
+   <binding name="title"><literal>DE MEO ed altri: Termine per la presentazione delle domande di rinvio del servizio militare per motivi di studio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4624</literal></binding>
+   <binding name="date"><literal>19671130</literal></binding>
+   <binding name="title"><literal>VERONESI ed altri: Nuove norme relative all&#39;avanzamento del personale in servizio presso la Direzione generale dell&#39;aviazione civile nel ruolo degli esperti della circolazione aerea e dell&#39;assistenza al volo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4808</literal></binding>
+   <binding name="date"><literal>19680124</literal></binding>
+   <binding name="title"><literal>VILLA ed altri: Norme transitorie per il collocamento a riposo degli ufficiali del ruolo servizi dell&#39;Aeronautica militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4910</literal></binding>
+   <binding name="date"><literal>19680227</literal></binding>
+   <binding name="title"><literal>PEDINI ed altri: Istituzione presso il Ministero degli affari esteri di un Ufficio e di un Consiglio nazionale per il servizio volontario nella cooperazione tecnica internazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4975</literal></binding>
+   <binding name="date"><literal>19680306</literal></binding>
+   <binding name="title"><literal>TOGNI ed altri: Ente di previdenza ed assistenza a favore dei consulenti del lavoro</literal></binding>
+  </result>
+ </results>
+</sparql>

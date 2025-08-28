@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1687</literal></binding>
+   <binding name="date"><literal>19770728</literal></binding>
+   <binding name="title"><literal>ANTONI ed altri: Assegnazione in uso al comune di La Spezia di aree demaniali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1215</literal></binding>
+   <binding name="date"><literal>19770302</literal></binding>
+   <binding name="title"><literal>BELLOCCHIO ed altri: Istituzione dell&#39;Azienda di Stato per i sali ed i tabacchi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1315</literal></binding>
+   <binding name="date"><literal>19770329</literal></binding>
+   <binding name="title"><literal>PEGGIO ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sul dissesto della Società autostrade romane e abruzzesi (SARA)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1665</literal></binding>
+   <binding name="date"><literal>19770721</literal></binding>
+   <binding name="title"><literal>GORIA ed altri: Regolarizzazione di alcuni casi di inadempimento relativi alle denunce e ai versamenti previsti dalla riforma tributaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1720</literal></binding>
+   <binding name="date"><literal>19770914</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Modifiche al decreto-legge 8 aprile 1974, n. 95, recante disposizioni relative al mercato mobiliare e al trattamento fiscale dei titoli azionari, convertito con modificazioni nella legge 7 giugno 1974, n. 216</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2618</literal></binding>
+   <binding name="date"><literal>19781221</literal></binding>
+   <binding name="title"><literal>DI GIULIO ed altri: Riforma dell&#39;Istituto nazionale delle assicurazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2687</literal></binding>
+   <binding name="date"><literal>19790131</literal></binding>
+   <binding name="title"><literal>CRAVEDI ed altri: Trasferimento d&#39;uso di aree demaniali a fini pubblici e sociali e norme in materia di costruzioni militari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2734</literal></binding>
+   <binding name="date"><literal>19790220</literal></binding>
+   <binding name="title"><literal>D&#39;ALESSIO ed altri: Piano decennale di ristrutturazione e di riconversione degli stabilimenti e degli arsenali militari della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>473</literal></binding>
+   <binding name="date"><literal>19760928</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Provvedimenti per la finanza locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1098</literal></binding>
+   <binding name="date"><literal>19770202</literal></binding>
+   <binding name="title"><literal>SARTI ed altri: Modifica del secondo comma dell&#39;articolo 25 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 643 e successive modificazioni ed integrazioni, concernente l&#39;istituzione dell&#39;imposta comunale sull&#39;incremento di valore degli immobili</literal></binding>
+  </result>
+ </results>
+</sparql>

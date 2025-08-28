@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2936</literal></binding>
+   <binding name="date"><literal>19660120</literal></binding>
+   <binding name="title"><literal>GIOLITTI ed altri: Norme sui parchi nazionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4182</literal></binding>
+   <binding name="date"><literal>19670623</literal></binding>
+   <binding name="title"><literal>GIOLITTI ed altri: Delega al Governo per la integrazione e la modifica delle norme contenute nel decreto del Presidente della Repubblica 9 aprile 1959, n. 128</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2255</literal></binding>
+   <binding name="date"><literal>19650409</literal></binding>
+   <binding name="title"><literal>LEVI ARIAN ed altri: Autorizzazione di spesa per la ricostruzione della linea ferroviaria Cuneo-Breil sur Roya-Ventimiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2259</literal></binding>
+   <binding name="date"><literal>19650409</literal></binding>
+   <binding name="title"><literal>BO ed altri: Deroga all&#39;articolo 12 del decreto legislativo luogotenenziale 21 agosto 1945, n. 518, per la presentazione della proposta di concessione di medaglia d&#39;oro al valore militare alla città di Nizza Monferrato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3000</literal></binding>
+   <binding name="date"><literal>19660305</literal></binding>
+   <binding name="title"><literal>VIZZINI ed altri: Abrogazione dell&#39;articolo 553 del Codice penale e modifiche agli articoli 112 e 114 del testo unico delle leggi di pubblica sicurezza 18 giugno 1931, n. 773 e dell&#39;articolo 2 del regio decreto legislativo 31 maggio 1946, n. 561, per quanto riguarda i divieti alla propaganda anticoncezionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>338</literal></binding>
+   <binding name="date"><literal>19630726</literal></binding>
+   <binding name="title"><literal>SARTI ed altri: Autorizzazione di spesa per la ricostruzione della linea ferroviaria Cuneo-Breil sur Roya-Ventimiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4050</literal></binding>
+   <binding name="date"><literal>19670503</literal></binding>
+   <binding name="title"><literal>FABBRI ed altri: Estensione al personale non di ruolo ed operaio delle norme sul riscatto del servizio reso, ai fini del trattamento di quiescenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4707</literal></binding>
+   <binding name="date"><literal>19671221</literal></binding>
+   <binding name="title"><literal>FERRARI AGGRADI ed altri: Disposizioni sugli enti pubblici che svolgono attività commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>476</literal></binding>
+   <binding name="date"><literal>19630926</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Istituzione di una commissione parlamentare di inchiesta sulla ricerca scientifica e tecnologica in Italia</literal></binding>
+  </result>
+ </results>
+</sparql>

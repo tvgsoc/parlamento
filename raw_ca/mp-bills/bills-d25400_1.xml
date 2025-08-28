@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>838</literal></binding>
+   <binding name="date"><literal>19491022</literal></binding>
+   <binding name="title"><literal>BETTINOTTI: Modificazioni all&#39;articolo 2 della legge 5 dicembre 1941, n. 1476 e agli articoli 30 e 33 del regio decreto 29 gennaio 1942 n. 286 recante norme per le concessioni di viaggio sulle Ferrovie dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1132</literal></binding>
+   <binding name="date"><literal>19500302</literal></binding>
+   <binding name="title"><literal>ANGELINI ed altri: Modifica della legge 8 marzo 1949, n. 75, recante provvedimenti a favore dell&#39;industria delle costruzioni navali e dell&#39;armamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1566</literal></binding>
+   <binding name="date"><literal>19501005</literal></binding>
+   <binding name="title"><literal>CUTTITTA ed altri: Trattamento di quiescenza e indennità di liquidazione a favore dei sottufficiali e dei militari di truppa dell&#39;Arma dei carabinieri richiamati o trattenuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1899</literal></binding>
+   <binding name="date"><literal>19510314</literal></binding>
+   <binding name="title"><literal>CARRON ed altri: Provvedimenti a favore degli ufficiali e dei sottufficiali delle Forze Armate, esuli dai territori metropolitani e coloniali ceduti per effetto del trattato di pace</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2645</literal></binding>
+   <binding name="date"><literal>19520407</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Concessione di un assegno vitalizio di assistenza ai ciechi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3112</literal></binding>
+   <binding name="date"><literal>19521223</literal></binding>
+   <binding name="title"><literal>LONGHENA ed altri: Applicazione in favore dell&#39;Associazione italiana della Croce Rossa di un contributo sui premi di alcune assicurazioni</literal></binding>
+  </result>
+ </results>
+</sparql>

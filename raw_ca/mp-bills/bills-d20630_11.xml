@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1506</literal></binding>
+   <binding name="date"><literal>19920807</literal></binding>
+   <binding name="title"><literal>BABBINI: Norme in materia di previdenza complementare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1507</literal></binding>
+   <binding name="date"><literal>19920807</literal></binding>
+   <binding name="title"><literal>BABBINI: Istituzione del ramo assicurativo per l&#39;assistenza sociale domiciliare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1288</literal></binding>
+   <binding name="date"><literal>19920713</literal></binding>
+   <binding name="title"><literal>LA GANGA ed altri: Elezione diretta del sindaco e del presidente della provincia, e nuove norme per l&#39;elezione dei consigli comunali e provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1394</literal></binding>
+   <binding name="date"><literal>19920729</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Regolamentazione della gestione e dell&#39;uso dei comprensori sciabili e definizione del codice di comportamento dello sciatore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1395</literal></binding>
+   <binding name="date"><literal>19920729</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Norme per la sospensione degli sfratti nei confronti dei soggetti disabili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1398</literal></binding>
+   <binding name="date"><literal>19920729</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Norme sulla valutazione di impatto ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2718</literal></binding>
+   <binding name="date"><literal>19930527</literal></binding>
+   <binding name="title"><literal>NENCINI ed altri: Nuove norme per la tutela del carattere storico, architettonico, monumentale ed ambientale di Firenze, città d&#39;arte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3125</literal></binding>
+   <binding name="date"><literal>19930917</literal></binding>
+   <binding name="title"><literal>SUSI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Elezione diretta del Presidente del Consiglio dei ministri e del Presidente della Regione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3305</literal></binding>
+   <binding name="date"><literal>19931104</literal></binding>
+   <binding name="title"><literal>CASTAGNETTI ed altri: Modifiche alla legge 3 febbraio 1989, n. 39, concernente la disciplina della professione di mediatore</literal></binding>
+  </result>
+ </results>
+</sparql>

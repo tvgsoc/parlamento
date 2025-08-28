@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1227</literal></binding>
+   <binding name="date"><literal>20060629</literal></binding>
+   <binding name="title"><literal>SATTA ed altri: &quot;Istituzione delle corti d&#39;appello di Sassari e di Taranto&quot; (1227)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2080</literal></binding>
+   <binding name="date"><literal>20061219</literal></binding>
+   <binding name="title"><literal>TURCI ed altri: &quot;Norme in materia di valutazione dell&#39;efficienza e del rendimento delle strutture e dei dipendenti pubblici&quot; (2080)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2127</literal></binding>
+   <binding name="date"><literal>20070116</literal></binding>
+   <binding name="title"><literal>SERENI ed altri: &quot;Nuove disposizioni in materia di cooperazione allo sviluppo&quot; (2127)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2320</literal></binding>
+   <binding name="date"><literal>20070305</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE BUEMI ed altri: &quot;Modifica degli articoli 104, 105, 106 e 107 della Costituzione. Istituzione di una magistratura giudicante e di una magistratura requirente, reciprocamente autonome&quot; (2320)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2972</literal></binding>
+   <binding name="date"><literal>20070731</literal></binding>
+   <binding name="title"><literal>OSVALDO NAPOLI ed altri: &quot;Disposizioni per il rafforzamento dell&#39;amministrazione di sostegno e soppressione degli istituti dell&#39;interdizione e dell&#39;inabilitazione&quot; (2972)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>654</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>GRILLINI ed altri: &quot;Norme contro le discriminazioni fondate sull&#39;orientamento sessuale o sull&#39;identità di genere&quot; (654)</literal></binding>
+  </result>
+ </results>
+</sparql>

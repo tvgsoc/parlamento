@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2269</literal></binding>
+   <binding name="date"><literal>19780620</literal></binding>
+   <binding name="title"><literal>PICCOLI ed altri: Istituzione del Servizio nazionale dello sport</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2744</literal></binding>
+   <binding name="date"><literal>19790221</literal></binding>
+   <binding name="title"><literal>CASADEI ed altri: Nuove norme per il riconoscimento dell&#39;obiezione di coscienza nei confronti del servizio militare e per l&#39;attuazione del servizio civile alternativo</literal></binding>
+  </result>
+ </results>
+</sparql>

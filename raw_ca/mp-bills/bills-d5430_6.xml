@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2011</literal></binding>
+   <binding name="date"><literal>19730411</literal></binding>
+   <binding name="title"><literal>VANIA ed altri: Istituzione della università statale di Foggia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2665</literal></binding>
+   <binding name="date"><literal>19740117</literal></binding>
+   <binding name="title"><literal>GIANNINI ed altri: Provvedimenti per il risanamento igienico-urbanistico e per la tutela del carattere artistico, monumentale, storico e turistico della città vecchia di Bari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2807</literal></binding>
+   <binding name="date"><literal>19740301</literal></binding>
+   <binding name="title"><literal>GIANNINI ed altri: Norme per il finanziamento del piano generale delle irrigazioni e la utilizzazione delle acque e per il riordinamento dell&#39;ente per lo sviluppo dell&#39;irrigazione e la trasformazione fondiaria in Puglia, in Lucania e in Irpinia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4194</literal></binding>
+   <binding name="date"><literal>19751217</literal></binding>
+   <binding name="title"><literal>GIANNINI ed altri: Abrogazione degli articoli 4 e 7 del regio decreto-legge 2 agosto 1938, n. 1464, concernente l&#39;affidamento all&#39;Ente autonomo per l&#39;acquedotto pugliese della costruzione e gestione delle fognature nei comuni serviti dall&#39;acquedotto stesso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>81</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>GRAMEGNA ed altri: Estensione delle disposizioni in materia di pensioni di guerra ai civili caduti nel corso di dimostrazioni avvenute dopo il 25 luglio 1943</literal></binding>
+  </result>
+ </results>
+</sparql>

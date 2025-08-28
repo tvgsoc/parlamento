@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>681</literal></binding>
+   <binding name="date"><literal>19540304</literal></binding>
+   <binding name="title"><literal>SILVESTRI ed altri: Provvedimenti a favore dei comuni della &quot;Zona della Battaglia di Cassino&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1805</literal></binding>
+   <binding name="date"><literal>19551007</literal></binding>
+   <binding name="title"><literal>COMPAGNONI ed altri: Norme interpretative della legge 11 luglio 1952, n. 756, concernente disposizioni di proroga dei contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2057</literal></binding>
+   <binding name="date"><literal>19560214</literal></binding>
+   <binding name="title"><literal>TOGNONI ed altri: Agevolazioni fiscali ai contadini assegnatari di terre</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2116</literal></binding>
+   <binding name="date"><literal>19560309</literal></binding>
+   <binding name="title"><literal>BUZZELLI ed altri: Tutela della funzione degli avvocati e procuratori nell&#39;esercizio del loro patrocinio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2551</literal></binding>
+   <binding name="date"><literal>19561115</literal></binding>
+   <binding name="title"><literal>CAPALOZZA ed altri: Sospensione di termini processuali per consentire  le ferie agli avvocati e procuratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>295</literal></binding>
+   <binding name="date"><literal>19531023</literal></binding>
+   <binding name="title"><literal>COMPAGNONI ed altri: Provvedimenti a favore dei coloni miglioratari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3567</literal></binding>
+   <binding name="date"><literal>19580220</literal></binding>
+   <binding name="title"><literal>COMPAGNONI ed altri: Norme per la determinazione dei canoni e per l&#39;affrancazione nei rapporti a miglioria, con canone fisso o con corrisposta in quote di prodotti, del Lazio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>607</literal></binding>
+   <binding name="date"><literal>19540126</literal></binding>
+   <binding name="title"><literal>COMPAGNONI ed altri: Trasformazione in enfiteusi delle colonie miglioratarie esistenti in alcuni territori del Lazio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>810</literal></binding>
+   <binding name="date"><literal>19540412</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Disciplina dell&#39;onere dei contributi unificati nelle aziende a mezzadria e colonìa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>627</literal></binding>
+   <binding name="date"><literal>19540127</literal></binding>
+   <binding name="title"><literal>POLLASTRINI ed altri: Provvidenze a favore delle popolazioni della provincia di Rieti danneggiate dalle alluvioni dell&#39;autunno 1952 ed esecuzione di un piano organico di opere idraulico-forestali e montane atte ad evitare altre calamità nelle zone disastrate</literal></binding>
+  </result>
+ </results>
+</sparql>

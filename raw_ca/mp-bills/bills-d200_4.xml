@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3849</literal></binding>
+   <binding name="date"><literal>19670302</literal></binding>
+   <binding name="title"><literal>AMENDOLA ed altri: Norme per la trasformazione dei rapporti colonici e per lo sviluppo agrario miglioratario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4</literal></binding>
+   <binding name="date"><literal>19630516</literal></binding>
+   <binding name="title"><literal>PAJETTA ed altri: Norme per la elezione dei Consigli regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4252</literal></binding>
+   <binding name="date"><literal>19670714</literal></binding>
+   <binding name="title"><literal>GAGLIARDI ed altri: Disciplina delle attività sportive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>449</literal></binding>
+   <binding name="date"><literal>19630920</literal></binding>
+   <binding name="title"><literal>ROSSANDA ed altri: Inchiesta parlamentare sulla ricerca nel campo della fisica nucleare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4511</literal></binding>
+   <binding name="date"><literal>19671028</literal></binding>
+   <binding name="title"><literal>SPECIALE ed altri: Provvedimenti per i viaggi a favore degli italiani emigrati all&#39;estero e in Italia per le elezioni politiche del 1968</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4866</literal></binding>
+   <binding name="date"><literal>19680209</literal></binding>
+   <binding name="title"><literal>USVARDI ed altri: Modifiche in materia di diritti erariali sugli spettacoli sportivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>908</literal></binding>
+   <binding name="date"><literal>19640131</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Passaggio in enfiteusi ed affrancazione, a favore dei coltivatori insediati, delle terre condotte con contratti agrari di qualsiasi tipo nel Mezzogiorno, nelle Isole, nel Lazio</literal></binding>
+  </result>
+ </results>
+</sparql>

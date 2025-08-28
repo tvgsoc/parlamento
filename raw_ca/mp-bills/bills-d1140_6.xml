@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3155</literal></binding>
+   <binding name="date"><literal>19740731</literal></binding>
+   <binding name="title"><literal>BRINI ed altri: Proroga e modifiche della legge 30 luglio 1959, n. 623, e successive modificazioni, per incentivi a sostegno degli investimenti delle piccole e medie industrie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3922</literal></binding>
+   <binding name="date"><literal>19750715</literal></binding>
+   <binding name="title"><literal>BRINI ed altri: Proroga fino al 6 giugno 1976 del periodo di durata in carica delle commissioni provinciali e regionali dell&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4264</literal></binding>
+   <binding name="date"><literal>19760116</literal></binding>
+   <binding name="title"><literal>BRINI ed altri: Principi generali in materia di artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1522</literal></binding>
+   <binding name="date"><literal>19730124</literal></binding>
+   <binding name="title"><literal>DAMICO ed altri: Norme concernenti la gestione degli impianti per la distribuzione dei carburanti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1687</literal></binding>
+   <binding name="date"><literal>19730215</literal></binding>
+   <binding name="title"><literal>BENEDETTI ed altri: Norme sull&#39;insegnamento dello sci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2135</literal></binding>
+   <binding name="date"><literal>19730516</literal></binding>
+   <binding name="title"><literal>GASTONE ed altri: Fondo centrale di garanzia per il credito industriale alle piccole e medie imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2406</literal></binding>
+   <binding name="date"><literal>19731017</literal></binding>
+   <binding name="title"><literal>BASTIANELLI ed altri: Modifiche alla legge 25 luglio 1956, n. 860, concernente la disciplina giuridica dalle imprese artigiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2629</literal></binding>
+   <binding name="date"><literal>19731220</literal></binding>
+   <binding name="title"><literal>NICCOLI ed altri: Istituzione dei Centri per il commercio con l&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>579</literal></binding>
+   <binding name="date"><literal>19720728</literal></binding>
+   <binding name="title"><literal>ASSANTE ed altri: Modificazioni e integrazioni alle vigenti disposizioni relative al risarcimento dei danni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2564</literal></binding>
+   <binding name="date"><literal>19731129</literal></binding>
+   <binding name="title"><literal>BALLARIN ed altri: Intervento statale per la riduzione del costo dei carburanti destinati alla pesca</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3380</literal></binding>
+   <binding name="date"><literal>19750116</literal></binding>
+   <binding name="title"><literal>MILANI ed altri: Norme sulla disciplina del commercio ambulante</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3956</literal></binding>
+   <binding name="date"><literal>19750722</literal></binding>
+   <binding name="title"><literal>LA TORRE ed altri: Riforma dell&#39;intervento aggiuntivo dello Stato nel Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>470</literal></binding>
+   <binding name="date"><literal>19720713</literal></binding>
+   <binding name="title"><literal>BORTOT ed altri: Assicurazione obbligatoria contro le malattie professionali da inalazione di polvere</literal></binding>
+  </result>
+ </results>
+</sparql>

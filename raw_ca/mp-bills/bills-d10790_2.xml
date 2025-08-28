@@ -1,0 +1,130 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3015</literal></binding>
+   <binding name="date"><literal>19570706</literal></binding>
+   <binding name="title"><literal>VILLANI ed altri: Provvedimenti a favore degli allevamenti zootecnici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3413</literal></binding>
+   <binding name="date"><literal>19571221</literal></binding>
+   <binding name="title"><literal>VILLANI: Provvedimenti speciali a favore della città di Benevento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1376</literal></binding>
+   <binding name="date"><literal>19541223</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Norme integrative per l&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1839</literal></binding>
+   <binding name="date"><literal>19551022</literal></binding>
+   <binding name="title"><literal>GOMEZ D&#39;AYALA ed altri: Norme tributarie a favore della piccola proprietà e della piccola impresa contadina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2084</literal></binding>
+   <binding name="date"><literal>19560228</literal></binding>
+   <binding name="title"><literal>GOMEZ D&#39;AYALA ed altri: Esenzione dall&#39;imposta di macellazione suini a favore dei lavoratori della terra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2749</literal></binding>
+   <binding name="date"><literal>19570227</literal></binding>
+   <binding name="title"><literal>AMENDOLA ed altri: Disciplina del prezzo del pomodoro industriale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2899</literal></binding>
+   <binding name="date"><literal>19570506</literal></binding>
+   <binding name="title"><literal>GOMEZ D&#39;AYALA ed altri: Disposizioni a favore delle aziende agricole danneggiate dalle avversità atmosferiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3036</literal></binding>
+   <binding name="date"><literal>19570712</literal></binding>
+   <binding name="title"><literal>GOMEZ D&#39;AYALA ed altri: Provvedimenti a favore delle aziende agricole danneggiate dalle avversità atmosferiche del maggio 1957</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3094</literal></binding>
+   <binding name="date"><literal>19570723</literal></binding>
+   <binding name="title"><literal>BIGI ed altri: Abrogazione delle prestazioni personali obbligatorie per la costruzione di strade comunali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3128</literal></binding>
+   <binding name="date"><literal>19570731</literal></binding>
+   <binding name="title"><literal>BIGI ed altri: Provvedimenti a favore dei mezzadri, coloni e compartecipanti colpiti dalle gelate - alluvioni e da altre avversità atmosferiche - annata agraria 1956-57</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3209</literal></binding>
+   <binding name="date"><literal>19571007</literal></binding>
+   <binding name="title"><literal>CACCURI ed altri: Istituzione della provincia di Barletta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3244</literal></binding>
+   <binding name="date"><literal>19571024</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Istituzione dell&#39;ammasso volontario per contingente dell&#39;olio di oliva di produzione 1957-58</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3555</literal></binding>
+   <binding name="date"><literal>19580214</literal></binding>
+   <binding name="title"><literal>GOMEZ D&#39;AYALA ed altri: Esenzione delle imprese agricole a diretta coltivazione dall&#39;onere dei contributi unificati ed aumento delle aliquote a carico delle grosse imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3556</literal></binding>
+   <binding name="date"><literal>19580214</literal></binding>
+   <binding name="title"><literal>GRIFONE ed altri: Riduzione dei contributi assicurativi per l&#39;assistenza malattia e per l&#39;invalidità e vecchiaia a favore dei coltivatori diretti, coloni e mezzadri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3583</literal></binding>
+   <binding name="date"><literal>19580221</literal></binding>
+   <binding name="title"><literal>DI MAURO ed altri: Estensione dei trattamenti minimi di pensione previsti dall&#39;articolo 5 della legge 20 febbraio 1958, n. 55, ai coltivatori diretti, mezzadri e coloni titolari di pensione in base alla legge 26 ottobre 1957, n. 1047</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>45</literal></binding>
+   <binding name="date"><literal>19530727</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Assistenza di malattia per i coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>801</literal></binding>
+   <binding name="date"><literal>19540410</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Sull&#39;assicurazione invalidità, vecchiaia e superstiti, e tubercolosi, in favore dei coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>810</literal></binding>
+   <binding name="date"><literal>19540412</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Disciplina dell&#39;onere dei contributi unificati nelle aziende a mezzadria e colonìa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>856</literal></binding>
+   <binding name="date"><literal>19540506</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Inchiesta parlamentare sugli Enti di riforma</literal></binding>
+  </result>
+ </results>
+</sparql>

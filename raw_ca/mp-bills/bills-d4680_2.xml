@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3406</literal></binding>
+   <binding name="date"><literal>19571220</literal></binding>
+   <binding name="title"><literal>LOZZA ed altri: Modifica della legge 3 agosto 1957, n. 744, sulla stabilità nell&#39;incarico degli insegnanti non di ruolo degli Istituti e scuole secondarie statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3449</literal></binding>
+   <binding name="date"><literal>19580121</literal></binding>
+   <binding name="title"><literal>LOZZA ed altri: Nuove norme per il collocamento nei ruoli ordinari di insegnanti iscritti nei ruoli speciali transitori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3465</literal></binding>
+   <binding name="date"><literal>19580128</literal></binding>
+   <binding name="title"><literal>NEGRARI ed altri: Sostituzione dell&#39;articolo 3 della legge 24 marzo 1942, n. 315, relativo alla destinazione dei proventi derivanti all&#39;U.N.I.R.E.) dall&#39;esercizio delle scommesse sulle corse dei cavalli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3466</literal></binding>
+   <binding name="date"><literal>19580128</literal></binding>
+   <binding name="title"><literal>NEGRARI ed altri: Regolamentazione e disciplina del tiro a segno nazionale e costituzione della Federazione italiana del tiro a segno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3467</literal></binding>
+   <binding name="date"><literal>19580128</literal></binding>
+   <binding name="title"><literal>TAROZZI ed altri: Costituzione dei Comitati provinciali di assistenza ai minorati civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3505</literal></binding>
+   <binding name="date"><literal>19580204</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Classificazione e disciplina del commercio degli olii vegetali</literal></binding>
+  </result>
+ </results>
+</sparql>

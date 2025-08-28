@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1123</literal></binding>
+   <binding name="date"><literal>19590429</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Diritto di accedere alla Facoltà di ingegneria e ad altre Facoltà scientifiche ai diplomati degli Istituti tecnici industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1639</literal></binding>
+   <binding name="date"><literal>19591016</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Concessione di un contributo straordinario per le spese di organizzazione del terzo Congresso europeo di cardiologia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2014</literal></binding>
+   <binding name="date"><literal>19600212</literal></binding>
+   <binding name="title"><literal>ANDÒ: Modifica alla legge 8 aprile 1952, n. 212, concernente revisione del trattamento economico dei dipendenti statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2417</literal></binding>
+   <binding name="date"><literal>19600803</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Disposizioni a favore di titolari-istruttori di autoscuole sprovvisti del titolo di studio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1635</literal></binding>
+   <binding name="date"><literal>19591016</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Diritto di accedere alla Facoltà di ingegneria e ad altre Facoltà scientifiche ai diplomati degli Istituti tecnici industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2627</literal></binding>
+   <binding name="date"><literal>19601202</literal></binding>
+   <binding name="title"><literal>BERLINGUER ed altri: Assegno natalizio ai tubercolotici assistiti da Consorzi provinciali antitubercolari e dal Ministero della sanità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>487</literal></binding>
+   <binding name="date"><literal>19581030</literal></binding>
+   <binding name="title"><literal>RICCA ed altri: Attribuzione alle Provincie ed ai Comuni, compresi nelle zone di cui alla tabella A), allegata alla legge 10 febbraio 1953, n. 136, della quota parte 65 per cento degli utili netti del conto profitti e perdite del bilancio E.N.I.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1224</literal></binding>
+   <binding name="date"><literal>19590520</literal></binding>
+   <binding name="title"><literal>PIERACCINI ed altri: Nuove disposizioni per la concessione della pensione ai ciechi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1822</literal></binding>
+   <binding name="date"><literal>19591212</literal></binding>
+   <binding name="title"><literal>GUADALUPI ed altri: Interpretazione dell&#39;articolo 21 della legge 29 luglio 1957, n. 634, e successive modificazioni, per quanto concerne la elaborazione di progetti di istituzione di aree di sviluppo industriale e relativi statuti e specificazione degli Enti interessati alla partecipazione dei Consorzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>294</literal></binding>
+   <binding name="date"><literal>19580926</literal></binding>
+   <binding name="title"><literal>ANGELINO ed altri: Abolizione dell&#39;imposta di consumo sul vino comune</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>609</literal></binding>
+   <binding name="date"><literal>19581127</literal></binding>
+   <binding name="title"><literal>GATTO ed altri: Inchiesta parlamentare sulla &quot;mafia&quot;</literal></binding>
+  </result>
+ </results>
+</sparql>

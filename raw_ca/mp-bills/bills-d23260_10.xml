@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4759</literal></binding>
+   <binding name="date"><literal>19900417</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Contributi alle imprese radiofoniche private che abbiano svolto attività di informazione di interesse generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4832</literal></binding>
+   <binding name="date"><literal>19900522</literal></binding>
+   <binding name="title"><literal>CRESCENZI ed altri: Norme di tutela del ruolo materno nella funzione educativa e sociale della famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5231</literal></binding>
+   <binding name="date"><literal>19901114</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Modifica dell&#39;articolo 94 della Costituzione in materia di dimissioni del Governo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5800</literal></binding>
+   <binding name="date"><literal>19910703</literal></binding>
+   <binding name="title"><literal>ANDREOLI ed altri: Provvedimenti per la celebrazione dell&#39;ottavo centenario della nascita di Federico II di Svevia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5846</literal></binding>
+   <binding name="date"><literal>19910717</literal></binding>
+   <binding name="title"><literal>CARRUS ed altri: Rifinanziamento degli interventi recati dalla legge 1° marzo 1986, n. 64, concernente &quot;Disciplina organica dell&#39;intervento straordinario nel Mezzogiorno&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>79</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Nuove norme in materia di vivisezione</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3427</literal></binding>
+   <binding name="date"><literal>19660915</literal></binding>
+   <binding name="title"><literal>CALASSO ed altri: Modifica alla legge 9 luglio 1908, n. 434, concernente la esenzione dalla imposta fondiaria delle case dei contadini nelle province meridionali, della Sicilia e della Sardegna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3660</literal></binding>
+   <binding name="date"><literal>19661216</literal></binding>
+   <binding name="title"><literal>TESAURO ed altri: Riconoscimento dei corsi di insegnamento del libero Istituto di educazione fisica di Salerno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4182</literal></binding>
+   <binding name="date"><literal>19670623</literal></binding>
+   <binding name="title"><literal>GIOLITTI ed altri: Delega al Governo per la integrazione e la modifica delle norme contenute nel decreto del Presidente della Repubblica 9 aprile 1959, n. 128</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>214</literal></binding>
+   <binding name="date"><literal>19630711</literal></binding>
+   <binding name="title"><literal>AMENDOLA ed altri: Modifiche ed integrazioni alla legge 5 ottobre 1962, n. 1431, recante provvedimenti per la ricostruzione e la rinascita delle zone colpite dal terremoto dell&#39;agosto 1962</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>281</literal></binding>
+   <binding name="date"><literal>19630724</literal></binding>
+   <binding name="title"><literal>NATOLI ed altri: Delega al Governo per l&#39;emanazione delle norme sulla organizzazione dell&#39;Ente nazionale per l&#39;energia elettrica (Enel)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>515</literal></binding>
+   <binding name="date"><literal>19631003</literal></binding>
+   <binding name="title"><literal>MAZZONI ed altri: Modifiche alla legge 16 settembre 1960, n. 1016 e successive modificazioni, sul finanziamento a medio termine al commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>908</literal></binding>
+   <binding name="date"><literal>19640131</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Passaggio in enfiteusi ed affrancazione, a favore dei coltivatori insediati, delle terre condotte con contratti agrari di qualsiasi tipo nel Mezzogiorno, nelle Isole, nel Lazio</literal></binding>
+  </result>
+ </results>
+</sparql>

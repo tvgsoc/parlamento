@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2284</literal></binding>
+   <binding name="date"><literal>19730720</literal></binding>
+   <binding name="title"><literal>SCIPIONI ed altri: Concessione di indennità accessorie al personale delle aziende dipendenti dal Ministero delle poste e delle telecomunicazioni ed aumento delle dotazioni organiche di alcune tabelle dell&#39;amministrazione delle poste e delle telecomunicazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2485</literal></binding>
+   <binding name="date"><literal>19731108</literal></binding>
+   <binding name="title"><literal>BONIFAZI ed altri: Norme per il funzionamento della Scuola di lingua e cultura italiana per stranieri di Siena</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3491</literal></binding>
+   <binding name="date"><literal>19750220</literal></binding>
+   <binding name="title"><literal>PANI ed altri: Soppressione delle assuntorie di stazione, di fermata e di passo a livello nelle ferrovie in concessione e nei servizi della navigazione interna e sistemazione del relativo personale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4068</literal></binding>
+   <binding name="date"><literal>19751017</literal></binding>
+   <binding name="title"><literal>FIORIELLO ed altri: Modifica della legge 10 novembre 1973, n. 375, concernente la gestione unitaria del sistema aeroportuale della capitale e costruzione di una nuova aerostazione nell&#39;aeroporto intercontinentale &quot;Leonardo da Vinci&quot; di Roma-Fiumicino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>467</literal></binding>
+   <binding name="date"><literal>19720628</literal></binding>
+   <binding name="title"><literal>MACALUSO ed altri: Trasformazione dei contratti di mezzadria, di colonia ed altri in contratto di affitto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1497</literal></binding>
+   <binding name="date"><literal>19730119</literal></binding>
+   <binding name="title"><literal>ASSANTE ed altri: Norme per la salvaguardia della libertà e della segretezza delle comunicazioni telefoniche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2968</literal></binding>
+   <binding name="date"><literal>19740522</literal></binding>
+   <binding name="title"><literal>BERNINI ed altri: Riordinamento dei servizi marittimi convenzionati di carattere locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>446</literal></binding>
+   <binding name="date"><literal>19720707</literal></binding>
+   <binding name="title"><literal>BONIFAZI ed altri: Rifinanziamento della legge 3 gennaio 1963, n. 3, concernente la tutela del carattere monumentale e artistico della città di Siena</literal></binding>
+  </result>
+ </results>
+</sparql>

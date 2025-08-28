@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>169</literal></binding>
+   <binding name="date"><literal>19630702</literal></binding>
+   <binding name="title"><literal>GAGLIARDI ed altri: Garanzia dello Stato sui mutui contratti dagli ordinari diocesani con la Cassa depositi e prestiti a norma della legge 18 aprile 1962, n. 168</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>172</literal></binding>
+   <binding name="date"><literal>19630702</literal></binding>
+   <binding name="title"><literal>GAGLIARDI ed altri: Estensione ai segretari dei Consorzi, di cui agli articoli 156 e 169 del testo unico 3 marzo 1934, n. 383, della facoltà di rogare gli atti nell&#39;esclusivo interesse dei Consorzi stessi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>316-bis</literal></binding>
+   <binding name="date"><literal>19630726</literal></binding>
+   <binding name="title"><literal>GAGLIARDI ed altri: Sviluppo di campi di ricreazione per la gioventù e di impianti sportivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>549</literal></binding>
+   <binding name="date"><literal>19631009</literal></binding>
+   <binding name="title"><literal>SINESIO ed altri: Esenzione dei contributi a favore dell&#39;industria cantieristica nazionale dalla ritenuta d&#39;acconto d&#39;imposta di cui alla legge 21 aprile 1962, n. 226</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>635</literal></binding>
+   <binding name="date"><literal>19631021</literal></binding>
+   <binding name="title"><literal>ROSATI ed altri: Assunzione straordinaria di un contingente di n. 30 operai specializzati e n. 30 di operai comuni per il funzionamento del Centro sperimentale di commissariato, in Maddaloni (Caserta), presso la Scuola dei servizi di commissariato e di amministrazione militare dell&#39;Esercito</literal></binding>
+  </result>
+ </results>
+</sparql>

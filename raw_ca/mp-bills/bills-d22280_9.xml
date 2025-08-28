@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4558</literal></binding>
+   <binding name="date"><literal>19870326</literal></binding>
+   <binding name="title"><literal>CARPINO e ALBERINI: Estensione al convivente more uxorio della non punibilità prevista per il coniuge dagli articoli 307 e 384 del codice penale e della facoltà di astenersi dal testimoniare prevista per il coniuge dall&#39;articolo 350 del codice di procedura penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>243</literal></binding>
+   <binding name="date"><literal>19830727</literal></binding>
+   <binding name="title"><literal>PERUGINI ed altri: Modifica della legge 25 luglio 1966, n. 570, concernente disposizioni sulla nomina a magistrato di Corte di appello</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4152</literal></binding>
+   <binding name="date"><literal>19861107</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Tariffa professionale per le prestazioni degli architetti e degli ingegneri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4169</literal></binding>
+   <binding name="date"><literal>19861112</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Misure in materia di evasione contributive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4254</literal></binding>
+   <binding name="date"><literal>19861211</literal></binding>
+   <binding name="title"><literal>FELISETTI ed altri: Modifiche al decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, concernenti l&#39;ordinamento degli ufficiali giudiziari, degli aiutanti ufficiali giudiziari e dei coadiutori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4529</literal></binding>
+   <binding name="date"><literal>19870312</literal></binding>
+   <binding name="title"><literal>RIZ ed altri: Modifica delle norme relative alla nomina a magistrato di Cassazione e alle funzioni direttive superiori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>76</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>FELISETTI ed altri: Modifiche degli articoli 55 e 56 del codice di procedura civile</literal></binding>
+  </result>
+ </results>
+</sparql>

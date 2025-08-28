@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1407</literal></binding>
+   <binding name="date"><literal>19500703</literal></binding>
+   <binding name="title"><literal>ADONNINO ed altri: Per l&#39;elezione dei delegati alla prima sessione dell&#39;Assemblea Costituente Mondiale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1655</literal></binding>
+   <binding name="date"><literal>19501116</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche ed aggiunte alla legge 25 giugno 1949, n. 909, per agevolare la costruzione edilizia e la ricostruzione degli edifici distrutti da eventi bellici nelle zone terremotate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2405</literal></binding>
+   <binding name="date"><literal>19511211</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Norme integrative della legge 3 agosto 1949, n. 589, sulla esecuzione di opere pubbliche di interesse degli Enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2481</literal></binding>
+   <binding name="date"><literal>19520124</literal></binding>
+   <binding name="title"><literal>SANSONE ed altri: Soppressione del ruolo transitorio del gruppo B degli Archivi di Stato e istituzione di un ruolo ordinario di gruppo B, e passaggio degli aiutanti, coadiuatori, primi coadiuatori e coadiuatori capi nel ruolo dei funzionari di gruppo B</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>390</literal></binding>
+   <binding name="date"><literal>19490307</literal></binding>
+   <binding name="title"><literal>BRUNO ed altri: Concessione perpetua, a titolo gratuito, dei campi sportivi già di proprietà del partito fascista ai comuni che ne facciano richiesta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>396</literal></binding>
+   <binding name="date"><literal>19490307</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Maggiorazione del contributo dello Stato per la ricostruzione delle case distrutte dai terremoti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1811</literal></binding>
+   <binding name="date"><literal>19510209</literal></binding>
+   <binding name="title"><literal>GIAMMARCO ed altri: Autorizzazione al Ministro dei lavori pubblici della spesa di lire 19.809.700.000 per la costruzione di case popolari da assegnare a famiglie alloggiate in baracche in dipendenza dei terremoti del 28 dicembre 1908 e del 15 gennaio 1915</literal></binding>
+  </result>
+ </results>
+</sparql>

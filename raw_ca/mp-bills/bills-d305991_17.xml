@@ -1,0 +1,562 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1753</literal></binding>
+   <binding name="date"><literal>20131030</literal></binding>
+   <binding name="title"><literal>TARICCO ed altri: &quot;Disposizioni in materia di bonifica dei terreni impiegati per colture di organismi geneticamente modificati&quot; (1753)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3003</literal></binding>
+   <binding name="date"><literal>20150331</literal></binding>
+   <binding name="title"><literal>TARICCO ed altri: &quot;Modifica all&#39;articolo 71 della legge 22 aprile 1941, n. 633, in materia di esenzione dal pagamento dei diritti d&#39;autore per l&#39;esecuzione di opere musicali e la recitazione di opere poetiche e letterarie, effettuate senza fine di lucro per la promozione della cultura musicale e letteraria&quot; (3003)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2528</literal></binding>
+   <binding name="date"><literal>20140708</literal></binding>
+   <binding name="title"><literal>BOCCADUTRI ed altri: &quot;Disposizioni per la diffusione dell&#39;accesso alla rete internet mediante connessioni senza fili&quot; (2528)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4640</literal></binding>
+   <binding name="date"><literal>20170914</literal></binding>
+   <binding name="title"><literal>FABBRI ed altri: &quot;Istituzione del &#39;Giorno dell&#39;internato militare italiano&#39;&quot; (4640)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1917</literal></binding>
+   <binding name="date"><literal>20131222</literal></binding>
+   <binding name="title"><literal>BOLOGNESI ed altri: &quot;Istituzione dell&#39;Autorità per la vigilanza sull&#39;acquisizione dei sistemi d&#39;arma e sulle compensazioni e introduzione del capo II-bis del titolo II del libro terzo del codice di cui al decreto legislativo 15 marzo 2010, n. 66, concernente il procedimento per la stipulazione dei contratti relativi a sistemi d&#39;arma e gli obblighi di compensazione industriale&quot; (1917)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2700</literal></binding>
+   <binding name="date"><literal>20141104</literal></binding>
+   <binding name="title"><literal>LAVAGNO ed altri: &quot;Modifica all&#39;articolo 683 del codice di procedura penale, in materia di richiesta di riabilitazione&quot; (2700)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3571</literal></binding>
+   <binding name="date"><literal>20160201</literal></binding>
+   <binding name="title"><literal>FREGOLENT ed altri: &quot;Disposizioni per favorire l&#39;innovazione e lo sviluppo tecnologico delle città (smart city)&quot; (3571)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3837</literal></binding>
+   <binding name="date"><literal>20160517</literal></binding>
+   <binding name="title"><literal>MINNUCCI ed altri: &quot;Istituzione della Giornata nazionale in memoria delle vittime della strada&quot; (3837)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>68-110-1945-B</literal></binding>
+   <binding name="date"><literal>20160519</literal></binding>
+   <binding name="title"><literal>S. 1458. - REALACCI ed altri; BRATTI ed altri; DE ROSA ed altri: &quot;Istituzione del Sistema nazionale a rete per la protezione dell&#39;ambiente e disciplina dell&#39;Istituto superiore per la protezione e la ricerca ambientale&quot; (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (68-110-1945-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3153</literal></binding>
+   <binding name="date"><literal>20150603</literal></binding>
+   <binding name="title"><literal>DELL&#39;ARINGA ed altri: &quot;Disposizioni per la ricollocazione, il sostegno del reddito e l&#39;anticipazione dell&#39;accesso al trattamento previdenziale in favore dei lavoratori anziani in stato di disoccupazione&quot; (3153)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3152</literal></binding>
+   <binding name="date"><literal>20150603</literal></binding>
+   <binding name="title"><literal>GIULIETTI ed altri: &quot;Disposizioni per la tutela, la valorizzazione e lo sviluppo dell&#39;artigianato artistico italiano&quot; (3152)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1049</literal></binding>
+   <binding name="date"><literal>20130524</literal></binding>
+   <binding name="title"><literal>FIORIO ed altri: &quot;Disposizioni in materia di raccolta, coltivazione e commercio dei tartufi&quot; (1049)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1167</literal></binding>
+   <binding name="date"><literal>20130606</literal></binding>
+   <binding name="title"><literal>FARAONE ed altri: &quot;Diritti delle persone autistiche. Norme per la prevenzione, la cura e la riabilitazione delle persone affette da autismo e per l&#39;assistenza alle loro famiglie&quot; (1167)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1178</literal></binding>
+   <binding name="date"><literal>20130610</literal></binding>
+   <binding name="title"><literal>IACONO ed altri: &quot;Disposizioni per l&#39;istituzione di ferrovie turistiche mediante il reimpiego di linee in disuso o in corso di dismissione situate in aree di particolare pregio naturalistico o archeologico&quot; (1178)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1245</literal></binding>
+   <binding name="date"><literal>20130620</literal></binding>
+   <binding name="title"><literal>BOBBA ed altri: &quot;Disposizioni per la stabilizzazione della destinazione di una quota del 5 per mille dell&#39;imposta sul reddito delle persone fisiche a finalità scelte dai contribuenti&quot; (1245)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1313</literal></binding>
+   <binding name="date"><literal>20130704</literal></binding>
+   <binding name="title"><literal>OLIVERIO e TARICCO: &quot;Disposizioni di semplificazione normativa e amministrativa per le imprese agricole&quot; (1313)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1315</literal></binding>
+   <binding name="date"><literal>20130705</literal></binding>
+   <binding name="title"><literal>DAMBRUOSO ed altri: &quot;Trasferimento degli oneri per il mantenimento degli uffici giudiziari allo Stato e abrogazione della legge 24 aprile 1941, n. 392&quot; (1315)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1368</literal></binding>
+   <binding name="date"><literal>20130717</literal></binding>
+   <binding name="title"><literal>CARNEVALI ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sugli errori sanitari e sulle attività e condotte illecite nell&#39;ambito del Servizio sanitario nazionale&quot; (1368)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>150</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CAUSI ed altri: &quot;Norme per il contenimento del consumo del suolo e la rigenerazione urbana&quot; (150)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>153</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>VILLECCO CALIPARI ed altri: &quot;Disposizioni per la celebrazione del settantesimo anniversario della Resistenza e della guerra di liberazione&quot; (153)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>170</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>BOBBA ed altri: &quot;Disposizioni per la promozione di un sistema di benessere sociale mediante la valorizzazione dell&#39;investimento familiare e generazionale, nonché delega al Governo per la riforma degli istituti di sostegno al reddito delle famiglie con figli e per la promozione dell&#39;autonomia finanziaria dei giovani&quot; (170)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1737</literal></binding>
+   <binding name="date"><literal>20131028</literal></binding>
+   <binding name="title"><literal>GUERRA ed altri: &quot;Modifiche al testo unico delle leggi sull&#39;ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, e altre disposizioni concernenti i comuni di minore dimensione demografica, l&#39;esercizio associato delle loro funzioni, nonché le unioni di comuni e la fusione dei medesimi&quot; (1737)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1859</literal></binding>
+   <binding name="date"><literal>20131127</literal></binding>
+   <binding name="title"><literal>OLIVERIO ed altri: &quot;Norme per la promozione della coltivazione della cannabis sativa per la produzione di alimenti, cosmetici, semilavorati innovativi per le industrie di diversi settori, opere di bioingegneria e di bonifica dei terreni, attività didattiche e di ricerca&quot; (1859)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>241</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>RUBINATO ed altri: &quot;Disposizioni per la promozione del commercio equo e solidale e la disciplina del suo esercizio&quot; (241)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>248</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>MATTIELLO ed altri: &quot;Modifiche alla legge 20 maggio 1985, n. 222, in materia di destinazione di una quota dell&#39;otto per mille del gettito dell&#39;imposta sul reddito delle persone fisiche a diretta gestione statale a interventi di valorizzazione e ammodernamento del patrimonio immobiliare scolastico&quot; (248)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>272</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>BELLANOVA ed altri: &quot;Disciplina delle modalità di sottoscrizione della lettera di dimissioni volontarie e della lettera di risoluzione consensuale del rapporto di lavoro&quot; (272)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>280</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>FIANO ed altri: &quot;Modifiche alla legge 13 ottobre 1975, n. 654, in materia di discriminazione razziale, e nuove norme in materia di discriminazioni motivate dall&#39;identità di genere, dall&#39;orientamento sessuale o dalla disabilità delle persone&quot; (280)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>284</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE FRANCESCO SANNA: &quot;Modifiche agli articoli 66 e 134 della Costituzione. Introduzione della facoltà di ricorso alla Corte costituzionale contro le deliberazioni delle Camere in materia di elezioni e di cause di ineleggibilità e incompatibilità dei membri del Parlamento&quot; (284)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>342</literal></binding>
+   <binding name="date"><literal>20130319</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Introduzione del titolo VI-bis del libro II del codice penale, in materia di delitti contro l&#39;ambiente&quot; (342)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>343</literal></binding>
+   <binding name="date"><literal>20130319</literal></binding>
+   <binding name="title"><literal>PASTORINO ed altri: &quot;Istituzione dell&#39;anagrafe dei partiti e movimenti politici e dei titolari di cariche pubbliche&quot; (343)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>351</literal></binding>
+   <binding name="date"><literal>20130319</literal></binding>
+   <binding name="title"><literal>PES ed altri: &quot;Concessione di un credito d&#39;imposta per favorire l&#39;inserimento degli studenti universitari nell&#39;attività lavorativa&quot; (351)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>382</literal></binding>
+   <binding name="date"><literal>20130321</literal></binding>
+   <binding name="title"><literal>MURER ed altri: &quot;Norme per la stabilizzazione e la destinazione del cinque per mille dell&#39;imposta sul reddito delle persone fisiche&quot; (382)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>384</literal></binding>
+   <binding name="date"><literal>20130321</literal></binding>
+   <binding name="title"><literal>MURER ed altri: &quot;Disciplina della professione di mediatore interculturale&quot; (384)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>477</literal></binding>
+   <binding name="date"><literal>20130322</literal></binding>
+   <binding name="title"><literal>GINEFRA ed altri: &quot;Modifica all&#39;articolo 7 del testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, in materia di limite del numero dei mandati parlamentari&quot; (477)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>523</literal></binding>
+   <binding name="date"><literal>20130325</literal></binding>
+   <binding name="title"><literal>ANTEZZA ed altri: &quot;Istituzione del Fondo nazionale per il cofinanziamento delle case e dei centri delle donne&quot; (523)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>578</literal></binding>
+   <binding name="date"><literal>20130328</literal></binding>
+   <binding name="title"><literal>OLIVERIO ed altri: &quot;Misure a sostegno della famiglia e della natalità&quot; (578)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>64</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Disposizioni per la tutela e la valorizzazione della bellezza nel paesaggio italiano, nell&#39;ambiente e nella qualità architettonica e urbanistica&quot; (64)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>65</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Misure per il sostegno e la valorizzazione dei comuni con popolazione pari o inferiore a 5.000 abitanti e dei territori montani e rurali nonché deleghe al Governo per la riforma del sistema di governo delle medesime aree e per l&#39;introduzione di sistemi di remunerazione dei servizi ambientali&quot; (65)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>66</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Disposizioni per la promozione, il sostegno e la valorizzazione delle manifestazioni dei cortei in costume, delle rievocazioni e dei giochi storici&quot; (66)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>67</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sulle attività illecite connesse al ciclo dei rifiuti&quot; (67)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>68</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Istituzione del Sistema nazionale delle agenzie ambientali e disciplina dell&#39;Istituto superiore per la protezione e la ricerca ambientale&quot; (68)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>69</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Norme per la disciplina dell&#39;accesso all&#39;attività imprenditoriale nel settore dell&#39;edilizia&quot; (69)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>70</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Norme per il contenimento dell&#39;uso di suolo e la rigenerazione urbana&quot; (70)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>71</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Disposizioni concernenti la ricognizione e la demolizione degli immobili costruiti abusivamente, le sanzioni penali e i procedimenti di sanatoria, nonché disciplina dell&#39;attività dell&#39;Osservatorio nazionale sull&#39;abusivismo edilizio&quot; (71)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>72</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Norme per la tutela e la valorizzazione del patrimonio ferroviario in abbandono e la realizzazione di una rete della mobilità dolce&quot; (72)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>73</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Introduzione del titolo V-bis del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, recante disposizioni per la tutela e lo sviluppo della mobilità ciclistica&quot; (73)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>74</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Disposizioni per la promozione e lo sviluppo della responsabilità sociale delle imprese&quot; (74)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>740</literal></binding>
+   <binding name="date"><literal>20130413</literal></binding>
+   <binding name="title"><literal>ROSATO ed altri: &quot;Modifica all&#39;articolo 6 del testo unico delle disposizioni concernenti la disciplina dell&#39;immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, in materia di obbligo di esibizione dei documenti di soggiorno&quot; (740)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>75</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Disposizioni per la promozione e la disciplina del commercio equo e solidale&quot; (75)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>756</literal></binding>
+   <binding name="date"><literal>20130416</literal></binding>
+   <binding name="title"><literal>SBROLLINI ed altri: &quot;Disposizioni in materia di assistenza in favore delle persone affette da disabilità grave prive del sostegno familiare&quot; (756)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>77</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Norme per la valorizzazione dei prodotti agricoli e alimentari provenienti da filiera corta a chilometro zero e di qualità, nonché modifiche all&#39;articolo 4 del decreto legislativo 18 maggio 2001, n. 228&quot; (77)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>948</literal></binding>
+   <binding name="date"><literal>20130515</literal></binding>
+   <binding name="title"><literal>CATANIA ed altri: &quot;Legge quadro in materia di valorizzazione delle aree agricole e di contenimento del consumo del suolo&quot; (948)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>956</literal></binding>
+   <binding name="date"><literal>20130515</literal></binding>
+   <binding name="title"><literal>MATTIELLO ed altri: &quot;Modifiche alla legge 20 maggio 1985, n. 222, in materia di destinazione di una quota dell&#39;otto per mille del gettito dell&#39;imposta sul reddito delle persone fisiche a diretta gestione statale a interventi di valorizzazione e ammodernamento del patrimonio immobiliare scolastico&quot; (956)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>961</literal></binding>
+   <binding name="date"><literal>20130516</literal></binding>
+   <binding name="title"><literal>NARDELLA ed altri: &quot;Abolizione dei rimborsi per le spese elettorali sostenute da partiti e movimenti politici e introduzione di un credito d&#39;imposta per i contributi volontari in denaro in favore dei medesimi&quot; (961)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2492</literal></binding>
+   <binding name="date"><literal>20140626</literal></binding>
+   <binding name="title"><literal>DELL&#39;ARINGA ed altri: &quot;Istituzione del voucher universale per i servizi alla persona e alla famiglia&quot; (2492)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3763</literal></binding>
+   <binding name="date"><literal>20160420</literal></binding>
+   <binding name="title"><literal>IORI ed altri: &quot;Disposizioni per favorire la coesione e la solidarietà sociale mediante la promozione di azioni a corrispettivo sociale&quot; (3763)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2809</literal></binding>
+   <binding name="date"><literal>20150113</literal></binding>
+   <binding name="title"><literal>CARRESCIA ed altri: &quot;Disposizioni concernenti l&#39;esecuzione di interventi di manutenzione e di ripristino della funzionalità idraulica dei corsi d&#39;acqua, conseguenti a calamità naturali o diretti a prevenire situazioni di pericolo&quot; (2809)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2260</literal></binding>
+   <binding name="date"><literal>20140402</literal></binding>
+   <binding name="title"><literal>PATRIARCA ed altri: &quot;Istituzione del Servizio civile nazionale universale&quot; (2260)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2233</literal></binding>
+   <binding name="date"><literal>20140327</literal></binding>
+   <binding name="title"><literal>CASATI ed altri: &quot;Norme per valorizzare, in continuità con la legge 13 maggio 1978, n. 180, la partecipazione attiva di utenti, familiari, operatori e cittadini nei servizi di salute mentale e per promuovere equità di cure nel territorio nazionale&quot; (2233)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2898</literal></binding>
+   <binding name="date"><literal>20150219</literal></binding>
+   <binding name="title"><literal>RIBAUDO ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sulla tutela dell&#39;interesse aziendale, sul rispetto delle norme antiriciclaggio, sull&#39;assunzione di personale e sulla gestione delle risorse umane presso la società Poste italiane Spa&quot; (2898)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2905</literal></binding>
+   <binding name="date"><literal>20150224</literal></binding>
+   <binding name="title"><literal>QUARTAPELLE PROCOPIO ed altri: &quot;Finanziamento di programmi di tirocinio curriculare ed extracurriculare per studenti universitari e laureati presso l&#39;amministrazione centrale del Ministero degli affari esteri e della cooperazione internazionale e presso gli uffici della rete diplomatico-consolare all&#39;estero&quot; (2905)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>342-957-1814-B</literal></binding>
+   <binding name="date"><literal>20150305</literal></binding>
+   <binding name="title"><literal>S. 1345. - REALACCI ed altri; MICILLO ed altri; PELLEGRINO ed altri: &quot;Disposizioni in materia di delitti contro l&#39;ambiente&quot; (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (342-957-1814-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3116</literal></binding>
+   <binding name="date"><literal>20150513</literal></binding>
+   <binding name="title"><literal>BINI ed altri: &quot;Modifiche alla legge 31 gennaio 1994, n. 97, per favorire l&#39;erogazione dei servizi di pubblica utilità nei comuni montani&quot; (3116)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3128</literal></binding>
+   <binding name="date"><literal>20150519</literal></binding>
+   <binding name="title"><literal>MURA ed altri: &quot;Interventi per sostenere la programmazione delle emittenti televisive private locali che trasmettono con tecnologia digitale terrestre o satellitare e delle emittenti radiofoniche locali, nonché contributi in favore dell&#39;informazione locale&quot; (3128)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3225</literal></binding>
+   <binding name="date"><literal>20150709</literal></binding>
+   <binding name="title"><literal>RICHETTI ed altri: &quot;Disposizioni in materia di abolizione dei vitalizi e nuova disciplina dei trattamenti pensionistici dei membri del Parlamento e dei consiglieri regionali&quot; (3225)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3537</literal></binding>
+   <binding name="date"><literal>20160115</literal></binding>
+   <binding name="title"><literal>VENITTELLI ed altri: &quot;Ratifica ed esecuzione della Convenzione dell&#39;Organizzazione internazionale del lavoro C 188 sul lavoro nel settore della pesca, fatta a Ginevra il 14 giugno 2007&quot; (3537)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2222</literal></binding>
+   <binding name="date"><literal>20140325</literal></binding>
+   <binding name="title"><literal>BASSO ed altri: &quot;Modifiche agli articoli 23-bis e 23-ter del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, e altre disposizioni in materia di trattamenti economici erogati dalle pubbliche amministrazioni nonché di compensi degli amministratori e dei dipendenti delle società controllate dalle medesime&quot; (2222)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2684</literal></binding>
+   <binding name="date"><literal>20141024</literal></binding>
+   <binding name="title"><literal>MORETTO ed altri: &quot;Modifiche al codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, concernenti il risarcimento del danno e l&#39;esercizio dell&#39;attività di perito assicurativo nell&#39;ambito della disciplina dell&#39;assicurazione obbligatoria per la responsabilità civile verso i terzi derivante dalla circolazione di veicoli e natanti&quot; (2684)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3049</literal></binding>
+   <binding name="date"><literal>20150416</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sugli appalti pubblici e sui fenomeni di corruzione e di collusione ad essi correlati&quot; (3049)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3133</literal></binding>
+   <binding name="date"><literal>20150520</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE CIMBRO ed altri: &quot;Modifica all&#39;articolo 32 della Costituzione, in materia di tutela della salute e della sicurezza alimentare e di diritto alle cure e all&#39;accesso al cibo da parte degli indigenti&quot; (3133)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3787</literal></binding>
+   <binding name="date"><literal>20160428</literal></binding>
+   <binding name="title"><literal>TENTORI ed altri: &quot;Introduzione dell&#39;articolo 16-ter del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di detrazione delle spese per interventi di &#39;sistemazione a verde&#39; di aree scoperte di pertinenza delle unità immobiliari private&quot; (3787)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3786</literal></binding>
+   <binding name="date"><literal>20160428</literal></binding>
+   <binding name="title"><literal>FABBRI ed altri: &quot;Istituzione della Giornata dell&#39;internato militare italiano&quot; (3786)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2401</literal></binding>
+   <binding name="date"><literal>20140522</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE PELLEGRINO ed altri: &quot;Modifica all&#39;articolo 1 della Costituzione, in materia di riconoscimento della bellezza quale elemento costitutivo dell&#39;identità nazionale&quot; (2401)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3186</literal></binding>
+   <binding name="date"><literal>20150618</literal></binding>
+   <binding name="title"><literal>BORGHI ed altri: &quot;Modifica all&#39;articolo 12 del decreto legislativo 16 marzo 1999, n. 79, in materia di concessioni di grandi derivazioni d&#39;acqua per uso idroelettrico&quot; (3186)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3477</literal></binding>
+   <binding name="date"><literal>20151203</literal></binding>
+   <binding name="title"><literal>ROMANINI ed altri: &quot;Disposizioni per l&#39;istituzione dei &#39;borghi del pane&#39; per la tutela e la valorizzazione del pane e dei prodotti da forno tradizionali&quot; (3477)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3471</literal></binding>
+   <binding name="date"><literal>20151203</literal></binding>
+   <binding name="title"><literal>FITZGERALD NISSOLI ed altri: &quot;Modifica all&#39;articolo 17 della legge 5 febbraio 1992, n. 91, in materia di riacquisto della cittadinanza da parte dei soggetti nati in Italia, che l&#39;hanno perduta a seguito di espatrio&quot; (3471)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3109</literal></binding>
+   <binding name="date"><literal>20150508</literal></binding>
+   <binding name="title"><literal>ROSSOMANDO ed altri: &quot;Norme in materia di crediti derivanti dalla prestazione del patrocinio a spese dello Stato&quot; (3109)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4281</literal></binding>
+   <binding name="date"><literal>20170208</literal></binding>
+   <binding name="title"><literal>VALIANTE ed altri: &quot;Modifiche al testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, concernente l&#39;eliminazione della disciplina speciale per i capilista&quot; (4281)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4282</literal></binding>
+   <binding name="date"><literal>20170208</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE NICOLETTI ed altri: &quot;Modifiche all&#39;articolo 135 della Costituzione e alla legge costituzionale 22 novembre 1967, n. 2, in materia di elezione dei giudici della Corte costituzionale&quot; (4282)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3925</literal></binding>
+   <binding name="date"><literal>20160623</literal></binding>
+   <binding name="title"><literal>SCANU ed altri: &quot;Modifiche al decreto legislativo 9 aprile 2008, n. 81, e altre disposizioni concernenti la sicurezza sul lavoro e la tutela assicurativa contro gli infortuni e le malattie professionali del personale delle Forze armate&quot; (3925)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3250</literal></binding>
+   <binding name="date"><literal>20150723</literal></binding>
+   <binding name="title"><literal>MURER ed altri: &quot;Disposizioni per il riordino e la promozione delle attività nel settore dei beni usati e del riuso dei prodotti&quot; (3250)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3890</literal></binding>
+   <binding name="date"><literal>20160609</literal></binding>
+   <binding name="title"><literal>BINI ed altri: &quot;Modifica all&#39;articolo 3 della legge 20 febbraio 1958, n. 75, concernente l&#39;introduzione di sanzioni per chi si avvale delle prestazioni sessuali di soggetti che esercitano la prostituzione&quot; (3890)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4256</literal></binding>
+   <binding name="date"><literal>20170130</literal></binding>
+   <binding name="title"><literal>BRAGA ed altri: &quot;Istituzione della Giornata nazionale del risparmio energetico e degli stili di vita sostenibili&quot; (4256)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4531</literal></binding>
+   <binding name="date"><literal>20170606</literal></binding>
+   <binding name="title"><literal>QUARTAPELLE PROCOPIO ed altri: &quot;Delega al Governo per il rafforzamento della partecipazione dell&#39;Italia allo sviluppo e alla stabilizzazione degli Stati del continente africano. Istituzione del Fondo per la cooperazione con l&#39;Africa&quot; (4531)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2305</literal></binding>
+   <binding name="date"><literal>20140416</literal></binding>
+   <binding name="title"><literal>DECARO ed altri: &quot;Disposizioni per lo sviluppo della mobilità in bicicletta e la realizzazione della rete nazionale di percorribilità ciclistica&quot; (2305)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3484</literal></binding>
+   <binding name="date"><literal>20151210</literal></binding>
+   <binding name="title"><literal>MARCON ed altri: &quot;Istituzione del Dipartimento della difesa civile non armata e nonviolenta presso la Presidenza del Consiglio dei ministri&quot; (3484)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2950</literal></binding>
+   <binding name="date"><literal>20150311</literal></binding>
+   <binding name="title"><literal>ASCANI ed altri: &quot;Agevolazioni in favore delle start-up culturali nonché modifiche al testo unico di cui al decreto legislativo 24 febbraio 1998, n. 58, in materia di raccolta di capitali tra il pubblico per la valorizzazione e la tutela dei beni culturali&quot; (2950)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3705</literal></binding>
+   <binding name="date"><literal>20160330</literal></binding>
+   <binding name="title"><literal>ROMANINI ed altri: &quot;Agevolazioni fiscali per l&#39;acquisto di quadricicli a motore destinati al trasporto di persone disabili&quot; (3705)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4166</literal></binding>
+   <binding name="date"><literal>20161207</literal></binding>
+   <binding name="title"><literal>NICOLETTI ed altri: &quot;Abrogazione della legge 6 maggio 2015, n. 52, e della legge 21 dicembre 2005, n. 270, in materia di elezione della Camera dei deputati e del Senato della Repubblica, ripristino dell&#39;efficacia delle disposizioni preesistenti nonché delega al Governo per la determinazione dei collegi elettorali&quot; (4166)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4174</literal></binding>
+   <binding name="date"><literal>20161215</literal></binding>
+   <binding name="title"><literal>CASATI ed altri: &quot;Norme per promuovere equità di cure nel territorio nazionale in continuità con la legge 13 maggio 1978, n. 180, e per valorizzare la partecipazione attiva di utenti, familiari, operatori e cittadini nei servizi di salute mentale&quot; (4174)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4646</literal></binding>
+   <binding name="date"><literal>20170919</literal></binding>
+   <binding name="title"><literal>REALACCI: &quot;Divieto di commercializzazione di bastoncini per la pulizia delle orecchie con supporto non biodegradabile&quot; (4646)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4524</literal></binding>
+   <binding name="date"><literal>20170601</literal></binding>
+   <binding name="title"><literal>IORI ed altri: &quot;Disposizioni per la formazione alla genitorialità e per il sostegno alla responsabilità educativa dei genitori&quot; (4524)</literal></binding>
+  </result>
+ </results>
+</sparql>

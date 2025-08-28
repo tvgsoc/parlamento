@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>390</literal></binding>
+   <binding name="date"><literal>20010606</literal></binding>
+   <binding name="title"><literal>TASSONE: &quot;Istituzione di una Commissione parlamentare di inchiesta sull&amp;#8217;attività spionistica del KGB in Italia e sui finanziamenti illeciti provenienti dai Paesi dell&amp;#8217;Est europeo&quot; (390)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>379</literal></binding>
+   <binding name="date"><literal>20010606</literal></binding>
+   <binding name="title"><literal>BUTTIGLIONE ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sull&amp;#8217;attuazione della legge 22 maggio 1978, n. 194, in materia di prevenzione dell&amp;#8217;aborto volontario e di funzionamento dei consultori&quot; (379)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>388-B</literal></binding>
+   <binding name="date"><literal>20030520</literal></binding>
+   <binding name="title"><literal>S. 1606-14. - VOLONTÈ ed altri: &quot;Disposizioni per il riconoscimento della funzione sociale svolta dagli oratori e dagli enti che svolgono attività similari e per la valorizzazione del loro ruolo&quot; (approvata dalla Camera e modificata dal Senato con l&#39;unificazione della proposta di legge n. 14, d&#39;iniziativa dei senatori Eufemi ed altri) (388-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>420</literal></binding>
+   <binding name="date"><literal>20010606</literal></binding>
+   <binding name="title"><literal>VOLONTE&amp;#8217; ed altri: &quot;Disciplina della ricerca e della sperimentazione biogenetica&quot; (420)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>381</literal></binding>
+   <binding name="date"><literal>20010606</literal></binding>
+   <binding name="title"><literal>BUTTIGLIONE ed altri: &quot;Disposizioni in materia di determinazione del reddito familiare e di deduzioni fiscali a favore dei nuclei familiari&quot; (381)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>386</literal></binding>
+   <binding name="date"><literal>20010606</literal></binding>
+   <binding name="title"><literal>VOLONTÈ ed altri&amp;#8217;: &quot;Disposizioni per la lotta alla prostituzione coatta e alla riduzione in schiavitù&quot; (386)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>388</literal></binding>
+   <binding name="date"><literal>20010606</literal></binding>
+   <binding name="title"><literal>VOLONTE&amp;#8217; ed altri: &quot;Disposizioni per il riconoscimento della funzione sociale svolta dagli oratori parrocchiali e per la valorizzazione del loro ruolo&quot; (388)</literal></binding>
+  </result>
+ </results>
+</sparql>

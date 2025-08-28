@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1121</literal></binding>
+   <binding name="date"><literal>19640313</literal></binding>
+   <binding name="title"><literal>DE ZAN ed altri: Nuove disposizioni sulla pubblicità dei film vietati ai minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1125</literal></binding>
+   <binding name="date"><literal>19640313</literal></binding>
+   <binding name="title"><literal>ROMANATO ed altri: Integrazione al disposto del decreto legislativo del Capo provvisorio dello Stato 26 ottobre 1947, n. 1251, relativo al collocamento fuori ruolo dei professori universitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1218</literal></binding>
+   <binding name="date"><literal>19640413</literal></binding>
+   <binding name="title"><literal>AGOSTA ed altri: Concorso per titoli per cattedre dell&#39;ordine medio superiore riservato a professori titolari nelle scuole secondarie inferiori, abilitati all&#39;insegnamento negli Istituti d&#39;istruzione secondaria superiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>47</literal></binding>
+   <binding name="date"><literal>19630528</literal></binding>
+   <binding name="title"><literal>VILLA ed altri: Concessione agli ex combattenti che abbiano maturato il 60° anno di età di una pensione per la vecchiaia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>708</literal></binding>
+   <binding name="date"><literal>19631031</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Ammissione nella carriera del personale direttivo, mediante concorso interno per titoli, del personale di ruolo delle ferrovie dello Stato in possesso del diploma di laurea</literal></binding>
+  </result>
+ </results>
+</sparql>

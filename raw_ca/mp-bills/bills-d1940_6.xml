@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1490</literal></binding>
+   <binding name="date"><literal>19730117</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Interpretazione autentica dell&#39;articolo 17, terzo comma, della legge 8 marzo 1968, n. 152, recante nuove norme in materia previdenziale per il personale degli enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1601</literal></binding>
+   <binding name="date"><literal>19730201</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Ricongiunzione dei servizi prestati con iscrizione all&#39;Istituto nazionale previdenza sociale (INPS) agli effetti della pensione erogata dalla cassa pensioni dipendenti enti locali (CPDEL) cassa pensioni sanitari (CPS), cassa pensioni insegnanti (CPI) e dallo Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1655</literal></binding>
+   <binding name="date"><literal>19730211</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Disciplina dell&#39;aborto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2579</literal></binding>
+   <binding name="date"><literal>19731206</literal></binding>
+   <binding name="title"><literal>ZAFFANELLA ed altri: Rifinanziamento dei lavori di costruzione dell&#39;idrovia Milano-Cremona-Po</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2631</literal></binding>
+   <binding name="date"><literal>19731220</literal></binding>
+   <binding name="title"><literal>IANNIELLO ed altri: Norme a favore dei dipendenti dell&#39;Azienda delle ferrovie dello Stato in servizio durante il periodo 1940-1945</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3339</literal></binding>
+   <binding name="date"><literal>19741219</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Modifica dell&#39;articolo 135 della Costituzione e dell&#39;articolo 3 della legge costituzionale 22 gennaio 1967, n. 2</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3581</literal></binding>
+   <binding name="date"><literal>19750313</literal></binding>
+   <binding name="title"><literal>VENTURINI ed altri: Regolamentazione dell&#39;attività del servizio di taxi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1881</literal></binding>
+   <binding name="date"><literal>19730316</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Nuove norme per la repressione del traffico di stupefacenti e psicodroghe e per la prevenzione e cura delle tossicomanie</literal></binding>
+  </result>
+ </results>
+</sparql>

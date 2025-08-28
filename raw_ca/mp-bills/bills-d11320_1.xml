@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2274</literal></binding>
+   <binding name="date"><literal>19511030</literal></binding>
+   <binding name="title"><literal>BASSO ed altri: Sul comportamento delle pubbliche autorità nei confronti del banditismo siciliano e sulle relative cause di natura sociale, economica e politica.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2386</literal></binding>
+   <binding name="date"><literal>19511205</literal></binding>
+   <binding name="title"><literal>PIERACCINI ed altri: Inchiesta parlamentare sui rapporti intercorrenti tra l&#39;I.N.A. e alcune Società finanziarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2678</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>NOCE LONGO ed altri: Applicazione della parità di diritti e della parità delle retribuzioni per un pari lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>402</literal></binding>
+   <binding name="date"><literal>19490310</literal></binding>
+   <binding name="title"><literal>CAPALOZZA ed altri: Proroga della sospensione dell&#39;entrata in vigore del decreto legislativo 5 maggio 1948, n. 483, recante modificazioni ed aggiunte al Codice di procedura civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>889</literal></binding>
+   <binding name="date"><literal>19491114</literal></binding>
+   <binding name="title"><literal>FABRIANI ed altri: Efficacia delle norme del decreto-legge luogotenenziale 20 marzo 1945, n. 212, sugli atti privati non registrati, di cui al regio decreto-legge 27 settembre 1941, n. 1015</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>988</literal></binding>
+   <binding name="date"><literal>19491216</literal></binding>
+   <binding name="title"><literal>TARGETTI ed altri: Delega al Presidente della Repubblica per la concessione di amnistia e di indulto</literal></binding>
+  </result>
+ </results>
+</sparql>

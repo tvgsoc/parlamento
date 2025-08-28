@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>721</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Finanziamento dell&#39;Istituto italiano di idrobiologia &quot;Dottor Marco De Marchi&quot; in Pallanza, a decorrere dall&#39;esercizio 1976</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>722</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Trasformazione della scuola triennale a fini speciali di scienze e arti nel campo della stampa del politecnico di Torino in facoltà di arte e scienza della stampa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>723</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Aumento del contributo statale in favore della biblioteca italiana per ciechi &quot;Regina Margherita&quot; e del &quot;Centro nazionale del libro parlato&quot; dell&#39;Unione italiana ciechi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>749</literal></binding>
+   <binding name="date"><literal>19761111</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Disposizioni per la concessione di sussidi integrativi di esercizio a favore della ferrovia Domodossola-confine svizzero, in deroga all&#39;articolo 4 della legge 2 agosto 1952, n. 1221</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1036</literal></binding>
+   <binding name="date"><literal>19770120</literal></binding>
+   <binding name="title"><literal>LO BELLO ed altri: Istituzione del corso di laurea in Educazione fisica e sport</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2054</literal></binding>
+   <binding name="date"><literal>19780217</literal></binding>
+   <binding name="title"><literal>BROCCA ed altri: Norme per lo sviluppo della pratica delle attività motorie e sportive e dell&#39;associazionismo sportivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2447</literal></binding>
+   <binding name="date"><literal>19781006</literal></binding>
+   <binding name="title"><literal>GIORDANO ed altri: Costruzione delle tratte autostradali da Villanova Monferrato a Gravellona Toce e dalla strada statale n. 32 a Sesto Calende in deroga all&#39;articolo 18-bis del decreto-legge 13 agosto 1975, n. 376, convertito, con modificazioni, nella legge 16 ottobre 1975, n. 492</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>411</literal></binding>
+   <binding name="date"><literal>19760914</literal></binding>
+   <binding name="title"><literal>CASSANMAGNAGO CERRETTI e SCALFARO: Modifica dell&#39;articolo 11 della legge 20 febbraio 1958, n. 75, concernente l&#39;abolizione della regolamentazione della prostituzione e lotta contro lo sfruttamento della prostituzione altrui</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>661</literal></binding>
+   <binding name="date"><literal>19761027</literal></binding>
+   <binding name="title"><literal>PICCOLI ed altri: Tutela della vita umana e prevenzione dell&#39;aborto</literal></binding>
+  </result>
+ </results>
+</sparql>

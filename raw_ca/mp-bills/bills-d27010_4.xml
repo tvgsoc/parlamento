@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1574</literal></binding>
+   <binding name="date"><literal>19640729</literal></binding>
+   <binding name="title"><literal>ROSSANDA ed altri: Istituzione delle Università di Stato della Calabria e dell&#39;Abruzzo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1787</literal></binding>
+   <binding name="date"><literal>19641029</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Modifiche alla legge 5 marzo 1963, n. 246, concernente istituzione di una imposta sugli incrementi di valore delle aree fabbricabili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2500</literal></binding>
+   <binding name="date"><literal>19650702</literal></binding>
+   <binding name="title"><literal>PICCIOTTO ed altri: Provvidenze per lo sviluppo industriale della zona di Lungro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3550</literal></binding>
+   <binding name="date"><literal>19661110</literal></binding>
+   <binding name="title"><literal>BOLDRINI ed altri: Aumento delle paghe dei militari e graduati di truppa delle forze armate e aumento della paga degli allievi carabinieri, allievi finanzieri, allievi guardie di pubblica sicurezza, allievi agenti di custodia, allievi guardie forestali e allievi vigili del fuoco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3853</literal></binding>
+   <binding name="date"><literal>19670302</literal></binding>
+   <binding name="title"><literal>BOLDRINI ed altri: Inchiesta parlamentare su attività extra-istituzionali di alcuni organi militari di sicurezza dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4418</literal></binding>
+   <binding name="date"><literal>19671005</literal></binding>
+   <binding name="title"><literal>DE MEO ed altri: Termine per la presentazione delle domande di rinvio del servizio militare per motivi di studio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1764</literal></binding>
+   <binding name="date"><literal>19641022</literal></binding>
+   <binding name="title"><literal>MINIO ed altri: Provvedimenti a favore dei comuni e delle provincie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3164</literal></binding>
+   <binding name="date"><literal>19660516</literal></binding>
+   <binding name="title"><literal>INGRAO ed altri: Modifica alle leggi 11 marzo 1958, n. 208 e 9 febbraio 1963 n. 148, sull&#39;indennità da corrispondersi agli amministratori dei comuni e province</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>754</literal></binding>
+   <binding name="date"><literal>19631113</literal></binding>
+   <binding name="title"><literal>RAFFAELLI ed altri: Integrazione dei bilanci comunali a seguito dell&#39;abolizione della imposta comunale di consumo sul vino</literal></binding>
+  </result>
+ </results>
+</sparql>

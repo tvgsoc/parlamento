@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2235</literal></binding>
+   <binding name="date"><literal>20070212</literal></binding>
+   <binding name="title"><literal>FASCIANI ed altri: &quot;Misure in favore dei sindaci e degli amministratori locali per i rischi derivanti dall&#39;esercizio delle funzioni di protezione civile&quot; (2235)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2273</literal></binding>
+   <binding name="date"><literal>20070219</literal></binding>
+   <binding name="title"><literal>STUCCHI: &quot;Disposizioni in favore delle bande musicali&quot; (2273)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2555</literal></binding>
+   <binding name="date"><literal>20070502</literal></binding>
+   <binding name="title"><literal>ACERBO ed altri: &quot;Modifica all&#39;articolo 7 del decreto legislativo 30 dicembre 1992, n. 504, in materia di esenzione dall&#39;imposta comunale sugli immobili in favore degli enti per l&#39;edilizia residenziale pubblica&quot; (2555)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2902</literal></binding>
+   <binding name="date"><literal>20070717</literal></binding>
+   <binding name="title"><literal>VANNUCCI ed altri: &quot;Disposizioni per il sostegno e la valorizzazione delle bande musicali&quot; (2902)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3168</literal></binding>
+   <binding name="date"><literal>20071019</literal></binding>
+   <binding name="title"><literal>NARDUCCI ed altri: &quot;Modifiche alla legge 7 dicembre 2000, n. 383, in materia di attività delle associazioni di promozione sociale in favore delle comunità italiane all&#39;estero&quot; (3168)</literal></binding>
+  </result>
+ </results>
+</sparql>

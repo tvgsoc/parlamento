@@ -1,0 +1,16 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2308</literal></binding>
+   <binding name="date"><literal>19650430</literal></binding>
+   <binding name="title"><literal>DE MARZI ed altri: Provvedimenti a favore della cooperazione</literal></binding>
+  </result>
+ </results>
+</sparql>

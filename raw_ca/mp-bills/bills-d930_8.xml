@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4148</literal></binding>
+   <binding name="date"><literal>19830502</literal></binding>
+   <binding name="title"><literal>BOGI ed altri: Norme sulla emittenza radiotelevisiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1031</literal></binding>
+   <binding name="date"><literal>19791123</literal></binding>
+   <binding name="title"><literal>MAMMÌ ed altri: Regolamentazione dell&#39;esercizio del diritto di sciopero nel settore dei servizi pubblici di preminente interesse generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1081</literal></binding>
+   <binding name="date"><literal>19791204</literal></binding>
+   <binding name="title"><literal>ACCAME ed altri: Interventi per i Comuni di Sestri Levante e di Casarza Ligure colpiti dall&#39;alluvione del 21 settembre 1979</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3990</literal></binding>
+   <binding name="date"><literal>19830310</literal></binding>
+   <binding name="title"><literal>GANDOLFI ed altri: Modifica alla legge 20 maggio 1982, n. 270, concernente la sistemazione del personale docente precario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1117</literal></binding>
+   <binding name="date"><literal>19791207</literal></binding>
+   <binding name="title"><literal>MAMMÌ ed altri: Nuovo ordinamento della scuola secondaria superiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1243</literal></binding>
+   <binding name="date"><literal>19800109</literal></binding>
+   <binding name="title"><literal>DEL PENNINO ed altri: Nuove norme sull&#39;ordinamento e le funzioni del Consiglio di Stato e dei tribunali amministrativi regionali</literal></binding>
+  </result>
+ </results>
+</sparql>

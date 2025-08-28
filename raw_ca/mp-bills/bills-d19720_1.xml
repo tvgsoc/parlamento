@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1148</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>REGGIO D&#39;ACI ed altri: Perequazione del trattamento economico al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>126</literal></binding>
+   <binding name="date"><literal>19481008</literal></binding>
+   <binding name="title"><literal>MESSINETTI e PUGLIESE: Costituzione in comune autonomo di Cirò Marina, frazione del comune di Cirò</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1426</literal></binding>
+   <binding name="date"><literal>19500707</literal></binding>
+   <binding name="title"><literal>LARUSSA ed altri: Disposizioni concernenti il trattamento economico, la carriera e il collocamento a riposo dei segretari comunali e provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1883</literal></binding>
+   <binding name="date"><literal>19510307</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Disciplina per l&#39;uso in Italia di onorificenze di alcuni Ordini cavallereschi liberi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>707</literal></binding>
+   <binding name="date"><literal>19490720</literal></binding>
+   <binding name="title"><literal>MONTICELLI ed altri: Modificazioni al decreto-legge 15 ottobre 1925, n. 2033, per quanto concerne la repressione delle frodi nella preparazione e nel commercio del vino e dell&#39;aceto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1811</literal></binding>
+   <binding name="date"><literal>19510209</literal></binding>
+   <binding name="title"><literal>GIAMMARCO ed altri: Autorizzazione al Ministro dei lavori pubblici della spesa di lire 19.809.700.000 per la costruzione di case popolari da assegnare a famiglie alloggiate in baracche in dipendenza dei terremoti del 28 dicembre 1908 e del 15 gennaio 1915</literal></binding>
+  </result>
+ </results>
+</sparql>

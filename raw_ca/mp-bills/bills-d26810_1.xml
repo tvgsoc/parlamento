@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1003</literal></binding>
+   <binding name="date"><literal>19491220</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Trasformazione fondiario-agraria dei terreni privi o poveri di investimenti stabili ed estensivamente utilizzati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1201</literal></binding>
+   <binding name="date"><literal>19500401</literal></binding>
+   <binding name="title"><literal>FIRRAO ed altri: Costruzione dei tratti Torregaveta Miseno con diramazione a Monte di Procida della ferrovia Cumana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1298</literal></binding>
+   <binding name="date"><literal>19500527</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Costituzione del comune di San Gennarello, in provincia di Napoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1385</literal></binding>
+   <binding name="date"><literal>19500623</literal></binding>
+   <binding name="title"><literal>SEMERARO ed altri: Disposizioni per un più sicuro e stabile impiego della mano d&#39;opera agricola disoccupata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1420</literal></binding>
+   <binding name="date"><literal>19500706</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Costituzione del comune di Volla ed aggregazione della frazione Massa di Somma al comune di San Sebastiano al Vesuvio, in provincia di Napoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1421</literal></binding>
+   <binding name="date"><literal>19500706</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Ricostituzione della pretura a Palma Campania</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1736</literal></binding>
+   <binding name="date"><literal>19501222</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Ripristino delle norme penali, contenute nei regi decreti-legge 2 gennaio 1936, n. 85, 3 febbraio 1936, n. 279, e 8 novembre 1936, n. 1985, e nel decreto legislativo luogotenenziale 17 settembre 1944, n. 213, relative alla disciplina della produzione ed utilizzazione della canapa e delle altre fibre vegetali</literal></binding>
+  </result>
+ </results>
+</sparql>

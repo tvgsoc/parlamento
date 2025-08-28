@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>202</literal></binding>
+   <binding name="date"><literal>19630710</literal></binding>
+   <binding name="title"><literal>BIGNARDI ed altri: Modificazione dell&#39;articolo 14 della legge 8 aprile 1952, n. 212, per quanto concerne il cumulo degli stipendi e l&#39;adeguamento del trattamento di quiescenza cumulabile col trattamento di attività</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>145</literal></binding>
+   <binding name="date"><literal>19630626</literal></binding>
+   <binding name="title"><literal>TROMBETTA ed altri: Abrogazione del regio decreto-legge 2 dicembre 1935, n. 2085, convertito in legge 6 aprile 1936, n. 899, e successive modificazioni, riguardante l&#39;istituzione del monopolio statale delle banane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>161</literal></binding>
+   <binding name="date"><literal>19630627</literal></binding>
+   <binding name="title"><literal>DURAND DE LA PENNE ed altri: Assegno annuale agli ex-combattenti della guerra 1915-18</literal></binding>
+  </result>
+ </results>
+</sparql>

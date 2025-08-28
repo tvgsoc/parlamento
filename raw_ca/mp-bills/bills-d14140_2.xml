@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1994</literal></binding>
+   <binding name="date"><literal>19560118</literal></binding>
+   <binding name="title"><literal>NATOLI ed altri: Provvedimenti speciali per la città di Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3188</literal></binding>
+   <binding name="date"><literal>19570927</literal></binding>
+   <binding name="title"><literal>GULLO ed altri: Inclusione del 20 settembre nell&#39;elenco delle feste nazionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3395</literal></binding>
+   <binding name="date"><literal>19571219</literal></binding>
+   <binding name="title"><literal>PAJETTA ed altri: Norme per le elezioni del Consiglio regionale della Valle d&#39;Aosta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3398</literal></binding>
+   <binding name="date"><literal>19571219</literal></binding>
+   <binding name="title"><literal>SCARPA ed altri: Istituzione della zona franca nel territorio della Regione autonoma della Valle d&#39;Aosta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3579</literal></binding>
+   <binding name="date"><literal>19580221</literal></binding>
+   <binding name="title"><literal>BETTIOL ed altri: Fondo nazionale della montagna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>421</literal></binding>
+   <binding name="date"><literal>19531127</literal></binding>
+   <binding name="title"><literal>PRETI ed altri: Abrogazione dell&#39;articolo 553 del Codice penale relativo alla propaganda antiprocreativa</literal></binding>
+  </result>
+ </results>
+</sparql>

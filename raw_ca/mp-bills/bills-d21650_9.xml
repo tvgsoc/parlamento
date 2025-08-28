@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4283</literal></binding>
+   <binding name="date"><literal>19861218</literal></binding>
+   <binding name="title"><literal>GRASSUCCI ed altri: Norme concernenti l&#39;esercizio dei distributori di carburante</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4301</literal></binding>
+   <binding name="date"><literal>19861230</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Soppressione del Senato della Repubblica e istituzione del Senato delle regioni e delle autonomie locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4578</literal></binding>
+   <binding name="date"><literal>19870403</literal></binding>
+   <binding name="title"><literal>GHINAMI ed altri: Costituzione delle classi nelle scuole dell&#39;obbligo nei piccoli comuni della Sardegna</literal></binding>
+  </result>
+ </results>
+</sparql>

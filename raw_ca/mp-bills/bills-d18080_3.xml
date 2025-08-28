@@ -1,0 +1,100 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1293</literal></binding>
+   <binding name="date"><literal>19590610</literal></binding>
+   <binding name="title"><literal>BUZZETTI ed altri: Nuove norme sulla prevenzione e sull&#39;assicurazione obbligatoria contro la silicosi e l&#39;asbestosi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>45</literal></binding>
+   <binding name="date"><literal>19580621</literal></binding>
+   <binding name="title"><literal>BUZZETTI e VALSECCHI: Inclusione della linea ferroviaria Sondrio-Tirano nella rete statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1066</literal></binding>
+   <binding name="date"><literal>19590416</literal></binding>
+   <binding name="title"><literal>BOIDI ed altri: Costituzione del comune di Marotta, in provincia di Pesaro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1526</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Istituzione dell&#39;Ente comunale di assistenza familiare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1527</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Protezione e assistenza della maternità e dell&#39;infanzia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1528</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Protezione e assistenza della fanciullezza e dell&#39;adolescenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1652</literal></binding>
+   <binding name="date"><literal>19591021</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Sulla riabilitazione dei soggetti in età evolutiva che presentano irregolarità psichiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1766</literal></binding>
+   <binding name="date"><literal>19591127</literal></binding>
+   <binding name="title"><literal>RIPAMONTI ed altri: Provvedimenti per l&#39;esecuzione di opere straordinarie negli aeroporti di Milano-Linate e Milano-Malpensa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>194</literal></binding>
+   <binding name="date"><literal>19580801</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Norme in materia di cantieri di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1965</literal></binding>
+   <binding name="date"><literal>19600128</literal></binding>
+   <binding name="title"><literal>GUERRIERI ed altri: Modifiche alla legge 27 marzo 1953, n. 259, concernente l&#39;aumento dei soprassoldi di medaglie al valor militare e degli assegni ai decorati dell&#39;Ordine militare d&#39;Italia ed estensione del soprassoldo ai decorati della Croce di guerra al valor militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2360</literal></binding>
+   <binding name="date"><literal>19600716</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Nuove disposizioni in materia di imposta generale sull&#39;entrata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3719</literal></binding>
+   <binding name="date"><literal>19620405</literal></binding>
+   <binding name="title"><literal>GORRIERI ed altri: Nuovi provvedimenti per le aree depresse dell&#39;Italia centrale e settentrionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3926</literal></binding>
+   <binding name="date"><literal>19620630</literal></binding>
+   <binding name="title"><literal>MIGLIORI ed altri: Riordinamento dell&#39;Ente Autonomo Teatro alla Scala di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4049</literal></binding>
+   <binding name="date"><literal>19620731</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Disciplina per l&#39;espletamento della propaganda scientifica delle specialità medicinali e dei presidi farmaco-terapeutici, rivolta al medico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4522</literal></binding>
+   <binding name="date"><literal>19630125</literal></binding>
+   <binding name="title"><literal>ALESSANDRINI ed altri: Estensione delle disposizioni della legge 17 agosto 1960, n. 908, alle opere di edilizia scolastica</literal></binding>
+  </result>
+ </results>
+</sparql>

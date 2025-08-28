@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1652</literal></binding>
+   <binding name="date"><literal>19550613</literal></binding>
+   <binding name="title"><literal>FERRARIO e PEDINI: Modifica all&#39;articolo 12 della legge 1° marzo 1952, n. 113, concernente modificazioni alle disposizioni del testo unico sull&#39;edilizia economica e popolare, approvato con regio decreto 28 aprile 1938, n. 1165</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1029</literal></binding>
+   <binding name="date"><literal>19540714</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Disposizioni per la identificazione e qualificazione dei pubblici esercizi caratteristici o di interesse turistico nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1824</literal></binding>
+   <binding name="date"><literal>19551015</literal></binding>
+   <binding name="title"><literal>BOIDI ed altri: Riordinamento dei diritti di pesca</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2571</literal></binding>
+   <binding name="date"><literal>19561127</literal></binding>
+   <binding name="title"><literal>GARLATO ed altri: Istituzione della provincia di Pordenone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2697</literal></binding>
+   <binding name="date"><literal>19570201</literal></binding>
+   <binding name="title"><literal>CHIARINI ed altri: Interpretazione autentica dell&#39;articolo 8 della legge 7 gennaio 1949, n. 1</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3324</literal></binding>
+   <binding name="date"><literal>19571127</literal></binding>
+   <binding name="title"><literal>VISCHIA ed altri: Conferimento dei posti del ruolo in soprannumero vacanti all&#39;inizio degli anni scolastici 1958-59 e 1959-60</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>860</literal></binding>
+   <binding name="date"><literal>19540511</literal></binding>
+   <binding name="title"><literal>GOZZI ed altri: Riforma dei contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1898</literal></binding>
+   <binding name="date"><literal>19551125</literal></binding>
+   <binding name="title"><literal>CAIATI ed altri: Proroga e modificazione della legge 4 marzo 1952, n. 137, per l&#39;assistenza a favore dei profughi</literal></binding>
+  </result>
+ </results>
+</sparql>

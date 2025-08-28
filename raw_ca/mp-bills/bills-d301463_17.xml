@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>789</literal></binding>
+   <binding name="date"><literal>20130417</literal></binding>
+   <binding name="title"><literal>ORLANDO: &quot;Istituzione della &#39;Giornata del riscatto nazionale&#39; in ricordo delle azioni che, il 9 settembre 1943, diedero inizio alla Guerra di liberazione e al secondo Risorgimento italiano&quot; (789)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>790</literal></binding>
+   <binding name="date"><literal>20130417</literal></binding>
+   <binding name="title"><literal>ORLANDO ed altri: &quot;Modifiche al codice penale, in materia di recidiva, e alle leggi 26 luglio 1975, n. 354, e 26 novembre 2010, n. 199, in materia di esecuzione delle pene&quot; (790)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>331-927-B</literal></binding>
+   <binding name="date"><literal>20140123</literal></binding>
+   <binding name="title"><literal>S. 925. - FERRANTI ed altri; COSTA: &quot;Deleghe al Governo in materia di pene detentive non carcerarie e di riforma del sistema sanzionatorio. Disposizioni in materia di sospensione del procedimento con messa alla prova e nei confronti degli irreperibili&quot; (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (331-927-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>330</literal></binding>
+   <binding name="date"><literal>20130318</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Modifiche al codice civile e al codice penale e altre disposizioni in materia di false comunicazioni sociali e di falsità nelle comunicazioni dei responsabili della revisione legale, di autoriciclaggio, di scambio elettorale politico-mafioso, di delitti di frode fiscale, nonché per il contrasto della corruzione e dell&#39;illegalità nella pubblica amministrazione e nei rapporti tra privati&quot; (330)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>331</literal></binding>
+   <binding name="date"><literal>20130318</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Delega al Governo in materia di pene detentive non carcerarie e disposizioni in materia di sospensione del procedimento con messa alla prova e nei confronti degli irreperibili&quot; (331)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>372</literal></binding>
+   <binding name="date"><literal>20130320</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Modifiche al codice di procedura penale in materia di disciplina dell&#39;udienza preliminare e di richieste di prova&quot; (372)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>482</literal></binding>
+   <binding name="date"><literal>20130322</literal></binding>
+   <binding name="title"><literal>GARAVINI ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sul fenomeno della mafia e sulle altre associazioni criminali, anche straniere&quot; (482)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>631</literal></binding>
+   <binding name="date"><literal>20130403</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Modifiche al codice di procedura penale in materia di misure cautelari personali&quot; (631)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>806</literal></binding>
+   <binding name="date"><literal>20130418</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Introduzione dell&#39;articolo 411-bis del codice di procedura penale e altre disposizioni per la definizione del processo penale nei casi di particolare tenuità del fatto&quot; (806)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>631-B</literal></binding>
+   <binding name="date"><literal>20140403</literal></binding>
+   <binding name="title"><literal>S. 1232. - FERRANTI ed altri: &quot;Modifiche al codice di procedura penale in materia di misure cautelari personali. Modifiche alla legge 26 luglio 1975, n. 354, in materia di visita a persone affette da handicap in situazione di gravità, e al decreto legislativo 23 febbraio 2006, n. 109, in materia di illeciti disciplinari e relative sanzioni&quot; (approvata dalla Camera e modificata dal Senato) (631-B)</literal></binding>
+  </result>
+ </results>
+</sparql>

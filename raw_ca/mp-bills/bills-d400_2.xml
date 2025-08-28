@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3169</literal></binding>
+   <binding name="date"><literal>19570918</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Riduzione di imposte sui fondi rustici danneggiati dalle eccezionali avversità atmosferiche per i quali é ridotto per legge il canone di affitto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>111</literal></binding>
+   <binding name="date"><literal>19530824</literal></binding>
+   <binding name="title"><literal>MENOTTI ed altri: Aumento dell&#39;imposta di soggiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>112</literal></binding>
+   <binding name="date"><literal>19530824</literal></binding>
+   <binding name="title"><literal>MENOTTI ed altri: Aumento del contributo di cura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>201</literal></binding>
+   <binding name="date"><literal>19531001</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Istituzione di una Commissione interparlamentare per il completamento delle indagini e l&#39;attuazione delle proposte suggerite dalla &quot;Commissione parlamentare d&#39;inchiesta sulla miseria in Italia e sui mezzi per combatterla&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3348</literal></binding>
+   <binding name="date"><literal>19571205</literal></binding>
+   <binding name="title"><literal>VILLABRUNA ed altri: Esonero dal servizio militare di giovani che trovansi in particolare situazione di famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>374</literal></binding>
+   <binding name="date"><literal>19531119</literal></binding>
+   <binding name="title"><literal>BIMA ed altri: Modificazione della base di ripartizione dell&#39;addizionale E.C.A. e della percentuale dell&#39;imposta generale sull&#39;entrata devoluta alle Provincie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>392</literal></binding>
+   <binding name="date"><literal>19531124</literal></binding>
+   <binding name="title"><literal>CORTESE ed altri: Estensione ai mutilati ed invalidi ed ai congiunti dei morti in occasione dei fatti di Trieste dei giorni 4, 5, 6 e 7 novembre 1953, delle disposizioni della legge 10 agosto 1950, n. 648</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>633</literal></binding>
+   <binding name="date"><literal>19540128</literal></binding>
+   <binding name="title"><literal>VIOLA DI CÀ TASSON ed altri: Concessione di una pensione al signor Natale Papini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>170</literal></binding>
+   <binding name="date"><literal>19530924</literal></binding>
+   <binding name="title"><literal>LUZZATTO ed altri: Attuazione della disposizione dell&#39;articolo 103, ultima parte, della Costituzione della Repubblica</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,508 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3578</literal></binding>
+   <binding name="date"><literal>19951215</literal></binding>
+   <binding name="title"><literal>VIGNALI e FUMAGALLI: Norme per il recupero e la valorizzazione del patrimonio artistico, storico culturale e ambientale dei territori Maltidico - Canossani situati nelle regioni Lazio, Toscana, Emilia-Romagna, Lombardia e Veneto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>792</literal></binding>
+   <binding name="date"><literal>19940629</literal></binding>
+   <binding name="title"><literal>VIGNALI ed altri: Modifica all&#39;articolo 17 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, in materia di indennità di missione spettante ai professori ordinari per attività didattiche e scientifiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1007</literal></binding>
+   <binding name="date"><literal>19940722</literal></binding>
+   <binding name="title"><literal>GRIMALDI ed altri: Modifiche alla disciplina della custodia cautelare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1029</literal></binding>
+   <binding name="date"><literal>19940725</literal></binding>
+   <binding name="title"><literal>SOLAROLI ed altri: Concessione di un contributo alla regione Emilia Romagna per le eccezionali avversità atmosferiche dell&#39;11, 12 e 13 giugno 1994 che hanno interessato i territori delle province di Reggio Emilia, Modena e Bologna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1085</literal></binding>
+   <binding name="date"><literal>19940802</literal></binding>
+   <binding name="title"><literal>COMMISSO ed altri: Riforma della scuola secondaria superiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1089</literal></binding>
+   <binding name="date"><literal>19940802</literal></binding>
+   <binding name="title"><literal>SAIA ed altri: Istituzione della cartella sanitaria personale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1133</literal></binding>
+   <binding name="date"><literal>19940804</literal></binding>
+   <binding name="title"><literal>PISTONE ed altri: Delega al Governo per la riforma delle Accademie di belle arti, la loro trasformazione in istituti superiori delle arti visive, per la riforma dell&#39;Accademia nazionale di danza, dell&#39;Accademia nazionale di arte drammatica e dei conservatori di musica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>123</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>TURRONI ed altri: Norme quadro per la realizzazione di percorsi ciclabili integrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1373</literal></binding>
+   <binding name="date"><literal>19941003</literal></binding>
+   <binding name="title"><literal>PAISSAN ed altri: Nuovo ordinamento del sistema delle comunicazioni e istituzione dell&#39;Autorità per le garanzie nelle comunicazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1374</literal></binding>
+   <binding name="date"><literal>19941003</literal></binding>
+   <binding name="title"><literal>DE MURTAS ed altri: Norme concernenti l&#39;apertura e la gestione delle palestre e dei centri sportivi privati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1375</literal></binding>
+   <binding name="date"><literal>19941003</literal></binding>
+   <binding name="title"><literal>DE MURTAS ed altri: Norme per l&#39;organizzazione e l&#39;ordinamento dello sport</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1376</literal></binding>
+   <binding name="date"><literal>19941003</literal></binding>
+   <binding name="title"><literal>DE MURTAS ed altri: Norme in materia di rapporto tra società sportive ed atleti di età inferiore a sedici anni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1497</literal></binding>
+   <binding name="date"><literal>19941020</literal></binding>
+   <binding name="title"><literal>VALPIANA ed altri: Norme relative all&#39;età di collocamento a riposo dei professori universitari ordinari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1604</literal></binding>
+   <binding name="date"><literal>19941111</literal></binding>
+   <binding name="title"><literal>SAIA ed altri: Norme per l&#39;inquadramento nei ruoli degli enti locali di particolari categorie di lavoratori con rapporto di lavoro formalmente autonomo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1620</literal></binding>
+   <binding name="date"><literal>19941114</literal></binding>
+   <binding name="title"><literal>SAIA ed altri: Modifica all&#39;articolo 8 del decreto legislativo 30 dicembre 1992, n. 502,in materia di requisiti per l&#39;accesso dei medici alle graduatorie dei medici di medicina generale e dei servizi di guardia medica del Servizio sanitario nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1621</literal></binding>
+   <binding name="date"><literal>19941114</literal></binding>
+   <binding name="title"><literal>SAIA ed altri: Modifica all&#39;articolo 8 del decreto legislativo 30 dicembre 1992, n. 502,in materia di immissione del personale medico nei servizi di emergenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1647</literal></binding>
+   <binding name="date"><literal>19941117</literal></binding>
+   <binding name="title"><literal>GRIMALDI ed altri: Delega al Governo per la depenalizzazione dei reati minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1651</literal></binding>
+   <binding name="date"><literal>19941118</literal></binding>
+   <binding name="title"><literal>GRIMALDI ed altri: Modifiche al codice penale per l&#39;abolizione della pena dell&#39;ergastolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1686</literal></binding>
+   <binding name="date"><literal>19941124</literal></binding>
+   <binding name="title"><literal>BOGHETTA ed altri: Legge quadro per il trasporto pubblico locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>177</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>MUZIO ed altri: Norme per la bonifica delle strutture e dei territori contaminati dall&#39;amianto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>179</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>BOLOGNESI ed altri: Norme per l&#39;elezione del consiglio unitario delle lavoratrici e dei lavoratori nei luoghi di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1800</literal></binding>
+   <binding name="date"><literal>19941219</literal></binding>
+   <binding name="title"><literal>MUZIO ed altri: Istituzione di una Commissione parlamentare di inchiesta sui danni e le vittime provocati dai nubifragi e dalle alluvioni dal 4 e 6 novembre 1994 nelle regioni Piemonte, Liguria, Lombardia, Veneto ed Emilia Romagna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1898</literal></binding>
+   <binding name="date"><literal>19950118</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Destinazione gratuita di tutte le pubblicazioni italiane su Raffaello Sanzio e sui Montefeltro alla biblioteca dell&#39;Accademia Raffaello di Urbino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1919</literal></binding>
+   <binding name="date"><literal>19950124</literal></binding>
+   <binding name="title"><literal>COMMISSO ed altri: Riordinamento della docenza universitaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1941</literal></binding>
+   <binding name="date"><literal>19950131</literal></binding>
+   <binding name="title"><literal>MUZIO ed altri: Modifiche al decreto-legge 24 novembre 1994, n. 646, convertito, con modificazioni, dalla legge 21 gennaio 1995, n. 22, recante interventi urgenti a favore delle zone colpite dalle eccezionali avversità atmosferiche e dagli eventi alluvionali nella prima decade del mese di novembre 1994</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1983</literal></binding>
+   <binding name="date"><literal>19950208</literal></binding>
+   <binding name="title"><literal>BERTINOTTI ed altri: Nuova disciplina dei diritti previdenziali dei lavoratori italiani emigrati all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2048</literal></binding>
+   <binding name="date"><literal>19950216</literal></binding>
+   <binding name="title"><literal>COMMISSO ed altri: Istituzione del fondo per i centri di sostegno e di accoglienza alle vittime di maltrattamenti e di violenza sessuale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2095</literal></binding>
+   <binding name="date"><literal>19950223</literal></binding>
+   <binding name="title"><literal>COCCI ed altri: Norme in tema di riordino del sistema previdenziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2156</literal></binding>
+   <binding name="date"><literal>19950307</literal></binding>
+   <binding name="title"><literal>PISTONE ed altri: Modifiche al decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, in materia di imposta sugli spettacoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2214</literal></binding>
+   <binding name="date"><literal>19950313</literal></binding>
+   <binding name="title"><literal>VOCCOLI ed altri: Modifiche al decreto legislativo 30 dicembre 1992, n. 503, ed al decreto legislativo 11 agosto 1993, n. 374, recanti norme previdenziali concernenti i lavoratori impegnati in attività usuranti e particolarmente usuranti o che risultino inabili alla propria mansione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2307</literal></binding>
+   <binding name="date"><literal>19950328</literal></binding>
+   <binding name="title"><literal>GRIMALDI ed altri: Modifiche all&#39;ordinamento penitenziario e al regime di esecuzione delle pene</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2362</literal></binding>
+   <binding name="date"><literal>19950405</literal></binding>
+   <binding name="title"><literal>CORLEONE ed altri: Norme per la legalizzazione dei derivati dalla cannabis indica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2389</literal></binding>
+   <binding name="date"><literal>19950407</literal></binding>
+   <binding name="title"><literal>MASINI ed altri: Norme sull&#39;informazione e sull&#39;educazione sessuale nelle scuole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2554</literal></binding>
+   <binding name="date"><literal>19950517</literal></binding>
+   <binding name="title"><literal>SGARBI ed altri: Provvedimenti urgenti per l&#39;Ente autonomo la Triennale di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2633</literal></binding>
+   <binding name="date"><literal>19950602</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Istituzione dei reparti di terapia intensiva presso le divisioni di ematologia clinica degli ospedali regionali e del Registro italiano dei donatori di midollo osseo presso gli Ospedali &quot;Galliera&quot; di Genova</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2720</literal></binding>
+   <binding name="date"><literal>19950620</literal></binding>
+   <binding name="title"><literal>SCOTTO DI LUZIO ed altri: Modifica dell&#39;articolo 1-quinquies del decreto-legge 27 giugno 1985, n. 312, convertito, con modificazioni, dalla legge 8 agosto 1985, n. 431, in materia di tutela delle zone di particolare interesse ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2724</literal></binding>
+   <binding name="date"><literal>19950620</literal></binding>
+   <binding name="title"><literal>GALLIANI ed altri: Ordinamento della professione di pedagogista ed istituzione del relativo albo professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2749</literal></binding>
+   <binding name="date"><literal>19950622</literal></binding>
+   <binding name="title"><literal>GRASSO ed altri: Modifiche al decreto-legge 15 gennaio 1991, n. 8, convertito, con modificazioni, dalla legge 15 marzo 1991, n. 82, per l&#39;introduzione di nuove norme a sostegno dei testimoni di gravi eventi criminosi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>277</literal></binding>
+   <binding name="date"><literal>19940419</literal></binding>
+   <binding name="title"><literal>VIOLANTE ed altri: Sequestro e confisca dei beni ai condannati per delitti di corruzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2897</literal></binding>
+   <binding name="date"><literal>19950717</literal></binding>
+   <binding name="title"><literal>CANESI ed altri: Norme per la semplificazione amministrativa in materia di tombole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2945</literal></binding>
+   <binding name="date"><literal>19950724</literal></binding>
+   <binding name="title"><literal>BIELLI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche all&#39;articolo 75 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2946</literal></binding>
+   <binding name="date"><literal>19950725</literal></binding>
+   <binding name="title"><literal>MANGANELLI ed altri: Norme per la valorizzazione e la tutela delle feste tradizionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2981</literal></binding>
+   <binding name="date"><literal>19950727</literal></binding>
+   <binding name="title"><literal>BIELLI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche agli articoli 64 e 138 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3146</literal></binding>
+   <binding name="date"><literal>19950920</literal></binding>
+   <binding name="title"><literal>BRACCI MARINAI ed altri: Modifiche al codice civile in materia di convivenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3165</literal></binding>
+   <binding name="date"><literal>19950926</literal></binding>
+   <binding name="title"><literal>CANESI ed altri: Istituzione del Parco archeologico delle cave antiche delle Alpi Apuane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3182</literal></binding>
+   <binding name="date"><literal>19950928</literal></binding>
+   <binding name="title"><literal>BIELLI ed altri: Delega al Governo per l&#39;istituzione della tessera elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3185</literal></binding>
+   <binding name="date"><literal>19950928</literal></binding>
+   <binding name="title"><literal>NAPPI ed altri: Norme per lo sviluppo della multimedialità e del diritto alla comunicazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3208</literal></binding>
+   <binding name="date"><literal>19951004</literal></binding>
+   <binding name="title"><literal>DE JULIO ed altri: Agevolazioni per l&#39;acquisto e l&#39;adattamento di veicoli per il trasporto diinvalidi con ridotte o impedite capacità motorie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3274</literal></binding>
+   <binding name="date"><literal>19951018</literal></binding>
+   <binding name="title"><literal>GUERRA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 53 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3286</literal></binding>
+   <binding name="date"><literal>19951019</literal></binding>
+   <binding name="title"><literal>MONTECCHI ed altri: Celebrazione nazionale del bicentenario della prima bandiera nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3306</literal></binding>
+   <binding name="date"><literal>19951025</literal></binding>
+   <binding name="title"><literal>MAZZETTO ed altri: Norme per la destinazione dei proventi delle sanzioni amministrative pecuniarie di cui all&#39;articolo 208 del decreto legislativo 30 aprile 1992, n. 285 (Nuovo codice della strada) ad attività di educazione stradale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3307</literal></binding>
+   <binding name="date"><literal>19951025</literal></binding>
+   <binding name="title"><literal>MATTINA ed altri: Norme per la determinazione delle modalità di collegamento a più contrassegni dei candidati nella scheda di votazione per la elezione alla Camera dei deputati per l&#39;attribuzione dei seggi in ragione proporzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3369</literal></binding>
+   <binding name="date"><literal>19951109</literal></binding>
+   <binding name="title"><literal>BOLOGNESI ed altri: Istituzione dell&#39;indennità di mancato recupero salariale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3379</literal></binding>
+   <binding name="date"><literal>19951109</literal></binding>
+   <binding name="title"><literal>CENNAMO ed altri: Modifiche alla legge 29 luglio 1971, n. 578, e istituzione del consorzio denominato &quot;La città vesuviana&quot; per la valorizzazione dei beni culturali del territorio vesuviano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3384</literal></binding>
+   <binding name="date"><literal>19951110</literal></binding>
+   <binding name="title"><literal>BOLOGNESI ed altri: Norme di riordino in materia di cassa integrazione ordinaria, indennità di disoccupazione e mobilità e abolizione dell&#39;intervento straordinario di integrazione salariale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3404</literal></binding>
+   <binding name="date"><literal>19951115</literal></binding>
+   <binding name="title"><literal>BOLOGNESI ed altri: Modifiche al codice penale in materia di tutela dei minori e istituzione di una &quot;clausola sociale&quot; negli accordi commerciali internazionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3426</literal></binding>
+   <binding name="date"><literal>19951116</literal></binding>
+   <binding name="title"><literal>SCHETTINO ed altri: Norme per promuovere la creazione di nuove imprese e migliorarne i livelli di competitività nelle aree di cui all&#39;obiettivo 1 del regolamento (CEE) n. 2081/93 del Consiglio, del 20 luglio 1993</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3498</literal></binding>
+   <binding name="date"><literal>19951130</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: Istituzione del parco culturale leopardiano per il bicentenario della nascita di Giacomo Leopardi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3605</literal></binding>
+   <binding name="date"><literal>19951221</literal></binding>
+   <binding name="title"><literal>BIELLI ed altri: Norme in favore delle vittime di violenze carnali consumate in occasione di eventi bellici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3890</literal></binding>
+   <binding name="date"><literal>19960216</literal></binding>
+   <binding name="title"><literal>ALTEA ed altri: Riordinamento della Corpo forestale dello Stato e istituzione del Dipartimento per la tutela dei consumatori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3900</literal></binding>
+   <binding name="date"><literal>19960216</literal></binding>
+   <binding name="title"><literal>ALTEA ed altri: Disciplina dell&#39;attività dei tecnici e degli artisti interpreti ed esecutori di musica leggera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>464</literal></binding>
+   <binding name="date"><literal>19940505</literal></binding>
+   <binding name="title"><literal>SBARBATI ed altri: Introduzione dell&#39;insegnamento di una seconda lingua comunitaria nella scuola media</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>616</literal></binding>
+   <binding name="date"><literal>19940527</literal></binding>
+   <binding name="title"><literal>CRUCIANELLI ed altri: Nuova disciplina delle locazioni degli immobili urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>627</literal></binding>
+   <binding name="date"><literal>19940531</literal></binding>
+   <binding name="title"><literal>SARACENI ed altri: Revoca delle sentenze di condanna per fatti di importazione, acquisto o detenzione di sostanze stupefacenti o psicotrope ad uso personale in misura eccedente la dose media giornaliera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>634</literal></binding>
+   <binding name="date"><literal>19940531</literal></binding>
+   <binding name="title"><literal>FINOCCHIARO ed altri: Norme per l&#39;organizzazione, la gestione ed il finanziamento di progetti per la riduzione del danno connesso all&#39;uso di sostanze stupefacenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>646</literal></binding>
+   <binding name="date"><literal>19940601</literal></binding>
+   <binding name="title"><literal>MAZZUCA POGGIOLINI ed altri: Istituzione della Consulta nazionale degli anziani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>647</literal></binding>
+   <binding name="date"><literal>19940601</literal></binding>
+   <binding name="title"><literal>MAZZUCA POGGIOLINI ed altri: Delega al Governo per l&#39;emanazione di un testo unico delle leggi sulla condizione dell&#39;anziano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>649</literal></binding>
+   <binding name="date"><literal>19940601</literal></binding>
+   <binding name="title"><literal>VENDOLA ed altri: Istituzione di centri di sperimentazione per la riduzione dei danni correlati alla tossicodipendenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>650</literal></binding>
+   <binding name="date"><literal>19940601</literal></binding>
+   <binding name="title"><literal>CORLEONE ed altri: Disciplina dell&#39;uso personale di sostanze stupefacenti o psicotrope</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>755</literal></binding>
+   <binding name="date"><literal>19940623</literal></binding>
+   <binding name="title"><literal>SBARBATI ed altri: Ordinamento degli studi di Scienze dell&#39;educazione fisica e sportiva presso le università. Norme transitorie sugli istituti superiori di educazione fisica (ISEF)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>784</literal></binding>
+   <binding name="date"><literal>19940628</literal></binding>
+   <binding name="title"><literal>BELLEI TRENTI ed altri: Riordino degli istituti termali pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>791</literal></binding>
+   <binding name="date"><literal>19940629</literal></binding>
+   <binding name="title"><literal>COMMISSO ed altri: Legge quadro sull&#39;autonomia del sistema universitario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>797</literal></binding>
+   <binding name="date"><literal>19940629</literal></binding>
+   <binding name="title"><literal>NAPPI ed altri: Delega al Governo per la riforma delle Accademie di Belle arti e la loro trasformazione in Istituti superiori delle arti visive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>821</literal></binding>
+   <binding name="date"><literal>19940701</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Rifinanziamento degli interventi per il patrimonio culturale e artistico dell&#39;antico ducato di Urbino e del Montefeltro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>842</literal></binding>
+   <binding name="date"><literal>19940705</literal></binding>
+   <binding name="title"><literal>DORIGO ed altri: Norme in materia di informazione e sicurezza dello Stato, di segreto di Stato, di informazioni classificate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>845</literal></binding>
+   <binding name="date"><literal>19940706</literal></binding>
+   <binding name="title"><literal>VENDOLA ed altri: Disposizioni in materia di unioni civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>869</literal></binding>
+   <binding name="date"><literal>19940707</literal></binding>
+   <binding name="title"><literal>BARZANTI ed altri: Norme in materia di produzione e vendita di carburanti di origine vegetale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>89</literal></binding>
+   <binding name="date"><literal>19940415</literal></binding>
+   <binding name="title"><literal>PROCACCI ed altri: Divieto di produzione, importazione e vendita di pellicce sul territorio nazionale e norme per la riconversione delle aziende del settore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>912</literal></binding>
+   <binding name="date"><literal>19940713</literal></binding>
+   <binding name="title"><literal>CRUCIANELLI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Revisione della parte seconda della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>947</literal></binding>
+   <binding name="date"><literal>19940714</literal></binding>
+   <binding name="title"><literal>SBARBATI ed altri: Norme in materia di inquadramento dei tecnici laureati nel ruolo dei ricercatori universitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>969</literal></binding>
+   <binding name="date"><literal>19940719</literal></binding>
+   <binding name="title"><literal>ARLACCHI ed altri: Istituzione di una Commissione parlamentare di inchiesta sui servizi per le informazioni e per la sicurezza dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>980</literal></binding>
+   <binding name="date"><literal>19940720</literal></binding>
+   <binding name="title"><literal>CRUCIANELLI ed altri: Nuove norme per l&#39;elezione dei consigli delle regioni a statuto ordinario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>822</literal></binding>
+   <binding name="date"><literal>19940701</literal></binding>
+   <binding name="title"><literal>SCOTTO DI LUZIO ed altri: Legge quadro sulle calamità naturali</literal></binding>
+  </result>
+ </results>
+</sparql>

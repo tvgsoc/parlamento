@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1606</literal></binding>
+   <binding name="date"><literal>19591007</literal></binding>
+   <binding name="title"><literal>ARIOSTO: Aumento dei contributi in favore dell&#39;Ente nazionale assistenza e previdenza per i pittori e gli scultori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1949</literal></binding>
+   <binding name="date"><literal>19600127</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Riforma degli Enti comunali di assistenza e delle altre istituzioni pubbliche di assistenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2010</literal></binding>
+   <binding name="date"><literal>19600212</literal></binding>
+   <binding name="title"><literal>BOLDRINI ed altri: Disposizioni per l&#39;integrazione dei programmi relativi all&#39;insegnamento della storia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2838</literal></binding>
+   <binding name="date"><literal>19610217</literal></binding>
+   <binding name="title"><literal>CERVONE ed altri: Riordinamento del Comitato olimpico nazionale italiano (C.O.N.I.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3283</literal></binding>
+   <binding name="date"><literal>19610928</literal></binding>
+   <binding name="title"><literal>ORLANDI ed altri: Assicurazione obbligatoria di invalidità, vecchiaia e superstiti per agenti e rappresentanti di commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3527</literal></binding>
+   <binding name="date"><literal>19611218</literal></binding>
+   <binding name="title"><literal>AMADEI ed altri: Agevolazioni fiscali permanenti a favore dell&#39;Ente nazionale assistenza agenti e rappresentanti di commercio (E.N.A.S.A.R.CO.)</literal></binding>
+  </result>
+ </results>
+</sparql>

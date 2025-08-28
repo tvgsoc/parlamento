@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1116</literal></binding>
+   <binding name="date"><literal>20080521</literal></binding>
+   <binding name="title"><literal>ANTONIO PEPE e LEONE: &quot;Istituzione in Foggia di sezioni distaccate della corte d&#39;appello e della corte di assise d&#39;appello di Bari, nonché del tribunale per i minorenni, e modifiche all&#39;articolo 51 del codice di procedura penale, in materia di esercizio delle funzioni di pubblico ministero nei distretti comprendenti sezioni distaccate di corte d&#39;appello&quot; (1116)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1117</literal></binding>
+   <binding name="date"><literal>20080521</literal></binding>
+   <binding name="title"><literal>ANTONIO PEPE e LEONE: &quot;Istituzione in Foggia di una sezione staccata del tribunale amministrativo regionale della Puglia&quot; (1117)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>735</literal></binding>
+   <binding name="date"><literal>20080505</literal></binding>
+   <binding name="title"><literal>ANTONIO PEPE ed altri: &quot;Delega al Governo per la revisione del trattamento tributario della famiglia mediante l&#39;introduzione del metodo del quoziente familiare e altre agevolazioni fiscali in favore delle famiglie&quot; (735)</literal></binding>
+  </result>
+ </results>
+</sparql>

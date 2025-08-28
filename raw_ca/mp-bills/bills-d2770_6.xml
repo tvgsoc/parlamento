@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1884</literal></binding>
+   <binding name="date"><literal>19730320</literal></binding>
+   <binding name="title"><literal>GALLUZZI ed altri: Riforma della radiotelevisione e istituzione di un Ente nazionale italiano radiotelevisivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2169</literal></binding>
+   <binding name="date"><literal>19730524</literal></binding>
+   <binding name="title"><literal>SALVI ed altri: Riordinamento dell&#39;Istituto agronomico per l&#39;oltremare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2174</literal></binding>
+   <binding name="date"><literal>19730524</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Norme per l&#39;attuazione dei piani organici di difesa del suolo, di sistemazione idrogeologica e di razionale utilizzazione delle acque</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2239</literal></binding>
+   <binding name="date"><literal>19730612</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Istituzione del servizio sanitario nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2687</literal></binding>
+   <binding name="date"><literal>19740124</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Modifiche agli articoli 35 e 36 della legge 25 maggio 1970, n. 352, recante norme sui referendum previsti dalla Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>26</literal></binding>
+   <binding name="date"><literal>19740125</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Aumento e riforma delle pensioni della previdenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>465</literal></binding>
+   <binding name="date"><literal>19720712</literal></binding>
+   <binding name="title"><literal>INGRAO ed altri: Modificazioni del primo comma dell&#39;articolo 48, del secondo comma dell&#39;articolo 56 e dell&#39;articolo 58 della Costituzione, concernenti la diminuzione dei limiti di età previsti per il diritto elettorale attivo e passivo sia per la Camera dei deputati che per il Senato della Repubblica</literal></binding>
+  </result>
+ </results>
+</sparql>

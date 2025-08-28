@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5069</literal></binding>
+   <binding name="date"><literal>20120320</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE CRAXI: &quot;Istituzione di un&#39;Assemblea costituente&quot; (5069)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5461</literal></binding>
+   <binding name="date"><literal>20120919</literal></binding>
+   <binding name="title"><literal>CRAXI: &quot;Istituzione di una Commissione parlamentare di inchiesta sul fenomeno comunemente definito &quot;Tangentopoli&quot;, sui suoi effetti, sugli attentati mafiosi del 1992 e 1993 e sull&#39;esistenza di trattative tra esponenti delle istituzioni e organizzazioni criminali a seguito dei succitati eventi&quot; (5461)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5654</literal></binding>
+   <binding name="date"><literal>20121217</literal></binding>
+   <binding name="title"><literal>CRAXI: &quot;Modifica all&#39;articolo 4 del decreto legislativo 14 marzo 2011, n. 23, concernente l&#39;istituzione di un&#39;imposta di sbarco nelle città portuali&quot; (5654)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>897</literal></binding>
+   <binding name="date"><literal>20080508</literal></binding>
+   <binding name="title"><literal>CRAXI: &quot;Modifiche agli articoli 21 e 30-ter della legge 26 luglio 1975, n. 354, per l&#39;estensione dei benefìci del lavoro all&#39;esterno e dei permessi premio ai condannati alla reclusione militare&quot; (897)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>898</literal></binding>
+   <binding name="date"><literal>20080508</literal></binding>
+   <binding name="title"><literal>CRAXI: &quot;Riforma del processo del lavoro&quot; (898)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>899</literal></binding>
+   <binding name="date"><literal>20080508</literal></binding>
+   <binding name="title"><literal>CRAXI: &quot;Disposizioni in materia di partecipazione azionaria dei lavoratori dipendenti&quot; (899)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>900</literal></binding>
+   <binding name="date"><literal>20080508</literal></binding>
+   <binding name="title"><literal>CRAXI: &quot;Istituzione di una Commissione parlamentare di inchiesta sulla gestione di coloro che collaborano con la giustizia&quot; (900)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>901</literal></binding>
+   <binding name="date"><literal>20080508</literal></binding>
+   <binding name="title"><literal>CRAXI: &quot;Istituzione di una Commissione parlamentare di inchiesta sui rapporti fra cooperative, partiti politici e amministrazioni locali&quot; (901)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>902</literal></binding>
+   <binding name="date"><literal>20080508</literal></binding>
+   <binding name="title"><literal>PIZZOLANTE e CRAXI: &quot;Norme per favorire la conversione in proprietà delle affittanze alberghiere&quot; (902)</literal></binding>
+  </result>
+ </results>
+</sparql>

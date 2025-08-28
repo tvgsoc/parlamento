@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1872</literal></binding>
+   <binding name="date"><literal>20061106</literal></binding>
+   <binding name="title"><literal>ANDREA ORLANDO: &quot;Istituzione della &#39;Giornata del riscatto nazionalè in ricordo delle azioni che, il 9 settembre 1943, diedero inizio alla Guerra di liberazione e al Secondo risorgimento italiano&quot; (1872)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1396</literal></binding>
+   <binding name="date"><literal>20060718</literal></binding>
+   <binding name="title"><literal>FASSINO ed altri: &quot;Diritto delle bambine e dei bambini all&#39;educazione e all&#39;istruzione dalla nascita fino a sei anni&quot; (1396)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1824</literal></binding>
+   <binding name="date"><literal>20061017</literal></binding>
+   <binding name="title"><literal>LEONI ed altri: &quot;Modifica all&#39;articolo 2 della legge 29 ottobre 1997, n. 374, recante norme per la messa al bando delle mine antipersona&quot; (1824)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1871</literal></binding>
+   <binding name="date"><literal>20061030</literal></binding>
+   <binding name="title"><literal>LUMIA ed altri: &quot;Disposizioni per favorire lo sviluppo sostenibile delle isole minori&quot; (1871)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2294</literal></binding>
+   <binding name="date"><literal>20070226</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Dichiarazione dell&#39;interesse nazionale del Bioparco di Roma e dell&#39;Acquario di Genova&quot; (2294)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>408</literal></binding>
+   <binding name="date"><literal>20060504</literal></binding>
+   <binding name="title"><literal>MOTTA ed altri: &quot;Disposizioni per la valorizzazione turistica, culturale e ambientale degli itinerari culturali italiani riconosciuti o in via di riconoscimento da parte del Consiglio d&#39;Europa&quot; (408)</literal></binding>
+  </result>
+ </results>
+</sparql>

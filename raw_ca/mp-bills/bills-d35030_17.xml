@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>524</literal></binding>
+   <binding name="date"><literal>20130325</literal></binding>
+   <binding name="title"><literal>AMICI: &quot;Istituzione della Conferenza permanente per il coordinamento dei rappresentanti degli organismi regionali di pari opportunità&quot; (524)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>831</literal></binding>
+   <binding name="date"><literal>20130419</literal></binding>
+   <binding name="title"><literal>AMICI ed altri: &quot;Modifiche all&#39;articolo 191 del codice civile e all&#39;articolo 3 della legge 1° dicembre 1970, n. 898, in materia di scioglimento del matrimonio e della comunione tra i coniugi&quot; (831)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>831-892-1053-1288-1938-2200-B</literal></binding>
+   <binding name="date"><literal>20150318</literal></binding>
+   <binding name="title"><literal>S. 1504. - AMICI ed altri; CENTEMERO ed altri; MORETTI ed altri; BONAFEDE ed altri; DI LELLO ed altri; DI SALVO ed altri: &quot;Disposizioni in materia di scioglimento o di cessazione degli effetti civili del matrimonio nonché di comunione tra i coniugi&quot; (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (831-892-1053-1288-1938-2200-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>331-927-B</literal></binding>
+   <binding name="date"><literal>20140123</literal></binding>
+   <binding name="title"><literal>S. 925. - FERRANTI ed altri; COSTA: &quot;Deleghe al Governo in materia di pene detentive non carcerarie e di riforma del sistema sanzionatorio. Disposizioni in materia di sospensione del procedimento con messa alla prova e nei confronti degli irreperibili&quot; (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (331-927-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>297</literal></binding>
+   <binding name="date"><literal>20130316</literal></binding>
+   <binding name="title"><literal>CENNI ed altri: &quot;Norme per la parità di accesso ai mezzi di comunicazione nella campagna elettorale e istituzione dell&#39;Agenzia per la parità, per la non discriminazione tra i generi e per la tutela della dignità della donna nell&#39;ambito della pubblicità e della comunicazione&quot; (297)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>331</literal></binding>
+   <binding name="date"><literal>20130318</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Delega al Governo in materia di pene detentive non carcerarie e disposizioni in materia di sospensione del procedimento con messa alla prova e nei confronti degli irreperibili&quot; (331)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>661</literal></binding>
+   <binding name="date"><literal>20130404</literal></binding>
+   <binding name="title"><literal>LENZI e AMICI: &quot;Modifiche alla legge 31 ottobre 1965, n. 1261, in materia di indennità e di rimborso delle spese di soggiorno a Roma spettanti ai membri del Parlamento&quot; (661)</literal></binding>
+  </result>
+ </results>
+</sparql>

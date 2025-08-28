@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2682</literal></binding>
+   <binding name="date"><literal>19790130</literal></binding>
+   <binding name="title"><literal>SEPPIA e FERRARI: Modifiche al regio decreto 9 luglio 1939, n. 1238, ordinamento dello stato civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2595</literal></binding>
+   <binding name="date"><literal>19781212</literal></binding>
+   <binding name="title"><literal>ACCAME ed altri: Misure per migliorare le condizioni di vita dei marittimi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2616</literal></binding>
+   <binding name="date"><literal>19781220</literal></binding>
+   <binding name="title"><literal>ACCAME ed altri: Norme per la regolamentazione del servizio militare di leva per i giovani iscritti fra la gente di mare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2689</literal></binding>
+   <binding name="date"><literal>19790131</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche al Capo X del codice civile in ordine alla disciplina del contratto di agenzia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2765</literal></binding>
+   <binding name="date"><literal>19790302</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: Modifiche alla disciplina dell&#39;indennità di buonuscita e dell&#39;indennità di fine rapporto d&#39;impiego spettante al personale civile e militare dello Stato, compreso il personale delle aziende autonome</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2792</literal></binding>
+   <binding name="date"><literal>19790320</literal></binding>
+   <binding name="title"><literal>TIRABOSCHI ed altri: Norme per la formazione professionale e la riqualificazione del personale di assistenza sanitaria, tecnica e riabilitativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2794</literal></binding>
+   <binding name="date"><literal>19790321</literal></binding>
+   <binding name="title"><literal>CRESCO ed altri: Legge quadro per la regolamentazione del divieto della navigazione a motore sui laghi</literal></binding>
+  </result>
+ </results>
+</sparql>

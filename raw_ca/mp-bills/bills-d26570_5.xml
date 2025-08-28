@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2390</literal></binding>
+   <binding name="date"><literal>19700316</literal></binding>
+   <binding name="title"><literal>OLLIETTI: Indennità speciale di seconda lingua ai magistrati, ai dipendenti civili dello Stato, compresi quelli delle amministrazioni con ordinamento autonomo, ed agli appartenenti alle forze armate ed ai corpi organizzati militarmente, in servizio nella regione autonoma della Valle d&#39;Aosta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3134</literal></binding>
+   <binding name="date"><literal>19710225</literal></binding>
+   <binding name="title"><literal>OLLIETTI: Modifica alla legge 19 aprile 1967, n. 305, relativa alla concessione alla Valle d&#39;Aosta dell&#39;esenzione fiscale per determinate merci e contingenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4017</literal></binding>
+   <binding name="date"><literal>19720221</literal></binding>
+   <binding name="title"><literal>OLLIETTI: Norme per l&#39;utilizzazione delle acque pubbliche ad uso idroelettrico nella regione Valle d&#39;Aosta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1303</literal></binding>
+   <binding name="date"><literal>19690329</literal></binding>
+   <binding name="title"><literal>MICHELI ed altri: Norme per la determinazione dei compensi spettanti ai notai e dei contributi spettanti alla Cassa nazionale del notariato</literal></binding>
+  </result>
+ </results>
+</sparql>

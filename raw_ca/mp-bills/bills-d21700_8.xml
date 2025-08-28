@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1009</literal></binding>
+   <binding name="date"><literal>19791121</literal></binding>
+   <binding name="title"><literal>PASQUINI ed altri: Integrazione dell&#39;ordinamento dello stato civile per le nascite che avvengono negli stabilimenti ospedalieri pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3226</literal></binding>
+   <binding name="date"><literal>19820303</literal></binding>
+   <binding name="title"><literal>PASQUINI ed altri: Ristrutturazione dell&#39;Istituto agronomico per l&#39;oltremare di Firenze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1943</literal></binding>
+   <binding name="date"><literal>19800731</literal></binding>
+   <binding name="title"><literal>CERRINA FERONI ed altri: Disciplina della ricerca e coltivazione delle risorse geotermiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2901</literal></binding>
+   <binding name="date"><literal>19811022</literal></binding>
+   <binding name="title"><literal>SALVI ed altri: Modifiche alla legge 9 febbraio 1979, n. 38, concernente cooperazione dell&#39;Italia con i Paesi in via di sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3203</literal></binding>
+   <binding name="date"><literal>19820225</literal></binding>
+   <binding name="title"><literal>SPAGNOLI ed altri: Modifica dell&#39;articolo 68 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3931</literal></binding>
+   <binding name="date"><literal>19830210</literal></binding>
+   <binding name="title"><literal>SALVI ed altri: Modifica dell&#39;articolo 34 della legge 25 agosto 1982, n. 604, concernente la disciplina della destinazione del personale di ruolo dello Stato alle istituzioni scolastiche italiane funzionanti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4103</literal></binding>
+   <binding name="date"><literal>19830427</literal></binding>
+   <binding name="title"><literal>MIGLIORINI ed altri: Assegno sociale per i cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+ </results>
+</sparql>

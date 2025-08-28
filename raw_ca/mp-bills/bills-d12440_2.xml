@@ -1,0 +1,100 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2829</literal></binding>
+   <binding name="date"><literal>19570329</literal></binding>
+   <binding name="title"><literal>GALATI ed altri: Istituzione della provincia di Vibo Valentia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1077</literal></binding>
+   <binding name="date"><literal>19540728</literal></binding>
+   <binding name="title"><literal>D&#39;AMBROSIO ed altri: Concessione di una pensione alla signora Vydia Morici, vedova di Giuseppe Donati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1130</literal></binding>
+   <binding name="date"><literal>19540804</literal></binding>
+   <binding name="title"><literal>DIECIDUE ed altri: Provvidenze a favore dell&#39;Opera di Santa Croce in Firenze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1147</literal></binding>
+   <binding name="date"><literal>19540922</literal></binding>
+   <binding name="title"><literal>LARUSSA ed altri: Provvedimenti per lo sviluppo economico della Calabria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1552</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>SAVIO ed altri: Provvedimenti a favore della scuola elementare in montagna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2838</literal></binding>
+   <binding name="date"><literal>19570403</literal></binding>
+   <binding name="title"><literal>MESSINETTI ed altri: Istituzione della provincia di Crotone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3132</literal></binding>
+   <binding name="date"><literal>19570731</literal></binding>
+   <binding name="title"><literal>BUFFONE ed altri: Istituzione della provincia di Castrovillari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3191</literal></binding>
+   <binding name="date"><literal>19570927</literal></binding>
+   <binding name="title"><literal>MARZANO ed altri: Aumento dell&#39;attuale organico dei viceprovveditori agli studi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3209</literal></binding>
+   <binding name="date"><literal>19571007</literal></binding>
+   <binding name="title"><literal>CACCURI ed altri: Istituzione della provincia di Barletta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>332</literal></binding>
+   <binding name="date"><literal>19531030</literal></binding>
+   <binding name="title"><literal>MESSINETTI ed altri: Risanamento dei rioni Carmine, Marinella e Macello della città di Crotone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3345</literal></binding>
+   <binding name="date"><literal>19571204</literal></binding>
+   <binding name="title"><literal>CARONIA ed altri: Provvidenze a favore dei comuni di Messina e Reggio Calabria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>992</literal></binding>
+   <binding name="date"><literal>19540625</literal></binding>
+   <binding name="title"><literal>FRANCESCHINI ed altri: Esonero dall&#39;insegnamento per i presidi dei licei scientifici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>993</literal></binding>
+   <binding name="date"><literal>19540625</literal></binding>
+   <binding name="title"><literal>FRANCESCHINI ed altri: Concessione di indennità ai componenti le Commissioni di esami di maturità e di abilitazione funzionanti nella stessa sede in cui essi sono in servizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1850</literal></binding>
+   <binding name="date"><literal>19551027</literal></binding>
+   <binding name="title"><literal>COLITTO ed altri: Modifiche delle norme sulla libera docenza</literal></binding>
+  </result>
+ </results>
+</sparql>

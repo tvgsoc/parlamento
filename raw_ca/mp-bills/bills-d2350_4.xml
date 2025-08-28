@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>424</literal></binding>
+   <binding name="date"><literal>19630913</literal></binding>
+   <binding name="title"><literal>DONAT CATTIN ed altri: Norme in materia di locazione di immobili, a qualsiasi uso destinati, esclusi quelli agricoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2255</literal></binding>
+   <binding name="date"><literal>19650409</literal></binding>
+   <binding name="title"><literal>LEVI ARIAN ed altri: Autorizzazione di spesa per la ricostruzione della linea ferroviaria Cuneo-Breil sur Roya-Ventimiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>320</literal></binding>
+   <binding name="date"><literal>19630726</literal></binding>
+   <binding name="title"><literal>CENGARLE ed altri: Modifiche all&#39;ordinamento degli Uffici centrali e periferici del Ministero della sanità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>343</literal></binding>
+   <binding name="date"><literal>19630726</literal></binding>
+   <binding name="title"><literal>CENGARLE ed altri: Modifica dell&#39;articolo 20 della legge 26 febbraio 1963, n. 441, per l&#39;ammissione ai concorsi per la nomina nel ruolo degli ispettori sanitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>46</literal></binding>
+   <binding name="date"><literal>19630528</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Corresponsione di una rendita di riversibilità a favore delle vedove e degli orfani dei lavoratori titolari di rendita di infortunio sul lavoro o malattia professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>523</literal></binding>
+   <binding name="date"><literal>19631004</literal></binding>
+   <binding name="title"><literal>CENGARLE ed altri: Norme integrative della legge 16 dicembre 1961, n. 1307, per la promozione alle qualifiche di primo segretario tecnico e di primo ragioniere nell&#39;Amministrazione della sanità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>608</literal></binding>
+   <binding name="date"><literal>19631017</literal></binding>
+   <binding name="title"><literal>CENGARLE ed altri: Modifiche al decreto-legge 31 luglio 1954, n. 533, convertito, con modificazioni, nella legge 26 settembre 1954, n. 869, concernente la disciplina relativa ai diritti, compensi e proventi percepiti dal personale delle Amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>657</literal></binding>
+   <binding name="date"><literal>19631024</literal></binding>
+   <binding name="title"><literal>ALESSANDRINI ed altri: Estensione delle disposizioni della legge 17 agosto 1960, n. 908, sulla utilizzazione di talune forme di pagamento già esclusive dell&#39;Amministrazione centrale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>217</literal></binding>
+   <binding name="date"><literal>19630711</literal></binding>
+   <binding name="title"><literal>BUTTÈ ed altri: Istituzione di un fondo di previdenza ai fini dell&#39;assicurazione obbligatoria invalidità, vecchiaia e superstiti in favore dei titolari di rivendita, gestori di magazzino vendita generi di monopolio nonché dei rispettivi coadiutori ed assistenti familiari</literal></binding>
+  </result>
+ </results>
+</sparql>

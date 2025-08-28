@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19730529</literal></binding>
+   <binding name="title"><literal>BECCIU ed altri: Modifiche al decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, e successive modificazioni, concernente l&#39;ordinamento degli ufficiali giudiziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1443</literal></binding>
+   <binding name="date"><literal>19721221</literal></binding>
+   <binding name="title"><literal>MARZOTTO CAOTORTA ed altri: Contributi speciali ad alcune regioni per costruzioni di ferrovie metropolitane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2391</literal></binding>
+   <binding name="date"><literal>19731011</literal></binding>
+   <binding name="title"><literal>PEZZATI ed altri: Ordinamento della professione di consulente del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2733</literal></binding>
+   <binding name="date"><literal>19740207</literal></binding>
+   <binding name="title"><literal>DAL MASO ed altri: Modifiche ed integrazioni al decreto-legge 5 novembre 1973, n. 660, convertito con legge 19 dicembre 1973, n. 823, recante norme per agevolare la definizione delle pendenze in materia tributaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3705</literal></binding>
+   <binding name="date"><literal>19750417</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Istituzione dell&#39;albo degli amministratori di condominio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4046</literal></binding>
+   <binding name="date"><literal>19751008</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Ordinamento della professione di commercialista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4141</literal></binding>
+   <binding name="date"><literal>19751127</literal></binding>
+   <binding name="title"><literal>MIOTTI CARLI ed altri: Aumento del contributo annuo a favore dell&#39;Associazione nazionale tra le famiglie dei caduti e dispersi in guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>650</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>ZURLO ed altri: Autorizzazione di spesa per il finanziamento degli enti di sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1367</literal></binding>
+   <binding name="date"><literal>19721218</literal></binding>
+   <binding name="title"><literal>ZURLO ed altri: Autorizzazione di spesa per il finanziamento degli enti di sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1431</literal></binding>
+   <binding name="date"><literal>19721221</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Istituzione della provincia di Oristano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2439</literal></binding>
+   <binding name="date"><literal>19740125</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Modificazioni e integrazioni delle leggi 30 aprile 1969, n. 153, e 11 agosto 1972, n. 485. Nuove norme in materia di assicurazione obbligatoria per l&#39;invalidità, la vecchiaia e i superstiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4198</literal></binding>
+   <binding name="date"><literal>19751208</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Proroga dei termini previsti dalla legge 6 giugno 1974, n. 298, modificata dalla legge 28 aprile 1975, n. 145, concernente la nuova disciplina dell&#39;autotrasporto di merci</literal></binding>
+  </result>
+ </results>
+</sparql>

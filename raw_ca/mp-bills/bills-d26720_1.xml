@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1407</literal></binding>
+   <binding name="date"><literal>19500703</literal></binding>
+   <binding name="title"><literal>ADONNINO ed altri: Per l&#39;elezione dei delegati alla prima sessione dell&#39;Assemblea Costituente Mondiale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1461</literal></binding>
+   <binding name="date"><literal>19500714</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Sistemazione nei ruoli dello stato di insegnanti di scuole dipendenti da enti pubblici soppresse in seguito alla creazione nella stessa sede di scuole statali del medesimo tipo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1513</literal></binding>
+   <binding name="date"><literal>19500728</literal></binding>
+   <binding name="title"><literal>FADDA ed altri: Sistemazione in Sardegna della sovrapopolazione di altre regioni, mediante valorizzazione delle risorse agricole ed industriali dell&#39;Isola. - Istituzione dell&#39;&quot;Opera per la valorizzazione nazionale della Sardegna&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1821</literal></binding>
+   <binding name="date"><literal>19510214</literal></binding>
+   <binding name="title"><literal>FERRARESE ed altri: Aggregazione dei comuni di Santa Maria di Sala e di Noale alla sezione staccata della pretura di Mirano (Venezia)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1839</literal></binding>
+   <binding name="date"><literal>19510222</literal></binding>
+   <binding name="title"><literal>MORO ed altri: Concessione di un assegno annuo di lire 780.000 a Maria Montessori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2750</literal></binding>
+   <binding name="date"><literal>19520604</literal></binding>
+   <binding name="title"><literal>GATTO ed altri: Provvedimenti per la salvaguardia del carattere lagunare e monumentale di Venezia attraverso opere di risanamento civico e di interesse turistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2856</literal></binding>
+   <binding name="date"><literal>19520718</literal></binding>
+   <binding name="title"><literal>LIGUORI ed altri: Modificazioni concernenti l&#39;ordinamento dell&#39;imposta di soggiorno ed il credito alberghiero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>863</literal></binding>
+   <binding name="date"><literal>19491029</literal></binding>
+   <binding name="title"><literal>ROSELLI ed altri: Costruzioni edilizie nelle campagne</literal></binding>
+  </result>
+ </results>
+</sparql>

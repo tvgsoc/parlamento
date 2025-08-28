@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2237</literal></binding>
+   <binding name="date"><literal>19801219</literal></binding>
+   <binding name="title"><literal>GIULIANO ed altri: Modifica degli articoli 80 e 87 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1880-bis</literal></binding>
+   <binding name="date"><literal>19800801</literal></binding>
+   <binding name="title"><literal>FORTE ed altri: Modifiche del decreto-legge 30 gennaio 1979, n. 26, concernente provvedimenti urgenti per l&#39;amministrazione straordinaria delle grandi imprese in crisi, convertito, con modificazioni, nella legge 3 aprile 1979, n. 95</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1880-ter</literal></binding>
+   <binding name="date"><literal>19800801</literal></binding>
+   <binding name="title"><literal>FORTE ed altri: Interpretazione autentica e modifiche del decreto-legge 30 gennaio 1979, n. 26, concernente provvedimenti urgenti per l&#39;amministrazione straordinaria delle grandi imprese in crisi, convertito, con modificazioni, nella legge 3 aprile 1979, n. 95</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2901</literal></binding>
+   <binding name="date"><literal>19811022</literal></binding>
+   <binding name="title"><literal>SALVI ed altri: Modifiche alla legge 9 febbraio 1979, n. 38, concernente cooperazione dell&#39;Italia con i Paesi in via di sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3890</literal></binding>
+   <binding name="date"><literal>19830126</literal></binding>
+   <binding name="title"><literal>BALDELLI ed altri: Disciplina della proiezione e della rappresentazione in pubblico di spettacoli cinematografici e teatrali e delle trasmissioni con il mezzo della televisione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4054</literal></binding>
+   <binding name="date"><literal>19830413</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Disposizioni a favore del personale insegnante e non insegnante nelle scuole elementari, medie e superiori poste in comuni delle isole facenti parte del territorio nazionale, ad esclusione della Sicilia e della Sardegna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>447</literal></binding>
+   <binding name="date"><literal>19790726</literal></binding>
+   <binding name="title"><literal>GIUDICE ed altri: Estensione all&#39;amministrazione universitaria dell&#39;efficacia del decreto del Presidente della Repubblica 30 giugno 1972, n. 422, recante l&#39;adeguamento dei limiti di somma previsti dalle norme di contabilità generale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>448</literal></binding>
+   <binding name="date"><literal>19790726</literal></binding>
+   <binding name="title"><literal>GIUDICE ed altri: Modifica dell&#39;articolo 9 della legge 23 dicembre 1978, n. 833, recante istituzione del servizio sanitario nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1880</literal></binding>
+   <binding name="date"><literal>19800711</literal></binding>
+   <binding name="title"><literal>FORTE ed altri: Interpretazione autentica e modifiche del decreto-legge 30 gennaio 1979, n. 26, concernente provvedimenti urgenti per l&#39;amministrazione straordinaria delle grandi imprese in crisi, convertito, con modificazioni, nella legge 3 aprile 1979, n. 95</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>446</literal></binding>
+   <binding name="date"><literal>19790726</literal></binding>
+   <binding name="title"><literal>RODOTÀ ed altri: Istituzione di una Commissione parlamentare di inchiesta sul &quot;caso&quot; Sindona</literal></binding>
+  </result>
+ </results>
+</sparql>

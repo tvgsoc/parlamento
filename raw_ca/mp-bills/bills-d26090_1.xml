@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1097</literal></binding>
+   <binding name="date"><literal>19500214</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Proroga di contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1108</literal></binding>
+   <binding name="date"><literal>19500218</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Ammissione dei diplomati degli Istituti tecnici alle Facoltà universitarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1419</literal></binding>
+   <binding name="date"><literal>19500705</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Norme interpretative dell&#39;articolo 1 della legge 18 aprile 1950, n. 199, sulla concessione di terreni incolti ai contadini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1503</literal></binding>
+   <binding name="date"><literal>19500726</literal></binding>
+   <binding name="title"><literal>TORRETTA ed altri: Norme relative ai concorsi speciali riservati a candidati appartenenti ad alcune categorie di perseguitati politici e razziali, e sistemazione dei vincitori nei ruoli del Ministero della pubblica istruzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2240</literal></binding>
+   <binding name="date"><literal>19511017</literal></binding>
+   <binding name="title"><literal>TORRETTA ed altri: Norme relative alla sistemazione, agli effetti del trattamento di quiescenza, dei perseguitati politici e razziali vincitori dei concorsi a cattedre di Istituti di istruzione media e per i posti di direttore di scuole di avviamento professionale, di direttore didattico e di insegnante elementare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2274</literal></binding>
+   <binding name="date"><literal>19511030</literal></binding>
+   <binding name="title"><literal>BASSO ed altri: Sul comportamento delle pubbliche autorità nei confronti del banditismo siciliano e sulle relative cause di natura sociale, economica e politica.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2683</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Estensione ai mezzadri, coloni parziari e compartecipanti familiari, dell&#39;assicurazione obbligatoria per l&#39;invalidità, la vecchiaia e superstiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2850</literal></binding>
+   <binding name="date"><literal>19520717</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Protezione sociale dei lavoratori scarsamente occupati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2961</literal></binding>
+   <binding name="date"><literal>19521016</literal></binding>
+   <binding name="title"><literal>LOZZA ed altri: Estensione della legge 7 dicembre 1951, n. 1360, sull&#39;abilitazione provvisoria dell&#39;esercizio professionale</literal></binding>
+  </result>
+ </results>
+</sparql>

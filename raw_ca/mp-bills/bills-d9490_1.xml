@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>100</literal></binding>
+   <binding name="date"><literal>19480917</literal></binding>
+   <binding name="title"><literal>MURGIA: Abrogazione degli articoli 210 e 535 del Codice di procedura penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>106</literal></binding>
+   <binding name="date"><literal>19480922</literal></binding>
+   <binding name="title"><literal>MURGIA: Istituzione del giudizio di appello contro le sentenze della Corte d&#39;assise</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1107</literal></binding>
+   <binding name="date"><literal>19500217</literal></binding>
+   <binding name="title"><literal>MURGIA: Fissazione del limite massimo della carcerazione preventiva degli imputati, in relazione all&#39;articolo 13 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>151</literal></binding>
+   <binding name="date"><literal>19481027</literal></binding>
+   <binding name="title"><literal>MURGIA: Modifica all&#39;articolo 39 del regolamento del Corpo degli agenti di custodia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1816</literal></binding>
+   <binding name="date"><literal>19510213</literal></binding>
+   <binding name="title"><literal>MURGIA: Norme disciplinanti il costo degli allacci e il criterio valutativo della vendita di energia elettrica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>780</literal></binding>
+   <binding name="date"><literal>19490923</literal></binding>
+   <binding name="title"><literal>MURGIA e GUERRIERI: Sospensione della discussione dei ricorsi pendenti avanti la Corte di cassazione proposti dagli imputati contro le sentenze delle Corti d&#39;assise</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1513</literal></binding>
+   <binding name="date"><literal>19500728</literal></binding>
+   <binding name="title"><literal>FADDA ed altri: Sistemazione in Sardegna della sovrapopolazione di altre regioni, mediante valorizzazione delle risorse agricole ed industriali dell&#39;Isola. - Istituzione dell&#39;&quot;Opera per la valorizzazione nazionale della Sardegna&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1566</literal></binding>
+   <binding name="date"><literal>19501005</literal></binding>
+   <binding name="title"><literal>CUTTITTA ed altri: Trattamento di quiescenza e indennità di liquidazione a favore dei sottufficiali e dei militari di truppa dell&#39;Arma dei carabinieri richiamati o trattenuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1899</literal></binding>
+   <binding name="date"><literal>19510314</literal></binding>
+   <binding name="title"><literal>CARRON ed altri: Provvedimenti a favore degli ufficiali e dei sottufficiali delle Forze Armate, esuli dai territori metropolitani e coloniali ceduti per effetto del trattato di pace</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>291</literal></binding>
+   <binding name="date"><literal>19490121</literal></binding>
+   <binding name="title"><literal>CAPALOZZA ed altri: Modificazione dell&#39;articolo 116 del Codice penale</literal></binding>
+  </result>
+ </results>
+</sparql>

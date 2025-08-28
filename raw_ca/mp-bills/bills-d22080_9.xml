@@ -1,0 +1,418 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1087</literal></binding>
+   <binding name="date"><literal>19831222</literal></binding>
+   <binding name="title"><literal>STERPA ed altri: Applicazione dell&#39;articolo 351 del codice di procedura penale, concernente il diritto di astenersi dal testimoniare, nei confronti dei dottori commercialisti e dei ragionieri e periti commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1381</literal></binding>
+   <binding name="date"><literal>19840308</literal></binding>
+   <binding name="title"><literal>STERPA ed altri: Disciplina dei partiti politici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2543</literal></binding>
+   <binding name="date"><literal>19850213</literal></binding>
+   <binding name="title"><literal>STERPA ed altri: Nuova disciplina del segreto professionale del giornalista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2723</literal></binding>
+   <binding name="date"><literal>19850327</literal></binding>
+   <binding name="title"><literal>STERPA e DE LUCA: Riforma del segreto istruttorio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3403</literal></binding>
+   <binding name="date"><literal>19860117</literal></binding>
+   <binding name="title"><literal>STERPA: Previsione e disciplina delle coalizioni pre-elettorali finalizzate alla formazione di maggioranze di Governo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4102</literal></binding>
+   <binding name="date"><literal>19861023</literal></binding>
+   <binding name="title"><literal>STERPA ed altri: Nuova disciplina degli obblighi dei figli nei confronti dei genitori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>561</literal></binding>
+   <binding name="date"><literal>19830928</literal></binding>
+   <binding name="title"><literal>STERPA: Provvedimenti di incentivazione del mercato azionario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1013</literal></binding>
+   <binding name="date"><literal>19831215</literal></binding>
+   <binding name="title"><literal>MORA ed altri: Inquadramento giuridico e fiscale della coltivazione dei funghi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1015</literal></binding>
+   <binding name="date"><literal>19831216</literal></binding>
+   <binding name="title"><literal>DAL MASO ed altri: Norme per il nuovo inquadramento delle società termali già inquadrate nel disciolto Ente autonomo di gestione per le aziende termali (EAGAT) e per la liquidazione di detto ente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1020</literal></binding>
+   <binding name="date"><literal>19831216</literal></binding>
+   <binding name="title"><literal>ZANONE ed altri: Modifiche alla legge 12 agosto 1982, n. 532, concernente disposizioni in materia di riesame dei provvedimenti restrittivi della libertà personale e dei provvedimenti di sequestro. Misure alternative alla carcerazione preventiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1032</literal></binding>
+   <binding name="date"><literal>19831217</literal></binding>
+   <binding name="title"><literal>ALBERINI ed altri: Norme per l&#39;ordinamento della professione di investigatore privato e istituzione dell&#39;albo professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1235</literal></binding>
+   <binding name="date"><literal>19840207</literal></binding>
+   <binding name="title"><literal>SANGUINETI ed altri: Istituzione dell&#39;Albo degli amministratori condominiali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>130</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Nuove norme concernenti i referendum di cui all&#39;articolo 75 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>131</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Norme sui procedimenti d&#39;accusa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>132</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Ripristino della possibilità di trasferimento in proprietà a favore degli assegnatari di alloggi di edilizia residenziale pubblica assegnati in locazione semplice, ed altre norme in materia di edilizia pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>133</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Norme per la disciplina del diritto di sciopero nei servizi pubblici essenziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>135</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>ZANONE ed altri: Modifiche agli articoli 33, 34, 35, e 64 della legge 23 dicembre 1978, n. 833, e nuove norme in materia di assistenza psichiatrica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1355</literal></binding>
+   <binding name="date"><literal>19840201</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Norme per il controllo sulle nomine negli enti pubblici e sulle nomine di amministratori e sindaci nelle società a partecipazione pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>136</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>ZANONE ed altri: Norme sulla gestione autonoma delle strutture ospedaliere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>137</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>ZANONE ed altri: Norme per la tutela dei diritti del malato in condizioni di degenza ospedaliera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1684</literal></binding>
+   <binding name="date"><literal>19840514</literal></binding>
+   <binding name="title"><literal>BOZZI e STERPA: Integrazione all&#39;articolo 48 della Costituzione concernente la disciplina del voto dei cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1695</literal></binding>
+   <binding name="date"><literal>19840517</literal></binding>
+   <binding name="title"><literal>GARAVAGLIA ed altri: Disciplina delle attività di raccolta, lavorazione e vendita delle piante officinali e norme in materia di erboristeria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1733</literal></binding>
+   <binding name="date"><literal>19840523</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Modifiche ed integrazioni alla legge 1° maggio 1941, n. 615, concernente modificazioni alla legge 12 giugno 1931, n. 924, sulla vivisezione degli animali vertebrati a sangue caldo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1904</literal></binding>
+   <binding name="date"><literal>19840712</literal></binding>
+   <binding name="title"><literal>FACCHETTI ed altri: Nuovo ordinamento del sistema pensionistico e revisione dell&#39;ordinamento dell&#39;INPS</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2256</literal></binding>
+   <binding name="date"><literal>19841109</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Norme per il recupero e la conservazione di beni culturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>226</literal></binding>
+   <binding name="date"><literal>19830720</literal></binding>
+   <binding name="title"><literal>ZANONE ed altri: Modifiche alla legge 22 ottobre 1971, n. 865, e successive modificazioni, concernente norme sulla espropriazione per pubblica utilità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2294</literal></binding>
+   <binding name="date"><literal>19841121</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifiche alla legge 10 maggio 1976, n. 346, sull&#39;usucapione speciale per la piccola proprietà rurale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2398</literal></binding>
+   <binding name="date"><literal>19841219</literal></binding>
+   <binding name="title"><literal>COLONI ed altri: Riordinamento dell&#39;Osservatorio geofisico sperimentale di Triste</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2588</literal></binding>
+   <binding name="date"><literal>19850225</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Istituzione del difensore civico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2664</literal></binding>
+   <binding name="date"><literal>19850312</literal></binding>
+   <binding name="title"><literal>SERRENTINO ed altri: Disposizioni in materia d&#39;imposta locale e sui redditi delle imprese minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2721</literal></binding>
+   <binding name="date"><literal>19850327</literal></binding>
+   <binding name="title"><literal>PATUELLI ed altri: Modifica di alcune norme in materia di elezione dei consigli comunali, provinciali e regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2743</literal></binding>
+   <binding name="date"><literal>19850329</literal></binding>
+   <binding name="title"><literal>FACCHETTI ed altri: Nuove norme per lo sviluppo delle attività sportive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2806</literal></binding>
+   <binding name="date"><literal>19850417</literal></binding>
+   <binding name="title"><literal>FACCHETTI ed altri: Norme in materia di mobilità e di garanzia del salario dei lavoratori dipendenti dell&#39;industria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2864</literal></binding>
+   <binding name="date"><literal>19850430</literal></binding>
+   <binding name="title"><literal>ZANONE ed altri: Nuovo assetto dei servizi sanitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2954</literal></binding>
+   <binding name="date"><literal>19850612</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Aumento del contributo annuo a favore dell&#39;Istituto nazionale del Nastro Azzurro tra combattenti decorati al valor militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3030</literal></binding>
+   <binding name="date"><literal>19850711</literal></binding>
+   <binding name="title"><literal>MORA ed altri: Riforma del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3220</literal></binding>
+   <binding name="date"><literal>19851010</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Norme sulla costituzione delle giunte regionali, provinciali e comunali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3341</literal></binding>
+   <binding name="date"><literal>19851211</literal></binding>
+   <binding name="title"><literal>MEMMI ed altri: Esposizione della bandiera nazionale sugli uffici pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3376</literal></binding>
+   <binding name="date"><literal>19860109</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Aumento del contributo annuo statale a favore della Maison de l&#39;Italie della città universitaria di Parigi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3406</literal></binding>
+   <binding name="date"><literal>19860118</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Tutela della denominazione d&#39;origine del prosciutto di Modena, delimitazione della zona di produzione e caratteristiche del prodotto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3551</literal></binding>
+   <binding name="date"><literal>19860306</literal></binding>
+   <binding name="title"><literal>BIANCHI DI LAVAGNA ed altri: Partecipazione finanziaria dello Stato alla realizzazione delle opere sostitutive di passaggi a livello lungo le ferrovie in concessione o in gestione commissariale governativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3620</literal></binding>
+   <binding name="date"><literal>19860325</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Introduzione dell&#39;articolo 333-bis del codice civile concernente i poteri del giudice e dell&#39;autorità sanitaria in occasione di attività diagnostiche, terapeutiche e assistenziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3814</literal></binding>
+   <binding name="date"><literal>19860605</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Norme in materia di collaborazione tra lo Stato e l&#39;Istituto dell&#39;Enciclopedia italiana per la realizzazione di iniziative culturali in Italia ed all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4055</literal></binding>
+   <binding name="date"><literal>19861010</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Disciplina delle radiodiffusioni circolari ad uso individuale in ambito cittadino o della banda cittadina (CB)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4203</literal></binding>
+   <binding name="date"><literal>19861124</literal></binding>
+   <binding name="title"><literal>PATUELLI ed altri: Abrogazione dell&#39;ultimo comma dell&#39;articolo 226-ter del codice di procedura penale concernente l&#39;autorizzazione in forma orale all&#39;impedimento, interruzione o intercettazione di comunicazioni o conversazioni telefoniche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4220</literal></binding>
+   <binding name="date"><literal>19861202</literal></binding>
+   <binding name="title"><literal>SERRENTINO ed altri: Modifiche all&#39;articolo 2 del decreto-legge 10 luglio 1982, n. 429, convertito, con modificazioni, dalla legge 7 agosto 1982, n. 516, concernente norme per la repressione dell&#39;evasione in materia di imposte sui redditi e sul valore aggiunto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>437</literal></binding>
+   <binding name="date"><literal>19830913</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Nuove norme sulla disciplina dei casi di scioglimento di matrimonio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>438</literal></binding>
+   <binding name="date"><literal>19830913</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Nuove norme concernenti la proiezione e la rappresentazione in pubblico di spettacoli cinematografici e teatrali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>439</literal></binding>
+   <binding name="date"><literal>19830913</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Norme per l&#39;avanzamento dei colonnelli dell&#39;ausiliaria e della riserva provenienti dai ruoli normali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4469</literal></binding>
+   <binding name="date"><literal>19870219</literal></binding>
+   <binding name="title"><literal>FACCHETTI ed altri: Riduzione dei contributi per le prestazioni del Servizio sanitario nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4521</literal></binding>
+   <binding name="date"><literal>19870312</literal></binding>
+   <binding name="title"><literal>FACCHETTI ed altri: Norme per la localizzazione degli impianti termoelettrici ed elettronucleari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>564</literal></binding>
+   <binding name="date"><literal>19830929</literal></binding>
+   <binding name="title"><literal>ZANONE ed altri: Norme per il controllo della spesa pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>709</literal></binding>
+   <binding name="date"><literal>19831025</literal></binding>
+   <binding name="title"><literal>SANGALLI ed altri: Modifiche alla legge 5 maggio 1976, n. 324, concernente nuove norme in materia di diritti per l&#39;uso degli aeroporti aperti al traffico aereo civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>710</literal></binding>
+   <binding name="date"><literal>19831025</literal></binding>
+   <binding name="title"><literal>SANGALLI ed altri: Ulteriore proroga dei termini di cui alla legge 8 maggio 1971, n. 420, relativa al sistema aeroportuale di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>777</literal></binding>
+   <binding name="date"><literal>19831104</literal></binding>
+   <binding name="title"><literal>GARAVAGLIA ed altri: Disciplina delle attività di raccolta, lavorazione e vendita delle piante officinali e norme in materia di erboristeria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>935</literal></binding>
+   <binding name="date"><literal>19831130</literal></binding>
+   <binding name="title"><literal>GARAVAGLIA ed altri: Aumento del contributo dello Stato a favore delle case di riposo per musicisti &quot;Fondazione Giuseppe Verdi&quot; di Milano e per artisti drammatici italiani &quot;Lyda Borelli&quot; di Bologna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>939</literal></binding>
+   <binding name="date"><literal>19831130</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Soppressione del consorzio del canale Milano-Cremona-Po</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1071</literal></binding>
+   <binding name="date"><literal>19831221</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Modifiche alle norme concernenti il vino Marsala</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>129</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Modificazioni all&#39;istituto dell&#39;immunità parlamentare previsto dall&#39;articolo 68 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>134</literal></binding>
+   <binding name="date"><literal>19830713</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Norme sulla individuazione e sul rapporto di lavoro della categoria professionale dei quadri aziendali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1433</literal></binding>
+   <binding name="date"><literal>19840315</literal></binding>
+   <binding name="title"><literal>PICCOLI ed altri: Interventi urgenti e straordinari diretti ad assicurare nel 1984, e comunque entro 12 mesi, la sopravvivenza di almeno tre milioni di persone minacciate dalla fame, dalla denutrizione e dal sottosviluppo nelle regioni dei Paesi in via di sviluppo dove si registrano i più alti tassi di mortalità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2192</literal></binding>
+   <binding name="date"><literal>19841023</literal></binding>
+   <binding name="title"><literal>FORMICA ed altri: Modifiche ed integrazioni alla vigente normativa in materia di pensioni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2478</literal></binding>
+   <binding name="date"><literal>19850125</literal></binding>
+   <binding name="title"><literal>ZANONE ed altri: Norme per ridurre dal 1985 gli effetti dell&#39;inflazione sull&#39;IRPEF e sull&#39;imposta sulle successioni e donazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3389</literal></binding>
+   <binding name="date"><literal>19860115</literal></binding>
+   <binding name="title"><literal>PATUELLI ed altri: Introduzione della libertà di scelta degli studenti della scuola media superiore in ordine all&#39;insegnamento religioso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3472</literal></binding>
+   <binding name="date"><literal>19860206</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Integrazione della legge 26 luglio 1975, n. 354, sull&#39;ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della libertà</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>568</literal></binding>
+   <binding name="date"><literal>19830929</literal></binding>
+   <binding name="title"><literal>CASATI ed altri: Aumento del contributo annuo dello Stato a favore del Museo nazionale della scienza e della tecnica &quot;Leonardo da Vinci&quot; di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>708</literal></binding>
+   <binding name="date"><literal>19831025</literal></binding>
+   <binding name="title"><literal>SANGALLI ed altri: Proroga del termine previsto dall&#39;articolo 42 della legge 23 dicembre 1980, n. 930, concernente norme sui servizi antincendi negli aeroporti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>826</literal></binding>
+   <binding name="date"><literal>19831111</literal></binding>
+   <binding name="title"><literal>GAROCCHIO ed altri: Legge quadro per l&#39;artigianato</literal></binding>
+  </result>
+ </results>
+</sparql>

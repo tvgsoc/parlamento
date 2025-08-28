@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2147</literal></binding>
+   <binding name="date"><literal>19600511</literal></binding>
+   <binding name="title"><literal>ALDISIO: Determinazione del limite di popolazione per la corresponsione dei contributi di cui alla legge 3 agosto 1949, n. 589</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3141</literal></binding>
+   <binding name="date"><literal>19610628</literal></binding>
+   <binding name="title"><literal>ALDISIO: Istituzione del tribunale penale e civile di Gela</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>890</literal></binding>
+   <binding name="date"><literal>19590227</literal></binding>
+   <binding name="title"><literal>ALDISIO ed altri: Istituzione di una Sezione speciale della Corte Costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1466</literal></binding>
+   <binding name="date"><literal>19590717</literal></binding>
+   <binding name="title"><literal>GIOIA ed altri: Costituzione dell&#39;Ente autonomo del porto di Palermo e provvedimenti per l&#39;esecuzione del piano regolatore delle opere portuali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1470</literal></binding>
+   <binding name="date"><literal>19590717</literal></binding>
+   <binding name="title"><literal>GIOIA ed altri: Completamento dei lavori previsti per la circonvallazione ferroviaria di Palermo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1534</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>GIOIA ed altri: Provvedimenti per il risanamento dei mandamenti Monte di Pietà, Palazzo Reale, Tribunali e Castellammare e delle zone radiali esterne di Borgo e Denisinni, nel comune di Palermo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1535</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>GIOIA ed altri: Provvedimenti per il risanamento finanziario del comune di Palermo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1536</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>GIOIA ed altri: Provvedimenti per il risanamento igienico e sanitario della città di Palermo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1849</literal></binding>
+   <binding name="date"><literal>19591218</literal></binding>
+   <binding name="title"><literal>MARTINELLI ed altri: Norme integrative dell&#39;articolo 1 della legge 24 luglio 1959, n. 622</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3265</literal></binding>
+   <binding name="date"><literal>19610828</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Integrazioni e modificazioni della legge 24 agosto 1941, n. 1044, per la costruzione del canale navigabile Milano-Cremona-Po</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3715</literal></binding>
+   <binding name="date"><literal>19620331</literal></binding>
+   <binding name="title"><literal>COCCO ed altri: Assegno assistenziale per gli anziani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1537</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>GIOIA ed altri: Risanamento di quattro mandamenti e delle zone radiali esterne di Borgo e Denisinni nel comune di Palermo</literal></binding>
+  </result>
+ </results>
+</sparql>

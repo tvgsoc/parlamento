@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1460</literal></binding>
+   <binding name="date"><literal>19550221</literal></binding>
+   <binding name="title"><literal>REALI e PAJETTA: Provvedimenti per la valorizzazione della foresta di Campigna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1042</literal></binding>
+   <binding name="date"><literal>19540719</literal></binding>
+   <binding name="title"><literal>GELMINI ed altri: Modifica alla legge 10 febbraio 1953, n. 136, sulla istituzione dell&#39;Ente nazionale idrocarburi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2093</literal></binding>
+   <binding name="date"><literal>19560302</literal></binding>
+   <binding name="title"><literal>CREMASCHI ed altri: Provvidenze per i militari che in servizio di leva come richiamati o trattenuti in tempo di pace abbiano contratto mutilazioni o invalidità per causa di servizio, e provvidenze a favore dei congiunti dei militari deceduti in tempo di pace per fatti attinenti al servizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2111</literal></binding>
+   <binding name="date"><literal>19560307</literal></binding>
+   <binding name="title"><literal>MAGNANI ed altri: Modifiche al decreto legislativo del Capo provvisorio dello Stato 16 settembre 1947, n. 929, sulla massima occupazione nell&#39;agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3147</literal></binding>
+   <binding name="date"><literal>19570802</literal></binding>
+   <binding name="title"><literal>TAROZZI ed altri: Autorizzazione di spesa per la costruzione del canale di irrigazione emiliano-romagnolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>741</literal></binding>
+   <binding name="date"><literal>19540330</literal></binding>
+   <binding name="title"><literal>DI MAURO ed altri: Riordinamento dell&#39;industria zolfifera italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>810</literal></binding>
+   <binding name="date"><literal>19540412</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Disciplina dell&#39;onere dei contributi unificati nelle aziende a mezzadria e colonìa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>811</literal></binding>
+   <binding name="date"><literal>19540412</literal></binding>
+   <binding name="title"><literal>CAPALOZZA ed altri: Norme interpretative ed integrative dell&#39;articolo 2161 e dell&#39;articolo 2163, n. 1, del Codice civile</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1320</literal></binding>
+   <binding name="date"><literal>19590612</literal></binding>
+   <binding name="title"><literal>RAPELLI: Estensione delle disposizioni di cui all&#39;articolo 4 della legge 4 agosto 1955, n. 692, alle Casse mutue marittime per gli infortuni sul lavoro e le malattie, alla Cassa nazionale per l&#39;assicurazione agli impiegati agricoli e forestali, alle Casse di soccorso ed altri Enti e Casse mutue che gestiscono l&#39;assicurazione di legge contro le malattie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3332</literal></binding>
+   <binding name="date"><literal>19611014</literal></binding>
+   <binding name="title"><literal>RAPELLI e TREMELLONI: Disciplina della professione di concessionario, rappresentante e agente di pubblicità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>693</literal></binding>
+   <binding name="date"><literal>19581211</literal></binding>
+   <binding name="title"><literal>RAPELLI: Modifica dell&#39;articolo 9 del regio decreto-legge 19 ottobre 1933, n. 1595, sul trattamento di quiescenza al personale delle aziende esercenti servizi marittimi sovvenzionati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1293</literal></binding>
+   <binding name="date"><literal>19590610</literal></binding>
+   <binding name="title"><literal>BUZZETTI ed altri: Nuove norme sulla prevenzione e sull&#39;assicurazione obbligatoria contro la silicosi e l&#39;asbestosi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3237</literal></binding>
+   <binding name="date"><literal>19610721</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Modificazione dell&#39;articolo 2 della legge 21 maggio 1955, n. 463</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3328</literal></binding>
+   <binding name="date"><literal>19611013</literal></binding>
+   <binding name="title"><literal>ARMOSINO ed altri: Piano per l&#39;irrigazione integrale congiunta alla difesa idraulica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3661</literal></binding>
+   <binding name="date"><literal>19620312</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Norme concernenti l&#39;aeroporto di Torino Caselle</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3715</literal></binding>
+   <binding name="date"><literal>19620331</literal></binding>
+   <binding name="title"><literal>COCCO ed altri: Assegno assistenziale per gli anziani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3719</literal></binding>
+   <binding name="date"><literal>19620405</literal></binding>
+   <binding name="title"><literal>GORRIERI ed altri: Nuovi provvedimenti per le aree depresse dell&#39;Italia centrale e settentrionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>729</literal></binding>
+   <binding name="date"><literal>19581218</literal></binding>
+   <binding name="title"><literal>ALESSANDRINI ed altri: Istituzione della Cassa nazionale di previdenza ed assistenza a favore dei ragionieri e periti commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3400</literal></binding>
+   <binding name="date"><literal>19611111</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Disciplina della professione di agente e rappresentante dell&#39;industria e del commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>47</literal></binding>
+   <binding name="date"><literal>19580621</literal></binding>
+   <binding name="title"><literal>BERLOFFA ed altri: Assicurazione obbligatoria contro le malattie per i titolari di piccole imprese commerciali a conduzione familiare e per i venditori ambulanti</literal></binding>
+  </result>
+ </results>
+</sparql>

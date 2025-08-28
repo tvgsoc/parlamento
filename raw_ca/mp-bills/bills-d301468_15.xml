@@ -1,0 +1,664 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3411</literal></binding>
+   <binding name="date"><literal>20080204</literal></binding>
+   <binding name="title"><literal>CICCIOLI: &quot;Modifica all&#39;articolo 15 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, per agevolare l&#39;acquisto della prima casa&quot; (3411)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1133</literal></binding>
+   <binding name="date"><literal>20060615</literal></binding>
+   <binding name="title"><literal>NESPOLI ed altri: &quot;Modifiche al testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, in materia di soppressione del turno di ballottaggio nelle elezioni del sindaco di comuni con popolazione superiore a 15.000 abitanti e del presidente della provincia&quot; (1133)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1211</literal></binding>
+   <binding name="date"><literal>20060628</literal></binding>
+   <binding name="title"><literal>SILIQUINI ed altri: &quot;Abrogazione degli articoli 149 e 150 del decreto legislativo 7 settembre 2005, n. 209, in materia di risarcimento diretto dei danni per sinistri tra veicoli&quot; (1211)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1328</literal></binding>
+   <binding name="date"><literal>20060711</literal></binding>
+   <binding name="title"><literal>LA RUSSA ed altri: &quot;Disposizioni per la riorganizzazione e la riqualificazione degli istituti penitenziari&quot; (1328)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1336</literal></binding>
+   <binding name="date"><literal>20060712</literal></binding>
+   <binding name="title"><literal>DI VIRGILIO ed altri: &quot;Disposizioni in materia di indennizzo in favore dei soggetti danneggiati da complicanze irreversibili a causa di trasfusioni di sangue o affetti da talassemia o da talassodrepanocitosi&quot; (1336)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1337</literal></binding>
+   <binding name="date"><literal>20060712</literal></binding>
+   <binding name="title"><literal>DI VIRGILIO ed altri: &quot;Disposizioni in materia di donazione del cordone ombelicale&quot; (1337)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>155</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Disciplina dell&#39;attività di produzione e commercializzazione del pane&quot; (155)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1574</literal></binding>
+   <binding name="date"><literal>20060803</literal></binding>
+   <binding name="title"><literal>BALDELLI e LA LOGGIA: &quot;Disposizioni per la destinazione delle somme derivanti dalle sanzioni per violazioni dei limiti di velocità accertate con &#39;autovelox&#39; al Fondo di garanzia per le vittime della strada&quot; (1574)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>158</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Regolamentazione del settore dei materiali gemmologici in commercio&quot; (158)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>160</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Modifica all&#39;articolo 92 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di valutazione delle rimanenze nei settori del tessile, dell&#39;abbigliamento e calzaturiero&quot; (160)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>161</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Modifica all&#39;articolo 26 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, in materia di variazioni ai fini dell&#39;imposta sul valore aggiunto in caso di mancato pagamento totale o parziale&quot; (161)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>162</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Agevolazioni fiscali per l&#39;acquisto di mobili e accessori per l&#39;arredamento della prima casa da parte di nuove coppie&quot; (162)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>164</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Istituzione del sistema obbligatorio di tracciabilità di filiera dei prodotti&quot; (164)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>165</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Disposizioni in favore delle imprese che subiscono ritardi di pagamento da parte della pubblica amministrazione&quot; (165)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>166</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Disciplina delle attività di tatuaggio e piercing e delle pratiche correlate&quot; (166)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>167</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Disposizioni per il sostegno di spese promozionali delle piccole e medie imprese&quot; (167)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1671</literal></binding>
+   <binding name="date"><literal>20060921</literal></binding>
+   <binding name="title"><literal>LO PRESTI ed altri: &quot;Disposizioni per l&#39;indizione di un referendum consultivo sulla costruzione del ponte sullo Stretto di Messina&quot; (1671)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1675</literal></binding>
+   <binding name="date"><literal>20060922</literal></binding>
+   <binding name="title"><literal>CECCACCI RUBINO: &quot;Introduzione dell&#39;insegnamento &#39;attività teatrali e intelligenza emotivà nei programmi scolastici&quot; (1675)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>168</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Disciplina degli esercizi di telefonia e delle strutture assimilate&quot; (168)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1705</literal></binding>
+   <binding name="date"><literal>20060928</literal></binding>
+   <binding name="title"><literal>CIRIELLI ed altri: &quot;Introduzione dell&#39;articolo 187-bis del codice penale e altre disposizioni in materia di risarcimento dei danni alle vittime di reati da parte dello Stato&quot; (1705)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1773</literal></binding>
+   <binding name="date"><literal>20061005</literal></binding>
+   <binding name="title"><literal>ULIVI ed altri: &quot;Modifica all&#39;articolo 2 della legge 29 dicembre 2000, n. 401, in materia di personale sanitario&quot; (1773)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1833</literal></binding>
+   <binding name="date"><literal>20061017</literal></binding>
+   <binding name="title"><literal>MURGIA ed altri: &quot;Disposizioni per la concessione di un credito d&#39;imposta per la frequenza di corsi post-universitari all&#39;estero&quot; (1833)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1891</literal></binding>
+   <binding name="date"><literal>20061109</literal></binding>
+   <binding name="title"><literal>CASTELLANI ed altri: &quot;Disposizioni concernenti la formazione e l&#39;addestramento per l&#39;utilizzo dei defibrillatori semiautomatici e automatici esterni nonché in materia di utilizzo, diffusione e posizionamento in strutture fisse e mobili dei defibrillatori stessi&quot; (1891)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1897</literal></binding>
+   <binding name="date"><literal>20061109</literal></binding>
+   <binding name="title"><literal>DE CORATO ed altri: &quot;Modifica dell&#39;articolo 639 del codice penale in materia di deturpamento e imbrattamento di cose altrui&quot; (1897)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1898</literal></binding>
+   <binding name="date"><literal>20061109</literal></binding>
+   <binding name="title"><literal>DE CORATO ed altri: &quot;Modifiche al codice penale in materia di sfruttamento dell&#39;accattonaggio&quot; (1898)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1906</literal></binding>
+   <binding name="date"><literal>20061109</literal></binding>
+   <binding name="title"><literal>GRECO: &quot;Norme in materia di giudizi innanzi alla Corte dei conti&quot; (1906)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1915</literal></binding>
+   <binding name="date"><literal>20061110</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Disposizioni di razionalizzazione del sistema del credito finanziario&quot; (1915)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1916</literal></binding>
+   <binding name="date"><literal>20061110</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Costituzione della Società per l&#39;intermediazione finanziaria specializzata a favore delle piccole e medie imprese&quot; (1916)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1917</literal></binding>
+   <binding name="date"><literal>20061110</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Istituzione del Fondo per il sostegno alle piccole imprese in stato di difficoltà temporanea&quot; (1917)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1956</literal></binding>
+   <binding name="date"><literal>20061117</literal></binding>
+   <binding name="title"><literal>ALESSANDRI ed altri: &quot;Riordino dell&#39;attività di vigilanza privata&quot; (1956)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1968</literal></binding>
+   <binding name="date"><literal>20061127</literal></binding>
+   <binding name="title"><literal>ZANOTTI ed altri: &quot;Norme per il riconoscimento della sordocecità quale disabilità unica&quot; (1968)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1999</literal></binding>
+   <binding name="date"><literal>20061130</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Disposizioni per promuovere la conoscenza della partecipazione italiana alle missioni internazionali di pace&quot; (1999)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2000</literal></binding>
+   <binding name="date"><literal>20061130</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Interventi per promuovere la conoscenza della storia e per favorire una migliore qualità del suo insegnamento scolastico&quot; (2000)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2034</literal></binding>
+   <binding name="date"><literal>20061211</literal></binding>
+   <binding name="title"><literal>BONO ed altri: &quot;Istituzione di una Commissione parlamentare di vigilanza sulle politiche di coesione territoriale&quot; (2034)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2043</literal></binding>
+   <binding name="date"><literal>20061211</literal></binding>
+   <binding name="title"><literal>BERNARDO e FRATTA PASINI: &quot;Modifiche al codice di cui al decreto legislativo 7 settembre 2005, n. 209, concernenti le modalità e i requisiti per l&#39;iscrizione nel registro degli intermediari assicurativi e riassicurativi&quot; (2043)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2073</literal></binding>
+   <binding name="date"><literal>20061219</literal></binding>
+   <binding name="title"><literal>LA RUSSA ed altri: &quot;Norme in materia di incompatibilità degli incarichi presso gli uffici e le strutture di diretta collaborazione della Presidenza del Consiglio dei ministri e dei Ministeri per i magistrati ordinari, amministrativi e contabili e per gli avvocati e i procuratori dello Stato&quot; (2073)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2076</literal></binding>
+   <binding name="date"><literal>20061219</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Modifica dell&#39;articolo 77 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, concernente i criteri di determinazione dell&#39;imposta sul reddito delle società&quot; (2076)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2120</literal></binding>
+   <binding name="date"><literal>20070116</literal></binding>
+   <binding name="title"><literal>DELLA VEDOVA ed altri: &quot;Abolizione della tassa di concessione governativa sull&#39;utilizzo dei terminali di comunicazione mobile&quot; (2120)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2140</literal></binding>
+   <binding name="date"><literal>20070118</literal></binding>
+   <binding name="title"><literal>LUCIANO ROSSI ed altri: &quot;Disposizioni in favore degli atleti italiani vincitori di medaglia olimpica&quot; (2140)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2184</literal></binding>
+   <binding name="date"><literal>20070130</literal></binding>
+   <binding name="title"><literal>ANGELI: &quot;Modifiche alla legge 27 dicembre 2001, n. 459, recante norme per l&#39;esercizio del diritto di voto dei cittadini italiani residenti all&#39;estero&quot; (2184)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2305</literal></binding>
+   <binding name="date"><literal>20070301</literal></binding>
+   <binding name="title"><literal>ASTORE ed altri: &quot;Norme in materia di sicurezza nelle istituzioni scolastiche&quot; (2305)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2315</literal></binding>
+   <binding name="date"><literal>20070305</literal></binding>
+   <binding name="title"><literal>BONGIORNO ed altri: &quot;Modifiche al codice penale e al codice di procedura penale, in materia di lotta contro la pedofilia e di tutela del minore nel processo penale&quot; (2315)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2344</literal></binding>
+   <binding name="date"><literal>20070309</literal></binding>
+   <binding name="title"><literal>CAMPA ed altri: &quot;Disposizioni in materia di insequestrabilità delle opere d&#39;arte prestate da uno Stato, da un ente o da un&#39;istituzione culturale stranieri, durante la permanenza in Italia per l&#39;esposizione al pubblico&quot; (2344)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2356</literal></binding>
+   <binding name="date"><literal>20070314</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: &quot;Disposizioni per la pubblicità sull&#39;uso di sostanze stupefacenti o psicotrope da parte dei parlamentari&quot; (2356)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2419</literal></binding>
+   <binding name="date"><literal>20070321</literal></binding>
+   <binding name="title"><literal>TAGLIALATELA ed altri: &quot;Modifiche al decreto del Presidente della Repubblica 29 settembre 1973, n. 602, in materia di espropriazione mobiliare e immobiliare, fermo amministrativo e iscrizione di ipoteca nel procedimento di riscossione delle imposte sul reddito&quot; (2419)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2568</literal></binding>
+   <binding name="date"><literal>20070503</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: &quot;Istituzione del diploma di specializzazione in neuroradiologia&quot; (2568)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2613</literal></binding>
+   <binding name="date"><literal>20070509</literal></binding>
+   <binding name="title"><literal>PEDRIZZI ed altri: &quot;Disposizioni per il riconoscimento di un ulteriore indennizzo ai cittadini, agli enti e alle società italiani titolari di beni, diritti e interessi perduti a seguito di provvedimenti emanati dalle autorità libiche&quot; (2613)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2622</literal></binding>
+   <binding name="date"><literal>20070510</literal></binding>
+   <binding name="title"><literal>LISI ed altri: &quot;Conferimento della qualità di forza di polizia al Corpo nazionale dei vigili del fuoco e delega al Governo per la riforma del trattamento economico del personale, per la riforma del servizio volontario nel medesimo Corpo, nonché per l&#39;immissione del personale volontario nei ruoli&quot; (2622)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2662</literal></binding>
+   <binding name="date"><literal>20070517</literal></binding>
+   <binding name="title"><literal>CARLUCCI: &quot;Istituzione di un servizio di assistenza sanitaria sui treni&quot; (2662)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2734</literal></binding>
+   <binding name="date"><literal>20070606</literal></binding>
+   <binding name="title"><literal>GALLETTI e CAPITANIO SANTOLINI: &quot;Modifiche agli articoli 7 e 8 del decreto legislativo 30 dicembre 1992, n. 504, in materia di applicazione dell&#39;imposta comunale sugli immobili all&#39;abitazione principale del contribuente&quot; (2734)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2739</literal></binding>
+   <binding name="date"><literal>20070607</literal></binding>
+   <binding name="title"><literal>OLIVA ed altri: &quot;Disposizioni in materia di uso del coke da petrolio&quot; (2739)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2791</literal></binding>
+   <binding name="date"><literal>20070618</literal></binding>
+   <binding name="title"><literal>JANNONE: &quot;Destinazione di una quota del 5 per mille dell&#39;imposta sul reddito delle persone fisiche a finalità scelte dai contribuenti&quot; (2791)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2813</literal></binding>
+   <binding name="date"><literal>20070621</literal></binding>
+   <binding name="title"><literal>COLUCCI ed altri: &quot;Autorizzazione alla sepoltura delle salme dei Re d&#39;Italia Vittorio Emanuele III e Umberto II e delle Regine Elena e Maria José nel Pantheon in Roma&quot; (2813)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2821</literal></binding>
+   <binding name="date"><literal>20070622</literal></binding>
+   <binding name="title"><literal>D&#39;AGRÒ ed altri: &quot;Disposizioni per la predisposizione del Programma nazionale per la mobilità ciclistica nonché per la realizzazione della rete degli itinerari ciclabili d&#39;Italia&quot; (2821)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2823</literal></binding>
+   <binding name="date"><literal>20070622</literal></binding>
+   <binding name="title"><literal>DI VIRGILIO ed altri: &quot;Norme in materia di riabilitazione attraverso l&#39;utilizzo del cavallo&quot; (2823)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2827</literal></binding>
+   <binding name="date"><literal>20070625</literal></binding>
+   <binding name="title"><literal>COSENZA ed altri: &quot;Modifiche al codice penale per la lotta contro la pedofilia e istituzione del Garante per l&#39;infanzia e l&#39;adolescenza&quot; (2827)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2834</literal></binding>
+   <binding name="date"><literal>20070628</literal></binding>
+   <binding name="title"><literal>SATTA ed altri: &quot;Norme in favore delle donne non coniugate, legalmente separate, divorziate o vedove, non conviventi more uxorio, con uno o più figli a carico&quot; (2834)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2839</literal></binding>
+   <binding name="date"><literal>20070628</literal></binding>
+   <binding name="title"><literal>CAMPA ed altri: &quot;Modifica all&#39;articolo 188 del decreto legislativo 30 aprile 1992, n. 285, e disposizioni per favorire la mobilità dei disabili intellettivi&quot; (2839)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2863</literal></binding>
+   <binding name="date"><literal>20070705</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE CIRIELLI ed altri: &quot;Modifica all&#39;articolo 111 della Costituzione in materia di tutela delle vittime di reati e delle persone danneggiate da reati&quot; (2863)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2864</literal></binding>
+   <binding name="date"><literal>20070705</literal></binding>
+   <binding name="title"><literal>CIRO ALFANO ed altri: &quot;Disposizioni in favore del personale del Corpo nazionale dei vigili del fuoco e delega al Governo per la perequazione del trattamento economico, per la riforma del servizio volontario nel medesimo Corpo e l&#39;immissione del personale volontario nei ruoli, nonché per l&#39;estensione di benefìci alle vittime del dovere&quot; (2864)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2877</literal></binding>
+   <binding name="date"><literal>20070709</literal></binding>
+   <binding name="title"><literal>MINASSO ed altri: &quot;Norme per la tutela dei padri separati&quot; (2877)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2898</literal></binding>
+   <binding name="date"><literal>20070716</literal></binding>
+   <binding name="title"><literal>CAMPA ed altri: &quot;Disposizioni in favore dei soggetti affetti da sensibilità chimica multipla (MCS)&quot; (2898)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2911</literal></binding>
+   <binding name="date"><literal>20070719</literal></binding>
+   <binding name="title"><literal>BONO ed altri: &quot;Istituzione dell&#39;Ordine al merito dei donatori di organi, nonché disposizioni per il collocamento obbligatorio dei loro familiari superstiti e per la diffusione della cultura della donazione degli organi&quot; (2911)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2923</literal></binding>
+   <binding name="date"><literal>20070724</literal></binding>
+   <binding name="title"><literal>BONO ed altri: &quot;Norme per disciplinare l&#39;attività degli artisti di strada&quot; (2923)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>305</literal></binding>
+   <binding name="date"><literal>20060429</literal></binding>
+   <binding name="title"><literal>BUONTEMPO ed altri: &quot;Istituzione del Garante per l&#39;infanzia e l&#39;adolescenza&quot; (305)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3056</literal></binding>
+   <binding name="date"><literal>20070924</literal></binding>
+   <binding name="title"><literal>GIANFRANCO FINI ed altri: &quot;Modifiche all&#39;articolo 20 della legge 23 febbraio 1999, n. 44. Interpretazione autentica della nozione di evento lesivo per l&#39;ammissione ai benefìci della sospensione o della proroga di termini in favore delle vittime di richieste estorsive e di usura&quot; (3056)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>306</literal></binding>
+   <binding name="date"><literal>20060429</literal></binding>
+   <binding name="title"><literal>BUONTEMPO ed altri: &quot;Istituzione del Fondo rotativo per il finanziamento degli studi universitari&quot; (306)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3070</literal></binding>
+   <binding name="date"><literal>20070927</literal></binding>
+   <binding name="title"><literal>URSO ed altri: &quot;Nuove norme in materia di servizio idrico integrato di cui alla parte terza, sezione III, titolo II, del decreto legislativo 3 aprile 2006, n. 152&quot; (3070)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3071</literal></binding>
+   <binding name="date"><literal>20070927</literal></binding>
+   <binding name="title"><literal>URSO ed altri: &quot;Delega al Governo per il riordino dei servizi pubblici locali&quot; (3071)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3073</literal></binding>
+   <binding name="date"><literal>20070927</literal></binding>
+   <binding name="title"><literal>URSO ed altri: &quot;Disposizioni in materia di partecipazione della società Italia Lavoro Spa alle società miste per i servizi pubblici&quot; (3073)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3103</literal></binding>
+   <binding name="date"><literal>20071003</literal></binding>
+   <binding name="title"><literal>DI VIRGILIO ed altri: &quot;Disposizioni per la promozione dell&#39;attività fisica e sportiva negli istituti penitenziari&quot; (3103)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3124</literal></binding>
+   <binding name="date"><literal>20071008</literal></binding>
+   <binding name="title"><literal>MURA ed altri: &quot;Disposizioni per il contenimento della spesa degli organi istituzionali e per la trasparenza delle attività di rappresentanza politica, sindacale e di relazione istituzionale&quot; (3124)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3136</literal></binding>
+   <binding name="date"><literal>20071011</literal></binding>
+   <binding name="title"><literal>DE CORATO ed altri: &quot;Modifiche al codice penale e alla legge 20 febbraio 1958, n. 75, e altre disposizioni in materia di prostituzione&quot; (3136)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3144</literal></binding>
+   <binding name="date"><literal>20071015</literal></binding>
+   <binding name="title"><literal>ULIVI ed altri: &quot;Interpretazione autentica dell&#39;articolo 7 della legge 12 agosto 1982, n. 569, in materia di trattamento di quiescenza del personale del Corpo delle guardie di pubblica sicurezza cessato dal servizio per dimissioni volontarie e successivamente riammesso nella Polizia di Stato&quot; (3144)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3200</literal></binding>
+   <binding name="date"><literal>20071105</literal></binding>
+   <binding name="title"><literal>VANNUCCI ed altri: &quot;Istituzione del premio annuale &#39;Arca dell&#39;arte - Premio nazionale Rotondi ai salvatori dell&#39;artè &quot; (3200)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3224</literal></binding>
+   <binding name="date"><literal>20071108</literal></binding>
+   <binding name="title"><literal>BONO ed altri: &quot;Disposizioni per la riforma degli interventi dello Stato in favore dello spettacolo e l&#39;introduzione di incentivi fiscali per il sostegno del settore cinematografico, dell&#39;audiovisivo e dello spettacolo dal vivo&quot; (3224)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>324</literal></binding>
+   <binding name="date"><literal>20060504</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Disposizioni in materia di repressione della contraffazione e dell&#39;abusivismo commerciale&quot; (324)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3245</literal></binding>
+   <binding name="date"><literal>20071115</literal></binding>
+   <binding name="title"><literal>CAMPA ed altri: &quot;Disposizioni per la salvaguardia dell&#39;occupazione dei lavoratori anziani e delega al Governo per la disciplina della prosecuzione volontaria della contribuzione previdenziale da parte degli iscritti alla Gestione separata di cui al comma 26 dell&#39;articolo 2 della legge 8 agosto 1995, n. 335&quot; (3245)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>325</literal></binding>
+   <binding name="date"><literal>20060504</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Disposizioni a tutela della concorrenza nel settore degli outlet&quot; (325)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3356</literal></binding>
+   <binding name="date"><literal>20080128</literal></binding>
+   <binding name="title"><literal>UGGÈ ed altri: &quot;Disposizioni per l&#39;attuazione del patto e del piano della logistica&quot; (3356)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>394</literal></binding>
+   <binding name="date"><literal>20060504</literal></binding>
+   <binding name="title"><literal>AIRAGHI ed altri: &quot;Istituzione del Giorno del ricordo delle vittime cadute nei gulag sovietici&quot; (394)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>564</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>CARLUCCI ed altri: &quot;Modifiche all&#39;articolo 186 del decreto legislativo 30 aprile 1992, n. 285, concernenti la guida sotto l&#39;influenza dell&#39;alcool o in stato di alterazione psico-fisica per uso di sostanze stupefacenti&quot; (564)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>713</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri:&quot;Disposizioni per l&#39;affidamento dei condannati a comunità di lavoro e recupero sociale&quot; (713)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>717</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri: &quot;Agevolazioni fiscali per l&#39;accesso all&#39;abitazione da parte dei nuclei familiari indigenti residenti nei comuni con popolazione superiore a 200.000 abitanti&quot; (717)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>718</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri: &quot;Disposizioni per la tutela associativa delle diverse abilità&quot; (718)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>719</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri: &quot;Disposizioni in materia di ospedalizzazione domiciliare per i pazienti terminali&quot; (719)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>720</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri: &quot;Disposizioni in materia di ospedalizzazione domiciliare oncologica&quot; (720)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>721</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri: &quot;Modifiche alla legge 22 febbraio 2000,  n. 28, in materia di accesso ai mezzi di informazione nelle campagne elettorali e referendarie&quot; (721)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>722</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri: &quot;Legge quadro sulla qualità architettonica&quot; (722)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>723</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri: &quot;Disposizioni in materia di responsabilità professionale del personale sanitario&quot; (723)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>724</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri: &quot;Norme contro il traffico e la vendita di organi prelevati da bambini&quot; (724)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>728</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri: &quot;Condono previdenziale per il settore artigianale e per le piccole e medie imprese&quot; (728)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>729</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>MARRAS ed altri: &quot;Norme per la prevenzione e la cura delle malattie che comportano trombofilie&quot; (729)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>781</literal></binding>
+   <binding name="date"><literal>20060522</literal></binding>
+   <binding name="title"><literal>ALEMANNO ed altri: &quot;Riconoscimento della lingua dei segni italiana &quot; (781)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>959</literal></binding>
+   <binding name="date"><literal>20060606</literal></binding>
+   <binding name="title"><literal>SALERNO  ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sulle vittime italiane della repressione comunista sovietica&quot; (959)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>986</literal></binding>
+   <binding name="date"><literal>20060613</literal></binding>
+   <binding name="title"><literal>MENIA ed altri: &quot;Disposizioni per la tutela e la valorizzazione dei veicoli storici&quot; (986)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1022</literal></binding>
+   <binding name="date"><literal>20060613</literal></binding>
+   <binding name="title"><literal>GARDINI: &quot;Disposizioni fiscali in favore delle famiglie&quot; (1022)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>15</literal></binding>
+   <binding name="date"><literal>20060628</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Misure per il sostegno e la valorizzazione dei comuni con popolazione pari o inferiore a 5.000 abitanti nonché dei comuni compresi nelle aree protette&quot; (15)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1295</literal></binding>
+   <binding name="date"><literal>20060706</literal></binding>
+   <binding name="title"><literal>DI VIRGILIO ed altri: &quot;Disciplina delle tutele socio-sanitarie in favore delle persone non autosufficienti&quot; (1295)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1571</literal></binding>
+   <binding name="date"><literal>20060803</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE LA RUSSA ed altri: &quot;Modifica all&#39;articolo 12 della Costituzione concernente il riconoscimento della lingua italiana quale lingua ufficiale della Repubblica&quot; (1571)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1695</literal></binding>
+   <binding name="date"><literal>20060926</literal></binding>
+   <binding name="title"><literal>BELLOTTI ed altri: &quot;Disposizioni per la riorganizzazione e la promozione dell&#39;agricoltura biologica&quot; (1695)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1744</literal></binding>
+   <binding name="date"><literal>20061002</literal></binding>
+   <binding name="title"><literal>DE CORATO ed altri: &quot;Modifica all&#39;articolo 12 della legge 5 febbraio 1992, n. 91, in materia di revoca della cittadinanza&quot; (1744)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1823</literal></binding>
+   <binding name="date"><literal>20061017</literal></binding>
+   <binding name="title"><literal>PRESTIGIACOMO ed altri: &quot;Nuove disposizioni in materia di contrasto ai reati di violenza sessuale&quot; (1823)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1856</literal></binding>
+   <binding name="date"><literal>20061026</literal></binding>
+   <binding name="title"><literal>DI VIRGILIO ed altri: &quot;Disposizioni per l&#39;accesso alla psicoterapia&quot; (1856)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2264</literal></binding>
+   <binding name="date"><literal>20070215</literal></binding>
+   <binding name="title"><literal>LAMORTE ed altri: &quot;Interpretazione autentica dell&#39;articolo 1, comma 41, della legge 8 agosto 1995, n. 335, in materia di computo dell&#39;indennità integrativa speciale agli effetti del trattamento pensionistico di reversibilità&quot; (2264)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2297</literal></binding>
+   <binding name="date"><literal>20070226</literal></binding>
+   <binding name="title"><literal>ARMANI ed altri: &quot;Misure tributarie a sostegno della famiglia&quot; (2297)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>867</literal></binding>
+   <binding name="date"><literal>20060530</literal></binding>
+   <binding name="title"><literal>SILIQUINI ed altri: &quot;Disciplina delle libere professioni&quot; (867)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>908</literal></binding>
+   <binding name="date"><literal>20060530</literal></binding>
+   <binding name="title"><literal>FERRIGNO: &quot;Modifiche alla legge 5 febbraio 1992, n. 91, concernenti il riconoscimento della cittadinanza italiana ai connazionali emigrati e ai loro discendenti&quot; (908)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>909</literal></binding>
+   <binding name="date"><literal>20060530</literal></binding>
+   <binding name="title"><literal>FERRIGNO: &quot;Introduzione dell&#39;articolo 17-quater della legge 5 febbraio 1992, n. 91, concernente il riconoscimento della cittadinanza italiana ai connazionali residenti all&#39;estero e ai loro discendenti&quot; (909)</literal></binding>
+  </result>
+ </results>
+</sparql>

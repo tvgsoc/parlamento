@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2325</literal></binding>
+   <binding name="date"><literal>19780718</literal></binding>
+   <binding name="title"><literal>ZAGARI e MORO: Concessione di un contributo annuo a favore dell&#39;Istituto per la documentazione e gli studi legislativi (ISLE), con sede in Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>13</literal></binding>
+   <binding name="date"><literal>19760705</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Libertà di espressione e comunicazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2293</literal></binding>
+   <binding name="date"><literal>19780630</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Istituzione e disciplina del &quot;Corpo degli assistenti penitenziari&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1154</literal></binding>
+   <binding name="date"><literal>19770216</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sulla illiceità di alcune forme di discriminazione basate sul sesso e sullo stato civile e per la promozione della parità di condizioni tra uomini e donne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>26</literal></binding>
+   <binding name="date"><literal>19760705</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sull&#39;interruzione della gravidanza</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3445</literal></binding>
+   <binding name="date"><literal>19931203</literal></binding>
+   <binding name="title"><literal>SANTORO: Disposizioni per l&#39;inquadramento nella nona qualifica funzionale di talunecategorie di personale di VIII qualifica dell&#39;amministrazione delle poste e delle telecomunicazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1869</literal></binding>
+   <binding name="date"><literal>19921110</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: Disposizioni per la riforma del ministero delle poste e delle telecomunicazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2118</literal></binding>
+   <binding name="date"><literal>19930114</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Riordino del servizio pubblico radiotelevisivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2866</literal></binding>
+   <binding name="date"><literal>19930701</literal></binding>
+   <binding name="title"><literal>MAIOLO ed altri: Nuove norme in materia di reati commessi per finalità di terrorismo o di eversione dell&#39;ordine democratico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3266</literal></binding>
+   <binding name="date"><literal>19931020</literal></binding>
+   <binding name="title"><literal>MARTUCCI ed altri: Modifiche al codice civile in materia di competenze delle camere di commercio, industria, artigianato ed agricoltura. Modifiche al titolo VI delle disposizioni approvate con regio decreto  16 marzo 1942, n. 267</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3401</literal></binding>
+   <binding name="date"><literal>19931125</literal></binding>
+   <binding name="title"><literal>ROMEO ed altri: Modifica all&#39;articolo 2 della legge 17 dicembre 1971, n. 1158, in materiadi interventi integrati sull&#39;area dello stretto di Messina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3402</literal></binding>
+   <binding name="date"><literal>19931125</literal></binding>
+   <binding name="title"><literal>ROMEO ed altri: Istituzione di una zona franca in parte del territorio di Gioia Tauro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>641</literal></binding>
+   <binding name="date"><literal>19920507</literal></binding>
+   <binding name="title"><literal>ZANONE ed altri: Modifiche al testo unico approvato con decreto del Presidente della Repubblica 16 maggio 1960, n. 570, in materia di elezione diretta dei sindaci e di elezione dei consigli comunali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>821</literal></binding>
+   <binding name="date"><literal>19920521</literal></binding>
+   <binding name="title"><literal>PATUELLI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 83 della Costituzione per l&#39;introduzione del ballottaggio al quarto scrutinio per la elezione del Presidente della Repubblica</literal></binding>
+  </result>
+ </results>
+</sparql>

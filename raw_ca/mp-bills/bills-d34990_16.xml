@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>728</literal></binding>
+   <binding name="date"><literal>20080505</literal></binding>
+   <binding name="title"><literal>LA RUSSA ed altri: &quot;Modifiche all&#39;articolo 20 della legge 23 febbraio 1999, n. 44. Interpretazione autentica della nozione di evento lesivo per l&#39;ammissione ai benefici della sospensione o della proroga di termini in favore delle vittime di richieste estorsive e di usura&quot; (728)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>729</literal></binding>
+   <binding name="date"><literal>20080505</literal></binding>
+   <binding name="title"><literal>LA RUSSA ed altri: &quot;Misure tributarie a sostegno della famiglia&quot; (729)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>730</literal></binding>
+   <binding name="date"><literal>20080505</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE LA RUSSA ed altri: &quot;Modifica all&#39;articolo 12 della Costituzione concernente il riconoscimento della lingua italiana quale lingua ufficiale della Repubblica&quot; (730)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>731</literal></binding>
+   <binding name="date"><literal>20080505</literal></binding>
+   <binding name="title"><literal>LA RUSSA ed altri: &quot;Disposizioni per la riorganizzazione e la riqualificazione degli istituti penitenziari&quot; (731)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>733</literal></binding>
+   <binding name="date"><literal>20080505</literal></binding>
+   <binding name="title"><literal>LA RUSSA ed altri: &quot;Norme in materia di incompatibilità degli incarichi presso gli uffici e le strutture di diretta collaborazione della Presidenza del Consiglio dei ministri e dei Ministeri per i magistrati ordinari, amministrativi e contabili e per gli avvocati e i procuratori dello Stato&quot; (733)</literal></binding>
+  </result>
+ </results>
+</sparql>

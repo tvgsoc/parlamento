@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4685</literal></binding>
+   <binding name="date"><literal>19900321</literal></binding>
+   <binding name="title"><literal>SANTARELLI: Nuove norme per la tutela delle denominazioni di origine dei vini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3914</literal></binding>
+   <binding name="date"><literal>19890510</literal></binding>
+   <binding name="title"><literal>PIETRINI ed altri: Istituzione dei parchi archeologici nei territori di Gabii, Vejo e del Lazio virgiliano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4189</literal></binding>
+   <binding name="date"><literal>19890907</literal></binding>
+   <binding name="title"><literal>PIRO ed altri: Nuova disciplina per le assunzioni obbligatorie e per la valorizzazione delle specifiche potenzialità lavorative di ogni cittadino disabile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4554</literal></binding>
+   <binding name="date"><literal>19900208</literal></binding>
+   <binding name="title"><literal>PATRIA ed altri: Ordinamento della professione di enologo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4999</literal></binding>
+   <binding name="date"><literal>19900726</literal></binding>
+   <binding name="title"><literal>MATTIOLI ed altri: Modifiche e integrazioni al decreto-legge 10 dicembre 1988, n. 522, convertito dalla legge 10 febbraio 1989, n. 42, recante disposizioni urgenti in materia di politica energetica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5385</literal></binding>
+   <binding name="date"><literal>19910117</literal></binding>
+   <binding name="title"><literal>MASTRANTUONO ed altri: Istituzione del tribunale e della pretura circondariale di Gaeta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4143</literal></binding>
+   <binding name="date"><literal>19890728</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Norme per la gestione del territorio nazionale ai fini dell&#39;incremento della fauna, della tutela dell&#39;ambiente e per la regolamentazione della caccia nell&#39;ambito delle disposizioni internazionali e comunitarie</literal></binding>
+  </result>
+ </results>
+</sparql>

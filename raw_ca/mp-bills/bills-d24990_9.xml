@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4567</literal></binding>
+   <binding name="date"><literal>19870327</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Istituzione di una Commissione parlamentare di inchiesta sulle condizioni di lavoro, con riguardo ai problemi della salute e della sicurezza dei lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4635</literal></binding>
+   <binding name="date"><literal>19870423</literal></binding>
+   <binding name="title"><literal>TAGLIABUE ed altri: Destinazione di parte dei proventi derivanti dalla tassa per la licenza di porto d&#39;armi per uso di caccia alle associazioni venatorie per lo svolgimento dei compiti previsti dall&#39;articolo 30 della legge 27 dicembre 1977, n. 968, e per interventi per la tutela ed il ripristino di fauna ed ambiente</literal></binding>
+  </result>
+ </results>
+</sparql>

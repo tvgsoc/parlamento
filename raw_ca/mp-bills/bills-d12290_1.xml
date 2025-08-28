@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1299</literal></binding>
+   <binding name="date"><literal>19500525</literal></binding>
+   <binding name="title"><literal>PERRONE CAPANO ed altri: Fondatezza, o meno, delle accuse mosse dall&#39;onorevole Ettore Viola nei confronti di onorevoli membri del Parlamento e del Governo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1325</literal></binding>
+   <binding name="date"><literal>19500601</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Sulle incompatibilità parlamentari</literal></binding>
+  </result>
+ </results>
+</sparql>

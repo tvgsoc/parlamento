@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>143</literal></binding>
+   <binding name="date"><literal>19481022</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1693</literal></binding>
+   <binding name="date"><literal>19501205</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Disciplina dell&#39;apprendistato, norme per l&#39;istruzione professionale e creazione dell&#39;Istituto nazionale per l&#39;addestramento professionale dei lavoratori (I.N.A.P.L.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1883</literal></binding>
+   <binding name="date"><literal>19510307</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Disciplina per l&#39;uso in Italia di onorificenze di alcuni Ordini cavallereschi liberi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2484</literal></binding>
+   <binding name="date"><literal>19520125</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Ampliamento del piano di costruzione di case per lavoratori I.N.A.-Casa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2711</literal></binding>
+   <binding name="date"><literal>19520514</literal></binding>
+   <binding name="title"><literal>RIVERA ed altri: Provvedimento per adeguare i valori del reddito agrario delle zone povere e montuose alla capacità reale della loro produttività</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3016</literal></binding>
+   <binding name="date"><literal>19521119</literal></binding>
+   <binding name="title"><literal>CHIARINI ed altri: Proroga delle disposizioni concernenti i termini e le modalità di versamento dei contributi unificati dell&#39;agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>409</literal></binding>
+   <binding name="date"><literal>19490312</literal></binding>
+   <binding name="title"><literal>ARMOSINO ed altri: Unificazione dell&#39;imposta consumo sui vini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>707</literal></binding>
+   <binding name="date"><literal>19490720</literal></binding>
+   <binding name="title"><literal>MONTICELLI ed altri: Modificazioni al decreto-legge 15 ottobre 1925, n. 2033, per quanto concerne la repressione delle frodi nella preparazione e nel commercio del vino e dell&#39;aceto</literal></binding>
+  </result>
+ </results>
+</sparql>

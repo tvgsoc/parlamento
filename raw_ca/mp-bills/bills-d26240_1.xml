@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2458</literal></binding>
+   <binding name="date"><literal>19520115</literal></binding>
+   <binding name="title"><literal>LONGHENA: Concessione di un contributo annuo di lire 250 milioni a favore dell&#39;Associazione Italiana della Croce Rossa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3112</literal></binding>
+   <binding name="date"><literal>19521223</literal></binding>
+   <binding name="title"><literal>LONGHENA ed altri: Applicazione in favore dell&#39;Associazione italiana della Croce Rossa di un contributo sui premi di alcune assicurazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1006</literal></binding>
+   <binding name="date"><literal>19491221</literal></binding>
+   <binding name="title"><literal>GUIDI CINGOLANI ed altri: Applicabilità ai mutilati ed invalidi per servizio ed ai congiunti dei caduti per servizio dei benefici spettanti ai mutilati ed invalidi di guerra ed ai congiunti dei caduti in guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>168</literal></binding>
+   <binding name="date"><literal>19481118</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Estensione delle provvidenze dell&#39;Opera nazionale per i pensionati della previdenza sociale a tutte le categorie dei pensionati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1839</literal></binding>
+   <binding name="date"><literal>19510222</literal></binding>
+   <binding name="title"><literal>MORO ed altri: Concessione di un assegno annuo di lire 780.000 a Maria Montessori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>241</literal></binding>
+   <binding name="date"><literal>19481218</literal></binding>
+   <binding name="title"><literal>TOZZI CONDIVI ed altri: Sospensione dell&#39;efficacia del decreto legislativo 3 maggio 1948, n. 949 concernente norme transitorie per i concorsi del personale sanitario degli ospedali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>261</literal></binding>
+   <binding name="date"><literal>19481221</literal></binding>
+   <binding name="title"><literal>TARGETTI ed altri: Concessione di una pensione straordinaria alla vedova dell&#39;onorevole Giuseppe Emanuele Modigliani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2645</literal></binding>
+   <binding name="date"><literal>19520407</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Concessione di un assegno vitalizio di assistenza ai ciechi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3211</literal></binding>
+   <binding name="date"><literal>19530304</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Norme integrative sulla istituzione dei ruoli speciali transitori nelle Amministrazioni dello Stato</literal></binding>
+  </result>
+ </results>
+</sparql>

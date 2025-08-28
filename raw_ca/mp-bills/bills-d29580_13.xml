@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>199</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>FINOCCHIARO: Norme per l&#39;organizzazione, la gestione ed il finanziamento di progetti per la riduzione  del danno connesso all&#39;uso di sostanze stupefacenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>7168</literal></binding>
+   <binding name="date"><literal>20000704</literal></binding>
+   <binding name="title"><literal>FINOCCHIARO ed altri: Abrogazione del comma 2 dell&#39;articolo 13 della legge 20 ottobre 1990, n. 302, in materia di benefici a favore delle vittime del terrorismo e della criminalità  organizzata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5292</literal></binding>
+   <binding name="date"><literal>19981008</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: Concessione dell&#39;indennità di maternità alle casalinghe, alle studentessee alle disoccupate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5400</literal></binding>
+   <binding name="date"><literal>19981111</literal></binding>
+   <binding name="title"><literal>BONITO ed altri: Disposizioni per lo snellimento per la procedura per la definizione dei pregiudizi in materia di pensioni pendenti dinanzi alle sezioni giurisdizionali regionali della Corte dei conti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5773</literal></binding>
+   <binding name="date"><literal>19990304</literal></binding>
+   <binding name="title"><literal>FOLENA ed altri: Proroga delle disposizioni di cui all&#39;articolo 41-bis della legge 26 luglio 1975, n. 354, in materia di sospensione delle regole di trattamento penitenziario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5787</literal></binding>
+   <binding name="date"><literal>19990305</literal></binding>
+   <binding name="title"><literal>MUSSI ed altri: Introduzione dell&#39;articolo 605-bis del codice di procedura penale, concernente la misura della custodia cautelare in carcere disposta dal giudice di appello</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6052</literal></binding>
+   <binding name="date"><literal>19990520</literal></binding>
+   <binding name="title"><literal>BONITO ed altri: Disposizioni per la deflazione del contenzioso e per l&#39;abbreviazione dei tempi del processo civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6054</literal></binding>
+   <binding name="date"><literal>19990520</literal></binding>
+   <binding name="title"><literal>VELTRONI ed altri: Nuove norme in materia di gratuito patrocinio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7129</literal></binding>
+   <binding name="date"><literal>20000621</literal></binding>
+   <binding name="title"><literal>RABBITO ed altri: Disposizioni  fiscali per la riduzione dei costi energetici a carico delle famiglie e per favorire gli investimenti e lo sviluppo economico nella regionesicialiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7131</literal></binding>
+   <binding name="date"><literal>20000621</literal></binding>
+   <binding name="title"><literal>PISTONE ed altri: Disposizioni in  materia di  detraibilità dell&#39;imposta comunale sugli immobili dall&#39;imposta sui redditi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7422</literal></binding>
+   <binding name="date"><literal>20001109</literal></binding>
+   <binding name="title"><literal>SINISCALCHI ed altri: Modifiche al codice penale in materia di responsabilità per diffamazionecommessa con il mezzo della stampa o della diffusione radiotelevisiva</literal></binding>
+  </result>
+ </results>
+</sparql>

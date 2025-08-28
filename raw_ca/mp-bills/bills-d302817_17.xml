@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2661</literal></binding>
+   <binding name="date"><literal>20141010</literal></binding>
+   <binding name="title"><literal>BONAVITACOLA ed altri: &quot;Modifiche agli articoli 7 e 10 del testo unico di cui al decreto legislativo 31 dicembre 2012, n. 235, in materia di esclusione della condanna per abuso d&#39;ufficio dal novero delle cause ostative alla candidatura nelle elezioni regionali, provinciali, comunali e circoscrizionali&quot; (2661)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1164</literal></binding>
+   <binding name="date"><literal>20130605</literal></binding>
+   <binding name="title"><literal>SALVATORE PICCOLO ed altri: &quot;Estinzione dell&#39;Istituto &#39;SS. Trinità e Paradiso&#39; di Vico Equense e trasferimento del relativo patrimonio al comune di Vico Equense&quot; (1164)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>347</literal></binding>
+   <binding name="date"><literal>20130319</literal></binding>
+   <binding name="title"><literal>TINO IANNUZZI ed altri: &quot;Abrogazione dei commi da 1 a 5 dell&#39;articolo 15 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, concernenti l&#39;introduzione di un pedaggio sulle autostrade e sui raccordi autostradali gestiti direttamente dalla società ANAS Spa, nonché disposizione in materia di utilizzo dei proventi delle sanzioni per violazioni del codice della strada&quot; (347)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>517</literal></binding>
+   <binding name="date"><literal>20130325</literal></binding>
+   <binding name="title"><literal>META ed altri: &quot;Disposizioni per la costruzione e l&#39;esercizio di navi cisterna specializzate nel recupero di idrocarburi sversati in mare&quot; (517)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>518</literal></binding>
+   <binding name="date"><literal>20130325</literal></binding>
+   <binding name="title"><literal>META ed altri: &quot;Concessione di un contributo da destinare alla realizzazione di un programma per il rinnovo del materiale rotabile della società Ferrovie dello Stato Spa, per il miglioramento dei servizi di trasporto locale e regionale di persone&quot; (518)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2355</literal></binding>
+   <binding name="date"><literal>20140507</literal></binding>
+   <binding name="title"><literal>IMPEGNO ed altri: &quot;Modifica all&#39;articolo 133 del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, in materia di determinazione del premio dell&#39;assicurazione obbligatoria per i veicoli a motore e i natanti&quot; (2355)</literal></binding>
+  </result>
+ </results>
+</sparql>

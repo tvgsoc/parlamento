@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1938</literal></binding>
+   <binding name="date"><literal>19510418</literal></binding>
+   <binding name="title"><literal>DI MAURO ed altri: Modifica dell&#39;elenco delle lavorazioni stagionali previste dal decreto ministeriale 11 dicembre 1939</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2060</literal></binding>
+   <binding name="date"><literal>19510628</literal></binding>
+   <binding name="title"><literal>PINO ed altri: Estensione dell&#39;assicurazione contro la disoccupazione involontaria ad alcune categorie di lavoratori della provincia di Messina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2115</literal></binding>
+   <binding name="date"><literal>19510801</literal></binding>
+   <binding name="title"><literal>PINO ed altri: Estensione del disposto dell&#39;articolo 45 della legge 10 agosto 1950, n. 648, concernente l&#39;indennità mensile per l&#39;accompagnatore, ai mutilati di cui alla lettera G, n. 2 e n. 3 della tabella E.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2116</literal></binding>
+   <binding name="date"><literal>19510801</literal></binding>
+   <binding name="title"><literal>PINO ed altri: Modifica delle disposizioni sulla assicurazione contro la disoccupazione involontaria, disciplinate dal regio decreto legge 4 ottobre 1935, n. 1827, convertito nella legge 6 aprile 1936, n. 1155</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2318</literal></binding>
+   <binding name="date"><literal>19511116</literal></binding>
+   <binding name="title"><literal>DI MAURO ed altri: Aumento del trattamento di previdenza degli impiegati tecnici ed amministrativi delle miniere di zolfo della Sicilia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>533</literal></binding>
+   <binding name="date"><literal>19490509</literal></binding>
+   <binding name="title"><literal>FAILLA ed altri: Norme per la produzione, il trattamento e la vendita dei distillati asfaltici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>659</literal></binding>
+   <binding name="date"><literal>19490701</literal></binding>
+   <binding name="title"><literal>PINO ed altri: Unificazione del limite di età per la concessione dell&#39;autorizzazione a contrarre matrimonio per gli agenti di custodia delle carceri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>713</literal></binding>
+   <binding name="date"><literal>19490721</literal></binding>
+   <binding name="title"><literal>PINO ed altri: Estensione a tutti i sanitari laureati ed alle ostetriche, del disposto di cui all&#39;articolo 2, comma a), capoverso quinto, della legge 1° marzo 1949, n. 55, sulle norme transitorie per i concorsi sanitari</literal></binding>
+  </result>
+ </results>
+</sparql>

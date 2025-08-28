@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2306</literal></binding>
+   <binding name="date"><literal>19880205</literal></binding>
+   <binding name="title"><literal>MARTELLI ed altri: Norme e interventi per il bacino idrografico del Po e della Padania</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3233</literal></binding>
+   <binding name="date"><literal>19881011</literal></binding>
+   <binding name="title"><literal>MARTELLI ed altri: Norme per il risanamento dell&#39;ecosistema del mare Adriatico e la valorizzazione delle regioni rivierasche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3669</literal></binding>
+   <binding name="date"><literal>19890227</literal></binding>
+   <binding name="title"><literal>MARTELLI ed altri: Norme per la conservazione e tutela del patrimonio faunistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1220</literal></binding>
+   <binding name="date"><literal>19870727</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Nuove norme per l&#39;ingresso in magistratura, per l&#39;istituzione del Centro studi giudiziari e forensi e per l&#39;organizzazione di scuole post-universitarie per la formazione dei magistrati ordinari e dei procuratori legali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1221</literal></binding>
+   <binding name="date"><literal>19870727</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Norme in materia di concorsi unici nelle amministrazioni statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1225</literal></binding>
+   <binding name="date"><literal>19870727</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Nuove norme sulla pubblicità degli appalti di opere pubbliche e delle pubbliche forniture ad integrazione della legge 2 febbraio 1973, n. 14</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1945</literal></binding>
+   <binding name="date"><literal>19871124</literal></binding>
+   <binding name="title"><literal>DI DONATO ed altri: Attuazione della direttiva CEE del 27 giugno 1985, n. 85/337, concernente la valutazione dell&#39;impatto ambientale dei progetti pubblici e privati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>769</literal></binding>
+   <binding name="date"><literal>19870709</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Integrazione dell&#39;articolo 22 del codice di procedura penale in materia di costituzione di parte civile a tutela del diritto alla salute e alla sicurezza dei lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1000</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Istituzione del Consiglio generale dell&#39;emigrazione italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1219</literal></binding>
+   <binding name="date"><literal>19870724</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Modifiche alle norme concernenti i delitti contro la pubblica amministrazione</literal></binding>
+  </result>
+ </results>
+</sparql>

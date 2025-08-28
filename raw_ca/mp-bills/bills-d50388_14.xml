@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1555</literal></binding>
+   <binding name="date"><literal>20010918</literal></binding>
+   <binding name="title"><literal>COLLAVINI ed altri: &quot;Istituzione dell&amp;#8217;Agenzia per la promozione e la tutela delle produzioni agroalimentari e vitivinicole&quot; (1555)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>282</literal></binding>
+   <binding name="date"><literal>20010530</literal></binding>
+   <binding name="title"><literal>MASSIDDA ed altri: &quot;Istituzione della cartella e della tessera sanitaria personale&quot; (282)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>35</literal></binding>
+   <binding name="date"><literal>20010530</literal></binding>
+   <binding name="title"><literal>COLLAVINI ed altri: &quot;Istituzione sui treni viaggiatori a lunga percorrenza del servizio di assistenza sanitaria&quot; (35)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>710</literal></binding>
+   <binding name="date"><literal>20010613</literal></binding>
+   <binding name="title"><literal>ROCCHI ed altri: &quot;Divieto di impiego di animali nei circhi e negli spettacoli viaggianti e disposizioni per la promozione dello spettacolo circense&quot; (710)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>278</literal></binding>
+   <binding name="date"><literal>20010530</literal></binding>
+   <binding name="title"><literal>MASSIDDA ed altri: &quot;Disciplina della produzione, commercializzazione e consumo di prodotti erboristici&quot; (278)</literal></binding>
+  </result>
+ </results>
+</sparql>

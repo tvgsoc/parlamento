@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4062</literal></binding>
+   <binding name="date"><literal>19670511</literal></binding>
+   <binding name="title"><literal>PACCIARDI: Modifica dell&#39;articolo 3 del decreto legge 24 giugno 1952, n. 649, convertito in legge con legge 25 luglio 1952, n. 1059, richiamato in vigore con modificazioni per l&#39;anno scolastico 1952-53 con decreto legge 21 giugno 1953, n. 451, e confermato per l&#39;anno scolastico 1953-54 con legge 15 maggio 1954, n. 245, riguardante gli esami di maturità ed abilitazione negli Istituti secondari superiori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4568</literal></binding>
+   <binding name="date"><literal>19671116</literal></binding>
+   <binding name="title"><literal>PACCIARDI: Modifica dell&#39;articolo 11, secondo comma, della legge 15 febbraio 1958, n. 46, sulle pensioni a carico dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2133</literal></binding>
+   <binding name="date"><literal>19650226</literal></binding>
+   <binding name="title"><literal>PACCIARDI: Estensione dell&#39;assegno straordinario previsto dalla legge 21 febbraio 1963, n. 358 ai decorati di medaglia d&#39;oro al valore alla memoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4418</literal></binding>
+   <binding name="date"><literal>19671005</literal></binding>
+   <binding name="title"><literal>DE MEO ed altri: Termine per la presentazione delle domande di rinvio del servizio militare per motivi di studio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>234</literal></binding>
+   <binding name="date"><literal>19630718</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Nuovi provvedimenti per le aree depresse dell&#39;Italia centrale e settentrionale</literal></binding>
+  </result>
+ </results>
+</sparql>

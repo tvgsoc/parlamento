@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>457</literal></binding>
+   <binding name="date"><literal>19760923</literal></binding>
+   <binding name="title"><literal>AGNELLI ed altri: Norme sulla interruzione volontaria della gravidanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1597</literal></binding>
+   <binding name="date"><literal>19770704</literal></binding>
+   <binding name="title"><literal>BIASINI ed altri: Soppressione dell&#39;Ente autonomo territoriale provincia: modifica degli articoli 114, 118, 119, 128, 132, 133 e della VIII disposizione di attuazione della Costituzione; abrogazione dell&#39;articolo 129 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1685</literal></binding>
+   <binding name="date"><literal>19770728</literal></binding>
+   <binding name="title"><literal>BIASINI ed altri: Legge-quadro per l&#39;istituzione dei comprensori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1686</literal></binding>
+   <binding name="date"><literal>19770728</literal></binding>
+   <binding name="title"><literal>BIASINI ed altri: Modificazioni alle norme sui procedimenti e sui giudizi d&#39;accusa costituzionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1948</literal></binding>
+   <binding name="date"><literal>19771221</literal></binding>
+   <binding name="title"><literal>ORSINI ed altri: Proroga del termine di cui all&#39;articolo 6 della legge 16 giugno 1977, n. 357, istitutiva della Commissione di inchiesta sulla fuga di sostanze tossiche avvenuta il 10 luglio 1976 nello stabilimento ICMESA e sui rischi potenziali per la salute e per l&#39;ambiente derivanti da attività industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2565</literal></binding>
+   <binding name="date"><literal>19781130</literal></binding>
+   <binding name="title"><literal>DEL PENNINO ed altri: Modifica del primo comma dell&#39;articolo 41 della legge 18 aprile 1975, n. 148, concernente i titoli di ammissione ai concorsi per l&#39;assunzione di personale sanitario ospedaliero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2591</literal></binding>
+   <binding name="date"><literal>19781211</literal></binding>
+   <binding name="title"><literal>DEL PENNINO e AGNELLI: Norme sulla sterilizzazione volontaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>627</literal></binding>
+   <binding name="date"><literal>19761020</literal></binding>
+   <binding name="title"><literal>MAMMÌ e AGNELLI: Modificazioni e integrazioni alle norme generali relative agli onorari e ai compensi per le prestazioni medico-chirurgiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1279</literal></binding>
+   <binding name="date"><literal>19770322</literal></binding>
+   <binding name="title"><literal>BIASINI ed altri: Norme generali sull&#39;istruzione. Istituzione e ordinamento della scuola secondaria superiore unitaria. Principi fondamentali in materia di istruzione artigiana e professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1672</literal></binding>
+   <binding name="date"><literal>19770725</literal></binding>
+   <binding name="title"><literal>MAMMÌ ed altri: Norme sul rinnovo dei consigli comunali e provinciali e per l&#39;elezione dei consigli circoscrizionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>245</literal></binding>
+   <binding name="date"><literal>19760804</literal></binding>
+   <binding name="title"><literal>GASCO ed altri: Norme igienico-sanitarie per la produzione, commercio e vendita dei molluschi eduli lamellibranchi</literal></binding>
+  </result>
+ </results>
+</sparql>

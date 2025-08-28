@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>167</literal></binding>
+   <binding name="date"><literal>19760728</literal></binding>
+   <binding name="title"><literal>LOMBARDO ed altri: Riforma della legislazione cooperativistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>307</literal></binding>
+   <binding name="date"><literal>19760811</literal></binding>
+   <binding name="title"><literal>DE CINQUE ed altri: Provvedimenti per il completamento delle autostrade A-24 ed A-25</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>963</literal></binding>
+   <binding name="date"><literal>19761221</literal></binding>
+   <binding name="title"><literal>AIARDI ed altri: Istituzione di università statali in Abruzzo</literal></binding>
+  </result>
+ </results>
+</sparql>

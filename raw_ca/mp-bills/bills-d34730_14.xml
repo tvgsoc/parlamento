@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2279</literal></binding>
+   <binding name="date"><literal>20020205</literal></binding>
+   <binding name="title"><literal>ELIO VITO ed altri: &quot;Istituzione del Museo Nazionale della Shoah&quot; (2279)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4251</literal></binding>
+   <binding name="date"><literal>20030801</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE BOATO ed altri: &quot;Modifica all&#39;articolo 111 della Costituzione, in materia di garanzia dei diritti delle vittime di reato&quot; (4251)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5290</literal></binding>
+   <binding name="date"><literal>20040924</literal></binding>
+   <binding name="title"><literal>SELVA ed altri: &quot;Ricostituzione della Commissione parlamentare di inchiesta sull&#39;affare Telekom-Serbia&quot; (5290)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5564</literal></binding>
+   <binding name="date"><literal>20050131</literal></binding>
+   <binding name="title"><literal>TREMONTI ed altri: &quot;Disposizioni per la destinazione diretta a finalità sociali e di ricerca scientifica dell&#39;otto per mille del gettito IRE&quot; (5564)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5565</literal></binding>
+   <binding name="date"><literal>20050131</literal></binding>
+   <binding name="title"><literal>TREMONTI ed altri: &quot;Istituzione di un libretto di risparmio per i nuovi nati&quot; (5565)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>339</literal></binding>
+   <binding name="date"><literal>20010530</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: &quot;Norme per l&amp;#8217;esercizio del diritto di voto all&amp;#8217;estero dei cittadini italiani residenti oltreconfine&quot; (339)</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>101</literal></binding>
+   <binding name="date"><literal>20080429</literal></binding>
+   <binding name="title"><literal>ENZO CARRA ed altri: &quot;Disposizioni in favore dell&#39;arte contemporanea&quot; (101)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1518</literal></binding>
+   <binding name="date"><literal>20080722</literal></binding>
+   <binding name="title"><literal>GRASSI ed altri: &quot;Concessione della medaglia d&#39;oro al valor militare alla memoria dei caduti di Nassiriya&quot; (1518)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2085</literal></binding>
+   <binding name="date"><literal>20090121</literal></binding>
+   <binding name="title"><literal>MARGIOTTA ed altri: &quot;Nuove disposizioni concernenti i criteri per la determinazione dei trasferimenti erariali destinati ai comuni e misure di perequazione in favore dei comuni soggetti a decremento demografico&quot; (2085)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3338</literal></binding>
+   <binding name="date"><literal>20100318</literal></binding>
+   <binding name="title"><literal>PALAGIANO ed altri: &quot;Disposizioni per il riconoscimento dell&#39;endometriosi come malattia sociale e istituzione del Registro nazionale dell&#39;endometriosi e della Giornata nazionale per la lotta contro l&#39;endometriosi&quot; (3338)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3697</literal></binding>
+   <binding name="date"><literal>20100906</literal></binding>
+   <binding name="title"><literal>PALAGIANO ed altri: &quot;Introduzione dell&#39;articolo 580-bis del codice penale, concernente il reato di istigazione a pratiche idonee a procurare l&#39;anoressia o la bulimia&quot; (3697)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3809</literal></binding>
+   <binding name="date"><literal>20101025</literal></binding>
+   <binding name="title"><literal>SPOSETTI ed altri: &quot;Disciplina dei partiti politici, in attuazione dell&#39;articolo 49 della Costituzione, e delle fondazioni politico-culturali. Delega al Governo per l&#39;emanazione di un testo unico delle leggi sulla disciplina e sul finanziamento dei partiti politici&quot; (3809)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4048</literal></binding>
+   <binding name="date"><literal>20110202</literal></binding>
+   <binding name="title"><literal>ZAZZERA ed altri: &quot;Disposizioni per la tutela e la valorizzazione degli olivi secolari&quot; (4048)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4107</literal></binding>
+   <binding name="date"><literal>20110221</literal></binding>
+   <binding name="title"><literal>LOLLI ed altri: &quot;Disposizioni per la ricostruzione e lo sviluppo economico-sociale dei territori colpiti dal sisma del 6 aprile 2009, nonché per la prevenzione dei rischi sismici&quot; (4107)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5013</literal></binding>
+   <binding name="date"><literal>20120229</literal></binding>
+   <binding name="title"><literal>SERENI ed altri: &quot;Disciplina dell&#39;attività di rappresentanza degli interessi particolari e istituzione del Registro pubblico dei rappresentanti di interessi&quot; (5013)</literal></binding>
+  </result>
+ </results>
+</sparql>

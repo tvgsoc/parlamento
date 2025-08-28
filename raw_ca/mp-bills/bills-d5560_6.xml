@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7</literal></binding>
+   <binding name="date"><literal>19720515</literal></binding>
+   <binding name="title"><literal>CICCARDINI ed altri: Elezione popolare diretta del sindaco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>710</literal></binding>
+   <binding name="date"><literal>19720807</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>796</literal></binding>
+   <binding name="date"><literal>19720921</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Modifiche alla legge 2 aprile 1968, n. 482, sulla disciplina generale delle assunzioni obbligatorie presso le pubbliche amministrazioni e le aziende private</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1936</literal></binding>
+   <binding name="date"><literal>19800730</literal></binding>
+   <binding name="title"><literal>DEGAN e GIOIA: Ulteriore autorizzazione di spesa per il consolidamento, la ricostruzione, il restauro e la manutenzione di opere nella basilica di San Marco in Venezia e nel duomo e nel chiostro di Monreale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>589</literal></binding>
+   <binding name="date"><literal>19790928</literal></binding>
+   <binding name="title"><literal>BOSCO ed altri: Sistema integrato di servizi sociali, sanitari ed assistenziali in favore degli anziani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>928</literal></binding>
+   <binding name="date"><literal>19791113</literal></binding>
+   <binding name="title"><literal>ARNAUD ed altri: Modificazioni al decreto-legge 8 luglio 1974, n. 261, convertito, con modificazioni, nella legge 14 agosto 1974, n. 355, concernente norme a favore dei dipendenti dello Stato ed enti pubblici ex combattenti ed assimilati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>783</literal></binding>
+   <binding name="date"><literal>19791024</literal></binding>
+   <binding name="title"><literal>LAFORGIA ed altri: Legge-quadro per l&#39;artigianato</literal></binding>
+  </result>
+ </results>
+</sparql>

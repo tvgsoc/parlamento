@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3058</literal></binding>
+   <binding name="date"><literal>19570718</literal></binding>
+   <binding name="title"><literal>CONCAS ed altri: Costruzione in Vittorio Veneto di un monumento celebrativo della indipendenza e della libertà d&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1</literal></binding>
+   <binding name="date"><literal>19530625</literal></binding>
+   <binding name="title"><literal>NENNI ed altri: Abrogazione della legge 31 marzo 1953, n. 148, punti dal I al IV</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1953</literal></binding>
+   <binding name="date"><literal>19551215</literal></binding>
+   <binding name="title"><literal>NENNI ed altri: Abrogazione dell&#39;articolo 31 del testo unico 5 aprile 1951, n. 203, e delle norme ad esso correlative sul collegamento delle liste e sul premio di maggioranza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2129</literal></binding>
+   <binding name="date"><literal>19560316</literal></binding>
+   <binding name="title"><literal>AMADEI ed altri: Modificazione dell&#39;articolo 2113 del Codice civile sulle transazioni e rinuncie a diritti indisponibili dei lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2604</literal></binding>
+   <binding name="date"><literal>19561207</literal></binding>
+   <binding name="title"><literal>BETTOLI ed altri: Istituzione della provincia di Pordenone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2957</literal></binding>
+   <binding name="date"><literal>19570611</literal></binding>
+   <binding name="title"><literal>RICCA ed altri: Modificazioni alla legge 5 febbraio 1934, n. 327, e al regio decreto 29 dicembre 1939, n. 2255, per l&#39;estensione dell&#39;esercizio della vendita al pubblico in forma ambulante agli Enti comunali di consumo ed alle cooperative e loro Consorzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2993</literal></binding>
+   <binding name="date"><literal>19570628</literal></binding>
+   <binding name="title"><literal>PECORARO ed altri: Obbligatorietà dell&#39;insegnamento e dell&#39;esame di medicina del lavoro nella Facoltà di medicina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3673</literal></binding>
+   <binding name="date"><literal>19580311</literal></binding>
+   <binding name="title"><literal>SANTI ed altri: Modifica alle disposizioni sulle competenze accessorie del personale dipendente dal Ministero delle poste e delle telecomunicazioni di cui alla legge 8 agosto 1957, n. 776</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>45</literal></binding>
+   <binding name="date"><literal>19530727</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Assistenza di malattia per i coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>801</literal></binding>
+   <binding name="date"><literal>19540410</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Sull&#39;assicurazione invalidità, vecchiaia e superstiti, e tubercolosi, in favore dei coltivatori diretti</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1876</literal></binding>
+   <binding name="date"><literal>19950113</literal></binding>
+   <binding name="title"><literal>PILO ed altri: Norme concernente il Teatro lirico &quot;Giovanni Pierluigi da Palestrina&quot; di Cagliari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1000</literal></binding>
+   <binding name="date"><literal>19940721</literal></binding>
+   <binding name="title"><literal>DI LUCA ed altri: Norme per l&#39;utilizzazione di finanziamenti privati nella realizzazione e nel risanamento di opere di pubblica utilità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1147</literal></binding>
+   <binding name="date"><literal>19940804</literal></binding>
+   <binding name="title"><literal>NUVOLI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modificazioni allo Statuto speciale della regione Sardegna per introdurre il sistema maggioritario uninominale ad un turno per l&#39;elezione del consiglio regionale, l&#39;elezione diretta del presidente della regione e per ridurre il numero dei consiglieri regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1186</literal></binding>
+   <binding name="date"><literal>19940906</literal></binding>
+   <binding name="title"><literal>CALDERISI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche agli articoli 56 e 57 della Costituzione per la riduzione del numero dei deputati e dei senatori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1313</literal></binding>
+   <binding name="date"><literal>19940926</literal></binding>
+   <binding name="title"><literal>TARADASH ed altri: Nuovo ordinamento della professione giornalistica e istituzione della carta di identità professionale del giornalista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1380</literal></binding>
+   <binding name="date"><literal>19941004</literal></binding>
+   <binding name="title"><literal>GUBETTI ed altri: Norme per la riorganizzazione dell&#39;assistenza psichiatrica e per la tutela dei malati di mente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1436</literal></binding>
+   <binding name="date"><literal>19941012</literal></binding>
+   <binding name="title"><literal>VITO ed altri: Norme per la costituzione delle autorità metropolitane, di cui alla legge 8 giugno 1990, n. 142</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1615</literal></binding>
+   <binding name="date"><literal>19941114</literal></binding>
+   <binding name="title"><literal>DI LUCA ed altri: Norme in materia di sicurezza degli impianti a gas</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2751</literal></binding>
+   <binding name="date"><literal>19950622</literal></binding>
+   <binding name="title"><literal>PERALE ed altri: Norme per il potenziamento dell&#39;amministrazione giudiziaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2887</literal></binding>
+   <binding name="date"><literal>19950714</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Proroga dei termini previsti dal decreto-legge 27 agosto 1993, n. 323, convertito, con modificazioni, dalla legge 25 ottobre 1993, n. 422, in materia di trasmissioni televisive codificate via etere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>679</literal></binding>
+   <binding name="date"><literal>19940610</literal></binding>
+   <binding name="title"><literal>DELLA VALLE ed altri: Istituzione di una commissione parlamentare d&#39;inchiesta sul fenomeno della mafia e sulle altre associazioni criminali e similari</literal></binding>
+  </result>
+ </results>
+</sparql>

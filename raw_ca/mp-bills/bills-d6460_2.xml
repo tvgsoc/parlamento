@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2599</literal></binding>
+   <binding name="date"><literal>19561206</literal></binding>
+   <binding name="title"><literal>ANGELUCCI ed altri: Istituzione della provincia di Cassino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2009</literal></binding>
+   <binding name="date"><literal>19560124</literal></binding>
+   <binding name="title"><literal>ANGELUCCI e PENAZZATO: Modificazioni all&#39;articolo 3 del decreto legislativo del Capo provvisorio dello Stato 9 novembre 1947, n. 1363: Passaggio in ruolo degli agenti ferrotramvieri con le qualifiche di guardiano, scritturale, dattilografo e fattorino di ufficio e degli agenti dei servizi di navigazione aventi qualifiche assimilate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1514</literal></binding>
+   <binding name="date"><literal>19550308</literal></binding>
+   <binding name="title"><literal>FODERARO ed altri: Istituzione del Fondo di solidarietà per le vittime della circolazione di veicoli a motore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19560420</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Provvedimenti a favore dei menomati negli arti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2205</literal></binding>
+   <binding name="date"><literal>19560420</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Provvedimenti diretti ad agevolare i finanziamenti occorrenti all&#39;Istituto nazionale per il finanziamento alla ricostruzione per lo svolgimento della sua attività, a favore della ricostruzione delle abitazioni distrutte a causa di eventi bellici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2714</literal></binding>
+   <binding name="date"><literal>19570214</literal></binding>
+   <binding name="title"><literal>FODERARO ed altri: Norme per il riscatto del servizio prestato alle dipendenze del disciolto Ufficio nazionale statistico economico dell&#39;agricoltura (U.N.S.E.A.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>311</literal></binding>
+   <binding name="date"><literal>19531028</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Provvedimenti diretti ad agevolare i finanziamenti occorrenti alla seconda giunta del C.A.S.A.S. per lo svolgimento della sua attività, a favore della ricostruzione delle abitazioni distrutte a causa di eventi bellici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3324</literal></binding>
+   <binding name="date"><literal>19571127</literal></binding>
+   <binding name="title"><literal>VISCHIA ed altri: Conferimento dei posti del ruolo in soprannumero vacanti all&#39;inizio degli anni scolastici 1958-59 e 1959-60</literal></binding>
+  </result>
+ </results>
+</sparql>

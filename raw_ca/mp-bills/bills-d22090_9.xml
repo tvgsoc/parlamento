@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>232</literal></binding>
+   <binding name="date"><literal>19830721</literal></binding>
+   <binding name="title"><literal>SUSI ed altri: Istituzione di un nuovo compartimento delle ferrovie dello Stato avente sede a Pescara ed uffici a Sulmona</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>143</literal></binding>
+   <binding name="date"><literal>19830714</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Revisione della normativa del reato di diffamazione col mezzo della stampa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>173</literal></binding>
+   <binding name="date"><literal>19830714</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Modifiche alla legge 22 aprile 1982, n. 168, concernente misure fiscali per lo sviluppo dell&#39;edilizia abitativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>193</literal></binding>
+   <binding name="date"><literal>19830719</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Norme per prevenire e combattere il randagismo dei cani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>229</literal></binding>
+   <binding name="date"><literal>19830720</literal></binding>
+   <binding name="title"><literal>SPINI ed altri: Nuova disciplina del trasferimento di uso di aree demaniali a fini pubblici e sociali e norme per la programmazione delle costruzioni militari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>76</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>FELISETTI ed altri: Modifiche degli articoli 55 e 56 del codice di procedura civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>93</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>QUIETI ed altri: Integrazioni alla legge 23 dicembre 1980, n. 930, concernente norme sui servizi antincendi negli aeroporti e sui servizi di supporto tecnico ed amministrativo-contabile del Corpo nazionale dei vigili del fuoco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>145</literal></binding>
+   <binding name="date"><literal>19830714</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Norme per la regolamentazione e l&#39;organizzazione del servizio di pubblico trasporto di persone con autovetture</literal></binding>
+  </result>
+ </results>
+</sparql>

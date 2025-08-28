@@ -1,0 +1,71 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1992</literal></binding>
+   <binding name="date"><literal>19510612</literal></binding>
+   <binding name="title"><literal>BERNIERI ed altri: Modifiche ad alcune disposizioni in materia di assicurazione facoltativa per pensioni di invalidità e vecchiaia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2294</literal></binding>
+   <binding name="date"><literal>19511112</literal></binding>
+   <binding name="title"><literal>BERNIERI e BOTTAI: Proroga delle agevolazioni concernenti la zona industriale di Apuania</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>737</literal></binding>
+   <binding name="date"><literal>19490727</literal></binding>
+   <binding name="title"><literal>BERNIERI e BALDASSARI: Aggregazione della frazione di Terrarossa al Comune di Aulla in provincia di Massa Carrara</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1988</literal></binding>
+   <binding name="date"><literal>19510612</literal></binding>
+   <binding name="title"><literal>SANNICOLÒ ed altri: Costituzione di una Commissione parlamentare per una inchiesta su l&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1989</literal></binding>
+   <binding name="date"><literal>19510612</literal></binding>
+   <binding name="title"><literal>BUZZELLI ed altri: Provvedimenti per l&#39;assicurazione facoltativa di malattia per i piccoli produttori e commercianti presso l&#39;Istituto Nazionale per l&#39;Assicurazione contro le malattie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1990</literal></binding>
+   <binding name="date"><literal>19510612</literal></binding>
+   <binding name="title"><literal>PIERACCINI ed altri: Modificazioni al decreto legislativo del Capo provvisorio dello Stato 15 dicembre 1947, n. 1418, concernente la istituzione, presso l&#39;Istituto di credito della Cassa di risparmio italiana, di una Cassa per il credito alle imprese artigiane
+</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1991</literal></binding>
+   <binding name="date"><literal>19510612</literal></binding>
+   <binding name="title"><literal>CAVALLARI ed altri: Esenzioni in materia d&#39;imposta generale sull&#39;entrata per le prestazioni artigiane al dettaglio costituite da prevalente impiego di mano d&#39;opera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1993</literal></binding>
+   <binding name="date"><literal>19510612</literal></binding>
+   <binding name="title"><literal>LIZZADRI ed altri: Assunzione a carico di apposita gestione del Fondo per l&#39;addestramento professionale dei lavoratori, di parte dei contributi previdenziali gravanti sugli apprendisti dell&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1994</literal></binding>
+   <binding name="date"><literal>19510612</literal></binding>
+   <binding name="title"><literal>PIERACCINI ed altri: Esenzione temporanea dall&#39;imposta di ricchezza mobile di alcune attività artigianali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>859</literal></binding>
+   <binding name="date"><literal>19491027</literal></binding>
+   <binding name="title"><literal>PESSI ed altri: Inchiesta parlamentare sulle cause che determinano la crisi dell&#39;energia elettrica in Italia</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1183</literal></binding>
+   <binding name="date"><literal>19500323</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Disposizione relative alla cinematografia per ragazzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19500722</literal></binding>
+   <binding name="title"><literal>DONATINI ed altri: Provvidenze per la fabbriceria di Santa Maria del Fiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>42</literal></binding>
+   <binding name="date"><literal>19480707</literal></binding>
+   <binding name="title"><literal>PASTORE ed altri: Concessione di una pensione straordinaria alla vedova dell&#39;onorevole Achille Grandi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>735</literal></binding>
+   <binding name="date"><literal>19490727</literal></binding>
+   <binding name="title"><literal>DIECIDUE ed altri: Provvedimenti a favore dei vincitori dei concorsi nelle Amministrazioni dello Stato che, per motivi politici, non conseguirono la nomina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>736</literal></binding>
+   <binding name="date"><literal>19490727</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Tasse universitarie</literal></binding>
+  </result>
+ </results>
+</sparql>

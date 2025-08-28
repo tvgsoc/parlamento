@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2832</literal></binding>
+   <binding name="date"><literal>19651209</literal></binding>
+   <binding name="title"><literal>BARZINI: Disposizioni su gli atti di donazione in materia di antichità e belle arti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2892</literal></binding>
+   <binding name="date"><literal>19651218</literal></binding>
+   <binding name="title"><literal>COTTONE ed altri: Disciplina urbanistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2974</literal></binding>
+   <binding name="date"><literal>19660210</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Modificazioni ed aggiunte agli articoli da 114 a 133 (Parte II, Titolo V) della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3040</literal></binding>
+   <binding name="date"><literal>19660325</literal></binding>
+   <binding name="title"><literal>MALAGODI ed altri: Istituzione di una Commissione d&#39;inchiesta parlamentare sull&#39;attività e sul funzionamento dell&#39;Istituto nazionale della previdenza sociale (I.N.P.S.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3194</literal></binding>
+   <binding name="date"><literal>19660526</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Inchiesta Parlamentare sui compiti e le finanze dei Comuni e delle Provincie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3922</literal></binding>
+   <binding name="date"><literal>19670317</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Modificazioni all&#39;istituto dell&#39;immunità parlamentare previsto dall&#39;articolo 68 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4373</literal></binding>
+   <binding name="date"><literal>19670920</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Modifica delle pene previste dal Codice penale per i reati di cui agli articoli: 630 (sequestro di persona a scopo di rapina o di estorsione); 378 (favoreggiamento personale); 379 (favoreggiamento reale); 582 (lesioni personali) e 590 (lesioni colpose)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4406</literal></binding>
+   <binding name="date"><literal>19671003</literal></binding>
+   <binding name="title"><literal>MALAGODI ed altri: Celebrazione del centenario del 20 settembre 1870 e riconoscimento del 20 settembre come solennità civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4461</literal></binding>
+   <binding name="date"><literal>19671013</literal></binding>
+   <binding name="title"><literal>BIGNARDI ed altri: Ordinamento delle radiotrasmissioni circolari e concessione del servizio alla Rai-Radiotelevisione italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>161</literal></binding>
+   <binding name="date"><literal>19630627</literal></binding>
+   <binding name="title"><literal>DURAND DE LA PENNE ed altri: Assegno annuale agli ex-combattenti della guerra 1915-18</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>595</literal></binding>
+   <binding name="date"><literal>19631016</literal></binding>
+   <binding name="title"><literal>COCCO ORTU ed altri: Inchiesta parlamentare sul sinistro del Vajont</literal></binding>
+  </result>
+ </results>
+</sparql>

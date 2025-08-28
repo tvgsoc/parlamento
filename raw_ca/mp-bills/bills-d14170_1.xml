@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1535</literal></binding>
+   <binding name="date"><literal>19500925</literal></binding>
+   <binding name="title"><literal>DIECIDUE e CIMENTI: Modificazioni alla legge 21 giugno 1928, n. 1588, ed alla legge 2 luglio 1929, n. 1151, contenenti &quot;Provvedimenti per le stazioni di cura, soggiorno e turismo&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>735</literal></binding>
+   <binding name="date"><literal>19490727</literal></binding>
+   <binding name="title"><literal>DIECIDUE ed altri: Provvedimenti a favore dei vincitori dei concorsi nelle Amministrazioni dello Stato che, per motivi politici, non conseguirono la nomina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1440</literal></binding>
+   <binding name="date"><literal>19500711</literal></binding>
+   <binding name="title"><literal>AMBRICO ed altri: Modifica dello stato giuridico ed economico del personale amministrativo degli istituti tecnici e delle scuole di istruzione media tecnica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19500722</literal></binding>
+   <binding name="title"><literal>DONATINI ed altri: Provvidenze per la fabbriceria di Santa Maria del Fiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1779</literal></binding>
+   <binding name="date"><literal>19510125</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Collocamento a riposo del personale direttivo e insegnante degli Istituti secondari di ogni ordine e grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1995</literal></binding>
+   <binding name="date"><literal>19510612</literal></binding>
+   <binding name="title"><literal>DAMI ed altri: Autorizzazione di spesa per la costruzione dell&#39;autostrada Porrettana (Signorino-Spedaletto)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2405</literal></binding>
+   <binding name="date"><literal>19511211</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Norme integrative della legge 3 agosto 1949, n. 589, sulla esecuzione di opere pubbliche di interesse degli Enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2411</literal></binding>
+   <binding name="date"><literal>19511213</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Disposizioni integrative dell&#39;articolo 36 della legge 25 giugno 1949, n. 409, per agevolare la ricostruzione delle abitazioni distrutte dagli eventi bellici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3112</literal></binding>
+   <binding name="date"><literal>19521223</literal></binding>
+   <binding name="title"><literal>LONGHENA ed altri: Applicazione in favore dell&#39;Associazione italiana della Croce Rossa di un contributo sui premi di alcune assicurazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>580</literal></binding>
+   <binding name="date"><literal>19490525</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Collocamento a riposo del personale direttivo e insegnante degli istituti secondari</literal></binding>
+  </result>
+ </results>
+</sparql>

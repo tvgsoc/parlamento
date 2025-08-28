@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1194</literal></binding>
+   <binding name="date"><literal>19791220</literal></binding>
+   <binding name="title"><literal>COMPAGNA: Estensione alle aziende fino a 15 dipendenti della facoltà di assunzione nominativa prevista dalla legge 29 aprile 1949, n. 264</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1346</literal></binding>
+   <binding name="date"><literal>19800123</literal></binding>
+   <binding name="title"><literal>FRASNELLI ed altri: Norme per la protezione della fascia di ozono nella stratosfera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>712</literal></binding>
+   <binding name="date"><literal>19791011</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Concessione di un contributo annuale al Servizio sociale internazionale - Sezione italiana - con sede in Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>909</literal></binding>
+   <binding name="date"><literal>19791108</literal></binding>
+   <binding name="title"><literal>SALVI ed altri: Concessione di un contributo annuo statale a favore della Maison de l&#39;Italie della città universitaria di Parigi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1117</literal></binding>
+   <binding name="date"><literal>19791207</literal></binding>
+   <binding name="title"><literal>MAMMÌ ed altri: Nuovo ordinamento della scuola secondaria superiore</literal></binding>
+  </result>
+ </results>
+</sparql>

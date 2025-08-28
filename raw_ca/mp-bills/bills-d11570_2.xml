@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1036</literal></binding>
+   <binding name="date"><literal>19540715</literal></binding>
+   <binding name="title"><literal>AIMI ed altri: Provvidenze a favore delle zone colpite dal nubifragio del 15 e 16 giugno 1954 in provincia di Parma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1350</literal></binding>
+   <binding name="date"><literal>19541217</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Costruzione di case da cedere in proprietà agli impiegati dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1552</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>SAVIO ed altri: Provvedimenti a favore della scuola elementare in montagna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2307</literal></binding>
+   <binding name="date"><literal>19560615</literal></binding>
+   <binding name="title"><literal>MARENGHI ed altri: Estensione delle disposizioni della legge 9 gennaio 1956, n. 26, per quanto concerne l&#39;ammasso volontario, anche ai formaggi ed al burro di produzione 1956</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2697</literal></binding>
+   <binding name="date"><literal>19570201</literal></binding>
+   <binding name="title"><literal>CHIARINI ed altri: Interpretazione autentica dell&#39;articolo 8 della legge 7 gennaio 1949, n. 1</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3597</literal></binding>
+   <binding name="date"><literal>19580225</literal></binding>
+   <binding name="title"><literal>MARENGHI ed altri: Norme relative al potenziamento ed alla difesa della produzione zootecnica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>375</literal></binding>
+   <binding name="date"><literal>19531118</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Provvidenze a favore della produzione della canapa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>759</literal></binding>
+   <binding name="date"><literal>19540402</literal></binding>
+   <binding name="title"><literal>GORINI ed altri: Norme integrative per la bonifica delle Valli di Comacchio e degli altri territori vallivi del Delta Padano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2718</literal></binding>
+   <binding name="date"><literal>19570215</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Norme in materia dei fitti in canapa</literal></binding>
+  </result>
+ </results>
+</sparql>

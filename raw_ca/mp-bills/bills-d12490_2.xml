@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1190</literal></binding>
+   <binding name="date"><literal>19541026</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Carriera e trattamento economico del personale direttivo e insegnante delle scuole e degli istituti di istruzione secondaria di ogni ordine e grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1414</literal></binding>
+   <binding name="date"><literal>19550127</literal></binding>
+   <binding name="title"><literal>CAPPUGI ed altri: Provvedimenti perequativi in favore dei mutilati ed invalidi per servizio titolari di pensioni od assegni privilegiati ordinari, di pensioni speciali od eccezionali e loro congiunti in caso di morte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2697</literal></binding>
+   <binding name="date"><literal>19570201</literal></binding>
+   <binding name="title"><literal>CHIARINI ed altri: Interpretazione autentica dell&#39;articolo 8 della legge 7 gennaio 1949, n. 1</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3174</literal></binding>
+   <binding name="date"><literal>19570919</literal></binding>
+   <binding name="title"><literal>ROSELLI ed altri: Ordinamento degli Istituti zooprofilattici sperimentali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3266</literal></binding>
+   <binding name="date"><literal>19571030</literal></binding>
+   <binding name="title"><literal>GENNAI TONIETTI ed altri: Modificazione dell&#39;articolo 3 della legge 8 luglio 1957, n. 579, sulle anticipazioni delle rette di spedalità ai nosocomi della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3324</literal></binding>
+   <binding name="date"><literal>19571127</literal></binding>
+   <binding name="title"><literal>VISCHIA ed altri: Conferimento dei posti del ruolo in soprannumero vacanti all&#39;inizio degli anni scolastici 1958-59 e 1959-60</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3455</literal></binding>
+   <binding name="date"><literal>19580123</literal></binding>
+   <binding name="title"><literal>DEGLI OCCHI ed altri: Modificazione delle norme vigenti in materia di epurazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1898</literal></binding>
+   <binding name="date"><literal>19551125</literal></binding>
+   <binding name="title"><literal>CAIATI ed altri: Proroga e modificazione della legge 4 marzo 1952, n. 137, per l&#39;assistenza a favore dei profughi</literal></binding>
+  </result>
+ </results>
+</sparql>

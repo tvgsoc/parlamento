@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4610</literal></binding>
+   <binding name="date"><literal>19900222</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche alla legge 2 febbraio 1973, n. 12, in materia di riordinamento del trattamento pensionistico a favore degli agenti dei rappresentanti di commercio erogato dall&#39;Ente nazionale di assistenza per gli agenti e rappresentanti di commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4976</literal></binding>
+   <binding name="date"><literal>19900718</literal></binding>
+   <binding name="title"><literal>GALLONI ed altri: Norme per garantire l&#39;applicazione dell&#39;articolo 49 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5440</literal></binding>
+   <binding name="date"><literal>19910207</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Linee di indirizzo per una politica per la famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1545</literal></binding>
+   <binding name="date"><literal>19870924</literal></binding>
+   <binding name="title"><literal>CASATI ed altri: Nuove norme sull&#39;ordinamento della professione di ragioniere commercialista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1566</literal></binding>
+   <binding name="date"><literal>19870930</literal></binding>
+   <binding name="title"><literal>VOLPONI ed altri: Aspettative, permessi e indennità dei componenti del comitato di gestione delle unità sanitaria locali e degli organi esecutivi dei consorzi tra enti locali e loro aziende</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1735</literal></binding>
+   <binding name="date"><literal>19871021</literal></binding>
+   <binding name="title"><literal>GARAVAGLIA ed altri: Norme concernenti la pubblicità informativa dei prodotti da fumo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>653</literal></binding>
+   <binding name="date"><literal>19870708</literal></binding>
+   <binding name="title"><literal>SILVESTRI ed altri: Riduzione dell&#39;aliquota dell&#39;imposta sul valore aggiunto applicata alle calzature</literal></binding>
+  </result>
+ </results>
+</sparql>

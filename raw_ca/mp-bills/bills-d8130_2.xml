@@ -1,0 +1,94 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1729</literal></binding>
+   <binding name="date"><literal>19550720</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifica dell&#39;articolo 121 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2221</literal></binding>
+   <binding name="date"><literal>19560502</literal></binding>
+   <binding name="title"><literal>FERRARI e DUGONI: Modificazione del primo comma dell&#39;articolo 52 della legge 27 dicembre 1953, n. 968</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2667</literal></binding>
+   <binding name="date"><literal>19570117</literal></binding>
+   <binding name="title"><literal>FERRARI e DUGONI: Istituzione della zona industriale e portuale nel comune di Mantova</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3444</literal></binding>
+   <binding name="date"><literal>19580121</literal></binding>
+   <binding name="title"><literal>FERRARI: Estensione alle società e imprese di lavori agricoli per conto di terzi delle agevolazioni concesse con l&#39;articolo 5 della legge 25 luglio 1952, n. 949</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1208</literal></binding>
+   <binding name="date"><literal>19541029</literal></binding>
+   <binding name="title"><literal>CREMASCHI ed altri: Modifica dell&#39;articolo 73 della legge 10 agosto 1950, n. 648</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1730</literal></binding>
+   <binding name="date"><literal>19550720</literal></binding>
+   <binding name="title"><literal>PIGNI ed altri: Modifica del decreto legislativo del Capo provvisorio dello Stato 27 dicembre 1946, n. 469, concernente provvedimenti in materia di imposta generale sull&#39;entrata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1953</literal></binding>
+   <binding name="date"><literal>19551215</literal></binding>
+   <binding name="title"><literal>NENNI ed altri: Abrogazione dell&#39;articolo 31 del testo unico 5 aprile 1951, n. 203, e delle norme ad esso correlative sul collegamento delle liste e sul premio di maggioranza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2572</literal></binding>
+   <binding name="date"><literal>19561127</literal></binding>
+   <binding name="title"><literal>PIERACCINI ed altri: Inchiesta parlamentare sulle condizioni della produzione dello zucchero in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2604</literal></binding>
+   <binding name="date"><literal>19561207</literal></binding>
+   <binding name="title"><literal>BETTOLI ed altri: Istituzione della provincia di Pordenone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2675</literal></binding>
+   <binding name="date"><literal>19580124</literal></binding>
+   <binding name="title"><literal>GRILLI ed altri: Riforma dell&#39;Istituto cotoniero italiano e sviluppo dell&#39;industria cotoniera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2957</literal></binding>
+   <binding name="date"><literal>19570611</literal></binding>
+   <binding name="title"><literal>RICCA ed altri: Modificazioni alla legge 5 febbraio 1934, n. 327, e al regio decreto 29 dicembre 1939, n. 2255, per l&#39;estensione dell&#39;esercizio della vendita al pubblico in forma ambulante agli Enti comunali di consumo ed alle cooperative e loro Consorzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3239</literal></binding>
+   <binding name="date"><literal>19571021</literal></binding>
+   <binding name="title"><literal>JACOMETTI ed altri: Modifiche ad alcune norme del regio decreto 18 giugno 1931, n. 773, che approva il testo unico delle leggi di pubblica sicurezza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3409</literal></binding>
+   <binding name="date"><literal>19571220</literal></binding>
+   <binding name="title"><literal>GELMINI ed altri: Modifiche alla legge 29 dicembre 1956, n. 1533, per l&#39;assicurazione obbligatoria contro le malattie per gli artigiani</literal></binding>
+  </result>
+ </results>
+</sparql>

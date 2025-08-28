@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6223</literal></binding>
+   <binding name="date"><literal>19911220</literal></binding>
+   <binding name="title"><literal>FARIGU ed altri: Istituzione di contributi per le associazioni di promozione sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6320</literal></binding>
+   <binding name="date"><literal>19920122</literal></binding>
+   <binding name="title"><literal>FARIGU e COLUCCI: Provvidenze in favore dei lavoratori sordomuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6005</literal></binding>
+   <binding name="date"><literal>19911007</literal></binding>
+   <binding name="title"><literal>PIRO ed altri: Inopponibilità del segreto bancario e nuove norme per la gestione e la raccolta di informazioni economico-patrimoniali già tenute presso enti pubblici o privati e per facilitare lo scambio di informazioni fra le &quot;basi dati&quot;, al fine di contrastare l&#39;espandersi della criminalità organizzata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6109</literal></binding>
+   <binding name="date"><literal>19911119</literal></binding>
+   <binding name="title"><literal>ARTIOLI ed altri: Nuove norme in materia di interventi a favore dei ciechi, dei sordi e dei minori figli naturali riconosciuti dalla sola madre</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6214</literal></binding>
+   <binding name="date"><literal>19911218</literal></binding>
+   <binding name="title"><literal>SALADINO ed altri: Norme di favore per il pensionamento dei sordomuti</literal></binding>
+  </result>
+ </results>
+</sparql>

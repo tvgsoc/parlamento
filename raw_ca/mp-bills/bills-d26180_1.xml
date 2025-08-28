@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1076</literal></binding>
+   <binding name="date"><literal>19500207</literal></binding>
+   <binding name="title"><literal>CHIOSTERGI ed altri: Concessione di una pensione straordinaria alla vedova del musicista Ferruccio Busoni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>139</literal></binding>
+   <binding name="date"><literal>19481015</literal></binding>
+   <binding name="title"><literal>CAPALOZZA ed altri: Delega al Presidente della Repubblica per concedere amnistia ed indulto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1566</literal></binding>
+   <binding name="date"><literal>19501005</literal></binding>
+   <binding name="title"><literal>CUTTITTA ed altri: Trattamento di quiescenza e indennità di liquidazione a favore dei sottufficiali e dei militari di truppa dell&#39;Arma dei carabinieri richiamati o trattenuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1877</literal></binding>
+   <binding name="date"><literal>19510302</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Concessione speciale ferroviaria in occasione di nozze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>230</literal></binding>
+   <binding name="date"><literal>19481216</literal></binding>
+   <binding name="title"><literal>SILIPO ed altri: Modificazioni al decreto legislativo del Capo provvisorio dello Stato 24 gennaio 1947, n. 457, per il riordinamento dei Patronati scolastici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2643</literal></binding>
+   <binding name="date"><literal>19520403</literal></binding>
+   <binding name="title"><literal>COPPA ed altri: Istituzione di un diritto comunale sui minerali estratti nel comune dell&#39;Isola di Ponza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>889</literal></binding>
+   <binding name="date"><literal>19491114</literal></binding>
+   <binding name="title"><literal>FABRIANI ed altri: Efficacia delle norme del decreto-legge luogotenenziale 20 marzo 1945, n. 212, sugli atti privati non registrati, di cui al regio decreto-legge 27 settembre 1941, n. 1015</literal></binding>
+  </result>
+ </results>
+</sparql>

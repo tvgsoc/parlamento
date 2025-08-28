@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>897</literal></binding>
+   <binding name="date"><literal>19491121</literal></binding>
+   <binding name="title"><literal>BOVETTI: Ricostituzione dei comuni di Abbadia Alpina, Cantalupa, Vallo, Roletto e Valgioie, in provincia di Torino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>969</literal></binding>
+   <binding name="date"><literal>19491203</literal></binding>
+   <binding name="title"><literal>BOVETTI: Ricostituzione del comune di Revigliasco, in provincia di Torino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2484</literal></binding>
+   <binding name="date"><literal>19520125</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Ampliamento del piano di costruzione di case per lavoratori I.N.A.-Casa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2936</literal></binding>
+   <binding name="date"><literal>19521010</literal></binding>
+   <binding name="title"><literal>VOCINO ed altri: Riordinamento degli organici del personale amministrativo del Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>699</literal></binding>
+   <binding name="date"><literal>19490716</literal></binding>
+   <binding name="title"><literal>LUCIFREDI ed altri: Proroga del termine per l&#39;effettuazione delle elezioni dei Consigli regionali e degli organi elettivi delle amministrazioni provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>971</literal></binding>
+   <binding name="date"><literal>19491213</literal></binding>
+   <binding name="title"><literal>ZERBI ed altri: Posizione militare dei giovani delle classi 1923, 1924, 1925</literal></binding>
+  </result>
+ </results>
+</sparql>

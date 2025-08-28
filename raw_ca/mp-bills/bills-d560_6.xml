@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1432</literal></binding>
+   <binding name="date"><literal>19721221</literal></binding>
+   <binding name="title"><literal>MASCHIELLA ed altri: Provvedimenti urgenti per il risanamento e consolidamento del colle di Todi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>184</literal></binding>
+   <binding name="date"><literal>19720530</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Disciplina degli enti di gestione delle partecipazioni statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3547</literal></binding>
+   <binding name="date"><literal>19750306</literal></binding>
+   <binding name="title"><literal>GIANNINI ed altri: Finanziamenti e norme per lo sviluppo dell&#39;irrigazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4452</literal></binding>
+   <binding name="date"><literal>19760414</literal></binding>
+   <binding name="title"><literal>COCCIA ed altri: Norme di coordinamento tra la legge 11 agosto 1973, n. 533, e la procedura di cui all&#39;articolo 28 della legge 20 maggio 1970, n. 300</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>467</literal></binding>
+   <binding name="date"><literal>19720628</literal></binding>
+   <binding name="title"><literal>MACALUSO ed altri: Trasformazione dei contratti di mezzadria, di colonia ed altri in contratto di affitto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1487</literal></binding>
+   <binding name="date"><literal>19730117</literal></binding>
+   <binding name="title"><literal>BONIFAZI ed altri: Scioglimento degli Enti di sviluppo agricolo</literal></binding>
+  </result>
+ </results>
+</sparql>

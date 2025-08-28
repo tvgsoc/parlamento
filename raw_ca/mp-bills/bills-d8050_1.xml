@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>533</literal></binding>
+   <binding name="date"><literal>19490509</literal></binding>
+   <binding name="title"><literal>FAILLA ed altri: Norme per la produzione, il trattamento e la vendita dei distillati asfaltici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>34</literal></binding>
+   <binding name="date"><literal>19480625</literal></binding>
+   <binding name="title"><literal>MARCHESI ed altri: Nomina di una Commissione di inchiesta parlamentare sulle condizioni delle scuole e degli istituti privati di istruzione media legalmente riconosciuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>98</literal></binding>
+   <binding name="date"><literal>19480914</literal></binding>
+   <binding name="title"><literal>BERTI ed altri: Costituzione di una Commissione d&#39;inchiesta sulla situazione dell&#39;ordine pubblico in Sicilia</literal></binding>
+  </result>
+ </results>
+</sparql>

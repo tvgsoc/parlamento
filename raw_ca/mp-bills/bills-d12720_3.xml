@@ -1,0 +1,23 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1384</literal></binding>
+   <binding name="date"><literal>19590630</literal></binding>
+   <binding name="title"><literal>LAURO ed altri: Provvedimenti straordinari per lo sviluppo economico e sociale della città di Napoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6</literal></binding>
+   <binding name="date"><literal>19580612</literal></binding>
+   <binding name="title"><literal>LAURO ed altri: Trattamento economico-giuridico dei sottufficiali dell&#39;Esercito, della Marina, dell&#39;Aeronautica e dei Corpi della Guardia di finanza, della Pubblica sicurezza, degli Agenti di custodia e del Corpo forestale dello Stato
+</literal></binding>
+  </result>
+ </results>
+</sparql>

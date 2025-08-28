@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>21</literal></binding>
+   <binding name="date"><literal>19480614</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Proroga della validità del decreto legislativo del Capo provvisorio dello Stato 1° aprile 1947, n. 273, riguardante la proroga dei contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2850</literal></binding>
+   <binding name="date"><literal>19520717</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Protezione sociale dei lavoratori scarsamente occupati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3188</literal></binding>
+   <binding name="date"><literal>19530211</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Abolizione dell&#39;imposta di consumo sui vini comuni</literal></binding>
+  </result>
+ </results>
+</sparql>

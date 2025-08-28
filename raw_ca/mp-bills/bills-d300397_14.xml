@@ -1,0 +1,16 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1182</literal></binding>
+   <binding name="date"><literal>20010705</literal></binding>
+   <binding name="title"><literal>BECCALOSSI e SAGLIA: &quot;Disposizioni in materia di specie cacciabili e di vigilanza venatoria &quot; (1182)</literal></binding>
+  </result>
+ </results>
+</sparql>

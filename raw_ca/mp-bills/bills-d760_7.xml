@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1698</literal></binding>
+   <binding name="date"><literal>19770802</literal></binding>
+   <binding name="title"><literal>CONTI ed altri: Emolumenti percepiti a tutto il 31 dicembre 1975 da pubblici amministratori per l&#39;espletamento delle loro funzioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>252</literal></binding>
+   <binding name="date"><literal>19760805</literal></binding>
+   <binding name="title"><literal>BALDASSI ed altri: Scioglimento dell&#39;Ente autonomo di gestione delle aziende termali (EAGAT)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2687</literal></binding>
+   <binding name="date"><literal>19790131</literal></binding>
+   <binding name="title"><literal>CRAVEDI ed altri: Trasferimento d&#39;uso di aree demaniali a fini pubblici e sociali e norme in materia di costruzioni militari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>657</literal></binding>
+   <binding name="date"><literal>19761026</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Istituzione di una commissione intercamerale per le partecipazioni statali e norme per l&#39;esercizio dei poteri di indirizzo e controllo ad essa affidati</literal></binding>
+  </result>
+ </results>
+</sparql>

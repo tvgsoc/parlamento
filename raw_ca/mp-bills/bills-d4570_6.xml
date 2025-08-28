@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1433</literal></binding>
+   <binding name="date"><literal>19721221</literal></binding>
+   <binding name="title"><literal>BOTTA ed altri: Modifica degli articoli 1 e 4 del regio decreto 11 febbraio 1929, n. 274, concernente l&#39;ordinamento professionale dei geometri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1434</literal></binding>
+   <binding name="date"><literal>19721221</literal></binding>
+   <binding name="title"><literal>BOTTA ed altri: Modifica degli articoli 16, 17, 18, 19 e 20 del regio decreto 11 febbraio 1929, n. 274, concernente l&#39;ordinamento professionale dei geometri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2186</literal></binding>
+   <binding name="date"><literal>19730525</literal></binding>
+   <binding name="title"><literal>GASCO ed altri: Disposizioni in materia di assistenza di malattia ai mutilati ed invalidi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2321</literal></binding>
+   <binding name="date"><literal>19730802</literal></binding>
+   <binding name="title"><literal>PICCHIONI ed altri: Nuova norma in tema di incompatibilità e ineleggibilità prevista per gli amministratori regionali, provinciali, comunali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>612</literal></binding>
+   <binding name="date"><literal>19720728</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Proroga dei termini per l&#39;esecuzione delle opere di costruzione del canale Milano-Cremona-Po</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>978</literal></binding>
+   <binding name="date"><literal>19721019</literal></binding>
+   <binding name="title"><literal>ZOLLA ed altri: Trasformazione della scuola triennale a fini speciali di scienze e arti nel campo della stampa del politecnico di Torino in facoltà di arte e scienza della stampa</literal></binding>
+  </result>
+ </results>
+</sparql>

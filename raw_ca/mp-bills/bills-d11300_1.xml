@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>123</literal></binding>
+   <binding name="date"><literal>19481007</literal></binding>
+   <binding name="title"><literal>DE VITA: Soppressione della voce &quot;Vini fini&quot; contenuta nella tariffa massima dell&#39;imposta di consumo sulle bevande, di cui all&#39;articolo 1 del decreto legislativo del Capo provvisorio dello Stato 29 marzo 1947, n. 177</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>49</literal></binding>
+   <binding name="date"><literal>19480713</literal></binding>
+   <binding name="title"><literal>DE VITA: Estensione dell&#39;attività dell&#39;I.N.C.I.S. ai comuni non capoluoghi di provincia con popolazione non inferiore ai 20 mila abitanti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1122</literal></binding>
+   <binding name="date"><literal>19500224</literal></binding>
+   <binding name="title"><literal>LECCISO ed altri: Rinnovazione graduale del patrimonio immobiliare dell&#39;Istituto nazionale per le case degli impiegati dello Stato e degli Istituti similari al fine di incrementare le nuove costruzioni, e disciplina di alcuni rapporti fra gli stessi enti e i loro inquilini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1407</literal></binding>
+   <binding name="date"><literal>19500703</literal></binding>
+   <binding name="title"><literal>ADONNINO ed altri: Per l&#39;elezione dei delegati alla prima sessione dell&#39;Assemblea Costituente Mondiale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1511</literal></binding>
+   <binding name="date"><literal>19500728</literal></binding>
+   <binding name="title"><literal>CARCATERRA ed altri: Istituzione del grado VIII e abolizione del grado XIII nel gruppo C dei dipendenti delle Amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>230</literal></binding>
+   <binding name="date"><literal>19481216</literal></binding>
+   <binding name="title"><literal>SILIPO ed altri: Modificazioni al decreto legislativo del Capo provvisorio dello Stato 24 gennaio 1947, n. 457, per il riordinamento dei Patronati scolastici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2576</literal></binding>
+   <binding name="date"><literal>19520306</literal></binding>
+   <binding name="title"><literal>BELLONI ed altri: Per l&#39;azionariato di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3211</literal></binding>
+   <binding name="date"><literal>19530304</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Norme integrative sulla istituzione dei ruoli speciali transitori nelle Amministrazioni dello Stato</literal></binding>
+  </result>
+ </results>
+</sparql>

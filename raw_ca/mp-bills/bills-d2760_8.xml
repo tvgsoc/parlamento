@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1230</literal></binding>
+   <binding name="date"><literal>19800104</literal></binding>
+   <binding name="title"><literal>GALLONI ed altri: Norme di attuazione degli articoli 65, 67 e 69 della Costituzione in materia di stato giuridico ed economico dei membri del Parlamento e disposizioni sulla pubblicità dei redditi e dei patrimoni di titolari di cariche elettive e di uffici amministrativi e giudiziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1341</literal></binding>
+   <binding name="date"><literal>19800123</literal></binding>
+   <binding name="title"><literal>CIANNAMEA ed altri: Norme per la semplificazione dei controlli, della giurisdizione contabile e dei procedimenti in materia di ricorsi per pensioni civili, militari e di guerra dinanzi la Corte dei conti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1359</literal></binding>
+   <binding name="date"><literal>19800204</literal></binding>
+   <binding name="title"><literal>PICANO ed altri: Istituzione di una Sezione distaccata della Corte di appello di Roma a Frosinone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1590</literal></binding>
+   <binding name="date"><literal>19800402</literal></binding>
+   <binding name="title"><literal>PICANO ed altri: Modifiche al regio decreto 9 luglio 1939, n. 1238, concernente l&#39;ordinamento dello stato civile per quanto concerne le nascite che avvengono negli stabilimenti ospedalieri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2172</literal></binding>
+   <binding name="date"><literal>19801204</literal></binding>
+   <binding name="title"><literal>ZURLO e GALLONI: Norme per il riordino della ricerca e della sperimentazione nel campo della produzione agricolo-alimentare e forestale e della valorizzazione dell&#39;ambiente naturale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2279</literal></binding>
+   <binding name="date"><literal>19810123</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Nuove norme in materia di sequestri giudiziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>234</literal></binding>
+   <binding name="date"><literal>19790629</literal></binding>
+   <binding name="title"><literal>BELUSSI ed altri: Disciplina del trattamento pensionistico in favore dei familiari superstiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>757</literal></binding>
+   <binding name="date"><literal>19791018</literal></binding>
+   <binding name="title"><literal>CARELLI ed altri: Modifica della tabella A allegata al testo unico delle leggi per la elezione della Camera dei deputati approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, concernente le circoscrizioni dei collegi per la elezione della Camera dei deputati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>806</literal></binding>
+   <binding name="date"><literal>19791026</literal></binding>
+   <binding name="title"><literal>CAPPELLI ed altri: Norme a favore dei dipendenti dell&#39;azienda autonoma delle ferrovie dello Stato in servizio dal 10 giugno 1940 all&#39;8 maggio 1945</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>213</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>ZACCAGNINI ed altri: Istituzione dei Comitati consolari elettivi e dei Comitati d&#39;Ambasciata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>361</literal></binding>
+   <binding name="date"><literal>19790717</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Normativa organica per i profughi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>456</literal></binding>
+   <binding name="date"><literal>19790727</literal></binding>
+   <binding name="title"><literal>PAVONE ed altri: Legge-quadro per l&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>496</literal></binding>
+   <binding name="date"><literal>19790802</literal></binding>
+   <binding name="title"><literal>GARAVAGLIA ed altri: Revisione delle norme sull&#39;adozione e l&#39;affidamento familiare</literal></binding>
+  </result>
+ </results>
+</sparql>

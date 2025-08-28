@@ -1,0 +1,16 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4576</literal></binding>
+   <binding name="date"><literal>20170705</literal></binding>
+   <binding name="title"><literal>TINAGLI ed altri: &quot;Disposizioni per la regolamentazione dell&#39;esercizio del diritto di sciopero nel settore dei trasporti pubblici e modifiche all&#39;articolo 20 della legge 20 maggio 1970, n. 300, in materia di assemblee sindacali&quot; (4576)</literal></binding>
+  </result>
+ </results>
+</sparql>

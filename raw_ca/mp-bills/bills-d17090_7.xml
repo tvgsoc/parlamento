@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>626</literal></binding>
+   <binding name="date"><literal>19761019</literal></binding>
+   <binding name="title"><literal>ZUCCALÀ ed altri: Disciplina delle nomine negli enti pubblici economici e nelle società a compartecipazione pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>646</literal></binding>
+   <binding name="date"><literal>19761021</literal></binding>
+   <binding name="title"><literal>BALLARDINI ed altri: Ricorso alla Corte costituzionale da parte di un quinto dei membri di ciascuna Camera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>725</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Riordinamento dei ruoli organici del personale del Ministero dei trasporti - Direzione generale della motorizzazione civile e dei trasporti in concessione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>876</literal></binding>
+   <binding name="date"><literal>19761202</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Norme concernenti il riconoscimento della qualifica di orfano di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>997</literal></binding>
+   <binding name="date"><literal>19770107</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Abrogazione della legge 31 gennaio 1926, n. 108, recante modificazioni ed aggiunte alla legge 13 giugno 1912, n. 555, sulla cittadinanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1154</literal></binding>
+   <binding name="date"><literal>19770216</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sulla illiceità di alcune forme di discriminazione basate sul sesso e sullo stato civile e per la promozione della parità di condizioni tra uomini e donne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1648</literal></binding>
+   <binding name="date"><literal>19770718</literal></binding>
+   <binding name="title"><literal>LAURICELLA ed altri: Norme per l&#39;esercizio del diritto di voto da parte dei cittadini italiani residenti dei Paesi della Comunità economica europea nella consultazione elettorale per la prima elezione a suffragio diretto del Parlamento europeo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>26</literal></binding>
+   <binding name="date"><literal>19760705</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sull&#39;interruzione della gravidanza</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4759</literal></binding>
+   <binding name="date"><literal>19900417</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Contributi alle imprese radiofoniche private che abbiano svolto attività di informazione di interesse generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5085</literal></binding>
+   <binding name="date"><literal>19900924</literal></binding>
+   <binding name="title"><literal>MELLINI ed altri: Modifiche al codice di procedura penale in materia di revisione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5231</literal></binding>
+   <binding name="date"><literal>19901114</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Modifica dell&#39;articolo 94 della Costituzione in materia di dimissioni del Governo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5621</literal></binding>
+   <binding name="date"><literal>19910419</literal></binding>
+   <binding name="title"><literal>FIORI ed altri: Norme per l&#39;aggancio automatico delle pensioni alle retribuzioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5808</literal></binding>
+   <binding name="date"><literal>19910704</literal></binding>
+   <binding name="title"><literal>ANDREANI ed altri: Regolamentazione della digiunoterapia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5964</literal></binding>
+   <binding name="date"><literal>19910920</literal></binding>
+   <binding name="title"><literal>MELLINI ed altri: Modifica alla legge 14 agosto 1991, n. 278, in materia di provvidenze a favore dell&#39;editoria</literal></binding>
+  </result>
+ </results>
+</sparql>

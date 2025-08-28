@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2580</literal></binding>
+   <binding name="date"><literal>19561130</literal></binding>
+   <binding name="title"><literal>ORTONA ed altri: Agevolazioni fiscali a favore delle piccole imprese agricole gravemente danneggiate da avversità atmosferiche tra il 1° aprile 1956 e il 31 marzo 1957</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>812</literal></binding>
+   <binding name="date"><literal>19540412</literal></binding>
+   <binding name="title"><literal>ORTONA ed altri: Regolamentazione dei contratti di lavoro a tempo determinato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1491</literal></binding>
+   <binding name="date"><literal>19550301</literal></binding>
+   <binding name="title"><literal>BALTARO ed altri: Modifica alla lettera a) dell&#39;articolo 2 del decreto presidenziale 29 aprile 1950</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1718</literal></binding>
+   <binding name="date"><literal>19550713</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Modifiche alle disposizioni previste dai titoli primo e secondo della legge 29 aprile 1949, n. 264, concernente provvedimenti in materia di avviamento al lavoro e di assistenza dei lavoratori involontariamente disoccupati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2092</literal></binding>
+   <binding name="date"><literal>19560302</literal></binding>
+   <binding name="title"><literal>BERNIERI ed altri: Modificazione alla classificazione dei comuni ai fini della determinazione del grado dei segretari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3412</literal></binding>
+   <binding name="date"><literal>19571221</literal></binding>
+   <binding name="title"><literal>FLOREANINI DELLA PORTA ed altri: Provvidenze a favore delle mondariso e dei loro figli dai 6 ai 14 anni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>651</literal></binding>
+   <binding name="date"><literal>19540218</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Inquadramento del personale dattilografo e amanuense degli uffici giudiziari nelle categorie del personale civile statale non di ruolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>836</literal></binding>
+   <binding name="date"><literal>19540429</literal></binding>
+   <binding name="title"><literal>BALTARO ed altri: Modificazioni alla legge 24 dicembre 1949, n. 941</literal></binding>
+  </result>
+ </results>
+</sparql>

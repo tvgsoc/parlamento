@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2189</literal></binding>
+   <binding name="date"><literal>19650318</literal></binding>
+   <binding name="title"><literal>ORLANDI e SECRETO: Divieto del tiro a volo a bersagli vivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2255</literal></binding>
+   <binding name="date"><literal>19650409</literal></binding>
+   <binding name="title"><literal>LEVI ARIAN ed altri: Autorizzazione di spesa per la ricostruzione della linea ferroviaria Cuneo-Breil sur Roya-Ventimiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2727</literal></binding>
+   <binding name="date"><literal>19651029</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Contributo annuo dello Stato all&#39;Ente italiano della moda</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3724</literal></binding>
+   <binding name="date"><literal>19670119</literal></binding>
+   <binding name="title"><literal>BORRA ed altri: Deroga all&#39;articolo 12 del decreto legislativo luogotenenziale 21 agosto 1945, n. 518, per la presentazione della proposta di concessione della medaglia d&#39;argento al valor militare al Comune di Cumiana, in provincia di Torino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>601</literal></binding>
+   <binding name="date"><literal>19631016</literal></binding>
+   <binding name="title"><literal>SARAGAT ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sul disastro della diga del Vajont</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>791</literal></binding>
+   <binding name="date"><literal>19631127</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Norme concernenti l&#39;aeroporto di Torino-Caselle</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1236</literal></binding>
+   <binding name="date"><literal>19640416</literal></binding>
+   <binding name="title"><literal>AMADEI ed altri: Riordinamento della legislazione pensionistica di guerra</literal></binding>
+  </result>
+ </results>
+</sparql>

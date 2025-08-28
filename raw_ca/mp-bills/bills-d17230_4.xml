@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>257</literal></binding>
+   <binding name="date"><literal>19630719</literal></binding>
+   <binding name="title"><literal>CAMANGI: Riscatto dei periodi di lavoro fra il 1935 e il 1950 ai fini delle assicurazioni di invalidità e vecchiaia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>258</literal></binding>
+   <binding name="date"><literal>19630719</literal></binding>
+   <binding name="title"><literal>CAMANGI: Provvedimenti a favore del comune di Castel Gandolfo</literal></binding>
+  </result>
+ </results>
+</sparql>

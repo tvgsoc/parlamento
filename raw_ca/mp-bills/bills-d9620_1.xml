@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2678</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>NOCE LONGO ed altri: Applicazione della parità di diritti e della parità delle retribuzioni per un pari lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>32</literal></binding>
+   <binding name="date"><literal>19480614</literal></binding>
+   <binding name="title"><literal>NOCE LONGO ed altri: Per la tutela della maternità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1138</literal></binding>
+   <binding name="date"><literal>19500307</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Regolamentazione del lavoro a domicilio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1668</literal></binding>
+   <binding name="date"><literal>19501123</literal></binding>
+   <binding name="title"><literal>SANSONE e NOCE LONGO: Divieto di licenziamento delle lavoratrici madri, gestanti o puerpere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1831</literal></binding>
+   <binding name="date"><literal>19510216</literal></binding>
+   <binding name="title"><literal>VENEGONI ed altri: Conservazione del posto di lavoro alle lavoratrici madri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2323</literal></binding>
+   <binding name="date"><literal>19511120</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Provvedimenti straordinari a favore dell&#39;Opera Nazionale Maternità e Infanzia per assistere i bambini delle zone alluvionate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2850</literal></binding>
+   <binding name="date"><literal>19520717</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Protezione sociale dei lavoratori scarsamente occupati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3291</literal></binding>
+   <binding name="date"><literal>19530324</literal></binding>
+   <binding name="title"><literal>FLOREANINI DELLA PORTA ed altri: Provvidenze a favore delle mondariso e dei loro bambini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>42</literal></binding>
+   <binding name="date"><literal>19480707</literal></binding>
+   <binding name="title"><literal>PASTORE ed altri: Concessione di una pensione straordinaria alla vedova dell&#39;onorevole Achille Grandi</literal></binding>
+  </result>
+ </results>
+</sparql>

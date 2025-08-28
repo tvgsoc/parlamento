@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>436</literal></binding>
+   <binding name="date"><literal>19490324</literal></binding>
+   <binding name="title"><literal>VIALE e LUCIFREDI: Ricostituzione del comune di Aurigo in provincia di Imperia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>437</literal></binding>
+   <binding name="date"><literal>19490324</literal></binding>
+   <binding name="title"><literal>VIALE e LUCIFREDI: Ricostituzione dei comuni di Gazzelli e di Torria in provincia di Imperia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>530</literal></binding>
+   <binding name="date"><literal>19490506</literal></binding>
+   <binding name="title"><literal>VIALE e LUCIFREDI: Ricostituzione del Comune di Riva Ligure, in provincia di Imperia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1340</literal></binding>
+   <binding name="date"><literal>19500607</literal></binding>
+   <binding name="title"><literal>LUCIFREDI e VIALE: Ricostituzione del comune di Costa Rainera, in provincia di Imperia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>294</literal></binding>
+   <binding name="date"><literal>19490125</literal></binding>
+   <binding name="title"><literal>LUCIFREDI e VIALE: Ricostituzione del comune di Montegrosso Pian Latte, in provincia di Imperia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>446</literal></binding>
+   <binding name="date"><literal>19490326</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: Modifiche agli articoli 35 e 51 del Codice della navigazione</literal></binding>
+  </result>
+ </results>
+</sparql>

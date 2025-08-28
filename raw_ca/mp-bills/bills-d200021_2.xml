@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1261</literal></binding>
+   <binding name="date"><literal>19541123</literal></binding>
+   <binding name="title"><literal>ANDREOTTI: Norme sull&#39;istruzione professionale dei ciechi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1077</literal></binding>
+   <binding name="date"><literal>19540728</literal></binding>
+   <binding name="title"><literal>D&#39;AMBROSIO ed altri: Concessione di una pensione alla signora Vydia Morici, vedova di Giuseppe Donati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1130</literal></binding>
+   <binding name="date"><literal>19540804</literal></binding>
+   <binding name="title"><literal>DIECIDUE ed altri: Provvidenze a favore dell&#39;Opera di Santa Croce in Firenze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1414</literal></binding>
+   <binding name="date"><literal>19550127</literal></binding>
+   <binding name="title"><literal>CAPPUGI ed altri: Provvedimenti perequativi in favore dei mutilati ed invalidi per servizio titolari di pensioni od assegni privilegiati ordinari, di pensioni speciali od eccezionali e loro congiunti in caso di morte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1634</literal></binding>
+   <binding name="date"><literal>19550526</literal></binding>
+   <binding name="title"><literal>GASPARI ed altri: Modifica all&#39;articolo 1 della legge 11 dicembre 1952, n. 2521, concernente autorizzazione all&#39;Amministrazione autonoma delle poste e dei telegrafi ed all&#39;Azienda di Stato per i servizi telefonici a costruire edifici ed alloggi di tipo economico e popolare da concedere in uso al personale dipendente dal Ministero delle poste e delle telecomunicazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>974</literal></binding>
+   <binding name="date"><literal>19540622</literal></binding>
+   <binding name="title"><literal>CAROLEO ed altri: Inclusione della medicina legale e delle assicurazioni fra gl&#39;insegnamenti fondamentali del corso di laurea in giurisprudenza</literal></binding>
+  </result>
+ </results>
+</sparql>

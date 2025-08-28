@@ -1,0 +1,430 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1821</literal></binding>
+   <binding name="date"><literal>19840618</literal></binding>
+   <binding name="title"><literal>CERRINA FERONI ed altri: Misure per favorire la formazione e lo sviluppo di imprese innovative e disciplina delle società finanziarie per l&#39;innovazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2328</literal></binding>
+   <binding name="date"><literal>19841129</literal></binding>
+   <binding name="title"><literal>CERRINA FERONI ed altri: Modificazioni alla disciplina del credito agevolato all&#39;industria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2392</literal></binding>
+   <binding name="date"><literal>19841213</literal></binding>
+   <binding name="title"><literal>CERRINA FERONI ed altri: Misure per la tutela e la promozione del vetro artistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>388</literal></binding>
+   <binding name="date"><literal>19830812</literal></binding>
+   <binding name="title"><literal>CERRINA FERONI ed altri: Nuova disciplina dell&#39;amministrazione straordinaria delle grandi imprese in crisi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3971</literal></binding>
+   <binding name="date"><literal>19860807</literal></binding>
+   <binding name="title"><literal>CERRINA FERONI ed altri: Norme relative agli investimenti esteri in Italia ed italiani all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1652</literal></binding>
+   <binding name="date"><literal>19840504</literal></binding>
+   <binding name="title"><literal>CERRINA FERONI ed altri: Interventi per la riattivazione del bacino carbonifero del Sulcis</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>671</literal></binding>
+   <binding name="date"><literal>19831019</literal></binding>
+   <binding name="title"><literal>CERRINA FERONI ed altri: Istituzione del Servizio cartografico nazionale e dell&#39;Istituto geografico nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1243</literal></binding>
+   <binding name="date"><literal>19840202</literal></binding>
+   <binding name="title"><literal>GRASSUCCI ed altri: Nuova disciplina del contratto di agenzia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1266</literal></binding>
+   <binding name="date"><literal>19840203</literal></binding>
+   <binding name="title"><literal>PASTORE ed altri: Norme relative al contenuto di piombo nella benzina per i motori ad accensione comandata destinati alla propulsione degli autoveicoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1388</literal></binding>
+   <binding name="date"><literal>19840308</literal></binding>
+   <binding name="title"><literal>SANLORENZO ed altri: Norme per l&#39;acquisizione e l&#39;utilizzo dei dati da parte delle regioni per la programmazione democratica dello sviluppo industriale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1568</literal></binding>
+   <binding name="date"><literal>19840412</literal></binding>
+   <binding name="title"><literal>GRASSUCCI ed altri: Istituzione dell&#39;Agenzia per la promozione ed il trasferimento dell&#39;innovazione alle piccole e medie imprese e all&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1873</literal></binding>
+   <binding name="date"><literal>19840705</literal></binding>
+   <binding name="title"><literal>CIOFI DEGLI ATTI ed altri: Riforma dell&#39;ordinamento delle Casse di risparmio e dei Monti di credito</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2115</literal></binding>
+   <binding name="date"><literal>19841003</literal></binding>
+   <binding name="title"><literal>TREBBI ALOARDI ed altri: Disciplina dell&#39;attività di estetica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2170</literal></binding>
+   <binding name="date"><literal>19841018</literal></binding>
+   <binding name="title"><literal>PROVANTINI ed altri: Riorganizzazione dell&#39;amministrazione dei prezzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2201</literal></binding>
+   <binding name="date"><literal>19841024</literal></binding>
+   <binding name="title"><literal>DONAZZON ed altri: Interventi nel settore commerciale al dettaglio e norme quadro per il commercio all&#39;ingrosso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2239</literal></binding>
+   <binding name="date"><literal>19841107</literal></binding>
+   <binding name="title"><literal>SATANASSI ed altri: Autorizzazione alla vendita di benzina miscelata con alcole etilico di origine agricola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2477</literal></binding>
+   <binding name="date"><literal>19850125</literal></binding>
+   <binding name="title"><literal>GRASSUCCI ed altri: Misure per promuovere la ricerca, l&#39;innovazione e lo sviluppo delle produzioni avanzate nell&#39;industria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2602</literal></binding>
+   <binding name="date"><literal>19850228</literal></binding>
+   <binding name="title"><literal>CARDINALE ed altri: Istituzione del fondo speciale rotativo per agevolare la ripresa produttiva di imprese commerciali, artigiane, industriali, turistiche e della pesca distrutte o danneggiate da calamità naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2761</literal></binding>
+   <binding name="date"><literal>19850403</literal></binding>
+   <binding name="title"><literal>GRASSUCCI ed altri: Esproprio, per causa di pubblica utilità, di grotte e terreni per la migliore tutela e valorizzazione del patrimonio archeologico in provincia di Latina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2812</literal></binding>
+   <binding name="date"><literal>19850417</literal></binding>
+   <binding name="title"><literal>CHERCHI ed altri: Norme per l&#39;istituzione e la disciplina della valutazione dell&#39;impatto ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2825</literal></binding>
+   <binding name="date"><literal>19850418</literal></binding>
+   <binding name="title"><literal>GRASSUCCI ed altri: Interventi urgenti a favore del Servizio geologico nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2835</literal></binding>
+   <binding name="date"><literal>19850419</literal></binding>
+   <binding name="title"><literal>BELARDI MERLO ed altri: Istituzione dei centri di parità in materia di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2838</literal></binding>
+   <binding name="date"><literal>19850419</literal></binding>
+   <binding name="title"><literal>CHERCHI ed altri: Norme per la prevenzione, il controllo e la riduzione dell&#39;inquinamento atmosferico provocato da impianti industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2955</literal></binding>
+   <binding name="date"><literal>19850612</literal></binding>
+   <binding name="title"><literal>PICCHETTI ed altri: Istituzione del servizio proprietà industriale e brevetti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3196</literal></binding>
+   <binding name="date"><literal>19851008</literal></binding>
+   <binding name="title"><literal>BARZANTI ed altri: Ulteriori interventi per i danni causati dalle eccezionali calamità naturali ed avversità atmosferiche dei mesi di dicembre 1984 e gennaio 1985. Rifinanziamento dell&#39;articolo 4 della legge 13 maggio 1985, n. 198, ed istituzione di una indennità compensativa del mancato reddito agli agricoltori danneggiati, per la ricostituzione, il reimpianto o la specializzazione degli oliveti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3347</literal></binding>
+   <binding name="date"><literal>19851212</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Riforma del Ministero degli affari esteri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3454</literal></binding>
+   <binding name="date"><literal>19860201</literal></binding>
+   <binding name="title"><literal>TAGLIABUE ed altri: Norme per la educazione, informazione e prevenzione dell&#39;alcolismo e per la riabilitazione delle alcoldipendenze; per la regolamentazione della pubblicità e della etichettatura delle bevande alcoliche e superalcoliche; per la prevenzione degli incidenti stradali per guida in stato di ebbrezza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3473</literal></binding>
+   <binding name="date"><literal>19860206</literal></binding>
+   <binding name="title"><literal>PALOPOLI ed altri: Disciplina dei prodotti farmaceutici e della sperimentazione clinica sull&#39;uomo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3576</literal></binding>
+   <binding name="date"><literal>19860313</literal></binding>
+   <binding name="title"><literal>PROVANTINI ed altri: Istituzione del Fondo regionale per l&#39;attuazione della legge quadro per l&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3819</literal></binding>
+   <binding name="date"><literal>19860605</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Indizione di un referendum consultivo sulla produzione di energia elettrica da impianti nucleari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>383</literal></binding>
+   <binding name="date"><literal>19830812</literal></binding>
+   <binding name="title"><literal>RICCARDI ed altri: Legge-quadro in materia di cave e torbiere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>385</literal></binding>
+   <binding name="date"><literal>19830812</literal></binding>
+   <binding name="title"><literal>GRASSUCCI ed altri: Disciplina della ricerca e coltivazione degli idrocarburi liquidi e gassosi e integrazioni e modifiche alla legge 11 gennaio 1957, n. 6, ed alla legge 21 luglio 1967, n. 613, concernenti la ricerca degli idrocarburi in mare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3851</literal></binding>
+   <binding name="date"><literal>19860613</literal></binding>
+   <binding name="title"><literal>GRASSUCCI ed altri: Interventi per sostenere l&#39;innovazione nelle piccole e medie imprese e nell&#39;artigianato e per favorire l&#39;espansione della base produttiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>386</literal></binding>
+   <binding name="date"><literal>19830812</literal></binding>
+   <binding name="title"><literal>OLIVI ed altri: Riforma delle Camere di commercio, industria, artigianato e agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3860</literal></binding>
+   <binding name="date"><literal>19860620</literal></binding>
+   <binding name="title"><literal>GIANNI ed altri: Nuove norme in materia di integrazione salariale, eccedenze di personale e mobilità dei lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>390</literal></binding>
+   <binding name="date"><literal>19830812</literal></binding>
+   <binding name="title"><literal>OLIVI ed altri: Riforma della Cassa per il credito alle imprese artigiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3943</literal></binding>
+   <binding name="date"><literal>19860730</literal></binding>
+   <binding name="title"><literal>CALVANESE ed altri: Norme in materia di assunzioni nella pubblica amministrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3974</literal></binding>
+   <binding name="date"><literal>19860808</literal></binding>
+   <binding name="title"><literal>PALLANTI ed altri: Riordino contributivo, istituzione di un contributo sul valore aggiunto delle imprese industriali e riforma della fiscalizzazione degli oneri sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>398</literal></binding>
+   <binding name="date"><literal>19830812</literal></binding>
+   <binding name="title"><literal>CUFFARO ed altri: Riforma dell&#39;organizzazione e norme per lo sviluppo della ricerca scientifica e tecnologica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4098</literal></binding>
+   <binding name="date"><literal>19861023</literal></binding>
+   <binding name="title"><literal>DONAZZON ed altri: Istituzione del Fondo nazionale per la promozione e lo sviluppo del settore commerciale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4195</literal></binding>
+   <binding name="date"><literal>19861119</literal></binding>
+   <binding name="title"><literal>SANNELLA ed altri: Norme relative alla eliminazione dei PCB (policlorobifenili), dei PCT (policloroterfenili) e del TCB (triclorobenzeni) e alla tutela dell&#39;ambiente e della sicurezza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4211</literal></binding>
+   <binding name="date"><literal>19861126</literal></binding>
+   <binding name="title"><literal>BORGHINI ed altri: Istituzione di fondi comuni di investimento in società non quotate in Borsa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4230</literal></binding>
+   <binding name="date"><literal>19861204</literal></binding>
+   <binding name="title"><literal>DE GREGORIO ed altri: Riconoscimento delle anzianità pregresse ai dipendenti delle pubbliche amministrazioni assunti in forza della legge 1° giugno 1977, n. 285</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4283</literal></binding>
+   <binding name="date"><literal>19861218</literal></binding>
+   <binding name="title"><literal>GRASSUCCI ed altri: Norme concernenti l&#39;esercizio dei distributori di carburante</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4323</literal></binding>
+   <binding name="date"><literal>19870114</literal></binding>
+   <binding name="title"><literal>DONAZZON ed altri: Norme per la ricostituzione su base rappresentativa degli organi di amministrazione delle Camere di commercio, industria, artigianato e agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4388</literal></binding>
+   <binding name="date"><literal>19870129</literal></binding>
+   <binding name="title"><literal>CHERCHI ed altri: Integrazioni alla legge 9 dicembre 1986, n. 896, concernenti la disciplina della ricerca e della coltivazione delle risorse geotermiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4419</literal></binding>
+   <binding name="date"><literal>19870206</literal></binding>
+   <binding name="title"><literal>DONAZZON ed altri: Nuove norme per il sostegno creditizio alla riforma del settore commerciale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>447</literal></binding>
+   <binding name="date"><literal>19830914</literal></binding>
+   <binding name="title"><literal>FABBRI ed altri: Istituzione della provincia di Prato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4486</literal></binding>
+   <binding name="date"><literal>19870226</literal></binding>
+   <binding name="title"><literal>GRASSUCCI ed altri: Intervento pubblico per le isole minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4496</literal></binding>
+   <binding name="date"><literal>19870304</literal></binding>
+   <binding name="title"><literal>MACCIOTTA ed altri: Norme per la cessione alle regioni autonome della Sardegna, del Friuli-Venezia Giulia ed alla regione Toscana di beni immobili afferenti direttamente o indirettamente, attività minerarie, mineralurgiche e metallurgiche dismesse</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4567</literal></binding>
+   <binding name="date"><literal>19870327</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Istituzione di una Commissione parlamentare di inchiesta sulle condizioni di lavoro, con riguardo ai problemi della salute e della sicurezza dei lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4613</literal></binding>
+   <binding name="date"><literal>19870414</literal></binding>
+   <binding name="title"><literal>CHERCHI ed altri: Norme in materia di politica di uso razionale dell&#39;energia e delle materie prime energetiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4627</literal></binding>
+   <binding name="date"><literal>19870417</literal></binding>
+   <binding name="title"><literal>ZANGHERI ed altri: Modifica dell&#39;articolo 34 della legge 25 maggio 1970, n. 352, recante norme sui referendum previsti dalla Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4633</literal></binding>
+   <binding name="date"><literal>19870422</literal></binding>
+   <binding name="title"><literal>COCCO ed altri: Norme per l&#39;istituzione di società di imprese familiari per la prestazione di servizi sostitutivi nei settori della agricoltura, dell&#39;artigianato e del commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4654</literal></binding>
+   <binding name="date"><literal>19870428</literal></binding>
+   <binding name="title"><literal>CHERCHI ed altri: Modifiche, integrazioni e rifinanziamento della legge 6 ottobre 1982, n. 752, concernente l&#39;attuazione della politica mineraria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>621</literal></binding>
+   <binding name="date"><literal>19831006</literal></binding>
+   <binding name="title"><literal>TREBBI ALOARDI ed altri: Aumento del contributo previsto dalla legge 5 marzo 1961, n. 212, a favore dei comuni e delle province insigniti di decorazione di medaglia d&#39;oro e al valor militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>71</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>ALBORGHETTI ed altri: Modifiche ed integrazioni alla legge 27 luglio 1978, n. 392, concernente disciplina delle locazioni di immobili urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>721</literal></binding>
+   <binding name="date"><literal>19831026</literal></binding>
+   <binding name="title"><literal>GIADRESCO ed altri: Facilitazioni e rimborso spese a favore degli emigrati che rientrano in patria, in occasione delle elezioni politiche nazionali ed europee</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>975</literal></binding>
+   <binding name="date"><literal>19831205</literal></binding>
+   <binding name="title"><literal>CUFFARO ed altri: Norme per la realizzazione e lo sviluppo dei programmi dell&#39;Area di ricerca scientifica e tecnologica di Trieste</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1039</literal></binding>
+   <binding name="date"><literal>19831218</literal></binding>
+   <binding name="title"><literal>CHERCHI ed altri: Disciplina della ricerca e coltivazione delle risorse geotermiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1500</literal></binding>
+   <binding name="date"><literal>19840328</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Misure per lo sviluppo economico e sociale del Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2065</literal></binding>
+   <binding name="date"><literal>19840919</literal></binding>
+   <binding name="title"><literal>CHERCHI ed altri: Rifinanziamento e integrazioni della legge 29 maggio 1982, n. 308, concernente interventi per il risparmio energetico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2977</literal></binding>
+   <binding name="date"><literal>19850626</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Convocazione della seconda Conferenza nazionale dell&#39;emigrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>354</literal></binding>
+   <binding name="date"><literal>19830811</literal></binding>
+   <binding name="title"><literal>COCCO ed altri: Legge-quadro per la stipula di accordi interprofessionali tra produttori agricoli e industria di trasformazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>376</literal></binding>
+   <binding name="date"><literal>19830811</literal></binding>
+   <binding name="title"><literal>FRANCESE ed altri: Norme per l&#39;istituzione sperimentale delle agenzie regionali del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>384</literal></binding>
+   <binding name="date"><literal>19830812</literal></binding>
+   <binding name="title"><literal>OLIVI ed altri: Disciplina dell&#39;attività di agente e di rappresentante di commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>387</literal></binding>
+   <binding name="date"><literal>19830812</literal></binding>
+   <binding name="title"><literal>MACCIOTTA ed altri: Norme per la liquidazione della GEPI Spa e nuova disciplina dell&#39;intervento pubblico per il risanamento di aziende industriali in crisi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>391</literal></binding>
+   <binding name="date"><literal>19830812</literal></binding>
+   <binding name="title"><literal>OLIVI ed altri: Legge quadro per l&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>725</literal></binding>
+   <binding name="date"><literal>19831026</literal></binding>
+   <binding name="title"><literal>PROVANTINI ed altri: Misure per agevolare la formazione di cooperative tra lavoratori nelle imprese in crisi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>729</literal></binding>
+   <binding name="date"><literal>19831026</literal></binding>
+   <binding name="title"><literal>MONTESSORO ed altri: Definizione della nozione di quadro intermedio nei rapporti di lavoro subordinato. Modifica dell&#39;articolo 2095 del codice civile e norme in materia di formazione professionale</literal></binding>
+  </result>
+ </results>
+</sparql>

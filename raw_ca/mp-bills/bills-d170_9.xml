@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4096</literal></binding>
+   <binding name="date"><literal>19861022</literal></binding>
+   <binding name="title"><literal>CARLOTTO ed altri: Modifiche all&#39;articolo 11 della legge 12 agosto 1982, n. 531, concernenti la realizzazione della seconda carreggiata, nei tratti mancanti, dell&#39;autostrada Torino-Savona</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4203</literal></binding>
+   <binding name="date"><literal>19861124</literal></binding>
+   <binding name="title"><literal>PATUELLI ed altri: Abrogazione dell&#39;ultimo comma dell&#39;articolo 226-ter del codice di procedura penale concernente l&#39;autorizzazione in forma orale all&#39;impedimento, interruzione o intercettazione di comunicazioni o conversazioni telefoniche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4247</literal></binding>
+   <binding name="date"><literal>19861210</literal></binding>
+   <binding name="title"><literal>CARLOTTO ed altri: Nuove disposizioni concernenti l&#39;obbligo di installazione di registratori di cassa nei pubblici esercizi</literal></binding>
+  </result>
+ </results>
+</sparql>

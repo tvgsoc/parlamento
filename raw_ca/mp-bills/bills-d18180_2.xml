@@ -1,0 +1,100 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1399</literal></binding>
+   <binding name="date"><literal>19550119</literal></binding>
+   <binding name="title"><literal>CERRETI ed altri: Inchiesta parlamentare sui finanziamenti effettuati dall&#39;Amministrazione dello Stato a enti, società, cooperative e privati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3000</literal></binding>
+   <binding name="date"><literal>19570703</literal></binding>
+   <binding name="title"><literal>CERRETI ed altri: Proroga del termine previsto dall&#39;articolo 23 del decreto-legge 11 gennaio 1956, n. 3, sui contrassegni di Stato per l&#39;imbottigliamento obbligatorio del vermouth e degli altri vini aromatizzati, convertito nella legge 16 marzo 1956, n. 108</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>536</literal></binding>
+   <binding name="date"><literal>19531219</literal></binding>
+   <binding name="title"><literal>CERRETI ed altri: Revisione del trattamento tributario delle cooperative</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>789</literal></binding>
+   <binding name="date"><literal>19540409</literal></binding>
+   <binding name="title"><literal>CERRETI ed altri: Restituzione alla originaria forma cooperativa dell&#39;Ente morale Alleanza cooperativa torinese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>101</literal></binding>
+   <binding name="date"><literal>19530822</literal></binding>
+   <binding name="title"><literal>MONTELATICI ed altri: Sospensione degli sfratti da immobili adibiti ad uso di abitazione nel territorio del comune e della provincia di Firenze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1410</literal></binding>
+   <binding name="date"><literal>19550126</literal></binding>
+   <binding name="title"><literal>SANSONE e CERRETI: Riorganizzazione dell&#39;Alto Commissariato per l&#39;alimentazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2675</literal></binding>
+   <binding name="date"><literal>19580124</literal></binding>
+   <binding name="title"><literal>GRILLI ed altri: Riforma dell&#39;Istituto cotoniero italiano e sviluppo dell&#39;industria cotoniera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3488</literal></binding>
+   <binding name="date"><literal>19580130</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Abolizione delle imposte dirette sui redditi delle cooperative agricole di trasformazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3673</literal></binding>
+   <binding name="date"><literal>19580311</literal></binding>
+   <binding name="title"><literal>SANTI ed altri: Modifica alle disposizioni sulle competenze accessorie del personale dipendente dal Ministero delle poste e delle telecomunicazioni di cui alla legge 8 agosto 1957, n. 776</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>55</literal></binding>
+   <binding name="date"><literal>19530819</literal></binding>
+   <binding name="title"><literal>TARGETTI ed altri: Sospensione temporanea della disponibilità di beni immobili trasferiti o comunque pervenuti durante il periodo fascista ad organizzazioni fasciste e già appartenenti ad aziende sociali, cooperative, associazioni mutualistiche, politiche o sindacali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>684</literal></binding>
+   <binding name="date"><literal>19540304</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Norme per la determinazione della pensione di previdenza sociale da detrarre dalla pensione di Stato spettante agli operai permanenti delle varie Amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>713</literal></binding>
+   <binding name="date"><literal>19540323</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Norme per agevolare la partecipazione delle società cooperative di produzione e lavoro e loro consorzi ai pubblici appalti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>725</literal></binding>
+   <binding name="date"><literal>19540324</literal></binding>
+   <binding name="title"><literal>BARBIERI ed altri: Provvedimenti a favore della città di Firenze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>801</literal></binding>
+   <binding name="date"><literal>19540410</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Sull&#39;assicurazione invalidità, vecchiaia e superstiti, e tubercolosi, in favore dei coltivatori diretti</literal></binding>
+  </result>
+ </results>
+</sparql>

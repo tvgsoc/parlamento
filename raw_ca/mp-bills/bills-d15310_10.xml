@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4957</literal></binding>
+   <binding name="date"><literal>19900710</literal></binding>
+   <binding name="title"><literal>DARIDA e LUCCHESI: Interventi a tutela dell&#39;ambiente marino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5639</literal></binding>
+   <binding name="date"><literal>19910507</literal></binding>
+   <binding name="title"><literal>DARIDA: Istituzione dell&#39;albo professionale dei tappezzieri arredatori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4554</literal></binding>
+   <binding name="date"><literal>19900208</literal></binding>
+   <binding name="title"><literal>PATRIA ed altri: Ordinamento della professione di enologo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4631</literal></binding>
+   <binding name="date"><literal>19900228</literal></binding>
+   <binding name="title"><literal>CIOCCI ed altri: Istituzione del fondo di previdenza per le pensioni ai dipendenti dello Stato. Adeguamento dei trattamenti pensionistici statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4759</literal></binding>
+   <binding name="date"><literal>19900417</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Contributi alle imprese radiofoniche private che abbiano svolto attività di informazione di interesse generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4813</literal></binding>
+   <binding name="date"><literal>19900110</literal></binding>
+   <binding name="title"><literal>PISICCHIO ed altri: Obbligo dell&#39;uso di carta riciclata per la propaganda elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4857</literal></binding>
+   <binding name="date"><literal>19900530</literal></binding>
+   <binding name="title"><literal>LUCCHESI ed altri: Concessione di un contributo statale per la realizzazione della nave-museo &quot;Elettra 2°&quot; nel quadro della celebrazione delle &quot;Colombiadi&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4968</literal></binding>
+   <binding name="date"><literal>19900712</literal></binding>
+   <binding name="title"><literal>BORTOLAMI ed altri: Istituzione del Corpo nazionale delle guardie ecologiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4976</literal></binding>
+   <binding name="date"><literal>19900718</literal></binding>
+   <binding name="title"><literal>GALLONI ed altri: Norme per garantire l&#39;applicazione dell&#39;articolo 49 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5231</literal></binding>
+   <binding name="date"><literal>19901114</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Modifica dell&#39;articolo 94 della Costituzione in materia di dimissioni del Governo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5440</literal></binding>
+   <binding name="date"><literal>19910207</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Linee di indirizzo per una politica per la famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6008</literal></binding>
+   <binding name="date"><literal>19911022</literal></binding>
+   <binding name="title"><literal>MALFATTI ed altri: Interventi di sostegno ai territori meridionali della regione Marche e della regione Lazio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5906</literal></binding>
+   <binding name="date"><literal>19910731</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Norme per la collaborazione dell&#39;Italia con i Paesi dell&#39;Europa centrale e orientale</literal></binding>
+  </result>
+ </results>
+</sparql>

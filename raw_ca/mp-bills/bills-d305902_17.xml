@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2002</literal></binding>
+   <binding name="date"><literal>20140127</literal></binding>
+   <binding name="title"><literal>MAESTRI ed altri: &quot;Modifiche alla legge 20 dicembre 2012, n. 238, per il sostegno e la valorizzazione del Festival Verdi di Parma e Busseto&quot; (2002)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2160</literal></binding>
+   <binding name="date"><literal>20140305</literal></binding>
+   <binding name="title"><literal>CAUSI ed altri: &quot;Detraibilità delle spese per acquisto di libri, per favorire l&#39;esercizio della lettura, nonché modifica all&#39;articolo 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, in materia di disciplina dell&#39;imposta sul valore aggiunto per le prestazioni del servizio postale universale&quot; (2160)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2401</literal></binding>
+   <binding name="date"><literal>20140522</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE PELLEGRINO ed altri: &quot;Modifica all&#39;articolo 1 della Costituzione, in materia di riconoscimento della bellezza quale elemento costitutivo dell&#39;identità nazionale&quot; (2401)</literal></binding>
+  </result>
+ </results>
+</sparql>

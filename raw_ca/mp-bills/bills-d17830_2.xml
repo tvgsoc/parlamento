@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1871</literal></binding>
+   <binding name="date"><literal>19551109</literal></binding>
+   <binding name="title"><literal>BALLESI ed altri: Provvidenze a favore dei territori colpiti dalle alluvioni dell&#39;ottobre 1955 nelle provincie di Macerata e di Ascoli Piceno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1824</literal></binding>
+   <binding name="date"><literal>19551015</literal></binding>
+   <binding name="title"><literal>BOIDI ed altri: Riordinamento dei diritti di pesca</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2072</literal></binding>
+   <binding name="date"><literal>19560224</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Estensione delle disposizioni degli articoli 13 e 14 del decreto legislativo 16 aprile 1948, n. 830, ai direttori didattici incaricati del concorso B/3</literal></binding>
+  </result>
+ </results>
+</sparql>

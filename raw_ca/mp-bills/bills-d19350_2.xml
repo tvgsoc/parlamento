@@ -1,0 +1,94 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>500</literal></binding>
+   <binding name="date"><literal>19531211</literal></binding>
+   <binding name="title"><literal>MONTINI ed altri: Provvidenze a favore delle zone disastrate dalle alluvioni dell&#39;estate-autunno 1953 in provincia di Brescia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1477</literal></binding>
+   <binding name="date"><literal>19550222</literal></binding>
+   <binding name="title"><literal>GITTI ed altri: Istituzione della zona industriale di Brescia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1552</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>SAVIO ed altri: Provvedimenti a favore della scuola elementare in montagna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1990</literal></binding>
+   <binding name="date"><literal>19560118</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Riconoscimento del diploma di perito industriale per l&#39;ammissione al concorso per l&#39;insegnamento di materie tecniche e disegno nelle scuole di avviamento professionale a tipo industriale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>201</literal></binding>
+   <binding name="date"><literal>19531001</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Istituzione di una Commissione interparlamentare per il completamento delle indagini e l&#39;attuazione delle proposte suggerite dalla &quot;Commissione parlamentare d&#39;inchiesta sulla miseria in Italia e sui mezzi per combatterla&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2114</literal></binding>
+   <binding name="date"><literal>19560308</literal></binding>
+   <binding name="title"><literal>GOTELLI ed altri: Contributo del Governo italiano al Fondo internazionale delle Nazioni Unite per l&#39;infanzia (U.N.I.C.E.F.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19560420</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Provvedimenti a favore dei menomati negli arti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2416</literal></binding>
+   <binding name="date"><literal>19560720</literal></binding>
+   <binding name="title"><literal>DE MARIA ed altri: Provvedimenti a favore delle infermiere volontarie della Croce Rossa Italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2697</literal></binding>
+   <binding name="date"><literal>19570201</literal></binding>
+   <binding name="title"><literal>CHIARINI ed altri: Interpretazione autentica dell&#39;articolo 8 della legge 7 gennaio 1949, n. 1</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2842</literal></binding>
+   <binding name="date"><literal>19570404</literal></binding>
+   <binding name="title"><literal>ZANIBELLI ed altri: Norme per la costruzione di abitazioni per i lavoratori agricoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>434</literal></binding>
+   <binding name="date"><literal>19531201</literal></binding>
+   <binding name="title"><literal>TITOMANLIO ed altri: Assistenza sanitaria agli artigiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>945</literal></binding>
+   <binding name="date"><literal>19540610</literal></binding>
+   <binding name="title"><literal>ROMANATO ed altri: Immissione in ruolo dei professori idonei</literal></binding>
+  </result>
+ </results>
+</sparql>

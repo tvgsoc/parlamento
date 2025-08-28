@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1304</literal></binding>
+   <binding name="date"><literal>19500527</literal></binding>
+   <binding name="title"><literal>TOZZI CONDIVI ed altri: Autorizzazione alla spesa di 800 milioni per la concessione di sussidi per la riparazione dei danni causati dal terremoto del 3 ottobre 1943 nei comuni delle provincie di Ascoli Piceno, Macerata e Teramo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1405</literal></binding>
+   <binding name="date"><literal>19500628</literal></binding>
+   <binding name="title"><literal>CONCETTI ed altri: Norme per l&#39;applicazione della tregua mezzadrile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1511</literal></binding>
+   <binding name="date"><literal>19500728</literal></binding>
+   <binding name="title"><literal>CARCATERRA ed altri: Istituzione del grado VIII e abolizione del grado XIII nel gruppo C dei dipendenti delle Amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>604</literal></binding>
+   <binding name="date"><literal>19490609</literal></binding>
+   <binding name="title"><literal>CARONITI ed altri: Modifica dell&#39;articolo 67 del testo unico sull&#39;istruzione superiore</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3790</literal></binding>
+   <binding name="date"><literal>19750521</literal></binding>
+   <binding name="title"><literal>AVERARDI ed altri: Disciplina costruttiva del ciclomotore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3947</literal></binding>
+   <binding name="date"><literal>19750718</literal></binding>
+   <binding name="title"><literal>AVERARDI e RIZZI: Avanzamento degli ufficiali e sottufficiali combattenti e decorati al valor militare della guerra di liberazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3974</literal></binding>
+   <binding name="date"><literal>19750731</literal></binding>
+   <binding name="title"><literal>AVERARDI ed altri: Norme per la trasformazione dei contratti agrari associativi in contratti di affitto a coltivatore diretto e per la ristrutturazione delle aziende in relazione alla politica agricola comune</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4030</literal></binding>
+   <binding name="date"><literal>19751001</literal></binding>
+   <binding name="title"><literal>AVERARDI ed altri: Riordinamento delle camere di commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4092</literal></binding>
+   <binding name="date"><literal>19751030</literal></binding>
+   <binding name="title"><literal>TANTALO ed altri: Catalogazione e trasporto delle armi per il tiro a segno sportivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4125</literal></binding>
+   <binding name="date"><literal>19731119</literal></binding>
+   <binding name="title"><literal>BELLUSCIO ed altri: Adeguamento della tredicesima mensilità per il personale delle forze di polizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4215</literal></binding>
+   <binding name="date"><literal>19751219</literal></binding>
+   <binding name="title"><literal>TRUZZI ed altri: Interventi urgenti a sostegno della vitivinicultura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4407</literal></binding>
+   <binding name="date"><literal>19760401</literal></binding>
+   <binding name="title"><literal>BORTOLANI ed altri: Integrazioni alla legge 8 luglio 1975, n. 306, concernente la costituzione delle associazioni dei produttori zootecnici e la determinazione del prezzo del latte alla produzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4460</literal></binding>
+   <binding name="date"><literal>19760414</literal></binding>
+   <binding name="title"><literal>CIAMPAGLIA ed altri: Proroga al 31 maggio 1976 del termine per la presentazione della dichiarazione dei reddito relativi all&#39;anno 1975</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3741</literal></binding>
+   <binding name="date"><literal>19750507</literal></binding>
+   <binding name="title"><literal>BELLUSCIO ed altri: Miglioramenti del trattamento di pensione in favore degli appartenenti ai corpi di polizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4050</literal></binding>
+   <binding name="date"><literal>19751009</literal></binding>
+   <binding name="title"><literal>MARIANI ed altri: Aumento del contributo dello Stato all&#39;Ente autonomo &quot;La Biennale di Venezia&quot;</literal></binding>
+  </result>
+ </results>
+</sparql>

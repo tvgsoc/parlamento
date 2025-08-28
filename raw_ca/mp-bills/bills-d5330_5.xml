@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1412</literal></binding>
+   <binding name="date"><literal>19690507</literal></binding>
+   <binding name="title"><literal>SAVOLDI ed altri: Modifica al quarto comma dell&#39;articolo 80 del testo unico delle norme sulla circolazione stradale approvato con decreto del Presidente della Repubblica 15 giugno 1959, n. 393</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2409</literal></binding>
+   <binding name="date"><literal>19700407</literal></binding>
+   <binding name="title"><literal>SAVOLDI ed altri: Indennità per i presidenti di seggio e per gli scrutatori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2771</literal></binding>
+   <binding name="date"><literal>19701022</literal></binding>
+   <binding name="title"><literal>ABBIATI ed altri: Inquadramento nella carriera di concetto del personale appartenente alle categorie para-mediche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2805</literal></binding>
+   <binding name="date"><literal>19701029</literal></binding>
+   <binding name="title"><literal>CAIATI ed altri: Modifica dell&#39;articolo 43 della legge 2 agosto 1967, n. 799, concernente l&#39;esercizio della caccia, e proroga del termine per la caccia alla selvaggina migratoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2946</literal></binding>
+   <binding name="date"><literal>19701218</literal></binding>
+   <binding name="title"><literal>BALLARDINI ed altri: Istituzione dell&#39;ente &quot;Comunità del Garda&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3181</literal></binding>
+   <binding name="date"><literal>19710304</literal></binding>
+   <binding name="title"><literal>ZAPPA ed altri: Riforma dell&#39;assistenza pubblica e organizzazione dei servizi sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3346</literal></binding>
+   <binding name="date"><literal>19710430</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Ammissibilità della oblazione per le contravvenzioni di cui alla lettera a) dell&#39;articolo 41 della legge 17 agosto 1942, n. 1150, modificata con legge 6 agosto 1967, n. 765</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3796</literal></binding>
+   <binding name="date"><literal>19711118</literal></binding>
+   <binding name="title"><literal>ZAFFANELLA ed altri: Aumento dei minimi di pensione, della pensione sociale e perequazione delle pensioni INPS liquidate anteriormente al 1° maggio 1969</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3856</literal></binding>
+   <binding name="date"><literal>19711202</literal></binding>
+   <binding name="title"><literal>MORO e SAVOLDI: Norme per lo sviluppo della cultura musicale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>732</literal></binding>
+   <binding name="date"><literal>19681129</literal></binding>
+   <binding name="title"><literal>USVARDI ed altri: Nuova regolamentazione dei servizi di vigilanza igienico sanitaria e annonaria dipendenti dagli enti autarchici territoriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Casi di scioglimento del matrimonio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2780</literal></binding>
+   <binding name="date"><literal>19701023</literal></binding>
+   <binding name="title"><literal>BALLARDINI ed altri: Istituzione del servizio civile alternativo del servizio militare per la valle del Belice</literal></binding>
+  </result>
+ </results>
+</sparql>

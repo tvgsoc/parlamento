@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1774</literal></binding>
+   <binding name="date"><literal>19510123</literal></binding>
+   <binding name="title"><literal>VIVIANI e COPPA: Sospensione degli sfratti per le case di abitazione nel comune di Napoli per la durata di un anno, per i disoccupati, pensionati e iscritti agli elenchi dei poveri dell&#39;E.C.A. e del comune</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1877</literal></binding>
+   <binding name="date"><literal>19510302</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Concessione speciale ferroviaria in occasione di nozze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2120</literal></binding>
+   <binding name="date"><literal>19510803</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Per la protezione della società scolastica contro la tubercolosi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2146</literal></binding>
+   <binding name="date"><literal>19510809</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Norme per la disciplina e l&#39;incremento della cinematografia per ragazzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2631</literal></binding>
+   <binding name="date"><literal>19520328</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Provvedimenti a favore dell&#39;infanzia napoletana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2850</literal></binding>
+   <binding name="date"><literal>19520717</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Protezione sociale dei lavoratori scarsamente occupati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>113</literal></binding>
+   <binding name="date"><literal>19480929</literal></binding>
+   <binding name="title"><literal>DIAZ ed altri: Prestiti matrimoniali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2323</literal></binding>
+   <binding name="date"><literal>19511120</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Provvedimenti straordinari a favore dell&#39;Opera Nazionale Maternità e Infanzia per assistere i bambini delle zone alluvionate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2545</literal></binding>
+   <binding name="date"><literal>19520303</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Disposizioni per la tutela fisica ed economica delle lavoratrici madri dipendenti dallo Stato e dagli altri Enti pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2678</literal></binding>
+   <binding name="date"><literal>19520505</literal></binding>
+   <binding name="title"><literal>NOCE LONGO ed altri: Applicazione della parità di diritti e della parità delle retribuzioni per un pari lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3179</literal></binding>
+   <binding name="date"><literal>19530205</literal></binding>
+   <binding name="title"><literal>GRIFONE ed altri: Disciplina dei canoni d&#39;affitto di fondi rustici con corrispettivo in canapa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>32</literal></binding>
+   <binding name="date"><literal>19480614</literal></binding>
+   <binding name="title"><literal>NOCE LONGO ed altri: Per la tutela della maternità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>34</literal></binding>
+   <binding name="date"><literal>19480625</literal></binding>
+   <binding name="title"><literal>MARCHESI ed altri: Nomina di una Commissione di inchiesta parlamentare sulle condizioni delle scuole e degli istituti privati di istruzione media legalmente riconosciuti</literal></binding>
+  </result>
+ </results>
+</sparql>

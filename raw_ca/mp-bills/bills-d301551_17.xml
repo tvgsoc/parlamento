@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1092</literal></binding>
+   <binding name="date"><literal>20130529</literal></binding>
+   <binding name="title"><literal>DISTASO ed altri: &quot;Istituzione del `Premio biennale di ricerca Giuseppe Di Vagno&#39; e disposizioni per il potenziamento della biblioteca e dell&#39;archivio storico della Fondazione Di Vagno, per la conservazione della memoria del deputato socialista assassinato il 25 settembre 1921&quot; (1092)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1843</literal></binding>
+   <binding name="date"><literal>20131125</literal></binding>
+   <binding name="title"><literal>FIORONI ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sul rapimento e sulla morte di Aldo Moro&quot; (1843)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1092-B</literal></binding>
+   <binding name="date"><literal>20141126</literal></binding>
+   <binding name="title"><literal>S. 1569. - DISTASO ed altri: &quot;Istituzione del &#39;Premio biennale di ricerca Giuseppe Di Vagno&#39; e disposizioni per il potenziamento della biblioteca e dell&#39;archivio storico della Fondazione Di Vagno, per la conservazione della memoria del deputato socialista assassinato il 25 settembre 1921&quot; (approvata dalla Camera e modificata dal Senato) (1092-B)</literal></binding>
+  </result>
+ </results>
+</sparql>

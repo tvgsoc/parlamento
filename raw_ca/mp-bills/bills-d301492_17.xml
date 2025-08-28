@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1565</literal></binding>
+   <binding name="date"><literal>20130910</literal></binding>
+   <binding name="title"><literal>BIANCONI ed altri: &quot;Modifiche agli articoli 575, 579 e 584 del codice penale, in materia di omicidio&quot; (1565)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>997</literal></binding>
+   <binding name="date"><literal>20130517</literal></binding>
+   <binding name="title"><literal>META ed altri: &quot;Modifiche all&#39;articolo 202 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di pagamento delle sanzioni&quot; (997)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3499</literal></binding>
+   <binding name="date"><literal>20151216</literal></binding>
+   <binding name="title"><literal>BRUNETTA ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sullo stato del sistema bancario italiano e sui casi di crisi verificatisi dal 1° gennaio 1999, in connessione con l&#39;inizio dell&#39;operatività in strumenti finanziari denominati in euro&quot; (3499)</literal></binding>
+  </result>
+ </results>
+</sparql>

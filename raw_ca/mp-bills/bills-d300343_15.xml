@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1320</literal></binding>
+   <binding name="date"><literal>20060710</literal></binding>
+   <binding name="title"><literal>NICOLA ROSSI ed altri: &quot;Disposizioni in materia di rapporti tra l&#39;amministrazione finanziaria e i contribuenti&quot; (1320)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1588</literal></binding>
+   <binding name="date"><literal>20060803</literal></binding>
+   <binding name="title"><literal>NICOLA ROSSI ed altri: &quot;Disposizioni in materia di rapporti tra la pubblica amministrazione e i cittadini&quot; (1588)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1987</literal></binding>
+   <binding name="date"><literal>20061129</literal></binding>
+   <binding name="title"><literal>PISCITELLO ed altri: &quot;Interventi in favore dei cittadini italiani militari e civili deportati e costretti al lavoro coatto nei territori del Terzo Reich&quot; (1987)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2080</literal></binding>
+   <binding name="date"><literal>20061219</literal></binding>
+   <binding name="title"><literal>TURCI ed altri: &quot;Norme in materia di valutazione dell&#39;efficienza e del rendimento delle strutture e dei dipendenti pubblici&quot; (2080)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2164</literal></binding>
+   <binding name="date"><literal>20070125</literal></binding>
+   <binding name="title"><literal>SASSO ed altri: &quot;Regolamentazione dell&#39;uso del telefono cellulare nelle scuole di ogni ordine e grado appartenenti al sistema nazionale di istruzione&quot; (2164)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1925</literal></binding>
+   <binding name="date"><literal>20061111</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE GIANFRANCO CONTE ed altri: &quot;Modifica all&#39;articolo 53 della Costituzione in materia di princìpi generali della legislazione tributaria e garanzia dei diritti del contribuente&quot; (1925)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1428</literal></binding>
+   <binding name="date"><literal>20060724</literal></binding>
+   <binding name="title"><literal>CAPEZZONE ed altri: &quot;Modifiche alla normativa sullo sportello unico per le imprese e in materia di dichiarazione di inizio attività&quot; (1428)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1867</literal></binding>
+   <binding name="date"><literal>20061030</literal></binding>
+   <binding name="title"><literal>VICHI ed altri: &quot;Delega al Governo per la revisione del trattamento tributario della famiglia secondo il metodo del quoziente familiare&quot; (1867)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>848</literal></binding>
+   <binding name="date"><literal>20060523</literal></binding>
+   <binding name="title"><literal>LULLI ed altri: &quot;Norme per la riconoscibilità e la tutela dei prodotti italiani&quot; (848)</literal></binding>
+  </result>
+ </results>
+</sparql>

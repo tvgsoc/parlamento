@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6032</literal></binding>
+   <binding name="date"><literal>20050728</literal></binding>
+   <binding name="title"><literal>ZUIN: &quot;Interventi per la salvaguardia e lo sviluppo delle isole minori della laguna di Venezia&quot; (6032)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5728</literal></binding>
+   <binding name="date"><literal>20050317</literal></binding>
+   <binding name="title"><literal>GALVAGNO ed altri: &quot;Disposizioni per la valorizzazione delle &quot;terre italiane del vino&quot; nel mondo&quot; (5728)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5866</literal></binding>
+   <binding name="date"><literal>20050523</literal></binding>
+   <binding name="title"><literal>TAMBURRO ed altri: &quot;Disposizioni per l&#39;organizzazione delle centrali operative &#39;118&#39;, dei pronto soccorso e dei dipartimenti di emergenza&quot; (5866)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6078</literal></binding>
+   <binding name="date"><literal>20050916</literal></binding>
+   <binding name="title"><literal>TAMBURRO ed altri: &quot;Modifica all&#39;articolo 2 del decreto-legge 13 marzo 1988, n. 69, convertito, con modificazioni, dalla legge 13 maggio 1988, n. 153, in materia di assegni familiari&quot; (6078)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6132</literal></binding>
+   <binding name="date"><literal>20051013</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: &quot;Disposizioni in materia di tutela e valorizzazione delle società sportive fondate da almeno settanta anni&quot; (6132)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6204</literal></binding>
+   <binding name="date"><literal>20051130</literal></binding>
+   <binding name="title"><literal>CARLUCCI ed altri: &quot;Modifica all&#39;articolo 609-bis del codice penale e disposizioni riguardanti i cittadini stranieri che commettono il reato di violenza sessuale&quot; (6204)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6334</literal></binding>
+   <binding name="date"><literal>20060209</literal></binding>
+   <binding name="title"><literal>CARLUCCI e ZUIN: &quot;Modifica all&#39;articolo 1 della legge 23 dicembre 2005, n. 266, in materia di indennità di trasferta in favore dei dipendenti della pubblica amministrazione&quot; (6334)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5977</literal></binding>
+   <binding name="date"><literal>20050707</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: &quot;Disposizioni per la rivalutazione delle pensioni in relazione alle variazioni del potere di acquisto della moneta&quot; (5977)</literal></binding>
+  </result>
+ </results>
+</sparql>

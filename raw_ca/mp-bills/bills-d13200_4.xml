@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>613</literal></binding>
+   <binding name="date"><literal>19631018</literal></binding>
+   <binding name="title"><literal>PELLEGRINO ed altri: Provvedimento contro la sofisticazione da zucchero del vino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>645</literal></binding>
+   <binding name="date"><literal>19631023</literal></binding>
+   <binding name="title"><literal>PELLEGRINO ed altri: Vendita ambulante dei vini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>715</literal></binding>
+   <binding name="date"><literal>19631031</literal></binding>
+   <binding name="title"><literal>GORRERI ed altri: Modifiche e integrazioni della legge 21 giugno 1960, n. 649, sull&#39;attività e disciplina dell&#39;Ente autonomo di gestione per le aziende termali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>823</literal></binding>
+   <binding name="date"><literal>19631213</literal></binding>
+   <binding name="title"><literal>PEZZINO ed altri: Inchiesta parlamentare sull&#39;emigrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>596</literal></binding>
+   <binding name="date"><literal>19631016</literal></binding>
+   <binding name="title"><literal>ALICATA ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta in ordine alla catastrofe del Vajont</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>822</literal></binding>
+   <binding name="date"><literal>19631213</literal></binding>
+   <binding name="title"><literal>ALICATA ed altri: Integrazioni e modifiche alla legge 4 novembre 1963, n. 1457, recante provvidenze a favore delle zone devastate dalla catastrofe del Vajont del 9 ottobre 1963</literal></binding>
+  </result>
+ </results>
+</sparql>

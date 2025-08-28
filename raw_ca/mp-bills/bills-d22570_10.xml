@@ -1,0 +1,832 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2551</literal></binding>
+   <binding name="date"><literal>19880406</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Integrazioni al decreto legislativo 6 maggio 1948, n. 655, concernente l&#39;istituzione della sezione giurisdizionale della Corte dei conti per la Regione siciliana e norme di accelerazione delle procedure nei ricorsi in materia di pensioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3337</literal></binding>
+   <binding name="date"><literal>19881109</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Provvidenze a favore di particolari categorie di grandi invalidi di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4106</literal></binding>
+   <binding name="date"><literal>19890718</literal></binding>
+   <binding name="title"><literal>ALAGNA e D&#39;AMATO: Esonero dall&#39;obbligo di utilizzare le cinture di sicurezza nei centri urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4490</literal></binding>
+   <binding name="date"><literal>19900117</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Incremento dell&#39;organico dei presidenti delle sezioni giurisdizionali della Corte dei conti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5182</literal></binding>
+   <binding name="date"><literal>19901024</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Modifiche alla legge 28 febbraio 1985, n. 47, e nuove norme in materia di controllo dell&#39;attività urbanistico-edilizia, sanzioni, recupero e sanatoria edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6128</literal></binding>
+   <binding name="date"><literal>19911127</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Nuove norme sul reclutamento del personale della scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6219</literal></binding>
+   <binding name="date"><literal>19911219</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Disposizioni per persone detenute affette da virus HIV</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1020</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Modifiche ed integrazioni alla legge 4 maggio 1983, n. 184, concernente la disciplina dell&#39;adozione e dell&#39;affidamento dei minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1491</literal></binding>
+   <binding name="date"><literal>19870917</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Istituzione di una sezione staccata di corte d&#39;appello in Trapani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>871</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Modifiche agli articoli 374 e 516 del codice di procedura penale concernente i casi di definitività della pronuncia istruttoria e di inammissibilità dell&#39;impugnazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>873</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Norme sull&#39;ammissione in magistratura di membri laici, sulla istituzione di un biennio propedeutico per uditori e sulla divisione dei ruoli fra giudicante ed inquirente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>875</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Norme per l&#39;assunzione del personale ausiliario dell&#39;amministrazione della giustizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>877</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Modifiche alla legge 26 luglio 1975, n. 354, concernenti le modalità di traduzione dei detenuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3797</literal></binding>
+   <binding name="date"><literal>19890407</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Istituzione del tribunale e della pretura circondariale di Gela</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5257</literal></binding>
+   <binding name="date"><literal>19901121</literal></binding>
+   <binding name="title"><literal>ALAGNA e VAIRO: Norme per il miglioramento del trattamento pensionistico degli avvocati e procuratori legali ultrasettantenni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>872</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Modifica del primo comma dell&#39;articolo 1284 del codice civile concernente il saggio degli interessi legali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>874</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Abrogazione dell&#39;articolo 710 del codice di procedura civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>876</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>ALAGNA ed altri: Abolizione del soggiorno obbligato e della diffida</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2281</literal></binding>
+   <binding name="date"><literal>19880202</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Nuove norme sullo stato giuridico degli appartenenti alla polizia di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2330</literal></binding>
+   <binding name="date"><literal>19880211</literal></binding>
+   <binding name="title"><literal>SALERNO ed altri: Istituzione dell&#39;albo professionale dei biotecnologi alimentari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2340</literal></binding>
+   <binding name="date"><literal>19880212</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Disciplina della famiglia di fatto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2341</literal></binding>
+   <binding name="date"><literal>19880212</literal></binding>
+   <binding name="title"><literal>TESTA e ALAGNA: Norme per la disciplina delle funzioni, attribuzioni e denominazione degli aiutanti ufficiali giudiziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2390</literal></binding>
+   <binding name="date"><literal>19880224</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Istituzione della provincia della Versilia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2562</literal></binding>
+   <binding name="date"><literal>19880407</literal></binding>
+   <binding name="title"><literal>SANGUINETI ed altri: Cessione in proprietà degli alloggi dell&#39;ex INCIS, ora IACP, assegnati al personale militare e civile dei Ministeri della difesa, dell&#39;interno, delle finanze e di grazia e giustizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2574</literal></binding>
+   <binding name="date"><literal>19880411</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Norme a tutela del lavoro del personale dipendente da organismi internazionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2714</literal></binding>
+   <binding name="date"><literal>19880518</literal></binding>
+   <binding name="title"><literal>TESTA ed altri: Riordinamento della Corte dei conti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2949</literal></binding>
+   <binding name="date"><literal>19880701</literal></binding>
+   <binding name="title"><literal>BORGOGLIO ed altri: Nuove norme sulle società e cooperative tra professionisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3009</literal></binding>
+   <binding name="date"><literal>19880713</literal></binding>
+   <binding name="title"><literal>TESTA ed altri: Norme sulla cittadinanza, anagrafe e rilevazioni dei cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3094</literal></binding>
+   <binding name="date"><literal>19880802</literal></binding>
+   <binding name="title"><literal>MASTRANTUONO ed altri: Nuove norme sulla condizione giuridico-economica degli amministratori locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3220</literal></binding>
+   <binding name="date"><literal>19881005</literal></binding>
+   <binding name="title"><literal>LODIGIANI ed altri: Norme relative al contenuto di piombo nelle benzine e per l&#39;abbattimento degli idrocarburi  aromatici, del benzene e delle altre sostanze inquinanti dagli scarichi degli autoveicoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3474</literal></binding>
+   <binding name="date"><literal>19881221</literal></binding>
+   <binding name="title"><literal>CRISTONI ed altri: Norme integrative alla regolamentazione ed alle funzioni degli appartamenti al Corpo della polizia municipale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3613</literal></binding>
+   <binding name="date"><literal>19890207</literal></binding>
+   <binding name="title"><literal>ROTIROTI ed altri: Nuove norme per il servizio diplomatico consolare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3636</literal></binding>
+   <binding name="date"><literal>19890210</literal></binding>
+   <binding name="title"><literal>BARBALACE ed altri: Esclusione dal giudizio di conferma dei professori straordinari, già professori associati confermati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3842</literal></binding>
+   <binding name="date"><literal>19890419</literal></binding>
+   <binding name="title"><literal>MASTRANTUONO ed altri: Modifica dell&#39;articolo 7 della legge 1° febbraio 1989, n. 30, istitutiva delle preture circondariali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3887</literal></binding>
+   <binding name="date"><literal>19890504</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifiche e integrazioni alla legge 4 maggio 1983, n. 184, recante disciplina dell&#39;adozione e dell&#39;affidamento dei minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3912</literal></binding>
+   <binding name="date"><literal>19890510</literal></binding>
+   <binding name="title"><literal>BARGONE ed altri: Modifiche al regio decreto-legge 27 novembre 1933, n. 1578, convertito, con modificazioni, dalla legge 22 gennaio 1934, n. 36, e alla legge 24 luglio 1985, n. 406, recanti disposizioni sull&#39;ordinamento delle professioni di avvocato e procuratore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3995</literal></binding>
+   <binding name="date"><literal>19890601</literal></binding>
+   <binding name="title"><literal>MASTRANTUONO ed altri: Istituzione di un Fondo nazionale per le vittime dei crimini violenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4041</literal></binding>
+   <binding name="date"><literal>19890620</literal></binding>
+   <binding name="title"><literal>PROCACCI ed altri: Divieto di installazione di piattaforme petrolifere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4094</literal></binding>
+   <binding name="date"><literal>19890122</literal></binding>
+   <binding name="title"><literal>FUMAGALLI CARULLI ed altri: Modifica dell&#39;articolo 176 del codice penale in materia di liberazione condizionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4168</literal></binding>
+   <binding name="date"><literal>19890803</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Nuove norme in materia di ricorso alla Corte costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4189</literal></binding>
+   <binding name="date"><literal>19890907</literal></binding>
+   <binding name="title"><literal>PIRO ed altri: Nuova disciplina per le assunzioni obbligatorie e per la valorizzazione delle specifiche potenzialità lavorative di ogni cittadino disabile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4396</literal></binding>
+   <binding name="date"><literal>19891206</literal></binding>
+   <binding name="title"><literal>USELLINI ed altri: Delega al Presidente della Repubblica per la concessione di amnistia per reati finanziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4523</literal></binding>
+   <binding name="date"><literal>19900125</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Norme sugli inconvenienti e i rischi ambientali connessi con le attività produttive e per il sostegno all&#39;occupazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4554</literal></binding>
+   <binding name="date"><literal>19900208</literal></binding>
+   <binding name="title"><literal>PATRIA ed altri: Ordinamento della professione di enologo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4679</literal></binding>
+   <binding name="date"><literal>19900319</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Finanziamento di iniziative formative inserite in progetti di utilità collettiva, destinate prevalentemente alle donne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4759</literal></binding>
+   <binding name="date"><literal>19900417</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Contributi alle imprese radiofoniche private che abbiano svolto attività di informazione di interesse generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4851</literal></binding>
+   <binding name="date"><literal>19900525</literal></binding>
+   <binding name="title"><literal>PIERMARTINI ed altri: Modifiche alla legge 28 febbraio 1985, n. 47, e nuove norme in materia di controllo dell&#39;attività urbanistico-edilizia, sanzioni, recupero e sanatoria delle opere abusive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4943</literal></binding>
+   <binding name="date"><literal>19900705</literal></binding>
+   <binding name="title"><literal>MASTRANTUONO ed altri: Modifica dell&#39;articolo 2-bis della legge 31 maggio 1965, n. 575, recante disposizioni contro la mafia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4959</literal></binding>
+   <binding name="date"><literal>19900710</literal></binding>
+   <binding name="title"><literal>CAPACCI ed altri: Nuove norme sulle concessioni demaniali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4985</literal></binding>
+   <binding name="date"><literal>19900720</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Tutela della maternità delle lavoratrici autonome</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5329</literal></binding>
+   <binding name="date"><literal>19901219</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Istituzione dell&#39;assegno di maternità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5336</literal></binding>
+   <binding name="date"><literal>19901220</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifiche e integrazioni alla legge 4 maggio 1983, n. 184, recante disciplina dell&#39;adozione e dell&#39;affidamento dei minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5338</literal></binding>
+   <binding name="date"><literal>19901220</literal></binding>
+   <binding name="title"><literal>TESTA ed altri: Norme per la prevenzione dell&#39;inquinamento acustico derivante dalla circolazione dei veicoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5397</literal></binding>
+   <binding name="date"><literal>19910123</literal></binding>
+   <binding name="title"><literal>VAIRO e ALAGNA: Aumento delle indennità corrisposte agli amministratori degli enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5455</literal></binding>
+   <binding name="date"><literal>19910214</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifiche alle norme penali per la tutela dei minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5456</literal></binding>
+   <binding name="date"><literal>19910214</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifica dell&#39;articolo 83 del testo unico approvato con decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, per il riconoscimento ad entrambi i genitori della reversibilità del trattamento pensionistico dei dipendenti statali deceduti in attività di servizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5591</literal></binding>
+   <binding name="date"><literal>19910410</literal></binding>
+   <binding name="title"><literal>ZOLLA ed altri: Ordinamento della professione di traduttore e interprete</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5621</literal></binding>
+   <binding name="date"><literal>19910419</literal></binding>
+   <binding name="title"><literal>FIORI ed altri: Norme per l&#39;aggancio automatico delle pensioni alle retribuzioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5624</literal></binding>
+   <binding name="date"><literal>19910423</literal></binding>
+   <binding name="title"><literal>MASTRANTUONO ed altri: Norme per l&#39;immissione in servizio a tempo indeterminato dei vice pretori onorari reggenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5667</literal></binding>
+   <binding name="date"><literal>19910513</literal></binding>
+   <binding name="title"><literal>RENZULLI ed altri: Disciplina dell&#39;attività professionale dei pedagogisti ed istituzione dell&#39;albo dei pedagogisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5724</literal></binding>
+   <binding name="date"><literal>19910531</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Misure di solidarietà a favore delle vittime dei delitti di stampo mafioso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5738</literal></binding>
+   <binding name="date"><literal>19910607</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Nuove norme sulle pensioni a carico della gestione speciale mutualità per le casalinghe e sulle pensioni sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5756</literal></binding>
+   <binding name="date"><literal>19910619</literal></binding>
+   <binding name="title"><literal>D&#39;AMATO ed altri: Riconoscimento come ente morale dell&#39;associazione denominata &quot;Collegio nazionale capitani di lungo corso e di macchina&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5848</literal></binding>
+   <binding name="date"><literal>19910717</literal></binding>
+   <binding name="title"><literal>CAMBER ed altri: Equo indennizzo alla Lega nazionale di Trieste a seguito dell&#39;acquisizione da parte del Regio Governo, tramite l&#39;Opera nazionale di assistenza all&#39;Italia redenta, del patrimonio di proprietà della Lega stessa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5877</literal></binding>
+   <binding name="date"><literal>19910724</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifiche ed integrazioni alla legge 2 maggio 1974, n. 195, per l&#39;incentivazione dell&#39;elezione di candidate al Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5956</literal></binding>
+   <binding name="date"><literal>19910912</literal></binding>
+   <binding name="title"><literal>CICCIOMESSERE ed altri: Nuove norme per la prevenzione dell&#39;inquinamento marino causato da oli minerali nel trasporto alla rinfusa via mare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5978</literal></binding>
+   <binding name="date"><literal>19910925</literal></binding>
+   <binding name="title"><literal>D&#39;ADDARIO ed altri: Testo unico per la gestione dei rifiuti e dei residui</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6095</literal></binding>
+   <binding name="date"><literal>19911114</literal></binding>
+   <binding name="title"><literal>NICOTRA ed altri: Modifica dei requisiti per l&#39;iscrizione all&#39;albo ed elevazione del periodo di pratica professionale per i periti industriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6110</literal></binding>
+   <binding name="date"><literal>19911119</literal></binding>
+   <binding name="title"><literal>NICOTRA ed altri: Modifiche e integrazioni alla legge 8 febbraio 1948, n. 47, recante disposizioni sulla stampa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6214</literal></binding>
+   <binding name="date"><literal>19911218</literal></binding>
+   <binding name="title"><literal>SALADINO ed altri: Norme di favore per il pensionamento dei sordomuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1063</literal></binding>
+   <binding name="date"><literal>19870707</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Modifiche al decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, concernenti l&#39;ordinamento degli ufficiali giudiziari, degli aiutanti ufficiali giudiziari e dei coadiutori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1064</literal></binding>
+   <binding name="date"><literal>19870717</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Estensione al convivente more uxorio della non punibilità prevista per il coniuge dagli articoli 307 e 384 del codice penale e della facoltà di astenersi dal testimoniare prevista per il coniuge dall&#39;articolo 350 del codice di procedura penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>112</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Modificazioni della legge 17 febbraio 1968, n. 108, concernente le elezioni dei consigli regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1200</literal></binding>
+   <binding name="date"><literal>19870723</literal></binding>
+   <binding name="title"><literal>SANGUINETI ed altri: Nuove norme in materia di spedizionieri doganali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1220</literal></binding>
+   <binding name="date"><literal>19870727</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Nuove norme per l&#39;ingresso in magistratura, per l&#39;istituzione del Centro studi giudiziari e forensi e per l&#39;organizzazione di scuole post-universitarie per la formazione dei magistrati ordinari e dei procuratori legali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1222</literal></binding>
+   <binding name="date"><literal>19870727</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifiche ed integrazioni alla legge 20 febbraio 1958, n. 75, concernente abolizione della regolamentazione della prostituzione e lotta contro lo sfruttamento della prostituzione altrui</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1225</literal></binding>
+   <binding name="date"><literal>19870727</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Nuove norme sulla pubblicità degli appalti di opere pubbliche e delle pubbliche forniture ad integrazione della legge 2 febbraio 1973, n. 14</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>149</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Norme per combattere la diffusione dell&#39;uso della droga nelle caserme</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>151</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Riconoscimento di ente morale con personalità giuridica del Collegio nazionale capitani di lungo corso e di macchina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1515</literal></binding>
+   <binding name="date"><literal>19870922</literal></binding>
+   <binding name="title"><literal>SANGUINETI ed altri: Nuovo ordinamento della professione di geologo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>152</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Misure per migliorare le condizioni di vita dei marittimi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1527</literal></binding>
+   <binding name="date"><literal>19870923</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Istituzione del difensore civico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>153</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Esercizio del diritto di voto da parte dei marittimi imbarcati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>154</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Norme per garantire la tutela della salute dei naviganti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1601</literal></binding>
+   <binding name="date"><literal>19871002</literal></binding>
+   <binding name="title"><literal>BUFFONI ed altri: Ricusazione del pubblico ministero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1648</literal></binding>
+   <binding name="date"><literal>19871009</literal></binding>
+   <binding name="title"><literal>SEPPIA e ALAGNA: Nuovo inquadramento dei messi di conciliazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1671</literal></binding>
+   <binding name="date"><literal>19871013</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Ordinamento e competenze delle sezioni dei tribunali specializzate per i minorenni e la famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1672</literal></binding>
+   <binding name="date"><literal>19871013</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Nuovo ordinamento del contenzioso e della consulenza legale nelle pubbliche amministrazioni e negli enti pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1950</literal></binding>
+   <binding name="date"><literal>19871125</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifiche agli articoli 104, 160, 160-bis, 165, 166, 167, 169, 171 e 185 dell&#39;ordinamento degli ufficiali giudiziari e degli aiutanti ufficiali giudiziari, approvato con decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, e successive modificazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>265</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Legge-quadro sulle attività sportive in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>278</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>ARTIOLI ed altri: Disciplina della fecondazione artificiale umana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3524</literal></binding>
+   <binding name="date"><literal>19890116</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifica dell&#39;articolo 25 della legge 30 aprile 1969, n. 153, concernente la pensione di reversibilità ai superstiti di coltivatori diretti, coloni e mezzadri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>623</literal></binding>
+   <binding name="date"><literal>19870707</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Modificazioni alla legge 22 aprile 1941, n. 633, ed al codice civile per la protezione del diritto d&#39;autore sulle opere di disegno industriale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>629</literal></binding>
+   <binding name="date"><literal>19870707</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Modifiche alla legge 26 luglio 1975, n. 354, recante norme sull&#39;ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della libertà</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>64</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Norme sull&#39;ammissione in magistratura di membri laici, sulla istituzione di un biennio propedeutico per uditori giudiziari e sulla divisione dei ruoli fra magistratura giudicante ed inquirente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>72</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Norme sulla tutela della dignità della vita e disciplina della eutanasia passiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>74</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Modifiche al decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, concernenti l&#39;ordinamento degli ufficiali giudiziari, degli aiutanti ufficiali giudiziari e dei coadiutori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>75</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Modifiche agli articoli 374 e 516 del codice di procedura penale concernenti i casi di definitività della pronuncia istruttoria e di inammissibilità dell&#39;impugnazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>76</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Nuove norme sulla partecipazione dei minori a spettacoli o a riprese cinematografiche o radiotelevisive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>78</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Modifiche alle disposizioni del codice civile concernenti le decisioni condominiali attinenti alle modalità di ricezione della corrispondenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>79</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Nuove norme in materia di vivisezione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>82</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Modifica dell&#39;articolo 727 del codice penale concernente il maltrattamento di animali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>920</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Disciplina dei rapporti Stato-regioni ed istituzione del fondo sociale per l&#39;emigrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>973</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche al decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, concernenti l&#39;ordinamento degli ufficiali giudiziari, degli aiutanti ufficiali giudiziari e dei coadiutori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>976</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Provvidenze a favore delle vittime di Bruxelles</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>977</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme sull&#39;ammissione in magistratura di membri laici, sulla istituzione di un biennio propedeutico per uditori e sulla divisione dei ruoli fra giudicante ed inquirente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>978</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche agli articoli 374 e 516 del codice di procedura penale concernenti i casi di definitività della pronuncia istruttoria e di inammissibilità dell&#39;impugnazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>983</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Ordinamento della professione di chimico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>987</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Norme per l&#39;assunzione del personale ausiliario dell&#39;amministrazione della giustizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>991</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Integrazione dell&#39;articolo 2958 del codice civile concernente il corso della prescrizione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1219</literal></binding>
+   <binding name="date"><literal>19870724</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Modifiche alle norme concernenti i delitti contro la pubblica amministrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1223</literal></binding>
+   <binding name="date"><literal>19870727</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Applicazione dell&#39;articolo 351 del codice di procedura penale, concernente il diritto di astenersi dal testimoniare, nei confronti dei dottori commercialisti, ragionieri e periti commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1231</literal></binding>
+   <binding name="date"><literal>19870727</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Nuove disposizioni sulle lotterie, tombole e pesche organizzate da associazioni ricreative, culturali e sportive senza fini di lucro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>148</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Modifiche agli articoli 6 e 7 della legge 3 giugno 1981, n. 308, concernente norme in favore dei militari di leva o di carriera infortunati o caduti in servizio e dei loro superstiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1569</literal></binding>
+   <binding name="date"><literal>19870930</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Determinazione dei criteri per istituire presso i comuni fondi destinati alla difesa in giudizio dei cittadini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>157</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Provvedimenti a favore di militari in servizio in caso di infortunio grave o di morte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19870930</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Istituzione del Corpo degli agenti di polizia penitenziaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>166</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>AMODEO ed altri: Istituzione, per i laureati in medicina e chirurgia, di un servizio civile sostitutivo del servizio militare sulle navi mercantili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1882</literal></binding>
+   <binding name="date"><literal>19871113</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Nuova disciplina della responsabilità civile dei magistrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1954</literal></binding>
+   <binding name="date"><literal>19871125</literal></binding>
+   <binding name="title"><literal>CRISTONI ed altri: Tutela e valorizzazione dei dialetti delle regioni italiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2527</literal></binding>
+   <binding name="date"><literal>19880325</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Equiparazione dei figli dei ciechi civili ai figli dei grandi invalidi di guerra ai fini dell&#39;esonero dal servizio militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2854</literal></binding>
+   <binding name="date"><literal>19880609</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Estensione della legge 21 luglio 1984, n. 391, alle pensioni erogate dalla Cassa per le pensioni ai dipendenti degli enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3051</literal></binding>
+   <binding name="date"><literal>19880722</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Modifiche alla legge 20 settembre 1980, n. 576, concernente la riforma del sistema previdenziale forense</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3488</literal></binding>
+   <binding name="date"><literal>19881223</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Nuove norme in materia di pensioni di reversibilità ai superstiti di coltivatori diretti, coloni e mezzadri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3798</literal></binding>
+   <binding name="date"><literal>19890407</literal></binding>
+   <binding name="title"><literal>D&#39;ADDARIO ed altri: Norme in materia di parchi naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4364</literal></binding>
+   <binding name="date"><literal>19891120</literal></binding>
+   <binding name="title"><literal>PIRO ed altri: Misure volte a contrastare il riciclaggio del &quot;denaro sporco&quot; derivante dal traffico di droga e da altri proventi illeciti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>56</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Norme a favore delle vittime della lotta contro il terrorismo e la criminalità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5726</literal></binding>
+   <binding name="date"><literal>19910531</literal></binding>
+   <binding name="title"><literal>LANZINGER ed altri: Proroga del termine previsto dall&#39;articolo 1, comma 1, della legge 23 marzo 1988, n. 94, per l&#39;ultimazione dei lavori della Commissione parlamentare d&#39;inchiesta sul fenomeno della mafia e sulle altre associazioni criminali similari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>60</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Istituzione dell&#39;anagrafe canina e norme fiscali, penali e di polizia relative al possesso dei cani per combattere il randagismo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>61</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Norme penali per reprimere il bracconaggio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>612</literal></binding>
+   <binding name="date"><literal>19870707</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Norme in materia di tutela delle minoranze linguistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>67</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Abrogazione dell&#39;articolo 710 del codice di procedura civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>68</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Abolizione del soggiorno obbligato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>69</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FIANDROTTI ed altri: Modifica del primo comma dell&#39;articolo 1284 del codice civile concernente il saggio degli interessi legali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>947</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifiche ed integrazioni alla legge 20 settembre 1980, n. 576, in materia di previdenza forense</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>979</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Responsabilità disciplinare dei magistrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>980</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Abolizione del soggiorno obbligato</literal></binding>
+  </result>
+ </results>
+</sparql>

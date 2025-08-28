@@ -1,0 +1,664 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1990</literal></binding>
+   <binding name="date"><literal>19960725</literal></binding>
+   <binding name="title"><literal>PALUMBO ed altri: Disciplina del reclutamento dei docenti e dei ricercatori universitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>616</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>PALUMBO ed altri: Norme in materia di riproduzione assistita</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>7317</literal></binding>
+   <binding name="date"><literal>20000927</literal></binding>
+   <binding name="title"><literal>PALUMBO: Istituzione di una Commissione parlamentare permanente con compiti di indirizzo e di controllo sull&#39;attuazione della normativa dell&#39;Unione europea in tema di bioetiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1383</literal></binding>
+   <binding name="date"><literal>19960604</literal></binding>
+   <binding name="title"><literal>CICU ed altri: Abolizione dell&#39;IVA gravante sui trasporti delle persone residenti in ambiti territoriali insulari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1412</literal></binding>
+   <binding name="date"><literal>19960604</literal></binding>
+   <binding name="title"><literal>RADICE ed altri: Disciplina degli approdi turistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1438</literal></binding>
+   <binding name="date"><literal>19960606</literal></binding>
+   <binding name="title"><literal>NAPOLI ed altri: Introduzione dell&#39;insegnamento di stenografia - trattamento testi, classedi concorso 75/A, in alcune facoltà o istituti universitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1454</literal></binding>
+   <binding name="date"><literal>19960606</literal></binding>
+   <binding name="title"><literal>FRAGALÀ ed altri: Istituzione nel territorio della Sicilia delle zone franche di Cefalù, Patti, Capo d&#39;Orlando, Taormina, Giarre-Riposto, Augusta, Capo Passero, Modica, Comiso, Gela, Piazza Armerina, Porto Empedocle, Sciacca, Marsala, San Vito Lo Capo, Lampedusa, Pantelleria, Favignana e Lipari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1727</literal></binding>
+   <binding name="date"><literal>19960702</literal></binding>
+   <binding name="title"><literal>CICU ed altri: Modifica dell&#39;articolo 25 della legge 7 agosto 1990, n. 241, in materia di diritto di accesso ai documenti amministrativi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1776</literal></binding>
+   <binding name="date"><literal>19960704</literal></binding>
+   <binding name="title"><literal>VALDUCCI ed altri: Discilpina delle società sportive dilettantistiche degli enti di promozione sportiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1810</literal></binding>
+   <binding name="date"><literal>19960708</literal></binding>
+   <binding name="title"><literal>CICU ed altri: Istituzione dell&#39;anagrafe telematica e degli uffici di relazione e comunicazione con il pubblico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1967</literal></binding>
+   <binding name="date"><literal>19960724</literal></binding>
+   <binding name="title"><literal>SAVELLI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche agli articoli 83, 85 e 86 della Costituzione in materia di elezione del Presidente della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2077</literal></binding>
+   <binding name="date"><literal>19960801</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: Norme per l&#39;introduzione del &quot;risparmio casa&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>213</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>COLLAVINI ed altri: Norme per l&#39;istituzione e l&#39;esercizio delle case da gioco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2214</literal></binding>
+   <binding name="date"><literal>19960913</literal></binding>
+   <binding name="title"><literal>VALDUCCI ed altri: Norme in materia di successione nelle piccole e medie imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2226</literal></binding>
+   <binding name="date"><literal>19960917</literal></binding>
+   <binding name="title"><literal>APREA ed altri: Norme sugli organi di governo delle istituzioni scolastiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>238</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>MAMMOLA e PALUMBO: Disciplina dell&#39;Autorità di regolazione dei servizi di pubblica utilita&#39;per le telecomunicazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2388</literal></binding>
+   <binding name="date"><literal>19961002</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Norme per la prevenzione degli infortuni nell&#39;esercizio dello sci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>239</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Modifiche alla legge 11 febbraio 1971, n. 50, in materia di abilitazione alla conduzione di natanti da diporto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>241</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Modifiche all&#39;articolo 10 del decreto legislativo 30 aprile 1992, n. 285 (Nuovo codice della strada), in materia di veicoli eccezionali e di trasporti incondizioni di eccezionalità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>242</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Norme per la riorganizzazione del servizio di trasporto aereo e dell&#39;aviazione civile e per le sicurezze dei voli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>243</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Modifiche alla legge 10 maggio 1983, n. 212, in materia di stato giuridico e di avanzamento degli ufficiali e dei sottufficiali delle Forze armate e della Guardia di finanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>244</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Norme per l&#39;accertamento della situazione patrimoniale degli amministratori pubblici, dei membri del Governo, del Parlamento e dei consigli e delle giunte regionali, provinciali e comunali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>244-quinquies</literal></binding>
+   <binding name="date"><literal>19990713</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Disposizioni penali in materia di infedeltà del mandatario e dell&#39;amministrazione (già articolo 21 delle proposte di legge nn. 244,403,1417,1628,2327,2576,2586,2610, bis, B, straciato con deliberazione dell&#39;Assemblea il 13 luglio 999</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>244-ter</literal></binding>
+   <binding name="date"><literal>19980121</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Disciplina dell&#39;attività di relazione per fini non istituzionali o di interesse generale, svolta nei confronti di membri delle Assemblee legislative e dei responsabili degli organismi amministrativi (stralcio degli articoli da 21 a 24 del testo unificato formato dai progetti di legge C.244, C.403, C.780, C.1417,C.1628, C.2327, C.2576, C.2586, C.2610)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>245</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Modifica dell&#39;articolo 52 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2451</literal></binding>
+   <binding name="date"><literal>19961010</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Istituzione di una Commissione parlamentare di inchiesta sugli episodi dicorruzione e di malcostume politico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2789</literal></binding>
+   <binding name="date"><literal>19961128</literal></binding>
+   <binding name="title"><literal>STAGNO D&#39;ALCONTRES ed altri: Norme per la razionalizzazione del settore delle case da gioco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2814</literal></binding>
+   <binding name="date"><literal>19961203</literal></binding>
+   <binding name="title"><literal>MANGIACAVALLO ed altri: Abolizione degli esami di idoneità nazionale all&#39;esercizio delle funzionidi direzione e nuove norme per l&#39;esercizio delle funzioni di direzione sanitaria ed amministrativa delle unità sanitarie locali e delle aziende ospedaliere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2817</literal></binding>
+   <binding name="date"><literal>19961203</literal></binding>
+   <binding name="title"><literal>MISURACA ed altri: Estensione dei benefici di cui alla legge 24 maggio 1970, n. 336, ai mutilati e agli invalidi per servizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2914</literal></binding>
+   <binding name="date"><literal>19961219</literal></binding>
+   <binding name="title"><literal>STAGNO D&#39;ALCONTRES ed altri: Istituzione del commissario regionale per i grandi rischi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2965</literal></binding>
+   <binding name="date"><literal>19970114</literal></binding>
+   <binding name="title"><literal>MICHELINI ed altri: Modifica dell&#39;articolo 1 del codice civile concernente il riconoscimento della personalità giuridica di ogni essere umano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3031</literal></binding>
+   <binding name="date"><literal>19970123</literal></binding>
+   <binding name="title"><literal>PISANU ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Revisione dell&#39;ordinamento della Repubblica per l&#39;introduzione della forma di governo presidenziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3046</literal></binding>
+   <binding name="date"><literal>19970123</literal></binding>
+   <binding name="title"><literal>BONO ed altri: Modifiche alla legge 11 febbraio 1992, n. 157, in materia di associazionivenatorie riconosciute</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3048</literal></binding>
+   <binding name="date"><literal>19970123</literal></binding>
+   <binding name="title"><literal>BONO ed altri: Introduzione dell&#39;articolo 610-bis del codice penale, in materia di attività tendenti ad abusare della credulità popolare e dell&#39;articolo 15-bis della legge 8 febbraio 1948, n. 47, in materia di divieto di pubblicità di attività occultistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3122</literal></binding>
+   <binding name="date"><literal>19970129</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Ordinamento della Repubblica delle autonomie e introduzione della forma di governo semipresidenziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3204</literal></binding>
+   <binding name="date"><literal>19970212</literal></binding>
+   <binding name="title"><literal>NAN ed altri: Norme in materia di deducibilità delle spese per turismo in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3211</literal></binding>
+   <binding name="date"><literal>19970213</literal></binding>
+   <binding name="title"><literal>ACIERNO ed altri: Proroga, per le imprese artigiane, dei termini previsti dal decreto legislativo 19 settembre 1994, n. 626, in materia di salute e sicurezza dei lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3214</literal></binding>
+   <binding name="date"><literal>19970213</literal></binding>
+   <binding name="title"><literal>MATRANGA ed altri: Disciplina della professione di ottico optometrista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3239</literal></binding>
+   <binding name="date"><literal>19970219</literal></binding>
+   <binding name="title"><literal>ACIERNO ed altri: Sospensione per i residenti nella regione Sicilia del contributo straordinario per l&#39;Europa di cui all&#39;articolo 3, comma 194, della legge 23 dicembre 1996, n. 662</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3282</literal></binding>
+   <binding name="date"><literal>19970225</literal></binding>
+   <binding name="title"><literal>CONTI ed altri: Norme per la tutela della salute nelle scuole di ogni ordine e grado e istituzione del medico scolastico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3349</literal></binding>
+   <binding name="date"><literal>19970304</literal></binding>
+   <binding name="title"><literal>FEI ed altri: Nuove norme in materia di impianti termici degli edifici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3350</literal></binding>
+   <binding name="date"><literal>19970304</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Norme per l&#39;acquisizione da parte degli enti locali di siti dismessi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3414</literal></binding>
+   <binding name="date"><literal>19970313</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: Norme sul Governo dell&#39;istruzione pubblica fondata sulla libertà di educazione e di insegnamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3417</literal></binding>
+   <binding name="date"><literal>19970313</literal></binding>
+   <binding name="title"><literal>PECORARO SCANIO ed altri: Norme per la tutela dei diritti e degli interessi dei consumatori e degliutenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3617</literal></binding>
+   <binding name="date"><literal>19970428</literal></binding>
+   <binding name="title"><literal>GARRA ed altri: Nuove norme in materia di sanatoria degli abusi edilizi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3651</literal></binding>
+   <binding name="date"><literal>19970506</literal></binding>
+   <binding name="title"><literal>GARRA ed altri: Modifiche all&#39;articolo 15 della legge 19 marzo 1990, n. 55, in materia didecadenza dalla carica per i consiglieri regionali, provinciali e comunali, e agli articoli 444 e 445 del codice di procedura penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3652</literal></binding>
+   <binding name="date"><literal>19970506</literal></binding>
+   <binding name="title"><literal>CONTE ed altri: Soppressione della tasse sulle concessioni governative per i passaporti ele patenti di guida</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3749</literal></binding>
+   <binding name="date"><literal>19970523</literal></binding>
+   <binding name="title"><literal>BONO ed altri: Disposizioni in materia di istituzione di case da gioco sul territorio nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>379</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BALOCCHI ed altri: Trasferimento dei beni del demanio marittimo dello Stato al demanio dei comuni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3871</literal></binding>
+   <binding name="date"><literal>19970617</literal></binding>
+   <binding name="title"><literal>PRESTIGIACOMO ed altri: Nuove norme a tutela della maternità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3871-B</literal></binding>
+   <binding name="date"><literal>19970617</literal></binding>
+   <binding name="title"><literal>PRESTIGIACOMO ed altri: Disposizioni per il sostegno della maternità e della paternità, per il diritto alla cura e alla formazione e per il coordinamento dei tempi delle città (approvato, in un testo unificato, dalla Camera e modificato dal Senato (S. 4275)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3927</literal></binding>
+   <binding name="date"><literal>19970627</literal></binding>
+   <binding name="title"><literal>APREA ed altri: Disposizioni per la riforma degli esami di Stato conclusivi dei corsi di studio di istruzione secondaria superiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3936</literal></binding>
+   <binding name="date"><literal>19970701</literal></binding>
+   <binding name="title"><literal>APREA ed altri: Norme in materia di accesso all&#39;università ed alle professioni dei diplomati delle scuole secondarie superiori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3981</literal></binding>
+   <binding name="date"><literal>19970709</literal></binding>
+   <binding name="title"><literal>GARRA ed altri: Disposizioni per la trasparenza dell&#39;affidamento degli incarichi per consulenze da parte di enti pubblici o di società di capitali a partecipazione pubblica maggioritaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>401</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>LUCCHESE ed altri: Norme per l&#39;incentivazione dell&#39;economia siciliana tramite riduzione del carico fiscale gravante sui consumi energetici nell&#39;isola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>402</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>LUCCHESE ed altri: Rifinanziamento del Fondo di solidarietà previsto dall&#39;articolo 38 dello statuto della Regione siciliana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4028</literal></binding>
+   <binding name="date"><literal>19970722</literal></binding>
+   <binding name="title"><literal>TARADASH ed altri: Norme per il riordino dell&#39;ordinamento scolastico fondato sulla libertà di apprendimento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>405</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>LUCCHESE ed altri: Norme per il riconoscimento dello stato giuridico del neonato sano e per una corretta assistenza neonatale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4126</literal></binding>
+   <binding name="date"><literal>19970911</literal></binding>
+   <binding name="title"><literal>AMATO ed altri: Disciplina della professione dei diplomati universitari delle facoltà di agraria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4130</literal></binding>
+   <binding name="date"><literal>19970916</literal></binding>
+   <binding name="title"><literal>MANTOVANO ed altri: Modifica all&#39;articolo 1 del decreto legislativo 31 dicembre 1992, n. 545,concernente gli organi di giurisdizione tributaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4237</literal></binding>
+   <binding name="date"><literal>19971009</literal></binding>
+   <binding name="title"><literal>BONO ed altri: Nuove disposizioni per la determinazione dei canoni relativi a concessioni demaniali marittime</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4269</literal></binding>
+   <binding name="date"><literal>19971023</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: Disposizioni concernenti l&#39;istituzione di una sezione specializzata del tribunale per la tutela dei diritti dei minori e della famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4379</literal></binding>
+   <binding name="date"><literal>19971201</literal></binding>
+   <binding name="title"><literal>FRAGALÀ ed altri: Istituzione del ruolo ad esaurimento dei magistrati di complemento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4416</literal></binding>
+   <binding name="date"><literal>19971218</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: Nuovo ordinamento dei gradi di istruzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4449</literal></binding>
+   <binding name="date"><literal>19980114</literal></binding>
+   <binding name="title"><literal>SANTORI ed altri: Modifica all&#39;articolo 49 del decreto legislativo 15 novembre 1993, n. 507, in materia di esenzioni dal pagamento della tassa per l&#39;occupazione del suolo pubblico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4504</literal></binding>
+   <binding name="date"><literal>19980129</literal></binding>
+   <binding name="title"><literal>GIULIANO ed altri: Norme per la redazione e la pubblicazione del rendiconto annuale di esercizio dei sindacati e delle loro associazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4588</literal></binding>
+   <binding name="date"><literal>19980219</literal></binding>
+   <binding name="title"><literal>PIVETTI ed altri: Modifica all&#39;articolo 33 della Costituzione concernente la tutela e la promozione delle attività sportive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4743</literal></binding>
+   <binding name="date"><literal>19980401</literal></binding>
+   <binding name="title"><literal>PAMPO ed altri: Disposizioni in materia di collocamento in quiescenza del personale scolastico che ha revocato la domanda di pensionamento entro il 14 aprile 1997</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4832</literal></binding>
+   <binding name="date"><literal>19980429</literal></binding>
+   <binding name="title"><literal>SIMEONE ed altri: Concessione di un contributo straordinario a favore del comune di Pietrelicna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4866</literal></binding>
+   <binding name="date"><literal>19980513</literal></binding>
+   <binding name="title"><literal>ALOI ed altri: Norme per la tutela del bergamotto e dei suoi derivati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4869</literal></binding>
+   <binding name="date"><literal>19980513</literal></binding>
+   <binding name="title"><literal>TARADASH ed altri: Delega al Governo per l&#39;introduzione del voto elettronico e per la disciplina della sottoscrizione per via telematica delle liste elettorali, delle candidature e delle richieste di referendum popolare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4871</literal></binding>
+   <binding name="date"><literal>19980513</literal></binding>
+   <binding name="title"><literal>TARADASH ed altri: Disposizioni per l&#39;alfabetizzazione informatica e telematica nelle scuole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4872</literal></binding>
+   <binding name="date"><literal>19980513</literal></binding>
+   <binding name="title"><literal>TARADASH ed altri: Istituzione dell&#39;albo pretorio telematico dei comuni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4920</literal></binding>
+   <binding name="date"><literal>19980526</literal></binding>
+   <binding name="title"><literal>GARRA ed altri: Modifiche all&#39;articolo 6 della legge 6 dicembre 1971, n. 1034, in materiadi sospensione cautelare dei decreti di indizione delle elezioni per il rinnovodegli organi elettivi degli enti locali e delle regioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4983</literal></binding>
+   <binding name="date"><literal>19980611</literal></binding>
+   <binding name="title"><literal>APREA ed altri: Disposizioni in materia di organici funzionali e di reclutamento del personale della scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5099</literal></binding>
+   <binding name="date"><literal>19980714</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: Disposizioni urgenti per l&#39;elevamento dell&#39;obbligo di istruzione scolastica o professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5108</literal></binding>
+   <binding name="date"><literal>19980715</literal></binding>
+   <binding name="title"><literal>CICU ed altri: Esenzione del pagamento della tassa di circolazione per autoveicoli, rimorchi a autoscafi, per effetto di procura a vendere a terzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5309</literal></binding>
+   <binding name="date"><literal>19981009</literal></binding>
+   <binding name="title"><literal>MISURACA ed altri: Interventi in favore delle aziende agricole della Sicilia colpite da calamità naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5615</literal></binding>
+   <binding name="date"><literal>19990127</literal></binding>
+   <binding name="title"><literal>GARRA ed altri: Modifiche allo Statuto della Regione siciliana in materia di elezione diretta del Presidente della Regione, di durata dell&#39;Assemblea regionale e di iniziativa legislativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5615-B</literal></binding>
+   <binding name="date"><literal>19990127</literal></binding>
+   <binding name="title"><literal>GARRA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche allo Statuto della Regione siciliana in materia di elezione diretta del Presidente della Regione, di durata dell&#39;Assemblea regionale e di iniziativa legislativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5615-D</literal></binding>
+   <binding name="date"><literal>19990127</literal></binding>
+   <binding name="title"><literal>GARRA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche allo Statuto della Regione siciliana in materia di elezione diretta del Presidente della Regione, di durata dell&#39;Assemblea regionale e di iniziativa legislativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5620</literal></binding>
+   <binding name="date"><literal>19990129</literal></binding>
+   <binding name="title"><literal>MISURACA ed altri: Disposizioni in materia di sicurezza stradale e di tutela dei superstiti delle vittime di incidenti stradali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5660</literal></binding>
+   <binding name="date"><literal>19990208</literal></binding>
+   <binding name="title"><literal>MATRANGA ed altri: Disposizioni per l&#39;obbligatorietà della certificazione delle parcelle dovute ai professionisti per prestazioni tecniche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5919</literal></binding>
+   <binding name="date"><literal>19990419</literal></binding>
+   <binding name="title"><literal>GARRA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Ordinamento federale della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5919-B</literal></binding>
+   <binding name="date"><literal>19990419</literal></binding>
+   <binding name="title"><literal>GARRA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Ordinamento federale della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6159</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche alla legge 13 aprile 1988, n. 117, in materia di responsabilitàcivile dei magistrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6160</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche all&#39;articolo 10 del decreto legislativo 23 dicembre 1997, n. 469, in materia di gestione delle agenzie di collocamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6161</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche all&#39;articolo 63 della legge 23 dicembre 1978, n. 833, e all&#39;articolo 9 del decreto legislativo 30 dicembre 1992, n. 502, in materia di libera scelta della forma di assistenza sanitaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6162</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche al decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e alla legge 27 dicembre 1997, n. 449, concernenti il sostituto d&#39;imposta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6163</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche agli articoli 303 e 304 del codice di procedura penale, concernenti i termini della custodia cautelare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6164</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche alla legge 18 dicembre 1973, n. 877, recante nuove norme per latutela del lavoro a domicilio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6165</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche all&#39;articolo 1 della legge 8 agosto 1995, n. 335, recante riforma del sistema pensionistico obbligatorio e complementare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6166</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche all&#39;ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, in materia di separazione delle carriere dei magistrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6167</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche alla legge 24 marzo 1958, n. 195, in materia di elezione dei membri togati del Consiglio superiore della magistratura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6168</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche alla legge 23 aprile 1959, n. 189, recante ordinamento del Corpo della Guardia di finanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6169</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche al testo unico emanato con decreto del Presidente della Repubblica 30 giugno 1965, n. 1124, e al decreto legislativo 30 giugno 1994, n. 479, inmateria di assicurazione contro gli infortuni sul lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6170</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Nuove disposizioni in materia di contratto di lavoro a tempo determinato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6171</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Abrogazione del decreto legislativo del Capo provvisorio dello Stato 29 luglio 1947, n. 804, recante riconoscimento giuridico degli Istituti di patronatoe di assistenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6172</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifica all&#39;articolo 16 dell&#39;ordinamento giudiziario, approvato con regio decreto 30 gennaio 1941, n. 12, in materia di incarichi extragiudiziari dei magistrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6173</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Abrogazione dell&#39;articolo 5 del decreto-legge 30 ottobre 1984, n. 726, convertito, con modificazioni, dalla legge 19 dicembre 1984, n. 863, in materia dicontratti di lavoro a tempo parziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6174</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Abrogazione dell&#39;articolo 18 della legge 20 maggio 1970, n. 300, in materia di vincoli al licenziamento nelle imprese con  più di quindici dipendenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6175</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Abrogazione della legge 4 giugno 1973, n. 311, recante disposizioni in materia di estensione del servizio di riscossione dei contributi associativi tramite gli enti previdenziali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6176</literal></binding>
+   <binding name="date"><literal>19990622</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modifiche al codice di procedura civile e al codice di procedura penale in materia di perentorietà dei termini processuali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6569</literal></binding>
+   <binding name="date"><literal>19991116</literal></binding>
+   <binding name="title"><literal>AMATO ed altri: Disposizioni in materia di vincoli alla proprietà privata per motivi di interesse storico-archeologico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6574</literal></binding>
+   <binding name="date"><literal>19991117</literal></binding>
+   <binding name="title"><literal>MATRANGA ed altri: Norme per garantire la sicurezza dei fabbricati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6611</literal></binding>
+   <binding name="date"><literal>19991201</literal></binding>
+   <binding name="title"><literal>ALOI ed altri: Disposizioni in materia di divieto delle mutilazioni genitali femminili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6903</literal></binding>
+   <binding name="date"><literal>20000329</literal></binding>
+   <binding name="title"><literal>GARRA ed altri: Disposizioni in favore del settore agricolo e per fronteggiare la crisi del settore agrumicolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>707</literal></binding>
+   <binding name="date"><literal>19960510</literal></binding>
+   <binding name="title"><literal>NAPOLI ed altri: Nuove norme in materia di erogazione di contributi statali ad enti culturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>815</literal></binding>
+   <binding name="date"><literal>19960514</literal></binding>
+   <binding name="title"><literal>GARRA ed altri: Modifiche allo statuto della regione siciliana</literal></binding>
+  </result>
+ </results>
+</sparql>

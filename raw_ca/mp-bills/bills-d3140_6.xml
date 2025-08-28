@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>76</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>IOTTI ed altri: Riforma del diritto di famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1189</literal></binding>
+   <binding name="date"><literal>19721122</literal></binding>
+   <binding name="title"><literal>SGARBI BOMPANI ed altri: Modifica della legge 30 dicembre 1971, n. 1204 concernente la tutela delle lavoratrici madri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1775</literal></binding>
+   <binding name="date"><literal>19730301</literal></binding>
+   <binding name="title"><literal>FLAMIGNI ed altri: Norme per l&#39;applicazione dei diritti di libertà e di organizzazione sindacale per il personale civile e militare dell&#39;amministrazione della pubblica sicurezza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2369</literal></binding>
+   <binding name="date"><literal>19731004</literal></binding>
+   <binding name="title"><literal>CORGHI ed altri: Istituzione e compiti dei &quot;Comitati per la tutela dell&#39;emigrazione italiana&quot; all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3474</literal></binding>
+   <binding name="date"><literal>19750214</literal></binding>
+   <binding name="title"><literal>FABBRI SERONI ed altri: Norme per la regolamentazione della interruzione volontaria di gravidanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>426</literal></binding>
+   <binding name="date"><literal>19720707</literal></binding>
+   <binding name="title"><literal>LODI FAUSTINI FUSTINI ed altri: Norme generali sull&#39;assistenza e beneficenza pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1159</literal></binding>
+   <binding name="date"><literal>19721116</literal></binding>
+   <binding name="title"><literal>FLAMIGNI ed altri: Abrogazione delle norme che limitano il diritto a contrarre il matrimonio del personale dei corpi di polizia, forze armate e corpi assimilati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1239</literal></binding>
+   <binding name="date"><literal>19721201</literal></binding>
+   <binding name="title"><literal>CHIOVINI FACCHI ed altri: Scioglimento dell&#39;Opera nazionale per la protezione della maternità e infanzia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2941</literal></binding>
+   <binding name="date"><literal>19740515</literal></binding>
+   <binding name="title"><literal>FLAMIGNI ed altri: Abrogazione delle norme che limitano il diritto a contrarre matrimonio del personale dei corpi di polizia, forze armate e corpi assimilati</literal></binding>
+  </result>
+ </results>
+</sparql>

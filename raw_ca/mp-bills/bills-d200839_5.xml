@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1042</literal></binding>
+   <binding name="date"><literal>19690217</literal></binding>
+   <binding name="title"><literal>DARIDA ed altri: Modifiche alla legge 14 febbraio 1963, n. 161, concernente la disciplina dell&#39;attività di barbiere, parrucchiere ed affine</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>879</literal></binding>
+   <binding name="date"><literal>19690122</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Norme a favore dei dipendenti civili dello Stato, degli enti ed istituti di diritto pubblico e delle aziende pubbliche e private, ex combattenti mutilati ed invalidi di guerra e categorie assimilate</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1539</literal></binding>
+   <binding name="date"><literal>19770615</literal></binding>
+   <binding name="title"><literal>VITTORELLI ed altri: Finanziamento dell&#39;Istituto affari internazionali (IAI)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1988</literal></binding>
+   <binding name="date"><literal>19780110</literal></binding>
+   <binding name="title"><literal>BERLINGUER ed altri: Riforma dei Comitati consolari e partecipazione democratica degli emigrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2147</literal></binding>
+   <binding name="date"><literal>19780404</literal></binding>
+   <binding name="title"><literal>PICCHIONI ed altri: Contributo alla Maison de l&#39;Italie della città universitaria di Parigi</literal></binding>
+  </result>
+ </results>
+</sparql>

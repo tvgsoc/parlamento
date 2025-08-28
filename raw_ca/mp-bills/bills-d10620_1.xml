@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>143</literal></binding>
+   <binding name="date"><literal>19481022</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1513</literal></binding>
+   <binding name="date"><literal>19500728</literal></binding>
+   <binding name="title"><literal>FADDA ed altri: Sistemazione in Sardegna della sovrapopolazione di altre regioni, mediante valorizzazione delle risorse agricole ed industriali dell&#39;Isola. - Istituzione dell&#39;&quot;Opera per la valorizzazione nazionale della Sardegna&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1571</literal></binding>
+   <binding name="date"><literal>19501007</literal></binding>
+   <binding name="title"><literal>ADONNINO ed altri: Indennità speciale in occasione di servizi di emergenza per pubblica sicurezza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1758</literal></binding>
+   <binding name="date"><literal>19510111</literal></binding>
+   <binding name="title"><literal>BARTOLE ed altri: Disciplina farmaceutica dei derivati della malonilurea (barbiturici)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2348</literal></binding>
+   <binding name="date"><literal>19511127</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Proroga delle disposizioni concernenti i termini e le modalità di versamento dei contributi unificati  dell&#39;agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2412</literal></binding>
+   <binding name="date"><literal>19511213</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Norme modificative ed integrative agli articoli del testo unico di leggi sulle acque e sugli impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775, riguardante l&#39;economia delle zone montane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>479</literal></binding>
+   <binding name="date"><literal>19490408</literal></binding>
+   <binding name="title"><literal>LUCIFREDI ed altri: Aumento dell&#39;indennità di residenza per le farmacie rurali</literal></binding>
+  </result>
+ </results>
+</sparql>

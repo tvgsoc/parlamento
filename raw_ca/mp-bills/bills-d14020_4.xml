@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2495</literal></binding>
+   <binding name="date"><literal>19650702</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Scuole speciali per minorati ed inserimento degli adolescenti minorati nella vita sociale e nelle forze del lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1682</literal></binding>
+   <binding name="date"><literal>19640930</literal></binding>
+   <binding name="title"><literal>NAPOLI ed altri: Estensione dell&#39;assistenza sanitaria e farmaceutica ai congiunti dei caduti, dei dispersi e delle vittime civili di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1713</literal></binding>
+   <binding name="date"><literal>19641009</literal></binding>
+   <binding name="title"><literal>ZAPPA ed altri: Vaccinazione antitubercolare obbligatoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2425</literal></binding>
+   <binding name="date"><literal>19650603</literal></binding>
+   <binding name="title"><literal>ABATE ed altri: Determinazione della indennità spettante ai membri del Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4489</literal></binding>
+   <binding name="date"><literal>19671019</literal></binding>
+   <binding name="title"><literal>BUTTÈ ed altri: Modificazione alla legge 18 aprile 1962, n. 194, concernente norme relative al sistema aeroportuale di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4806</literal></binding>
+   <binding name="date"><literal>19680123</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Integrazione della legge 28 luglio 1967, n. 669, sulla estensione dell&#39;assicurazione contro le malattie in favore dei sacerdoti di culto cattolico e dei ministri delle altre confessioni religiose</literal></binding>
+  </result>
+ </results>
+</sparql>

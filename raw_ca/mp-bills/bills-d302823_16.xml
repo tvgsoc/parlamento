@@ -1,0 +1,604 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2127</literal></binding>
+   <binding name="date"><literal>20090129</literal></binding>
+   <binding name="title"><literal>DAL LAGO e LUCIANO DUSSIN: &quot;Nuove norme in materia di esercizio della prostituzione&quot; (2127)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3389</literal></binding>
+   <binding name="date"><literal>20100413</literal></binding>
+   <binding name="title"><literal>DAL LAGO ed altri: &quot;Disposizioni per favorire la qualità della vita delle persone non autosufficienti&quot; (3389)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3463</literal></binding>
+   <binding name="date"><literal>20100510</literal></binding>
+   <binding name="title"><literal>DAL LAGO ed altri: &quot;Piano straordinario di intervento per lo sviluppo del sistema territoriale per l&#39;adozione dei protocolli di presa in carico delle famiglie con persone affette da disabilità grave che restano prive di adeguato sostegno familiare&quot; (3463)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3838</literal></binding>
+   <binding name="date"><literal>20101108</literal></binding>
+   <binding name="title"><literal>DAL LAGO ed altri: &quot;Modifiche all&#39;articolo 9 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, in materia di cessione dei crediti nei riguardi delle regioni, degli enti locali e degli enti del Servizio sanitario nazionale per somministrazioni, forniture e appalti&quot; (3838)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3970</literal></binding>
+   <binding name="date"><literal>20101216</literal></binding>
+   <binding name="title"><literal>DAL LAGO ed altri: &quot;Norme per la riduzione dei termini di pagamento nelle transazioni commerciali e per il recupero dei crediti, nonché istituzione di un fondo rotativo presso le camere di commercio, industria, artigianato e agricoltura per la cessione dei crediti delle imprese&quot; (3970)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4853</literal></binding>
+   <binding name="date"><literal>20111220</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE DAL LAGO ed altri: &quot;Abrogazione del secondo comma dell&#39;articolo 59 della Costituzione, concernente la nomina dei senatori a vita&quot; (4853)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4900</literal></binding>
+   <binding name="date"><literal>20120124</literal></binding>
+   <binding name="title"><literal>DAL LAGO ed altri: &quot;Modifica all&#39;articolo 2 della legge 7 agosto 1990, n. 241, in materia di perentorietà dei termini per la conclusione dei procedimenti amministrativi, e al codice di cui al decreto legislativo 12 aprile 2006, n. 163, in materia di procedure di affidamento degli appalti, di verifica delle offerte e di consultazioni preliminari, nonché disposizioni di semplificazione concernenti il settore delle costruzioni&quot; (4900)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4901</literal></binding>
+   <binding name="date"><literal>20120124</literal></binding>
+   <binding name="title"><literal>DAL LAGO ed altri: &quot;Modifica dell&#39;articolo 23-bis e abrogazione dell&#39;articolo 23-ter del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, in materia di trattamenti economici erogati, anche indirettamente, a carico delle finanze pubbliche&quot; (4901)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5208</literal></binding>
+   <binding name="date"><literal>20120516</literal></binding>
+   <binding name="title"><literal>DAL LAGO ed altri: &quot;Norme per la riorganizzazione del sistema pubblico radiofonico, televisivo e multimediale, nonché per la dismissione della partecipazione dello Stato nel capitale della società RAI-Radiotelevisione italiana Spa&quot; (5208)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1329</literal></binding>
+   <binding name="date"><literal>20080618</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE COTA ed altri: &quot;Modifica all&#39;articolo 11 della Costituzione in materia di partecipazione dell&#39;Italia all&#39;Unione europea&quot; (1329)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1330</literal></binding>
+   <binding name="date"><literal>20080618</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE COTA ed altri: &quot;Indizione di un referendum per l&#39;approvazione della legge di autorizzazione alla ratifica del Trattato di Lisbona, sottoscritto il 13 dicembre 2007&quot; (1330)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1429</literal></binding>
+   <binding name="date"><literal>20080702</literal></binding>
+   <binding name="title"><literal>LUSSANA ed altri: &quot;Modifiche alla legge 13 aprile 1988, n. 117, in materia di responsabilità civile dei magistrati&quot; (1429)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1430</literal></binding>
+   <binding name="date"><literal>20080702</literal></binding>
+   <binding name="title"><literal>LUSSANA ed altri: &quot;Delega al Governo in materia di elezione popolare dei giudici di pace&quot; (1430)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1465</literal></binding>
+   <binding name="date"><literal>20080709</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE BRIGANDI&#39; ed altri: &quot;Modifiche all&#39;articolo 68 della Costituzione e nuove norme in materia di prerogative parlamentari&quot; (1465)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1530</literal></binding>
+   <binding name="date"><literal>20080723</literal></binding>
+   <binding name="title"><literal>FEDRIGA ed altri: &quot;Delega al Governo in materia di benefìci previdenziali in favore dei lavoratori occupati in attività usuranti&quot; (1530)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1531</literal></binding>
+   <binding name="date"><literal>20080723</literal></binding>
+   <binding name="title"><literal>CAPARINI ed altri: &quot;Disposizioni per la restituzione dei contributi previdenziali versati da talune lavoratrici che, alla data del 31 dicembre 1992, non avessero raggiunto il periodo minimo di contribuzione e non siano titolari di trattamenti previdenziali o assistenziali&quot; (1531)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1532</literal></binding>
+   <binding name="date"><literal>20080723</literal></binding>
+   <binding name="title"><literal>CAPARINI ed altri: &quot;Disposizioni in materia di cumulo tra le prestazioni erogate dall&#39;INAIL e dall&#39;INPS&quot; (1532)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1533</literal></binding>
+   <binding name="date"><literal>20080723</literal></binding>
+   <binding name="title"><literal>CAPARINI ed altri: &quot;Norme in materia di bilancio dei sindacati e delle loro associazioni nonché in materia di trattenute sindacali&quot; (1533)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1576</literal></binding>
+   <binding name="date"><literal>20080731</literal></binding>
+   <binding name="title"><literal>BITONCI ed altri: &quot;Disposizioni per l&#39;individuazione e la tutela delle città murate e dei centri fortificati&quot; (1576)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1656</literal></binding>
+   <binding name="date"><literal>20080917</literal></binding>
+   <binding name="title"><literal>RAINIERI ed altri: &quot;Disposizioni per la celebrazione del secondo centenario della nascita di Giuseppe Verdi&quot; (1656)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1710</literal></binding>
+   <binding name="date"><literal>20080929</literal></binding>
+   <binding name="title"><literal>COTA ed altri: &quot;Nuove norme per il reclutamento regionale del personale docente&quot; (1710)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1764</literal></binding>
+   <binding name="date"><literal>20081009</literal></binding>
+   <binding name="title"><literal>COTA ed altri: &quot;Disposizioni a tutela della vita nella fase terminale e in materia di terapie del dolore&quot; (1764)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1764-bis</literal></binding>
+   <binding name="date"><literal>20090217</literal></binding>
+   <binding name="title"><literal>COTA ed altri: &quot;Disposizioni a tutela della vita nella fase terminale&quot; (testo risultante dallo stralcio degli articoli da 6 a 13 della proposta di legge 1764, deliberato dall&#39;Assemblea il 17 febbraio 2009) (1764-bis)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1764-ter</literal></binding>
+   <binding name="date"><literal>20090217</literal></binding>
+   <binding name="title"><literal>COTA ed altri: &quot;Disposizioni in materia di terapie del dolore&quot; (già articoli da 6 a 13 della proposta di legge 1764, stralciati con deliberazione dell&#39;Assemblea il 17 febbraio 2009) (1764-ter)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1850</literal></binding>
+   <binding name="date"><literal>20081029</literal></binding>
+   <binding name="title"><literal>RONDINI ed altri: &quot;Norme in favore dei militari vittime del dovere in tempo di pace&quot; (1850)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1921</literal></binding>
+   <binding name="date"><literal>20081119</literal></binding>
+   <binding name="title"><literal>CASSINELLI ed altri: &quot;Modifiche all&#39;articolo 1 della legge 7 marzo 2001, n. 62, in materia di definizione e disciplina del prodotto editoriale e agli articoli 5 e 16 della legge 8 febbraio 1948, n. 47&quot; (1921)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1938</literal></binding>
+   <binding name="date"><literal>20081121</literal></binding>
+   <binding name="title"><literal>STEFANI ed altri: &quot;Modifiche alla legge 25 marzo 1997, n. 68, e all&#39;articolo 1 della legge 31 marzo 2005, n. 56, concernenti l&#39;Istituto nazionale per il commercio estero&quot; (1938)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1998</literal></binding>
+   <binding name="date"><literal>20081210</literal></binding>
+   <binding name="title"><literal>GUIDO DUSSIN ed altri: &quot;Modifiche al codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, e altre disposizioni in materia di circolazione delle biciclette e di caratteristiche tecniche delle piste ciclabili&quot; (1998)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2126</literal></binding>
+   <binding name="date"><literal>20090129</literal></binding>
+   <binding name="title"><literal>GUIDO DUSSIN ed altri: &quot;Norme per lo sviluppo della mobilità ciclistica, per la promozione dell&#39;uso della bicicletta e per la realizzazione di reti di percorsi ciclabili&quot; (2126)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2166</literal></binding>
+   <binding name="date"><literal>20090205</literal></binding>
+   <binding name="title"><literal>FORCOLIN ed altri: &quot;Modifiche al testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, concernenti misure fiscali per fronteggiare la crisi del settore automobilistico&quot; (2166)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2210</literal></binding>
+   <binding name="date"><literal>20090216</literal></binding>
+   <binding name="title"><literal>FUGATTI ed altri: &quot;Modifiche agli articoli 28 e 29 del decreto legislativo 31 marzo 1998, n. 114, per assicurare la regolarità contributiva e previdenziale nell&#39;esercizio delle attività di commercio al dettaglio su aree pubbliche&quot; (2210)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2237</literal></binding>
+   <binding name="date"><literal>20090224</literal></binding>
+   <binding name="title"><literal>LUSSANA ed altri: &quot;Modifiche al codice civile in materia di stato giuridico dei figli&quot; (2237)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2253</literal></binding>
+   <binding name="date"><literal>20090302</literal></binding>
+   <binding name="title"><literal>FORCOLIN ed altri: &quot;Modifica all&#39;articolo 15 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di detraibilità delle spese relative alla frequenza di scuole dell&#39;infanzia paritarie&quot; (2253)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2280</literal></binding>
+   <binding name="date"><literal>20090311</literal></binding>
+   <binding name="title"><literal>GOISIS ed altri: &quot;Delega al Governo e altre disposizioni concernenti la disciplina delle attività circensi&quot; (2280)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2439</literal></binding>
+   <binding name="date"><literal>20090514</literal></binding>
+   <binding name="title"><literal>BITONCI ed altri: &quot;Istituzione di un Fondo per il restauro, il recupero e la valorizzazione culturale, turistica e sociale delle Mura castellane di Cittadella&quot; (2439)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2461</literal></binding>
+   <binding name="date"><literal>20090521</literal></binding>
+   <binding name="title"><literal>RIVOLTA ed altri: &quot;Nuove norme in materia di Servizio civile nazionale&quot; (2461)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2624</literal></binding>
+   <binding name="date"><literal>20090720</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione di prodotti tessili&quot; (2624)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2624-B</literal></binding>
+   <binding name="date"><literal>20100311</literal></binding>
+   <binding name="title"><literal>S. 1930. - REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione di prodotti tessili, della pelletteria e calzaturieri&quot; (approvata dalla Camera e modificata dalla 10a Commissione permanente del Senato) (2624-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2754</literal></binding>
+   <binding name="date"><literal>20090930</literal></binding>
+   <binding name="title"><literal>VIGNALI ed altri: &quot;Norme per la tutela della libertà d&#39;impresa. Statuto delle imprese&quot; (2754)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2769</literal></binding>
+   <binding name="date"><literal>20091002</literal></binding>
+   <binding name="title"><literal>COTA ed altri: &quot;Modifica dell&#39;articolo 5 della legge 22 maggio 1975, n. 152, in materia di tutela dell&#39;ordine pubblico e di identificabilità delle persone&quot; (2769)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3019</literal></binding>
+   <binding name="date"><literal>20091203</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Modifiche al decreto legislativo 23 luglio 1999, n. 242, per l&#39;adeguamento dell&#39;organizzazione del Comitato olimpico nazionale italiano in senso federalista, regionale e provinciale&quot; (3019)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3025</literal></binding>
+   <binding name="date"><literal>20091207</literal></binding>
+   <binding name="title"><literal>TORAZZI ed altri: &quot;Interventi in materia contributiva e tributaria a sostegno delle piccole e medie imprese&quot; (3025)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3068</literal></binding>
+   <binding name="date"><literal>20091217</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE LUCIANO DUSSIN ed altri: &quot;Modifiche agli articoli 56 e 57 della Costituzione in materia di composizione della Camera dei deputati e del Senato della Repubblica&quot; (3068)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3338</literal></binding>
+   <binding name="date"><literal>20100318</literal></binding>
+   <binding name="title"><literal>PALAGIANO ed altri: &quot;Disposizioni per il riconoscimento dell&#39;endometriosi come malattia sociale e istituzione del Registro nazionale dell&#39;endometriosi e della Giornata nazionale per la lotta contro l&#39;endometriosi&quot; (3338)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3474</literal></binding>
+   <binding name="date"><literal>20100512</literal></binding>
+   <binding name="title"><literal>FORCOLIN ed altri: &quot;Disposizioni concernenti la ripartizione del monte premi del Superenalotto&quot; (3474)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3541</literal></binding>
+   <binding name="date"><literal>20100610</literal></binding>
+   <binding name="title"><literal>FEDRIGA ed altri: &quot;Disposizioni concernenti la sospensione e la revoca del trattamento pensionistico per i soggetti sottoposti a misure restrittive della libertà personale o condannati per reati di terrorismo o di criminalità organizzata&quot; (3541)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3572</literal></binding>
+   <binding name="date"><literal>20100623</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni per il trasferimento a Milano delle sedi della Commissione nazionale per le società e la borsa e dell&#39;Autorità garante della concorrenza e del mercato&quot; (3572)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3614</literal></binding>
+   <binding name="date"><literal>20100708</literal></binding>
+   <binding name="title"><literal>FOGLIATO ed altri: &quot;Disposizioni in materia di trattamento di quiescenza del personale delle Ferrovie dello Stato cessato dal servizio tra il 1° gennaio 1981 e il 31 dicembre 1995&quot; (3614)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3673</literal></binding>
+   <binding name="date"><literal>20100728</literal></binding>
+   <binding name="title"><literal>BRAGANTINI ed altri: &quot;Disposizioni in materia di disciplina delle grandi reti di trasporto stradale nazionale, nonché trasferimento delle strade statali alle regioni e soppressione della società ANAS Spa&quot; (3673)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3715</literal></binding>
+   <binding name="date"><literal>20100917</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti il divieto dell&#39;uso di indumenti che impediscano l&#39;identificazione nei luoghi pubblici&quot; (3715)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3721</literal></binding>
+   <binding name="date"><literal>20100921</literal></binding>
+   <binding name="title"><literal>GIANCARLO GIORGETTI ed altri: &quot;Modifiche al testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di deducibilità delle spese per il mantenimento e l&#39;istruzione dei figli e di determinazione dell&#39;imposta secondo il metodo del quoziente familiare&quot; (3721)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3830</literal></binding>
+   <binding name="date"><literal>20101103</literal></binding>
+   <binding name="title"><literal>MAGGIONI ed altri: &quot;Legge quadro in materia di casse di risparmio, casse rurali, aziende di credito a carattere regionale ed enti di credito fondiario e agrario a carattere regionale&quot; (3830)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3926</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti nel settore degli accessori per l&#39;abbigliamento&quot; (3926)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3927</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti ceramici&quot; (3927)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3928</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti nel settore della componentistica per autoveicoli&quot; (3928)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3929</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei motocicli e dei loro componenti&quot; (3929)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3930</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti di design&quot; (3930)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3931</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione degli elettrodomestici&quot; (3931)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3932</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti elettronici di largo consumo&quot; (3932)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3933</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti nel settore della componentistica elettronica&quot; (3933)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3934</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti nel settore delle attrezzature e degli articoli per il giardinaggio&quot; (3934)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3935</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti nel settore degli pneumatici e articoli in gomma&quot; (3935)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3936</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti nel settore lapideo&quot; (3936)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3937</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti nel settore del mobile e dell&#39;arredamento&quot; (3937)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3938</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti nel settore orafo&quot; (3938)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3939</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti nel settore dell&#39;occhialeria&quot; (3939)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3940</literal></binding>
+   <binding name="date"><literal>20101201</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni concernenti la commercializzazione dei prodotti farmaceutici&quot; (3940)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3950</literal></binding>
+   <binding name="date"><literal>20101207</literal></binding>
+   <binding name="title"><literal>DOZZO ed altri: &quot;Norme per la valorizzazione del patrimonio ferroviario in disuso&quot; (3950)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3951</literal></binding>
+   <binding name="date"><literal>20101207</literal></binding>
+   <binding name="title"><literal>MONTAGNOLI ed altri: &quot;Disciplina della professione di estetista professionale e dell&#39;attività di onicotecnico&quot; (3951)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4019</literal></binding>
+   <binding name="date"><literal>20110120</literal></binding>
+   <binding name="title"><literal>DI CENTA ed altri: &quot;Norme in materia di previdenza e di tutela della maternità per gli atleti non professionisti&quot; (4019)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4049</literal></binding>
+   <binding name="date"><literal>20110202</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Delega al Governo per l&#39;adozione di norme in materia di semplificazione delle comunicazioni periodiche alla clientela da parte delle banche e degli intermediari finanziari&quot; (4049)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4119</literal></binding>
+   <binding name="date"><literal>20110224</literal></binding>
+   <binding name="title"><literal>FEDRIGA ed altri: &quot;Disposizioni per l&#39;avvio di nuove imprese e per il sostegno dell&#39;occupazione giovanile e femminile, nonché delega al Governo in materia di regime fiscale agevolato&quot; (4119)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4242</literal></binding>
+   <binding name="date"><literal>20110331</literal></binding>
+   <binding name="title"><literal>MONTAGNOLI ed altri: &quot;Modifiche all&#39;articolo 27 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, e all&#39;articolo 55 della legge 27 dicembre 1997, n. 449, in materia di determinazione delle somme dovute per l&#39;uso o l&#39;occupazione delle strade e delle loro pertinenze, nonché disposizioni concernenti l&#39;utilizzazione dei relativi proventi&quot; (4242)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4368</literal></binding>
+   <binding name="date"><literal>20110519</literal></binding>
+   <binding name="title"><literal>GIDONI ed altri: &quot;Disposizioni in favore delle imprese o società italiane coinvolte nella crisi socio-politica sviluppatasi in Libia, Tunisia ed Egitto&quot; (4368)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4493</literal></binding>
+   <binding name="date"><literal>20110707</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE PASTORE ed altri: &quot;Modifica dell&#39;articolo 133 della Costituzione, in materia di istituzione e soppressione delle province nonché di modificazione delle circoscrizioni provinciali&quot; (4493)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4510</literal></binding>
+   <binding name="date"><literal>20110714</literal></binding>
+   <binding name="title"><literal>CAPARINI ed altri: &quot;Modifiche alla legge 2 dicembre 1991, n. 390, in materia di interventi delle province e dei comuni a sostegno del diritto agli studi universitari&quot; (4510)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4548</literal></binding>
+   <binding name="date"><literal>20110726</literal></binding>
+   <binding name="title"><literal>CALLEGARI ed altri: &quot;Riforma della legislazione speciale per la salvaguardia di Venezia e della sua laguna e delega al Governo per l&#39;adozione di agevolazioni tributarie&quot; (4548)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4685</literal></binding>
+   <binding name="date"><literal>20111012</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Agevolazioni fiscali e contributive per favorire l&#39;occupazione delle madri lavoratrici e la ricollocazione dei lavoratori di età superiore a quaranta o a cinquanta anni&quot; (4685)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4752</literal></binding>
+   <binding name="date"><literal>20111103</literal></binding>
+   <binding name="title"><literal>REGUZZONI ed altri: &quot;Disposizioni e deleghe al Governo per il sostegno dell&#39;attività imprenditoriale, in materia di semplificazione amministrativa, di imposizione fiscale e di ordinamento della giustizia tributaria, di disciplina del lavoro e di tutela dei prodotti nazionali, nonché disposizioni per la riduzione della spesa pubblica e la soppressione delle prefetture-uffici territoriali del Governo&quot; (4752)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4801</literal></binding>
+   <binding name="date"><literal>20111126</literal></binding>
+   <binding name="title"><literal>DI VIZIA ed altri: &quot;Disposizioni in favore delle persone danneggiate dalle calamità naturali verificatesi nel mese di ottobre 2011 nelle province della Spezia e di Massa-Carrara&quot; (4801)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4807</literal></binding>
+   <binding name="date"><literal>20111129</literal></binding>
+   <binding name="title"><literal>TORAZZI ed altri: &quot;Adozione di un coefficiente perequativo riferito alla media dell&#39;irraggiamento solare per l&#39;erogazione degli incentivi in favore della produzione di energia elettrica da impianti solari fotovoltaici&quot; (4807)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5053</literal></binding>
+   <binding name="date"><literal>20120315</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE BOSSI ed altri: &quot;Modifiche alla Costituzione concernenti la forma di Stato e di governo, la riduzione del numero dei parlamentari, l&#39;istituzione del Senato federale della Repubblica, la disciplina della magistratura, la Corte costituzionale e il procedimento di revisione della Costituzione&quot; (5053)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5054</literal></binding>
+   <binding name="date"><literal>20120315</literal></binding>
+   <binding name="title"><literal>FUGATTI ed altri: &quot;Delega al Governo per la separazione dei modelli bancari&quot; (5054)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5147</literal></binding>
+   <binding name="date"><literal>20120419</literal></binding>
+   <binding name="title"><literal>DOZZO ed altri: &quot;Abrogazione degli articoli 1, 2, 3, 6-bis, 7, 8 e 9 della legge 3 giugno 1999, n. 157, in materia di rimborso delle spese per consultazioni elettorali e referendarie, e nuove disposizioni in materia di finanziamento dei partiti e movimenti politici e di controlli sui loro bilanci&quot; (5147)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5236</literal></binding>
+   <binding name="date"><literal>20120529</literal></binding>
+   <binding name="title"><literal>DOZZO ed altri: &quot;Modifiche agli articoli 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, e 6 del decreto-legge 29 dicembre 2011, n. 216, convertito, con modificazioni, dalla legge 24 febbraio 2012, n. 14, in materia di requisiti per la fruizione delle deroghe in materia di accesso al trattamento pensionistico&quot; (5236)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5246</literal></binding>
+   <binding name="date"><literal>20120530</literal></binding>
+   <binding name="title"><literal>DOZZO ed altri: &quot;Modifica all&#39;articolo 2 della legge 15 dicembre 1999, n. 482, in materia di riconoscimento, tutela e valorizzazione del patrimonio linguistico, storico, letterario e filologico della lingua regionale veneta&quot; (5246)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5456</literal></binding>
+   <binding name="date"><literal>20120918</literal></binding>
+   <binding name="title"><literal>DOZZO ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sull&#39;esistenza di trattative tra esponenti delle istituzioni e organizzazioni criminali negli anni 1992 e 1993 e sulla diffusione del contenuto di intercettazioni telefoniche relative alle indagini su tale oggetto&quot; (5456)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5478</literal></binding>
+   <binding name="date"><literal>20120927</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE MARONI ed altri: &quot;Modifica all&#39;articolo 75 della Costituzione, concernente l&#39;ammissibilità del referendum abrogativo sulle leggi tributarie e di autorizzazione alla ratifica di trattati internazionali&quot; (5478)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5479</literal></binding>
+   <binding name="date"><literal>20120927</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE MARONI ed altri: &quot;Modifiche agli articoli 116, 117 e 119 della Costituzione, concernenti l&#39;attribuzione di ulteriori forme e condizioni particolari di autonomia alle Regioni e l&#39;istituzione delle Comunità autonome, attraverso referendum popolare, con attribuzione alle medesime di una quota non inferiore al 75 per cento del gettito tributario prodotto nel loro territorio, nonché disposizione transitoria riguardante il trasferimento delle funzioni amministrative ai Comuni e alle Regioni&quot; (5479)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5480</literal></binding>
+   <binding name="date"><literal>20120927</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE MARONI ed altri: &quot;Indizione di un referendum di indirizzo sulla rifondazione di un&#39;Unione europea democratica e federale basata sui popoli e sulle regioni, sulla definizione dell&#39;area Euro limitata ai territori che rispettano il pareggio di bilancio e sull&#39;introduzione di norme costituzionali che prevedano la partecipazione del popolo nelle procedure di approvazione dei trattati europei&quot; (5480)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5497</literal></binding>
+   <binding name="date"><literal>20121002</literal></binding>
+   <binding name="title"><literal>FORCOLIN ed altri: &quot;Modifiche all&#39;articolo 18 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, riguardanti l&#39;istituzione delle città metropolitane e la soppressione delle province del relativo territorio&quot; (5497)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5556</literal></binding>
+   <binding name="date"><literal>20121031</literal></binding>
+   <binding name="title"><literal>TORAZZI ed altri: &quot;Disposizioni per l&#39;organizzazione del sistema di previdenza e assistenza sociale su base regionale&quot; (5556)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>624-635-1141-1312-1738-1764-ter-1830-1968-ter-B</literal></binding>
+   <binding name="date"><literal>20100202</literal></binding>
+   <binding name="title"><literal>S. 1771. - BINETTI ed altri; POLLEDRI ed altri; TURCO LIVIA ed altri; FARINA COSCIONI ed altri; BERTOLINI ed altri; COTA ed altri; DI VIRGILIO ed altri; SALTAMARTINI ed altri: &quot;Disposizioni per garantire l&#39;accesso alle cure palliative e alla terapia del dolore&quot; (Approvata, in un testo unificato, dalla Camera e modificata dal Senato) (624-635-1141-1312-1738-1764-ter-1830-1968-ter-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>664</literal></binding>
+   <binding name="date"><literal>20080430</literal></binding>
+   <binding name="title"><literal>LUSSANA: &quot;Legge quadro sulla famiglia e per la tutela della vita nascente&quot; (664)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>668</literal></binding>
+   <binding name="date"><literal>20080430</literal></binding>
+   <binding name="title"><literal>LUSSANA ed altri: &quot;Modifica all&#39;articolo 442 del codice di procedura penale. Inapplicabilità del giudizio abbreviato ai delitti puniti con la pena dell&#39;ergastolo&quot; (668)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>668-B</literal></binding>
+   <binding name="date"><literal>20110729</literal></binding>
+   <binding name="title"><literal>S. 2567. - LUSSANA ed altri: &quot;Modifiche agli articoli 190, 238-bis, 438, 442 e 495 del codice di procedura penale e all&#39;articolo 58-quater della legge 26 luglio 1975, n. 354&quot; (approvata dalla Camera e modificata dal Senato) (668-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>9</literal></binding>
+   <binding name="date"><literal>20080429</literal></binding>
+   <binding name="title"><literal>BOSSI ed altri: &quot;Delega al Governo per l&#39;attuazione dell&#39;articolo 119 della Costituzione&quot; (9)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>907</literal></binding>
+   <binding name="date"><literal>20080508</literal></binding>
+   <binding name="title"><literal>BERNARDINI ed altri: &quot;Modifiche all&#39;articolo 1 del decreto-legge 3 gennaio 2006, n. 1, convertito, con modificazioni, dalla legge 27 gennaio 2006, n. 22, in materia di ammissione degli elettori disabili al voto domiciliare&quot; (907)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>98-1225-1284-1325-2680-2754-3191-B</literal></binding>
+   <binding name="date"><literal>20111024</literal></binding>
+   <binding name="title"><literal>S. 2626. - LA LOGGIA e CARLUCCI; BERSANI ed altri; PELINO ed altri; VIGNALI ed altri; JANNONE e CARLUCCI; VIGNALI ed altri; BORGHESI ed altri: &quot;Norme per la tutela della libertà d&#39;impresa. Statuto delle imprese&quot; (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (98-1225-1284-1325-2680-2754-3191-B)</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1886</literal></binding>
+   <binding name="date"><literal>19921113</literal></binding>
+   <binding name="title"><literal>RAFFAELLI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Revisione dello Statuto speciale per il Trentino-Alto Adige</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1017</literal></binding>
+   <binding name="date"><literal>19920612</literal></binding>
+   <binding name="title"><literal>DEL BUE ed altri: Disposizioni per la riforma dei partiti e norme sul finanziamento della vita politica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1309</literal></binding>
+   <binding name="date"><literal>19920715</literal></binding>
+   <binding name="title"><literal>DEL BUE ed altri: Norme per la trasparenza degli appalti pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1742</literal></binding>
+   <binding name="date"><literal>19921016</literal></binding>
+   <binding name="title"><literal>SOLLAZZO ed altri: Norme per l&#39;esercizio del diritto di voto dei cittadini italiani all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2028</literal></binding>
+   <binding name="date"><literal>19921215</literal></binding>
+   <binding name="title"><literal>MANCA ed altri: Modifiche al decreto-legge 6 dicembre 1984, n. 807, convertito, con modificazioni, dalla legge 4 febbraio 1985, n. 10, recante disposizioni urgenti in materia di trasmissioni radiotelevisive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2029</literal></binding>
+   <binding name="date"><literal>19921216</literal></binding>
+   <binding name="title"><literal>ALESSI ed altri: Immissione nei ruoli organici del Ministero degli affari esteri del personale a contratto in servizio all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2665</literal></binding>
+   <binding name="date"><literal>19930514</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Abrogazione del terzo comma dell&#39;articolo 138 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2718</literal></binding>
+   <binding name="date"><literal>19930527</literal></binding>
+   <binding name="title"><literal>NENCINI ed altri: Nuove norme per la tutela del carattere storico, architettonico, monumentale ed ambientale di Firenze, città d&#39;arte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>619</literal></binding>
+   <binding name="date"><literal>19920507</literal></binding>
+   <binding name="title"><literal>SPINI ed altri: Disciplina dell&#39;attività e del finanziamento dei partiti politici</literal></binding>
+  </result>
+ </results>
+</sparql>

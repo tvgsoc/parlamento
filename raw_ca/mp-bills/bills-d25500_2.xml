@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1032</literal></binding>
+   <binding name="date"><literal>19540714</literal></binding>
+   <binding name="title"><literal>NATALI ed altri: Provvidenze a favore delle zone alluvionate dell&#39;Abruzzo e del Molise</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1298</literal></binding>
+   <binding name="date"><literal>19541203</literal></binding>
+   <binding name="title"><literal>CAIATI ed altri: Concessione in proprietà, a favore degli attuali assegnatari delle case dello Stato, dei comuni, delle province, degli Istituti provinciali per le case popolari, dell&#39;Istituto nazionale case impiegati statali (I.N.C.I.S.), dell&#39;I.N.A.-Casa e delle altre Amministrazioni ed Enti pubblici e disposizioni per la costruzione di nuove case popolari ed economiche con patto di assegnazione in proprietà</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1414</literal></binding>
+   <binding name="date"><literal>19550127</literal></binding>
+   <binding name="title"><literal>CAPPUGI ed altri: Provvedimenti perequativi in favore dei mutilati ed invalidi per servizio titolari di pensioni od assegni privilegiati ordinari, di pensioni speciali od eccezionali e loro congiunti in caso di morte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>201</literal></binding>
+   <binding name="date"><literal>19531001</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Istituzione di una Commissione interparlamentare per il completamento delle indagini e l&#39;attuazione delle proposte suggerite dalla &quot;Commissione parlamentare d&#39;inchiesta sulla miseria in Italia e sui mezzi per combatterla&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+ </results>
+</sparql>

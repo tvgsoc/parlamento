@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2040</literal></binding>
+   <binding name="date"><literal>19600219</literal></binding>
+   <binding name="title"><literal>FERRAROTTI: Conciliazione e arbitrato delle controversie giuridiche di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2296</literal></binding>
+   <binding name="date"><literal>19600701</literal></binding>
+   <binding name="title"><literal>FERRAROTTI: Modificazione agli articoli 84 e 136 del testo unico delle leggi sulle imposte dirette, approvato con decreto del Presidente della Repubblica 29 gennaio 1958, n. 645</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3809</literal></binding>
+   <binding name="date"><literal>19620519</literal></binding>
+   <binding name="title"><literal>FERRAROTTI ed altri: Concessione di un contributo al Consiglio Nazionale delle ricerche per il funzionamento del Centro Nazionale per lo studio e le ricerche di oncologia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3864</literal></binding>
+   <binding name="date"><literal>19620614</literal></binding>
+   <binding name="title"><literal>FERRAROTTI e BUCALOSSI: Modifica del ruolo organico della carriera direttiva degli uffici amministrativi delle Università e degli Istituti di istruzione superiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4451</literal></binding>
+   <binding name="date"><literal>19630112</literal></binding>
+   <binding name="title"><literal>FERRAROTTI: Contributo a favore dell&#39;Associazione Nazionale Focolari per la rieducazione dei minorenni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3196</literal></binding>
+   <binding name="date"><literal>19610713</literal></binding>
+   <binding name="title"><literal>PRETI ed altri: Istituzione del Centro di ricerca per le scienze morali e sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1961</literal></binding>
+   <binding name="date"><literal>19600128</literal></binding>
+   <binding name="title"><literal>AMADEI ed altri: Stato giuridico della Magistratura</literal></binding>
+  </result>
+ </results>
+</sparql>

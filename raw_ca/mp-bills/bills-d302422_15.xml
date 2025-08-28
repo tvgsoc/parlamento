@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1395</literal></binding>
+   <binding name="date"><literal>20060718</literal></binding>
+   <binding name="title"><literal>AMICI ed altri: &quot;Modifiche al codice civile in materia di cognome dei coniugi e dei figli&quot; (1395)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2235</literal></binding>
+   <binding name="date"><literal>20070212</literal></binding>
+   <binding name="title"><literal>FASCIANI ed altri: &quot;Misure in favore dei sindaci e degli amministratori locali per i rischi derivanti dall&#39;esercizio delle funzioni di protezione civile&quot; (2235)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2262</literal></binding>
+   <binding name="date"><literal>20070215</literal></binding>
+   <binding name="title"><literal>CARDANO ed altri: &quot;Disposizioni per il riconoscimento del Centro di ricerche storiche di Rovigno e concessione di un contributo per il suo funzionamento&quot; (2262)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2972</literal></binding>
+   <binding name="date"><literal>20070731</literal></binding>
+   <binding name="title"><literal>OSVALDO NAPOLI ed altri: &quot;Disposizioni per il rafforzamento dell&#39;amministrazione di sostegno e soppressione degli istituti dell&#39;interdizione e dell&#39;inabilitazione&quot; (2972)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3155</literal></binding>
+   <binding name="date"><literal>20071017</literal></binding>
+   <binding name="title"><literal>BENZONI ed altri: &quot;Introduzione dell&#39;educazione di genere nelle attività didattiche delle scuole del sistema nazionale di istruzione&quot; (3155)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>33</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>GRILLINI ed altri: &quot;Disciplina del patto civile di solidarietà&quot; (33)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1588</literal></binding>
+   <binding name="date"><literal>20060803</literal></binding>
+   <binding name="title"><literal>NICOLA ROSSI ed altri: &quot;Disposizioni in materia di rapporti tra la pubblica amministrazione e i cittadini&quot; (1588)</literal></binding>
+  </result>
+ </results>
+</sparql>

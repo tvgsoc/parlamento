@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>220</literal></binding>
+   <binding name="date"><literal>19940416</literal></binding>
+   <binding name="title"><literal>ADORNATO ed altri: Istituzione di una Commissione parlamentare di inchiesta sul fenomeno della mafia e sulle altre associazioni criminali similari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2410</literal></binding>
+   <binding name="date"><literal>19950414</literal></binding>
+   <binding name="title"><literal>FERRANTE ed altri: Incentivi e agevolazioni fiscali per la salvaguardia, la ristrutturazione e la rivitalizzazione del centro storico urbano di Ascoli Piceno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>277</literal></binding>
+   <binding name="date"><literal>19940419</literal></binding>
+   <binding name="title"><literal>VIOLANTE ed altri: Sequestro e confisca dei beni ai condannati per delitti di corruzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2791</literal></binding>
+   <binding name="date"><literal>19950629</literal></binding>
+   <binding name="title"><literal>PEZZONI ed altri: Nuove modalità di voto e di rappresentanza dei cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>286</literal></binding>
+   <binding name="date"><literal>19940420</literal></binding>
+   <binding name="title"><literal>MATTIOLI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Integrazione dell&#39;articolo 9 della Costituzione in tema di tutela dell&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>575</literal></binding>
+   <binding name="date"><literal>19940520</literal></binding>
+   <binding name="title"><literal>IOTTI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Revisione della parte seconda della Costituzione</literal></binding>
+  </result>
+ </results>
+</sparql>

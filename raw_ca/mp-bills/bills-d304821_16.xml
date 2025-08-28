@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4101</literal></binding>
+   <binding name="date"><literal>20110218</literal></binding>
+   <binding name="title"><literal>CARLUCCI: &quot;Istituzione di una Commissione parlamentare di inchiesta sull&#39;imparzialità dei libri di testo scolastici&quot; (4101)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4117</literal></binding>
+   <binding name="date"><literal>20110224</literal></binding>
+   <binding name="title"><literal>FRASSINETTI ed altri: &quot;Disposizioni per l&#39;insegnamento dell&#39;inno nazionale nelle scuole del primo ciclo dell&#39;istruzione&quot; (4117)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4162</literal></binding>
+   <binding name="date"><literal>20110309</literal></binding>
+   <binding name="title"><literal>VIGNALI ed altri: &quot;Introduzione dell&#39;articolo 74-sexies del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, in materia di applicazione dell&#39;imposta sul valore aggiunto per le prestazioni di commercio elettronico diretto regolate con l&#39;intervento di intermediari finanziari abilitati&quot; (4162)</literal></binding>
+  </result>
+ </results>
+</sparql>

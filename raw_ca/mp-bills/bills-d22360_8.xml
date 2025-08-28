@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2542</literal></binding>
+   <binding name="date"><literal>19810415</literal></binding>
+   <binding name="title"><literal>SCARAMUCCI GUAITINI ed altri: Nuovo ordinamento delle attività musicali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2740</literal></binding>
+   <binding name="date"><literal>19810724</literal></binding>
+   <binding name="title"><literal>BERNARDI ed altri: Norme per la regolamentazione delle emittenti radiotelevisive private in ambito locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2811</literal></binding>
+   <binding name="date"><literal>19810910</literal></binding>
+   <binding name="title"><literal>SCARAMUCCI GUAITINI ed altri: Nuovo ordinamento dei circhi e dello spettacolo viaggiante</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3206</literal></binding>
+   <binding name="date"><literal>19820225</literal></binding>
+   <binding name="title"><literal>GIOVAGNOLI SPOSETTI ed altri: Norme-quadro in materia di assistenza al parto ed al bambino ospedalizzato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3588</literal></binding>
+   <binding name="date"><literal>19820727</literal></binding>
+   <binding name="title"><literal>FABBRI SERONI ed altri: Istituzione di una Commissione per le pari opportunità tra uomo e donna in campo economico, sociale e culturale presso la Presidenza del Consiglio dei ministri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3890</literal></binding>
+   <binding name="date"><literal>19830126</literal></binding>
+   <binding name="title"><literal>BALDELLI ed altri: Disciplina della proiezione e della rappresentazione in pubblico di spettacoli cinematografici e teatrali e delle trasmissioni con il mezzo della televisione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2514</literal></binding>
+   <binding name="date"><literal>19810407</literal></binding>
+   <binding name="title"><literal>MOLINERI ed altri: Norme relative all&#39;adozione di minori stranieri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2767</literal></binding>
+   <binding name="date"><literal>19810730</literal></binding>
+   <binding name="title"><literal>FAENZI ed altri: Norme in materia di investimenti a favore del riequilibrio territoriale della organizzazione turistica italiana e finanziamento dei piani regionali straordinari di settore elaborati in attuazione della legge-quadro nazionale per il turismo</literal></binding>
+  </result>
+ </results>
+</sparql>

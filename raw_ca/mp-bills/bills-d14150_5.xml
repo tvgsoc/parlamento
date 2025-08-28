@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1240</literal></binding>
+   <binding name="date"><literal>19690322</literal></binding>
+   <binding name="title"><literal>VERGA: Modifica della legge 17 luglio 1890, n. 6972, in materia di domicilio di soccorso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1460</literal></binding>
+   <binding name="date"><literal>19690520</literal></binding>
+   <binding name="title"><literal>FODERARO ed altri: Modifica della legge 20 marzo 1913, n. 268, per la unificazione delle denominazioni delle discipline di matematica generale e matematica finanziaria in seno alle Facoltà di economia e commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1676</literal></binding>
+   <binding name="date"><literal>19690707</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Organizzazione del settore dell&#39;assistenza sociale e interventi per le persone in condizione o situazione di incapacità e, in particolare, per i disadattati psichici, fisici, sensoriali e sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1831</literal></binding>
+   <binding name="date"><literal>19690926</literal></binding>
+   <binding name="title"><literal>AZIMONTI ed altri: Provvedimenti a favore degli studenti lavoratori frequentanti corsi serali di istruzione tecnica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2036</literal></binding>
+   <binding name="date"><literal>19691121</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2431</literal></binding>
+   <binding name="date"><literal>19700417</literal></binding>
+   <binding name="title"><literal>AZIMONTI ed altri: Integrazione all&#39;articolo 1 del decreto del Capo provvisorio dello Stato 21 aprile 1947, n. 629, e successive modificazioni, concernente la disciplina delle nomine dei capi di istituto delle scuole di istruzione media, classica, scientifica, tecnica, magistrale e delle scuole di avviamento professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3142</literal></binding>
+   <binding name="date"><literal>19710226</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Concessione di mutui edilizi per i lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3203</literal></binding>
+   <binding name="date"><literal>19710315</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Nuove norme per la repressione del traffico di stupefacenti e psicodroghe e per la prevenzione e cura delle tossicomanie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>372</literal></binding>
+   <binding name="date"><literal>19680830</literal></binding>
+   <binding name="title"><literal>PATRINI ed altri: Disciplina dell&#39;attività di Collaboratore scientifico di specialità farmaceutiche soggette a registrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4046</literal></binding>
+   <binding name="date"><literal>19720228</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Provvedimenti a favore delle vedove e degli orfani dei lavoratori dipendenti ed autonomi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1118</literal></binding>
+   <binding name="date"><literal>19690303</literal></binding>
+   <binding name="title"><literal>ORIGLIA ed altri: Attuazione del programma di sviluppo economico nazionale per la parte relativa alla disciplina del commercio a posto fisso</literal></binding>
+  </result>
+ </results>
+</sparql>

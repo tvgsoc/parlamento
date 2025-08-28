@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1341</literal></binding>
+   <binding name="date"><literal>19500607</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Unificazione dei servizi amministrativi relativi alla circolazione ed all&#39;esercizio dell&#39;autotrasporto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2405</literal></binding>
+   <binding name="date"><literal>19511211</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Norme integrative della legge 3 agosto 1949, n. 589, sulla esecuzione di opere pubbliche di interesse degli Enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2411</literal></binding>
+   <binding name="date"><literal>19511213</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Disposizioni integrative dell&#39;articolo 36 della legge 25 giugno 1949, n. 409, per agevolare la ricostruzione delle abitazioni distrutte dagli eventi bellici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2856</literal></binding>
+   <binding name="date"><literal>19520718</literal></binding>
+   <binding name="title"><literal>LIGUORI ed altri: Modificazioni concernenti l&#39;ordinamento dell&#39;imposta di soggiorno ed il credito alberghiero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2948</literal></binding>
+   <binding name="date"><literal>19521014</literal></binding>
+   <binding name="title"><literal>GIORDANI ed altri: Concessione di una pensione alla signora Vydia Morici, vedova di Giuseppe Donati</literal></binding>
+  </result>
+ </results>
+</sparql>

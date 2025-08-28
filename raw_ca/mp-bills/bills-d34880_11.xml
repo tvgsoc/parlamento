@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3506</literal></binding>
+   <binding name="date"><literal>19931216</literal></binding>
+   <binding name="title"><literal>MARGIOTTA: Norme sullo stato giuridico degli insegnanti della religione cattolica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2652</literal></binding>
+   <binding name="date"><literal>19930512</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Norme sull&#39;autonomia e sulla parità delle scuole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2704</literal></binding>
+   <binding name="date"><literal>19930525</literal></binding>
+   <binding name="title"><literal>VITI ed altri: Riforma dell&#39;Amministrazione centrale e periferica della pubblica istruzione, nonché degli organi di autogoverno della scuola e della dirigenza scolastica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3335</literal></binding>
+   <binding name="date"><literal>19931111</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Esercizio del diritto di voto degli italiani all&#39;estero</literal></binding>
+  </result>
+ </results>
+</sparql>

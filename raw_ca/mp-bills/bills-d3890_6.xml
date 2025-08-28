@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2657</literal></binding>
+   <binding name="date"><literal>19740111</literal></binding>
+   <binding name="title"><literal>MATTA: Modificazione dell&#39;articolo 3 della legge 18 gennaio 1952, n. 43, contenente le norme per il reclutamento dei commissari di leva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3724</literal></binding>
+   <binding name="date"><literal>19750428</literal></binding>
+   <binding name="title"><literal>MATTA ed altri: Ulteriori provvedimenti per le popolazioni dei comuni di Sicilia colpiti da terremoto del gennaio 1968</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4327</literal></binding>
+   <binding name="date"><literal>19760221</literal></binding>
+   <binding name="title"><literal>MATTA: Inquadramento in ruolo dei professori universitari aggregati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2656</literal></binding>
+   <binding name="date"><literal>19740111</literal></binding>
+   <binding name="title"><literal>MATTA ed altri: Ulteriori provvedimenti per le popolazioni dei comuni della Sicilia colpiti dal terremoto del gennaio 1968</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2201</literal></binding>
+   <binding name="date"><literal>19730529</literal></binding>
+   <binding name="title"><literal>PUMILIA ed altri: Proroga del contributo annuo a favore dell&#39;Ente autonomo del porto di Palermo previsto dalla legge 14 novembre 1961, n. 1268</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3149</literal></binding>
+   <binding name="date"><literal>19740726</literal></binding>
+   <binding name="title"><literal>SGARLATA ed altri: Modifica dell&#39;articolo unico della legge 7 maggio 1965, n. 459, e della legge 2 aprile 1968, n. 517, riguardanti il collocamento a riposo di ufficiali sanitari e sanitari condotti</literal></binding>
+  </result>
+ </results>
+</sparql>

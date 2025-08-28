@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1201</literal></binding>
+   <binding name="date"><literal>19500401</literal></binding>
+   <binding name="title"><literal>FIRRAO ed altri: Costruzione dei tratti Torregaveta Miseno con diramazione a Monte di Procida della ferrovia Cumana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1480</literal></binding>
+   <binding name="date"><literal>19500720</literal></binding>
+   <binding name="title"><literal>TREMELLONI ed altri: Inchiesta parlamentare sul funzionamento dell&#39;amministrazione pubblica e sul modo di migliorarne l&#39;efficienza tecnica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1727</literal></binding>
+   <binding name="date"><literal>19501219</literal></binding>
+   <binding name="title"><literal>STUANI ed altri: Istituzione di una scuola industriale artistica in onore di Michelangelo da Caravaggio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1793</literal></binding>
+   <binding name="date"><literal>19510202</literal></binding>
+   <binding name="title"><literal>RIVERA ed altri: Reintegra dei soci lincei</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>200</literal></binding>
+   <binding name="date"><literal>19481203</literal></binding>
+   <binding name="title"><literal>D&#39;AMBROSIO ed altri: Proroga per le nomine e i trasferimenti d&#39;insegnanti universitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2435</literal></binding>
+   <binding name="date"><literal>19511219</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Esenzione fiscale all&#39;Associazione nazionale mutilati civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+ </results>
+</sparql>

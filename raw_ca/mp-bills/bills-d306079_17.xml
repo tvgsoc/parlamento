@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1534</literal></binding>
+   <binding name="date"><literal>20130809</literal></binding>
+   <binding name="title"><literal>MARAZZITI ed altri: &quot;Modifiche al codice penale concernenti l&#39;abolizione della pena dell&#39;ergastolo&quot; (1534)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>282-950-1122-1339-B</literal></binding>
+   <binding name="date"><literal>20140205</literal></binding>
+   <binding name="title"><literal>S. 1058. - CAUSI ed altri; ZANETTI; CAPEZZONE ed altri; MIGLIORE ed altri: &quot;Delega al Governo recante disposizioni per un sistema fiscale più equo, trasparente e orientato alla crescita&quot; (approvata, in un testo unificato, dalla Camera e modificata dal Senato) (282-950-1122-1339-B) </literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>245</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>SCALFAROTTO ed altri: &quot;Modifiche alla legge 13 ottobre 1975, n. 654, e al decreto-legge 26 aprile 1993, n. 122, convertito, con modificazioni, dalla legge 25 giugno 1993, n. 205, per il contrasto dell&#39;omofobia e della transfobia&quot; (245)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>282</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>CAUSI ed altri: &quot;Delega al Governo per la riforma del sistema fiscale&quot; (282)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3831</literal></binding>
+   <binding name="date"><literal>20160516</literal></binding>
+   <binding name="title"><literal>LA MARCA ed altri: &quot;Istituzione della Giornata nazionale degli italiani nel mondo&quot; (3831)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4715</literal></binding>
+   <binding name="date"><literal>20171027</literal></binding>
+   <binding name="title"><literal>MALPEZZI ed altri: &quot;Disposizioni concernenti la vigilanza degli istituti scolastici sull&#39;uscita degli allievi minori di quattordici anni&quot; (4715)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3187</literal></binding>
+   <binding name="date"><literal>20150618</literal></binding>
+   <binding name="title"><literal>QUARTAPELLE PROCOPIO ed altri: &quot;Conferimento della medaglia d&#39;oro al valor militare per la Resistenza alla Brigata ebraica&quot; (3187)</literal></binding>
+  </result>
+ </results>
+</sparql>

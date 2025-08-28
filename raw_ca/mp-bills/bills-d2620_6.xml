@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1034</literal></binding>
+   <binding name="date"><literal>19721026</literal></binding>
+   <binding name="title"><literal>CIAFFI ed altri: Riconoscimento della Arena Sferisterio di Macerata come Ente autonomo lirico ai sensi della legge 14 agosto 1967, n. 800</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1035</literal></binding>
+   <binding name="date"><literal>19721026</literal></binding>
+   <binding name="title"><literal>CIAFFI ed altri: Provvedimenti per la tutela del carattere artistico e storico della città di San Leo (Pesaro) e per le opere di risanamento e di consolidamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2869</literal></binding>
+   <binding name="date"><literal>19740323</literal></binding>
+   <binding name="title"><literal>LAFORGIA ed altri: Disciplina organica dell&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3179</literal></binding>
+   <binding name="date"><literal>19740805</literal></binding>
+   <binding name="title"><literal>SABBATINI ed altri: Contributo annuo dello Stato in favore della libera università di Urbino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>51</literal></binding>
+   <binding name="date"><literal>19720524</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Concessione di un contributo straordinario dello Stato al Comitato per le celebrazioni del IX centenario della morte di San Pier Damiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>859</literal></binding>
+   <binding name="date"><literal>19721005</literal></binding>
+   <binding name="title"><literal>SABBATINI ed altri: Concessione di un contributo straordinario dello Stato al Comitato per le celebrazioni del bicentenario della nascita di Gaspare Spontini</literal></binding>
+  </result>
+ </results>
+</sparql>

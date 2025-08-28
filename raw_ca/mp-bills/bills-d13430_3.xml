@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1275</literal></binding>
+   <binding name="date"><literal>19590529</literal></binding>
+   <binding name="title"><literal>MARTINO e ROSSI: Modifica dell&#39;articolo 9 della legge 13 marzo 1958, n. 165, per quanto concerne il personale direttivo degli Istituti di istruzione secondaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>55</literal></binding>
+   <binding name="date"><literal>19580704</literal></binding>
+   <binding name="title"><literal>MARTINO: Norme transitorie sull&#39;abilitazione alla libera docenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1794</literal></binding>
+   <binding name="date"><literal>19591204</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Disciplina dell&#39;apertura e dell&#39;esercizio delle case da giuoco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2444</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Disciplina della scuola non statale e degli esami di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2448</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI ed altri: Inchiesta parlamentare sulla scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2613</literal></binding>
+   <binding name="date"><literal>19601125</literal></binding>
+   <binding name="title"><literal>FRANCESCHINI ed altri: Contributo di lire 20 milioni annui alla Società europea di cultura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3132</literal></binding>
+   <binding name="date"><literal>19610627</literal></binding>
+   <binding name="title"><literal>BADINI CONFALONIERI e MARTINO: Istituzione di un ruolo ad esaurimento presso la Commissione per la pubblicazione dei documenti diplomatici del Ministero degli affari esteri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1636</literal></binding>
+   <binding name="date"><literal>19591016</literal></binding>
+   <binding name="title"><literal>BARBERI ed altri: Concessione di un contributo straordinario di 50 milioni per l&#39;organizzazione in Roma del terzo Congresso intereuropeo di cardiologia</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1342</literal></binding>
+   <binding name="date"><literal>19770405</literal></binding>
+   <binding name="title"><literal>ALIVERTI ed altri: Interpretazione autentica dell&#39;articolo 1 della legge 15 luglio 1950, n. 539, e dell&#39;articolo 5 della legge 3 aprile 1958, n. 474, sui mutilati ed invalidi per servizio e congiunti dei caduti per servizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1863</literal></binding>
+   <binding name="date"><literal>19771117</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Unificazione dei ruoli della carriera di concetto del Corpo forestale dello Stato ed estensione al personale dalla stessa delle qualifiche di cui all&#39;articolo 13 del decreto legislativo 12 marzo 1948, n. 804</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2072</literal></binding>
+   <binding name="date"><literal>19780316</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Norme per la tutela del lavoro a tempo parziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2113</literal></binding>
+   <binding name="date"><literal>19780413</literal></binding>
+   <binding name="title"><literal>CAPPELLI ed altri: Modifiche alla legge 8 agosto 1977, n. 513, concernente provvedimenti urgenti per l&#39;accelerazione dei programmi in corso, finanziamento di un programma straordinario e canone minimo dell&#39;edilizia residenziale pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2364</literal></binding>
+   <binding name="date"><literal>19780728</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Legge-quadro in materia di mercati all&#39;ingrosso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>829</literal></binding>
+   <binding name="date"><literal>19761124</literal></binding>
+   <binding name="title"><literal>IANNIELLO ed altri: Riforma del collocamento ordinario e della vigilanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>184</literal></binding>
+   <binding name="date"><literal>19760728</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Norme in materia urbanistica</literal></binding>
+  </result>
+ </results>
+</sparql>

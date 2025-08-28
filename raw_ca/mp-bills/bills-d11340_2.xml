@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>392</literal></binding>
+   <binding name="date"><literal>19531124</literal></binding>
+   <binding name="title"><literal>CORTESE ed altri: Estensione ai mutilati ed invalidi ed ai congiunti dei morti in occasione dei fatti di Trieste dei giorni 4, 5, 6 e 7 novembre 1953, delle disposizioni della legge 10 agosto 1950, n. 648</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>421</literal></binding>
+   <binding name="date"><literal>19531127</literal></binding>
+   <binding name="title"><literal>PRETI ed altri: Abrogazione dell&#39;articolo 553 del Codice penale relativo alla propaganda antiprocreativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>467</literal></binding>
+   <binding name="date"><literal>19531204</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Provvedimenti a favore dell&#39;assistenza scolastica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>170</literal></binding>
+   <binding name="date"><literal>19530924</literal></binding>
+   <binding name="title"><literal>LUZZATTO ed altri: Attuazione della disposizione dell&#39;articolo 103, ultima parte, della Costituzione della Repubblica</literal></binding>
+  </result>
+ </results>
+</sparql>

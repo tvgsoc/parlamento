@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4610</literal></binding>
+   <binding name="date"><literal>19870410</literal></binding>
+   <binding name="title"><literal>CAROLI: Adeguamento del trattamento economico accessorio del personale civile della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4052</literal></binding>
+   <binding name="date"><literal>19861009</literal></binding>
+   <binding name="title"><literal>RIGHI ed altri: Istituzione del Fondo nazionale per l&#39;innovazione e la promozione dell&#39;artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4087</literal></binding>
+   <binding name="date"><literal>19861022</literal></binding>
+   <binding name="title"><literal>MARTINAZZOLI ed altri: Norme sul reclutamento e l&#39;avanzamento, nonché modificazioni alla legge 10 aprile 1954, n. 113, sullo stato degli ufficiali dell&#39;Esercito, della Marina, dell&#39;Aeronautica e della Guardia di finanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4253</literal></binding>
+   <binding name="date"><literal>19861211</literal></binding>
+   <binding name="title"><literal>VITI ed altri: Programma di interventi di recupero, restauro e valorizzazione del patrimonio artistico barocco della città di Lecce</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4368</literal></binding>
+   <binding name="date"><literal>19870127</literal></binding>
+   <binding name="title"><literal>PATRIA ed altri: Nuove norme per miglioramenti e perequazione dei trattamenti pensionistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4512</literal></binding>
+   <binding name="date"><literal>19870311</literal></binding>
+   <binding name="title"><literal>MARTINAZZOLI ed altri: Norme sulla definizione e razionalizzazione di procedimenti amministrativi per la tutela preventiva dell&#39;ambiente</literal></binding>
+  </result>
+ </results>
+</sparql>

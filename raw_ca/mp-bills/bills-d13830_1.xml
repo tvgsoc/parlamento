@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2175</literal></binding>
+   <binding name="date"><literal>19510914</literal></binding>
+   <binding name="title"><literal>TANASCO ed altri: Concessione della autorizzazione all&#39;esercizio dell&#39;odontoiatria e protesi dentaria a coloro che acquistarono la cittadinanza italiana in seguito ai trattati di San Germano e di Rapallo ed iniziarono l&#39;apprendistato in regime della legislazione austriaca</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1899</literal></binding>
+   <binding name="date"><literal>19510314</literal></binding>
+   <binding name="title"><literal>CARRON ed altri: Provvedimenti a favore degli ufficiali e dei sottufficiali delle Forze Armate, esuli dai territori metropolitani e coloniali ceduti per effetto del trattato di pace</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3123</literal></binding>
+   <binding name="date"><literal>19530104</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Equiparazione delle pensioni degli statali ex austro-ungarici a quelle dei pensionati italiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3185</literal></binding>
+   <binding name="date"><literal>19530211</literal></binding>
+   <binding name="title"><literal>CARIGNANI ed altri: Provvedimenti a favore degli insegnanti di scuole elementari e medie mutilati ed invalidi di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3273</literal></binding>
+   <binding name="date"><literal>19530313</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Assistenza sanitaria agli artigiani</literal></binding>
+  </result>
+ </results>
+</sparql>

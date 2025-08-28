@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2801</literal></binding>
+   <binding name="date"><literal>19701028</literal></binding>
+   <binding name="title"><literal>COSSIGA: Interpretazione autentica dell&#39;articolo 5 legge 17 febbraio 1968, n. 108, concernente norme per la elezione dei consigli regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3222</literal></binding>
+   <binding name="date"><literal>19710318</literal></binding>
+   <binding name="title"><literal>COSSIGA: Integrazione della legge 28 ottobre 1970, n. 775, per la copertura dei posti di nuova istituzione presso alcune amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3580</literal></binding>
+   <binding name="date"><literal>19710727</literal></binding>
+   <binding name="title"><literal>COSSIGA: Sistemazione giuridico-economica dei vice pretori onorari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3418</literal></binding>
+   <binding name="date"><literal>19710526</literal></binding>
+   <binding name="title"><literal>GALLONI ed altri: Modifiche alla legge 10 febbraio 1953, n. 62, capo II, relativo ai controlli sull&#39;amministrazione regionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3744</literal></binding>
+   <binding name="date"><literal>19711029</literal></binding>
+   <binding name="title"><literal>CIANCA ed altri: Riordinamento del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4041</literal></binding>
+   <binding name="date"><literal>19720224</literal></binding>
+   <binding name="title"><literal>BERNARDI ed altri: Ristrutturazione del Corpo forestale dello Stato</literal></binding>
+  </result>
+ </results>
+</sparql>

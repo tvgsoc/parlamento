@@ -1,0 +1,418 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3016</literal></binding>
+   <binding name="date"><literal>19970122</literal></binding>
+   <binding name="title"><literal>BRUNETTI ed altri: Abrogazione del decreto-legge 15 giugno 1984, n. 233, convertito, con modificazioni, dalla legge 4 agosto 1984, n. 442, e nuove norme sull&#39;impiego dei lavoratori idraulico-forestali nella regione Calabria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3200</literal></binding>
+   <binding name="date"><literal>19970212</literal></binding>
+   <binding name="title"><literal>BRUNETTI ed altri: Disposizioni in materia di foreste e per la difesa del suolo e dell&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3320</literal></binding>
+   <binding name="date"><literal>19970227</literal></binding>
+   <binding name="title"><literal>BRUNETTI ed altri: Norme per l&#39;esercizio del diritto di voto dei cittadini italiani non residenti nel territorio della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>394</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BRUNETTI: Istituzione di una zona franca nell&#39;area di Sibari-Corigliano Calabro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>395</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BRUNETTI: Abrogazione del decreto-legge 15 giugno 1984, n. 233, convertito, con modificazioni, dalla legge 4 agosto 1984, n. 442, recante norme sull&#39;impiego dei lavoratori idraulico-forestali nella regione Calabria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>396</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BRUNETTI e MORONI: Norme in materia di tutela delle minoranze linguistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>396-ter</literal></binding>
+   <binding name="date"><literal>19980617</literal></binding>
+   <binding name="title"><literal>BRUNETTI e MORONI: Norme in materia di tutela della minoranza zingara (già articolo 1; C.396)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>7493</literal></binding>
+   <binding name="date"><literal>20001212</literal></binding>
+   <binding name="title"><literal>BRUNETTI: Ratifica ed esecuzione della Carta europea delle lingue regionali o minoritarie, fatta a Strasburgo il 5 novembre 1992</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1161</literal></binding>
+   <binding name="date"><literal>19960523</literal></binding>
+   <binding name="title"><literal>NARDINI ed altri: Nuove norme in materia di obiezione di coscienza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>128</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>CORLEONE ed altri: Norme per la legalizzazione dei derivati della cannabis indica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1312</literal></binding>
+   <binding name="date"><literal>19960530</literal></binding>
+   <binding name="title"><literal>BERTINOTTI ed altri: Istituzione di un nuovo meccanismo di indicizzazione automatico delle retribuzioni da lavoro dipendente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1386</literal></binding>
+   <binding name="date"><literal>19960604</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Norme per il recupero e la valorizzazione del patrimonio storico, artistico e ambientale della città di Urbino nonchè del territorio dei comuni dell&#39;area culturale del ducato di Montefeltro e Della Rovere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1387</literal></binding>
+   <binding name="date"><literal>19960604</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Rifinanziamento degli interventi per il patrimonio culturale e artistico dell&#39;antico ducato di Urbino e del Montefeltro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1388</literal></binding>
+   <binding name="date"><literal>19960604</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Norme per la celebrazione del quinto centenario della morte di Giovanni Santi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1389</literal></binding>
+   <binding name="date"><literal>19960604</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Destinazione gratuita delle pubblicazioni italiane su Raffaello Sanzio e sui Montefeltro alla biblioteca dell&#39;Accademia Raffaello di Urbino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19960612</literal></binding>
+   <binding name="title"><literal>GRIMALDI ed altri: Modifiche alla legge 12 agosto 1962, n. 1311, in materia di organizzazione e funzionamento dell&#39;Ispettorato generale presso il Ministero di grazia e giustizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1489</literal></binding>
+   <binding name="date"><literal>19960612</literal></binding>
+   <binding name="title"><literal>GRIMALDI ed altri: Modifiche al codice penale per l&#39;abolizione della pena dell&#39;ergastolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1549</literal></binding>
+   <binding name="date"><literal>19960619</literal></binding>
+   <binding name="title"><literal>GRIMALDI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica dell&#39;articolo 77 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1715</literal></binding>
+   <binding name="date"><literal>19960701</literal></binding>
+   <binding name="title"><literal>PISTONE ed altri: Deducibilità dal reddito ai fini IRPEF degli oneri relativi alle spese per la frequenza di corsi di istruzione secondaria e universitaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1787</literal></binding>
+   <binding name="date"><literal>19960704</literal></binding>
+   <binding name="title"><literal>DETOMAS ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 25 dello Statuto speciale per il Trentino-Alto Adige in materia di rappresentanza del gruppo linguistico ladino nel consiglio provinciale di Trento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1831</literal></binding>
+   <binding name="date"><literal>19960710</literal></binding>
+   <binding name="title"><literal>NARDINI ed altri: Istituzione di una Commissione parlamentare di inchiesta sulla gestione della spesa del Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1974</literal></binding>
+   <binding name="date"><literal>19960724</literal></binding>
+   <binding name="title"><literal>MANTOVANI ed altri: Riordinamento della cooperazione allo sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2052</literal></binding>
+   <binding name="date"><literal>19960731</literal></binding>
+   <binding name="title"><literal>BERTINOTTI ed altri: Norme per l&#39;elezione del consiglio unitario delle lavoratrici e dei lavoratori nei luoghi di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2084</literal></binding>
+   <binding name="date"><literal>19960801</literal></binding>
+   <binding name="title"><literal>GRIMALDI ed altri: Delega al Governo per la depenalizzazione dei reati minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2165</literal></binding>
+   <binding name="date"><literal>19960827</literal></binding>
+   <binding name="title"><literal>BOGHETTA ed altri: Norme per la tutela dei minori dalla pubblicità televisiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2418</literal></binding>
+   <binding name="date"><literal>19961004</literal></binding>
+   <binding name="title"><literal>LORENZETTI PASQUALE ed altri: Modifiche all&#39;articolo 2 della legge 2 febbraio 1990, n. 17, in materia di equiparazione del diploma di maturità professionale per tecnico delle industrie meccaniche, elettriche, elettroniche e chimiche al diploma di perito industriale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2452</literal></binding>
+   <binding name="date"><literal>19961010</literal></binding>
+   <binding name="title"><literal>GRIMALDI ed altri: Norme in materia di incompatibilità e di incarichi extragiudiziari dei magistrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2492</literal></binding>
+   <binding name="date"><literal>19961016</literal></binding>
+   <binding name="title"><literal>GRIMALDI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche alle norme della Costituzioneconcernenti i tribunali militari in tempo di pace</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2511</literal></binding>
+   <binding name="date"><literal>19961018</literal></binding>
+   <binding name="title"><literal>MALENTACCHI ed altri: Norme in materia di affitto di fondi rustici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2583</literal></binding>
+   <binding name="date"><literal>19961029</literal></binding>
+   <binding name="title"><literal>PECORARO SCANIO ed altri: Norme per la sospensione delle licenze per l&#39;apertura di strutture della grande distribuzione commerciale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2861</literal></binding>
+   <binding name="date"><literal>19961210</literal></binding>
+   <binding name="title"><literal>PEZZONI ed altri: Norme per la tutela degli strumenti ad arco prodotti della liuteria italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3011</literal></binding>
+   <binding name="date"><literal>19970122</literal></binding>
+   <binding name="title"><literal>BERTINOTTI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Revisione della parte seconda della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3171</literal></binding>
+   <binding name="date"><literal>19970206</literal></binding>
+   <binding name="title"><literal>GALDELLI ed altri: Disciplina  del commercio all&#39;ingrosso ed al dettaglio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3301</literal></binding>
+   <binding name="date"><literal>19970226</literal></binding>
+   <binding name="title"><literal>PEZZONI ed altri: Istituzione di un Comitato parlamentare per l&#39;attuazione e lo sviluppo delle iniziative euromediterranee</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3398</literal></binding>
+   <binding name="date"><literal>19970311</literal></binding>
+   <binding name="title"><literal>MICHELANGELI ed altri: Istituzione dei centri per i giovani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3484</literal></binding>
+   <binding name="date"><literal>19970326</literal></binding>
+   <binding name="title"><literal>PISCITELLO ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 27 della Costituzione concernente l&#39;abolizione della pena di morte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3568</literal></binding>
+   <binding name="date"><literal>19970410</literal></binding>
+   <binding name="title"><literal>NARDINI ed altri: Riforma della rappresentanza militare e diritto di associazione del personale delle Forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3666</literal></binding>
+   <binding name="date"><literal>19970507</literal></binding>
+   <binding name="title"><literal>BERTINOTTI ed altri: Legge quadro in materia di assistenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3758</literal></binding>
+   <binding name="date"><literal>19970527</literal></binding>
+   <binding name="title"><literal>NARDINI ed altri: Ordinamento della difesa e nazionale e ristrutturazione dei vertici delladifesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3845</literal></binding>
+   <binding name="date"><literal>19970610</literal></binding>
+   <binding name="title"><literal>DILIBERTO ed altri: Istituzione di una Commissione parlamentare di inchiesta sul ruolo dell&#39;Italia nella crisi della Repubblica di Albania</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3885</literal></binding>
+   <binding name="date"><literal>19970618</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Costituzione del Comitato di sorveglianza per la certificazione di conformità alle convenzioni internazionali in merito alla delocalizzazione delle attività produttive e all&#39;importanza di beni semilavorati o prodotti finiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3942</literal></binding>
+   <binding name="date"><literal>19970702</literal></binding>
+   <binding name="title"><literal>NARDINI ed altri: Istituzione di un Comitato parlamentare di controllo e di indirizzo sull&#39;operato delle Forze armate italiane al di fuori del territorio nazionale in seguito alla deliberazione dello stato di emergenza o di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3999</literal></binding>
+   <binding name="date"><literal>19970715</literal></binding>
+   <binding name="title"><literal>SAIA ed altri: Istituzione della cartella e della tessera sanitaria personale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4387</literal></binding>
+   <binding name="date"><literal>19971210</literal></binding>
+   <binding name="title"><literal>MANTOVANI ed altri: Norme per la messa al bando delle armi per lo sterminio di massa dal territorio nazionale e dalle acque territoriali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4471</literal></binding>
+   <binding name="date"><literal>19980121</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Istituzione dello psicologo scolastico per il sostegno alla formazione dei minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4522</literal></binding>
+   <binding name="date"><literal>19980204</literal></binding>
+   <binding name="title"><literal>COSSUTTA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche alla legge costituzionale 24 gennaio 1997, n. 1, recante istituzione della Commissione parlamentare per le riforme costituzionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4524</literal></binding>
+   <binding name="date"><literal>19980204</literal></binding>
+   <binding name="title"><literal>NARDINI ed altri: Norme sulla pubblicazione degli accordi internazionali e sulla presenza in territorio italiano di truppe e basi militari di Stati esteri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4634</literal></binding>
+   <binding name="date"><literal>19980310</literal></binding>
+   <binding name="title"><literal>GIULIANO ed altri: Istituzione dei tribunali di Caserta e di Aversa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5119</literal></binding>
+   <binding name="date"><literal>19980717</literal></binding>
+   <binding name="title"><literal>SAIA ed altri: Norme per il riordino degli interventi in favore dei malati cronici non autosufficienti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5678</literal></binding>
+   <binding name="date"><literal>19990211</literal></binding>
+   <binding name="title"><literal>PALMA ed altri: Istituzione in Cosenza di una sezione staccata della corte di appello di catanzaro, di una sezione in funzione di corte d&#39;assise di appello e di una sezione distaccata del tribunale amministrativo regionale della Calabria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5713</literal></binding>
+   <binding name="date"><literal>19990218</literal></binding>
+   <binding name="title"><literal>GALDELLI ed altri: Disposizioni per il riordino del settore autostradale nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5730</literal></binding>
+   <binding name="date"><literal>19990224</literal></binding>
+   <binding name="title"><literal>MUZIO ed altri: Disposizioni in materia di valutazione dei titoli nei corsi per allievi agenti e sottoufficiali del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5791</literal></binding>
+   <binding name="date"><literal>19990309</literal></binding>
+   <binding name="title"><literal>GALDELLI ed altri: Abrogazione della legge 17 dicembre 1971, n. 1158, e liquidazione della società &quot;Stretto di Messina&quot; Spa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5954</literal></binding>
+   <binding name="date"><literal>19990423</literal></binding>
+   <binding name="title"><literal>SALES ed altri: Disposizioni in favore delle aziende turistiche a carattere stagionale operanti nel Mezzogiorno d&#39;Italia e nelle isole minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6036</literal></binding>
+   <binding name="date"><literal>19990519</literal></binding>
+   <binding name="title"><literal>OCCHETTO ed altri: PROPOSTA DI LEGGE DI AUTORIZZAZIONE ALLA RATIFICA DI ACCORDI INTERNAZIONALI: Ratifica ed esecuzione della Convenzione sul divieto di uso, di stoccaggio, di produzione e di trasferimento di mine antipersona e sulla loro distruzione, fatta ad Oslo il 18 settembre 1997, ed aperta alla firma di Ottawa il 3 dicembre 1997</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>622</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>GALDELLI ed altri: Riforma dell&#39;Istituto nazionale per il commercio estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>623</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>GALDELLI ed altri: Norme per il sequestro preventivo dei beni nei confronti di soggetti indagati per reati contro la pubblica amministrazione o contro il patrimonio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6317</literal></binding>
+   <binding name="date"><literal>19990805</literal></binding>
+   <binding name="title"><literal>NESI ed altri: Modifiche al decreto legislativo 15 dicembre 1997, n. 446, recante istituzione dell&#39;imposta regionale sulle attività produttive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6318</literal></binding>
+   <binding name="date"><literal>19990805</literal></binding>
+   <binding name="title"><literal>NESI ed altri: Disposizioni per contrastare l&#39;elusione fiscale internazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6432</literal></binding>
+   <binding name="date"><literal>19991007</literal></binding>
+   <binding name="title"><literal>SALES ed altri: Modifiche all&#39;articolo 15-bis della legge 19 marzo 1990, n. 55, concernenti ipotesi di scioglimento dei consigli comunali e provinciali per la prevenzione della delinquenza di tipo mafioso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6788</literal></binding>
+   <binding name="date"><literal>20000218</literal></binding>
+   <binding name="title"><literal>NESI ed altri: Delega al Governo per la istituzione di una imposta sulle transazioni di natura speculativa da e per l&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6912</literal></binding>
+   <binding name="date"><literal>20000330</literal></binding>
+   <binding name="title"><literal>SALES ed altri: Incentivi fiscali alle nuove iniziative produttive nelle aree depresse</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7012</literal></binding>
+   <binding name="date"><literal>20000523</literal></binding>
+   <binding name="title"><literal>BARTOLICH ed altri: Modifica all&#39;art. 3  della legge 21 novembre 1967, n. 1185, in materia diconcessione dei passaporti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7360</literal></binding>
+   <binding name="date"><literal>20001011</literal></binding>
+   <binding name="title"><literal>PISAPIA ed altri: Istituzione della giornata nazionale contro la pena di morte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>826</literal></binding>
+   <binding name="date"><literal>19960514</literal></binding>
+   <binding name="title"><literal>CHIAVACCI ed altri: Norme per la messa al bando delle mine antipersona</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>826-B</literal></binding>
+   <binding name="date"><literal>19960514</literal></binding>
+   <binding name="title"><literal>CHIAVACCI ed altri: Norme per la messa al bando delle mine antipersona (approvata, in un testo unifcato, dalla III Commissione permanente della Camera e modifcata dalla IV Commissione permanente del Senato) (S. 2740)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>866</literal></binding>
+   <binding name="date"><literal>19960515</literal></binding>
+   <binding name="title"><literal>DE CESARIS ed altri: Legge quadro sulle calamità naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2505</literal></binding>
+   <binding name="date"><literal>19961017</literal></binding>
+   <binding name="title"><literal>PISCITELLO ed altri: Istituzione di corsi speciali per i conseguimento dell&#39;abilitazione all&#39;insegnamento nella scuola materna e nella scuola secondaria di primo e secondo grado</literal></binding>
+  </result>
+ </results>
+</sparql>

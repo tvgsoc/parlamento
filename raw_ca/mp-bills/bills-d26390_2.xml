@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1743</literal></binding>
+   <binding name="date"><literal>19550726</literal></binding>
+   <binding name="title"><literal>PITZALIS ed altri: Esenzione dal limite massimo d&#39;età per l&#39;ammissione al concorso di cui alla legge 27 novembre 1954, n. 1170</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3324</literal></binding>
+   <binding name="date"><literal>19571127</literal></binding>
+   <binding name="title"><literal>VISCHIA ed altri: Conferimento dei posti del ruolo in soprannumero vacanti all&#39;inizio degli anni scolastici 1958-59 e 1959-60</literal></binding>
+  </result>
+ </results>
+</sparql>

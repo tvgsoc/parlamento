@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1396</literal></binding>
+   <binding name="date"><literal>20060718</literal></binding>
+   <binding name="title"><literal>FASSINO ed altri: &quot;Diritto delle bambine e dei bambini all&#39;educazione e all&#39;istruzione dalla nascita fino a sei anni&quot; (1396)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1436</literal></binding>
+   <binding name="date"><literal>20060724</literal></binding>
+   <binding name="title"><literal>FASSINO ed altri: &quot;Istituzione del Garante per l&#39;infanzia e l&#39;adolescenza&quot; (1436)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1880</literal></binding>
+   <binding name="date"><literal>20061106</literal></binding>
+   <binding name="title"><literal>GALANTE ed altri: &quot;Celebrazioni in memoria delle donne partigiane combattenti&quot; (1880)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2127</literal></binding>
+   <binding name="date"><literal>20070116</literal></binding>
+   <binding name="title"><literal>SERENI ed altri: &quot;Nuove disposizioni in materia di cooperazione allo sviluppo&quot; (2127)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2319</literal></binding>
+   <binding name="date"><literal>20070305</literal></binding>
+   <binding name="title"><literal>MARIANI ed altri: &quot;Princìpi fondamentali per il governo del territorio. Delega al Governo in materia di fiscalità urbanistica e immobiliare&quot; (2319)</literal></binding>
+  </result>
+ </results>
+</sparql>

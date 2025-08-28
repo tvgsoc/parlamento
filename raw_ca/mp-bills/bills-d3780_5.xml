@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1939</literal></binding>
+   <binding name="date"><literal>19691024</literal></binding>
+   <binding name="title"><literal>MARIOTTI: Norme per la sostituzione della dizione &quot;arte ausiliaria sanitaria&quot; con quella di &quot;professione sanitaria ausiliaria&quot; nei confronti dei tecnici di radiologia medica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2072</literal></binding>
+   <binding name="date"><literal>19691128</literal></binding>
+   <binding name="title"><literal>MARIOTTI: Riconoscimento giuridico, ai fini previdenziali, del periodo anteriore alla immissione in ruolo del personale dell&#39;amministrazione ferroviaria, assunto in base alle leggi 18 febbraio 1963, n. 304, 3 novembre 1963, n. 1443, e 27 luglio 1967, n. 668</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>481</literal></binding>
+   <binding name="date"><literal>19681009</literal></binding>
+   <binding name="title"><literal>MARIOTTI: Assegnazione di un contributo sui proventi delle terme al comune di Montecatini Terme</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>482</literal></binding>
+   <binding name="date"><literal>19681009</literal></binding>
+   <binding name="title"><literal>MARIOTTI: Disposizioni dirette a escludere le decisioni di &quot;abbandono&quot; dei ricorsi giurisdizionali in materia di pensioni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>483</literal></binding>
+   <binding name="date"><literal>19681009</literal></binding>
+   <binding name="title"><literal>MARIOTTI: Vincolo dei canoni di locazione degli immobili urbani colpiti dalle alluvioni o mareggiate dell&#39;autunno 1966</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>272</literal></binding>
+   <binding name="date"><literal>19680726</literal></binding>
+   <binding name="title"><literal>MOSCA ed altri: Istituzione dell&#39;Albo dei collaboratori scientifici esterni nell&#39;industria farmaceutica e regolamentazione della relativa attività</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>657</literal></binding>
+   <binding name="date"><literal>19681113</literal></binding>
+   <binding name="title"><literal>LENOCI e MARIOTTI: Nuova disciplina della concessione VIII per i viaggi sulle ferrovie dello Stato dei mutilati ed invalidi di guerra o per servizio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>719</literal></binding>
+   <binding name="date"><literal>19681121</literal></binding>
+   <binding name="title"><literal>MUSSA IVALDI VERCELLI ed altri: Personale operaio addetto a stabilimenti ed arsenali del Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>658</literal></binding>
+   <binding name="date"><literal>19681113</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Concessione di un assegno speciale annuo a favore dei grandi invalidi di guerra fruenti di assegno di superinvalidità di cui alla lettera A ed alla lettera A-bis n. 1 e 3 della tabella E annessa alla legge 18 marzo 1968, n. 313</literal></binding>
+  </result>
+ </results>
+</sparql>

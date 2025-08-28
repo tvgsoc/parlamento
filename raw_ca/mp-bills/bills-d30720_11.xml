@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3396</literal></binding>
+   <binding name="date"><literal>19931125</literal></binding>
+   <binding name="title"><literal>TOGNOLI e BORSANO: Disciplina della professione di informatore scientifico del farmaco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1348</literal></binding>
+   <binding name="date"><literal>19920722</literal></binding>
+   <binding name="title"><literal>BORDON ed altri: Interventi in favore del cinema</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1394</literal></binding>
+   <binding name="date"><literal>19920729</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Regolamentazione della gestione e dell&#39;uso dei comprensori sciabili e definizione del codice di comportamento dello sciatore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1395</literal></binding>
+   <binding name="date"><literal>19920729</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Norme per la sospensione degli sfratti nei confronti dei soggetti disabili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1398</literal></binding>
+   <binding name="date"><literal>19920729</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Norme sulla valutazione di impatto ambientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1585</literal></binding>
+   <binding name="date"><literal>19920921</literal></binding>
+   <binding name="title"><literal>TARADASH ed altri: Modifiche alla legge 5 giugno 1990, n. 135, in materia di provvedimenti per i malati terminali di AIDS nelle carceri e per l&#39;assistenza alle persone affette da AIDS</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2183</literal></binding>
+   <binding name="date"><literal>19930128</literal></binding>
+   <binding name="title"><literal>SAVINO ed altri: Nuove norme in materia di dimissioni dei consiglieri comunali e provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2333</literal></binding>
+   <binding name="date"><literal>19930303</literal></binding>
+   <binding name="title"><literal>BORSANO ed altri: Modifiche alla legge 5 ottobre 1991, n. 317, recante &quot;Interventi per l&#39;innovazione e lo sviluppo delle piccole imprese&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2502</literal></binding>
+   <binding name="date"><literal>19930401</literal></binding>
+   <binding name="title"><literal>CERUTTI ed altri: Istituzione di un fondo per incentivare il riciclo ed il recupero dei materiali cartacei</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2665</literal></binding>
+   <binding name="date"><literal>19930514</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Abrogazione del terzo comma dell&#39;articolo 138 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2898</literal></binding>
+   <binding name="date"><literal>19930707</literal></binding>
+   <binding name="title"><literal>BORSANO ed altri: Istituzione di un organo di garanzia per le società di calcio aderenti alle Leghe professionisti</literal></binding>
+  </result>
+ </results>
+</sparql>

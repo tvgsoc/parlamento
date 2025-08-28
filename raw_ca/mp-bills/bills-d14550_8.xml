@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1763</literal></binding>
+   <binding name="date"><literal>19800522</literal></binding>
+   <binding name="title"><literal>CARLONI ANDREUCCI ed altri: Norme per la raccolta, la tipizzazione, il funzionamento, la conversione, la preparazione e la distribuzione del sangue umano e dei suoi derivati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1764</literal></binding>
+   <binding name="date"><literal>19800522</literal></binding>
+   <binding name="title"><literal>TESSARI ed altri: Norme per la disciplina dei prodotti farmaceutici e della sperimentazione clinica nell&#39;uomo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1982</literal></binding>
+   <binding name="date"><literal>19800828</literal></binding>
+   <binding name="title"><literal>TAGLIABUE ed altri: Modifiche ed integrazioni alla legge 22 dicembre 1975, n. 685, concernente disciplina degli stupefacenti e sostanze psicotrope e loro sostitutivi. Nuove norme contro l&#39;alcolismo e il tabagismo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>969</literal></binding>
+   <binding name="date"><literal>19791115</literal></binding>
+   <binding name="title"><literal>BRUSCA ed altri: Nuovo ordinamento delle scuole di specializzazione medico-chirurgiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1199</literal></binding>
+   <binding name="date"><literal>19791221</literal></binding>
+   <binding name="title"><literal>LA TORRE ed altri: Modifiche alla legge 27 dicembre 1973, n. 927, concernente la costruzione di un bacino di carenaggio nel porto di Palermo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1219</literal></binding>
+   <binding name="date"><literal>19791231</literal></binding>
+   <binding name="title"><literal>COLOMBA ed altri: Disciplina della produzione e della vendita dei cosmetici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1581</literal></binding>
+   <binding name="date"><literal>19800331</literal></binding>
+   <binding name="title"><literal>LA TORRE ed altri: Norme di prevenzione e di repressione del fenomeno della mafia e costituzione di una Commissione parlamentare permanente di vigilanza e controllo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1762</literal></binding>
+   <binding name="date"><literal>19800522</literal></binding>
+   <binding name="title"><literal>PALOPOLI ed altri: Abrogazione degli articoli 2, 3, 4 e 5 della legge 5 agosto 1978, n. 484, concernenti la partecipazione degli assistiti alla spesa per l&#39;assistenza farmaceutica</literal></binding>
+  </result>
+ </results>
+</sparql>

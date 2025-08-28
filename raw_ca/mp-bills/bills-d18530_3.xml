@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1066</literal></binding>
+   <binding name="date"><literal>19590416</literal></binding>
+   <binding name="title"><literal>BOIDI ed altri: Costituzione del comune di Marotta, in provincia di Pesaro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1500</literal></binding>
+   <binding name="date"><literal>19590723</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Collocamento obbligatorio dei massaggiatori e massofisioterapisti ciechi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1652</literal></binding>
+   <binding name="date"><literal>19591021</literal></binding>
+   <binding name="title"><literal>DAL CANTON ed altri: Sulla riabilitazione dei soggetti in età evolutiva che presentano irregolarità psichiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>879</literal></binding>
+   <binding name="date"><literal>19590226</literal></binding>
+   <binding name="title"><literal>REPOSSI ed altri: Modificazioni alle norme relative all&#39;assicurazione obbligatoria contro gli infortuni sul lavoro nell&#39;industria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1601</literal></binding>
+   <binding name="date"><literal>19591001</literal></binding>
+   <binding name="title"><literal>DE MARZI ed altri: Provvedimenti tributari per l&#39;artigianato</literal></binding>
+  </result>
+ </results>
+</sparql>

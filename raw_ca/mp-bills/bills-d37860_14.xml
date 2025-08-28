@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5717</literal></binding>
+   <binding name="date"><literal>20050315</literal></binding>
+   <binding name="title"><literal>ZANELLA ed altri: &quot;Disposizioni concernenti il divieto di alcuni interventi estetici sugli animali da compagnia&quot; (5717)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5812</literal></binding>
+   <binding name="date"><literal>20050502</literal></binding>
+   <binding name="title"><literal>VALPIANA ed altri: &quot;Disposizioni per il riconoscimento dei congedi per la partecipazione a missioni organizzate nell&#39;ambito dei Corpi civili di pace&quot; (5812)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5935</literal></binding>
+   <binding name="date"><literal>20050623</literal></binding>
+   <binding name="title"><literal>SPINI ed altri: &quot;Disposizioni per la tutela del patrimonio storico della guerra di Liberazione e della lotta partigiana&quot; (5935)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6012</literal></binding>
+   <binding name="date"><literal>20050725</literal></binding>
+   <binding name="title"><literal>PISAPIA ed altri: &quot;Modifiche al testo unico delle disposizioni concernenti la disciplina dell&#39;immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286&quot; (6012)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6044</literal></binding>
+   <binding name="date"><literal>20050729</literal></binding>
+   <binding name="title"><literal>DEIANA ed altri: &quot;Istituzione del Comitato nazionale per l&#39;organizzazione delle celebrazioni per il 60° anniversario della proclamazione della Repubblica italiana&quot; (6044)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6137</literal></binding>
+   <binding name="date"><literal>20051017</literal></binding>
+   <binding name="title"><literal>SASSO ed altri: &quot;Istituzione del Museo della musica denominato &#39;Casa Piccinnì in Bari&quot; (6137)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6214</literal></binding>
+   <binding name="date"><literal>20051212</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: &quot;Attivazione di un indicatore del prodotto interno lordo in senso ambientale&quot; (6214)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6235</literal></binding>
+   <binding name="date"><literal>20051219</literal></binding>
+   <binding name="title"><literal>CIMA ed altri: &quot;Disposizioni per l&#39;istituzione dei bilanci di genere per la pubblica amministrazione&quot; (6235)</literal></binding>
+  </result>
+ </results>
+</sparql>

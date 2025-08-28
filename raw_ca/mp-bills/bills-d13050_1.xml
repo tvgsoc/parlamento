@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>201</literal></binding>
+   <binding name="date"><literal>19481204</literal></binding>
+   <binding name="title"><literal>MERLONI ed altri: Disposizioni a favore delle popolazioni della provincia di Grosseto colpite dal terremoto del 3 novembre 1948</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>465</literal></binding>
+   <binding name="date"><literal>19490404</literal></binding>
+   <binding name="title"><literal>MERLONI: Aggregazione della frazione di Montenero al comune di Castel del Piano in provincia di Grosseto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1253</literal></binding>
+   <binding name="date"><literal>19500505</literal></binding>
+   <binding name="title"><literal>GHISLANDI ed altri: Proroga del mantenimento in servizio dei lavoratori reduci e partigiani assunti o riassunti in servizio nelle aziende private</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>148</literal></binding>
+   <binding name="date"><literal>19481025</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Referendum popolare di abrogazione delle leggi e degli atti aventi valore di legge</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2274</literal></binding>
+   <binding name="date"><literal>19511030</literal></binding>
+   <binding name="title"><literal>BASSO ed altri: Sul comportamento delle pubbliche autorità nei confronti del banditismo siciliano e sulle relative cause di natura sociale, economica e politica.</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>261</literal></binding>
+   <binding name="date"><literal>19481221</literal></binding>
+   <binding name="title"><literal>TARGETTI ed altri: Concessione di una pensione straordinaria alla vedova dell&#39;onorevole Giuseppe Emanuele Modigliani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2934</literal></binding>
+   <binding name="date"><literal>19521009</literal></binding>
+   <binding name="title"><literal>LUZZATTO ed altri: Interpretazione dell&#39;articolo 15 del testo unico approvato con decreto presidenziale 5 aprile 1951, n. 203, in materia di ineleggibilità derivante da responsabilità degli amministratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>482</literal></binding>
+   <binding name="date"><literal>19490409</literal></binding>
+   <binding name="title"><literal>BELLONI ed altri: Abrogazione del regio decreto-legge 31 luglio 1943, n. 687, sulla appartenenza del Corpo degli agenti di pubblica sicurezza alle Forze armate dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>661</literal></binding>
+   <binding name="date"><literal>19490701</literal></binding>
+   <binding name="title"><literal>SANSONE ed altri: Sistemazione giuridica dei fattorini telegrafici alle dipendenze dell&#39;Amministrazione delle poste e dei telegrafi</literal></binding>
+  </result>
+ </results>
+</sparql>

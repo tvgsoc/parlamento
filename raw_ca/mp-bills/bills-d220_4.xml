@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1904</literal></binding>
+   <binding name="date"><literal>19641204</literal></binding>
+   <binding name="title"><literal>ANDERLINI e DE MITA: Definizione dell&#39;industria minore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>451</literal></binding>
+   <binding name="date"><literal>19630920</literal></binding>
+   <binding name="title"><literal>ANDERLINI: Proroga del termine di cui all&#39;articolo 2, comma primo, della legge 3 gennaio 1963, n. 4, recante provvidenze straordinarie a favore di zone colpite da alluvioni e da terremoti negli anni 1960 e 1961</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>114</literal></binding>
+   <binding name="date"><literal>19630615</literal></binding>
+   <binding name="title"><literal>LUZZATTO ed altri: Integrazione della tutela penale delle minoranze etniche e religiose</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1714</literal></binding>
+   <binding name="date"><literal>19641009</literal></binding>
+   <binding name="title"><literal>ZAPPA ed altri: Costruzione di autostrada in galleria attraverso lo Stelvio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3849</literal></binding>
+   <binding name="date"><literal>19670302</literal></binding>
+   <binding name="title"><literal>AMENDOLA ed altri: Norme per la trasformazione dei rapporti colonici e per lo sviluppo agrario miglioratario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4016</literal></binding>
+   <binding name="date"><literal>19670426</literal></binding>
+   <binding name="title"><literal>INGRAO ed altri: Norme per il superamento della mezzadria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>495</literal></binding>
+   <binding name="date"><literal>19630927</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Assegno mensile ai cittadini ultrasessantacinquenni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>127</literal></binding>
+   <binding name="date"><literal>19630621</literal></binding>
+   <binding name="title"><literal>DE PASCALIS ed altri: Proroga del termine previsto dall&#39;articolo 1 della legge 23 ottobre 1962, n. 1552, relativo alla cessazione del servizio dei sanitari e delle ostetriche ospedalieri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>208</literal></binding>
+   <binding name="date"><literal>19630710</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Deroga alle disposizioni sulla tenuta dei registri di lavoro per quanto riguarda le piccole e medie aziende</literal></binding>
+  </result>
+ </results>
+</sparql>

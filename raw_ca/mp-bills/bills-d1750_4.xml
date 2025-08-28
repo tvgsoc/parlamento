@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4662</literal></binding>
+   <binding name="date"><literal>19671213</literal></binding>
+   <binding name="title"><literal>CODACCI PISANELLI: Interpretazione autentica del secondo comma dell&#39;articolo 2 della legge 25 luglio 1966, n. 574, recante modifica alle norme relative ai concorsi magistrali ed all&#39;immissione in ruolo degli insegnanti elementari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1121</literal></binding>
+   <binding name="date"><literal>19640313</literal></binding>
+   <binding name="title"><literal>DE ZAN ed altri: Nuove disposizioni sulla pubblicità dei film vietati ai minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2308</literal></binding>
+   <binding name="date"><literal>19650430</literal></binding>
+   <binding name="title"><literal>DE MARZI ed altri: Provvedimenti a favore della cooperazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4366</literal></binding>
+   <binding name="date"><literal>19670918</literal></binding>
+   <binding name="title"><literal>VEDOVATO ed altri: Adeguamento dei termini legali e misure fiscali a favore delle imprese colpite dall&#39;alluvione e dalle mareggiate dell&#39;autunno 1966</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4956</literal></binding>
+   <binding name="date"><literal>19680304</literal></binding>
+   <binding name="title"><literal>GREGGI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>856</literal></binding>
+   <binding name="date"><literal>19640110</literal></binding>
+   <binding name="title"><literal>URSO e CODACCI PISANELLI: Costituzione in comune autonomo di Felline, frazione del comune di Alliste, in provincia di Lecce</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3138</literal></binding>
+   <binding name="date"><literal>19660506</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Norme interpretative e modificative delle disposizioni di cui ai titoli V e VI del testo unico approvato con decreto del Presidente della Repubblica 15 giugno 1959, n. 393, dell&#39;articolo 166 del testo unico approvato con regio decreto 30 marzo 1942, n. 327 e abrogazione dell&#39;articolo 108 del regio decreto 8 dicembre 1933, n. 1740</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4099</literal></binding>
+   <binding name="date"><literal>19670522</literal></binding>
+   <binding name="title"><literal>TOROS ed altri: Assicurazione contro le malattie dei familiari, residenti in Italia, di lavoratori italiani occupati in Svizzera e dei lavoratori frontalieri</literal></binding>
+  </result>
+ </results>
+</sparql>

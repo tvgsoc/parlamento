@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2835</literal></binding>
+   <binding name="date"><literal>19651210</literal></binding>
+   <binding name="title"><literal>GONELLA ed altri: Concessione e finanziamento dell&#39;idrovia Milano Nord-Mincio-Mare Adriatico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3633</literal></binding>
+   <binding name="date"><literal>19661207</literal></binding>
+   <binding name="title"><literal>GUERRINI ed altri: Modifica alle disposizioni sulla tenuta e regolarizzazione dei libri ed altri documenti di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4438</literal></binding>
+   <binding name="date"><literal>19671012</literal></binding>
+   <binding name="title"><literal>COLLEONI ed altri: Ammissione ai concorsi delle ferrovie dello Stato del personale esonerato dalle Ferrovie secondarie gestite in regime di concessione</literal></binding>
+  </result>
+ </results>
+</sparql>

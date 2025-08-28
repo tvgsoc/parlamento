@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1576</literal></binding>
+   <binding name="date"><literal>19920917</literal></binding>
+   <binding name="title"><literal>CERUTTI ed altri: Legge quadro per l&#39;edilizia residenziale e per il riassetto degli Istituti autonomi case popolari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1678</literal></binding>
+   <binding name="date"><literal>19921006</literal></binding>
+   <binding name="title"><literal>SANTONASTASO ed altri: Modifica all&#39;articolo 323 del codice penale, in materia di abuso d&#39;ufficio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2852</literal></binding>
+   <binding name="date"><literal>19930630</literal></binding>
+   <binding name="title"><literal>SARTORIS ed altri: Norme per la tutela dei diritti dei consumatori e degli utenti e istituzione del Consiglio nazionale dei consumatori e degli utenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3335</literal></binding>
+   <binding name="date"><literal>19931111</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Esercizio del diritto di voto degli italiani all&#39;estero</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3822</literal></binding>
+   <binding name="date"><literal>20101029</literal></binding>
+   <binding name="title"><literal>VERDINI ed altri: &quot;Modifiche al testo unico delle leggi recanti norme per l&#39;elezione del Senato della Repubblica, di cui al decreto legislativo 20 dicembre 1993, n. 533, in materia di assegnazione dei seggi&quot; (3822)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4695</literal></binding>
+   <binding name="date"><literal>20111018</literal></binding>
+   <binding name="title"><literal>GIRLANDA ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sull&#39;imparzialità e sull&#39;affidabilità delle agenzie di valutazione del merito di credito (rating)&quot; (4695)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4847</literal></binding>
+   <binding name="date"><literal>20111216</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE CALDERISI ed altri: &quot;Introduzione dell&#39;elezione del Presidente della Repubblica a suffragio universale e diretto e della forma di governo semipresidenziale&quot; (4847)</literal></binding>
+  </result>
+ </results>
+</sparql>

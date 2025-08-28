@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1195</literal></binding>
+   <binding name="date"><literal>19920702</literal></binding>
+   <binding name="title"><literal>FERRARI ed altri: Modifica all&#39;articolo 10 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di oneri deducibili per spese di istruzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1251</literal></binding>
+   <binding name="date"><literal>19920707</literal></binding>
+   <binding name="title"><literal>CIAFFI ed altri: Nuove norme per l&#39;elezione dei consigli comunali e dei sindaci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1464</literal></binding>
+   <binding name="date"><literal>19920805</literal></binding>
+   <binding name="title"><literal>IODICE ed altri: Norme sull&#39;Istituto di studi politici &quot;San Pio V&quot; di Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1719</literal></binding>
+   <binding name="date"><literal>19921013</literal></binding>
+   <binding name="title"><literal>POLIZIO ed altri: Modifiche alla legge 28 febbraio 1985, n. 47, e nuove norme in materia di controllo dell&#39;attività urbanistico-edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2037</literal></binding>
+   <binding name="date"><literal>19921217</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Norme in materia di concessioni demaniali marittime</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2146</literal></binding>
+   <binding name="date"><literal>19930121</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Modifica all&#39;articolo 3 della legge 5 agosto 1981, n. 441, in materia di vendita a peso netto delle merci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3335</literal></binding>
+   <binding name="date"><literal>19931111</literal></binding>
+   <binding name="title"><literal>BIANCO ed altri: Esercizio del diritto di voto degli italiani all&#39;estero</literal></binding>
+  </result>
+ </results>
+</sparql>

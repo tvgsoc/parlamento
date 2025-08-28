@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4253</literal></binding>
+   <binding name="date"><literal>19861211</literal></binding>
+   <binding name="title"><literal>VITI ed altri: Programma di interventi di recupero, restauro e valorizzazione del patrimonio artistico barocco della città di Lecce</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4368</literal></binding>
+   <binding name="date"><literal>19870127</literal></binding>
+   <binding name="title"><literal>PATRIA ed altri: Nuove norme per miglioramenti e perequazione dei trattamenti pensionistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4484</literal></binding>
+   <binding name="date"><literal>19870225</literal></binding>
+   <binding name="title"><literal>BERNARDI ed altri: Obbligatorietà di istallazione di rilevatori di gas</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4512</literal></binding>
+   <binding name="date"><literal>19870311</literal></binding>
+   <binding name="title"><literal>MARTINAZZOLI ed altri: Norme sulla definizione e razionalizzazione di procedimenti amministrativi per la tutela preventiva dell&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4545</literal></binding>
+   <binding name="date"><literal>19870324</literal></binding>
+   <binding name="title"><literal>SENALDI ed altri: Modificazione dell&#39;articolo 3, comma 9, del decreto-legge 19 dicembre 1984, n. 853, convertito, con modificazioni, dalla legge 17 febbraio 1985, n. 17, in materia di scritture ausiliarie di magazzino delle imprese commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4606</literal></binding>
+   <binding name="date"><literal>19870409</literal></binding>
+   <binding name="title"><literal>ZURLO ed altri: Riordinamento della ricerca e della sperimentazione agraria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4637</literal></binding>
+   <binding name="date"><literal>19870424</literal></binding>
+   <binding name="title"><literal>ZURLO ed altri: Norme per la classificazione dell&#39;olio di oliva</literal></binding>
+  </result>
+ </results>
+</sparql>

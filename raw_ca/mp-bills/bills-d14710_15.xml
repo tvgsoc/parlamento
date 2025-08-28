@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>193-523-1175-1231-B</literal></binding>
+   <binding name="date"><literal>20070308</literal></binding>
+   <binding name="title"><literal>S. 1084. - PROPOSTA DI LEGGE COSTITUZIONALE BOATO ed altri; D&#39;ELIA ed altri; MASCIA ed altri; PISCITELLO: &quot;Modifica all&#39;articolo 27 della Costituzione, concernente l&#39;abolizione della pena di morte&quot; (approvata, in un testo unificato, in prima deliberazione, dalla Camera e dal Senato)  (193-523-1175-1231-B)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>377</literal></binding>
+   <binding name="date"><literal>20060504</literal></binding>
+   <binding name="title"><literal>CAPPATO ed altri: &quot;Disposizioni in materia di fecondazione medicalmente assistita e di ricerca correlata&quot; (377)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>525</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>BUEMI ed altri: &quot;Concessione di amnistia e di indulto&quot; (525)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>525-ter</literal></binding>
+   <binding name="date"><literal>20060718</literal></binding>
+   <binding name="title"><literal>BUEMI ed altri: &quot;Concessione di amnistia&quot; (Già articoli 1 e 3 della proposta di legge n. 525, stralciati, con deliberazione dell&#39;Assemblea, il 18 luglio 2006) (525-ter)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>525-bis</literal></binding>
+   <binding name="date"><literal>20060718</literal></binding>
+   <binding name="title"><literal>BUEMI ed altri: &quot;Concessione di indulto&quot; (Testo risultante dallo stralcio degli articoli 1 e 3 dellla proposta di legge n. 525, deliberato dall&#39;Assemblea il 18 luglio 2006) (525-bis)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>523</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE D&#39;ELIA ed altri: &quot;Modifica all&#39;articolo 27 della Costituzione concernente l&#39;abolizione della pena di morte&quot; (523)</literal></binding>
+  </result>
+ </results>
+</sparql>

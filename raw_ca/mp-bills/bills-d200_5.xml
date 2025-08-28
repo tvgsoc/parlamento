@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1010</literal></binding>
+   <binding name="date"><literal>19690206</literal></binding>
+   <binding name="title"><literal>LIZZERO ed altri: Integrazione della legge 15 febbraio 1963, n. 151, concernente modificazioni degli articoli 41, 66 e 67 del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3112</literal></binding>
+   <binding name="date"><literal>19710222</literal></binding>
+   <binding name="title"><literal>ORILIA ed altri: Concessione di un contributo annuo di lire 50 milioni a favore dell&#39;ISSOCO (Istituto per lo studio della società contemporanea)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3936</literal></binding>
+   <binding name="date"><literal>19720113</literal></binding>
+   <binding name="title"><literal>COLAJANNI ed altri: Disciplina degli enti di gestione delle partecipazioni statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1176</literal></binding>
+   <binding name="date"><literal>19690312</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Norme per lo sviluppo democratico dell&#39;economia montana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Modifiche e integrazioni alla legge 18 marzo 1968, n. 238, ed al successivo decreto del Presidente della Repubblica 27 aprile 1968, n. 488 - Aumento e nuovo sistema di calcolo delle pensioni a carico dell&#39;assicurazione generale obbligatoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2950</literal></binding>
+   <binding name="date"><literal>19701223</literal></binding>
+   <binding name="title"><literal>COLAJANNI ed altri: Norme sull&#39;intervento pubblico nel Mezzogiorno</literal></binding>
+  </result>
+ </results>
+</sparql>

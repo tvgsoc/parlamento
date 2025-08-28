@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1495</literal></binding>
+   <binding name="date"><literal>20130806</literal></binding>
+   <binding name="title"><literal>MARRONI ed altri: &quot;Modifiche al codice civile e al codice di procedura civile in materia di affidamento dei figli e di mediazione familiare nei procedimenti di separazione dei coniugi&quot; (1495)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1934</literal></binding>
+   <binding name="date"><literal>20140109</literal></binding>
+   <binding name="title"><literal>IORI ed altri: &quot;Modifiche al codice penale, al codice di procedura penale, alla legge 26 luglio 1975, n. 354, e al testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, per favorire i rapporti tra detenute madri e figli minori e l&#39;esercizio della responsabilità genitoriale dei detenuti, nonché in materia di istituzione delle case-famiglia protette&quot; (1934)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1343</literal></binding>
+   <binding name="date"><literal>20130710</literal></binding>
+   <binding name="title"><literal>CAMPANA ed altri: &quot;Modifiche all&#39;articolo 28 della legge 4 maggio 1983, n. 184, in materia di accesso del figlio adottato alle informazioni sulle proprie origini e sull&#39;identità dei propri genitori biologici e di rinunzia della madre naturale all&#39;anonimato&quot; (1343)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2716</literal></binding>
+   <binding name="date"><literal>20141111</literal></binding>
+   <binding name="title"><literal>SERENI ed altri: &quot;Istituzione della Giornata in memoria delle donne nella Resistenza&quot; (2716)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2876</literal></binding>
+   <binding name="date"><literal>20150212</literal></binding>
+   <binding name="title"><literal>IORI ed altri: &quot;Modifiche alla legge 26 luglio 1975, n. 354, in materia di relazioni affettive tra i detenuti e i figli minorenni&quot; (2876)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3150</literal></binding>
+   <binding name="date"><literal>20150527</literal></binding>
+   <binding name="title"><literal>PELLEGRINO ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sulla morte di Pier Paolo Pasolini&quot; (3150)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4281</literal></binding>
+   <binding name="date"><literal>20170208</literal></binding>
+   <binding name="title"><literal>VALIANTE ed altri: &quot;Modifiche al testo unico delle leggi recanti norme per la elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, concernente l&#39;eliminazione della disciplina speciale per i capilista&quot; (4281)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3601</literal></binding>
+   <binding name="date"><literal>20160211</literal></binding>
+   <binding name="title"><literal>DAMIANO ed altri: &quot;Modifiche al decreto legislativo 15 giugno 2015, n. 81, in materia di disciplina del lavoro accessorio&quot; (3601)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4229</literal></binding>
+   <binding name="date"><literal>20170116</literal></binding>
+   <binding name="title"><literal>CAPONE ed altri: &quot;Modifiche al testo unico delle leggi sull&#39;ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, concernenti la fusione di comuni e l&#39;esercizio coordinato o associato delle loro funzioni&quot; (4229)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4726</literal></binding>
+   <binding name="date"><literal>20171107</literal></binding>
+   <binding name="title"><literal>MANFREDI ed altri: &quot;Concessione di un credito d&#39;imposta e altre agevolazioni fiscali per la bonifica dell&#39;amianto negli immobili residenziali o destinati ad attività produttive, negli edifici scolastici e delle università e nelle aziende ospedaliere, in attuazione della direttiva 2009/148/CE del Parlamento europeo e del Consiglio, del 30 novembre 2009, sulla protezione dei lavoratori contro i rischi connessi con un&#39;esposizione all&#39;amianto durante il lavoro&quot; (4726)</literal></binding>
+  </result>
+ </results>
+</sparql>

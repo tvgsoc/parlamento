@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1141</literal></binding>
+   <binding name="date"><literal>19500308</literal></binding>
+   <binding name="title"><literal>CARRON ed altri: Provvedimenti per l&#39;edilizia scolastica nella zona del confine orientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1899</literal></binding>
+   <binding name="date"><literal>19510314</literal></binding>
+   <binding name="title"><literal>CARRON ed altri: Provvedimenti a favore degli ufficiali e dei sottufficiali delle Forze Armate, esuli dai territori metropolitani e coloniali ceduti per effetto del trattato di pace</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1008</literal></binding>
+   <binding name="date"><literal>19491221</literal></binding>
+   <binding name="title"><literal>CARIGNANI ed altri: Riforma della legge 21 agosto 1912, concernente l&#39;assunzione obbligatoria al lavoro degli invalidi di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1513</literal></binding>
+   <binding name="date"><literal>19500728</literal></binding>
+   <binding name="title"><literal>FADDA ed altri: Sistemazione in Sardegna della sovrapopolazione di altre regioni, mediante valorizzazione delle risorse agricole ed industriali dell&#39;Isola. - Istituzione dell&#39;&quot;Opera per la valorizzazione nazionale della Sardegna&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1566</literal></binding>
+   <binding name="date"><literal>19501005</literal></binding>
+   <binding name="title"><literal>CUTTITTA ed altri: Trattamento di quiescenza e indennità di liquidazione a favore dei sottufficiali e dei militari di truppa dell&#39;Arma dei carabinieri richiamati o trattenuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2129</literal></binding>
+   <binding name="date"><literal>19510808</literal></binding>
+   <binding name="title"><literal>FRANCESCHINI ed altri: Norme interpretative e integrative della legge 10 agosto 1950, n. 648, sulle pensioni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2484</literal></binding>
+   <binding name="date"><literal>19520125</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Ampliamento del piano di costruzione di case per lavoratori I.N.A.-Casa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2625</literal></binding>
+   <binding name="date"><literal>19520326</literal></binding>
+   <binding name="title"><literal>AZZI ed altri: Riapertura dei termini per la presentazione delle domande di riconoscimento della qualifica di partigiano per coloro che si trovavano all&#39;estero, di cui all&#39;articolo 12 del decreto legislativo luogotenenziale del 21 agosto 1945, n. 518, limitatamente alle categorie dei partigiani caduti, dispersi, mutilati ed invalidi e di coloro che risiedono nel Territorio Libero di Trieste</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2936</literal></binding>
+   <binding name="date"><literal>19521010</literal></binding>
+   <binding name="title"><literal>VOCINO ed altri: Riordinamento degli organici del personale amministrativo del Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3051</literal></binding>
+   <binding name="date"><literal>19521206</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Istituzione dell&#39;Opera nazionale per la gioventù</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3128</literal></binding>
+   <binding name="date"><literal>19530113</literal></binding>
+   <binding name="title"><literal>VIOLA DI CÀ TASSON ed altri: Proroga del termine fissato dall&#39;articolo 118 della legge 10 agosto 1950, n. 648, per la presentazione delle domande per ottenere la pensione di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3185</literal></binding>
+   <binding name="date"><literal>19530211</literal></binding>
+   <binding name="title"><literal>CARIGNANI ed altri: Provvedimenti a favore degli insegnanti di scuole elementari e medie mutilati ed invalidi di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3275</literal></binding>
+   <binding name="date"><literal>19530313</literal></binding>
+   <binding name="title"><literal>ZANFAGNINI ed altri: Modifiche al testo unico delle leggi sanitarie approvato con regio decreto 27 luglio 1934, n. 1265, per quanto riguarda il capo II: Del servizio farmaceutico</literal></binding>
+  </result>
+ </results>
+</sparql>

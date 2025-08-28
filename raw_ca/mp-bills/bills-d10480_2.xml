@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3568</literal></binding>
+   <binding name="date"><literal>19580220</literal></binding>
+   <binding name="title"><literal>SPALLONE ed altri: Garanzia da svalutazioni monetarie delle rimesse dei lavoratori emigrati all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1011</literal></binding>
+   <binding name="date"><literal>19540706</literal></binding>
+   <binding name="title"><literal>BETTIOL ed altri: Modifiche alle disposizioni in materia di finanza locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1805</literal></binding>
+   <binding name="date"><literal>19551007</literal></binding>
+   <binding name="title"><literal>COMPAGNONI ed altri: Norme interpretative della legge 11 luglio 1952, n. 756, concernente disposizioni di proroga dei contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1835</literal></binding>
+   <binding name="date"><literal>19551019</literal></binding>
+   <binding name="title"><literal>SCIORILLI BORRELLI ed altri: Affrancazione delle prestazioni di natura ex-feudale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2465</literal></binding>
+   <binding name="date"><literal>19561001</literal></binding>
+   <binding name="title"><literal>CERVONE ed altri: Modifiche all&#39;articolo 2 della legge 27 dicembre 1953, n. 968, concernente concessioni di indennizzi e contributi per danni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>253</literal></binding>
+   <binding name="date"><literal>19531013</literal></binding>
+   <binding name="title"><literal>CORBI ed altri: Abbattimento delle baracche esistenti sul territorio dei comuni terremotati e costruzione di alloggi popolari in loro sostituzione. - Provvedimenti in dipendenza dei terremoti verificatisi nel 1950 e 1951</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3579</literal></binding>
+   <binding name="date"><literal>19580221</literal></binding>
+   <binding name="title"><literal>BETTIOL ed altri: Fondo nazionale della montagna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3645</literal></binding>
+   <binding name="date"><literal>19580306</literal></binding>
+   <binding name="title"><literal>ROASIO ed altri: Abrogazione della legge 9 aprile 1931, n. 358 e della legge 6 luglio 1939, n. 1092 e provvedimenti a favore dei lavoratori che trasferiscono la propria residenza per ragioni di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>856</literal></binding>
+   <binding name="date"><literal>19540506</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Inchiesta parlamentare sugli Enti di riforma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>937</literal></binding>
+   <binding name="date"><literal>19540605</literal></binding>
+   <binding name="title"><literal>BETTIOL ed altri: Modifiche al testo unico delle disposizioni di legge sulle acque e sugli impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775, e alla legge n. 2359 del 25 giugno 1865</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>689</literal></binding>
+   <binding name="date"><literal>19831020</literal></binding>
+   <binding name="title"><literal>DRAGO ed altri: Istituzione dell&#39;Azienda dei mezzi meccanici e dei magazzini del porto di Catania</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1253</literal></binding>
+   <binding name="date"><literal>19840203</literal></binding>
+   <binding name="title"><literal>FALCIER ed altri: Norme sui prelievi di parti di cadavere per finalità terapeutiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1418</literal></binding>
+   <binding name="date"><literal>19840314</literal></binding>
+   <binding name="title"><literal>NICOTRA ed altri: Moratoria per il versamento dei contributi agricoli unificati dovuti a tutto il 31 dicembre 1983</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1996</literal></binding>
+   <binding name="date"><literal>19840801</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: Nuove norme per evitare la formazione del precariato scolastico e per la graduale sistemazione del personale precario esistente, docente e non docente delle scuole di ogni ordine e grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2207</literal></binding>
+   <binding name="date"><literal>19841025</literal></binding>
+   <binding name="title"><literal>LO BELLO ed altri: Modifica dell&#39;articolo 5 della legge 2 febbraio 1939, n. 397, sulla sede dell&#39;Istituto Nazionale del dramma antico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4117</literal></binding>
+   <binding name="date"><literal>19861029</literal></binding>
+   <binding name="title"><literal>MEMMI ed altri: Norme sullo stato giuridico dei magistrati della Corte dei conti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4573</literal></binding>
+   <binding name="date"><literal>19870403</literal></binding>
+   <binding name="title"><literal>AUGELLO ed altri: Esonero per le farmacie da alcuni obblighi formali per l&#39;utilizzazione delle sostanze zuccherine</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1053</literal></binding>
+   <binding name="date"><literal>19831219</literal></binding>
+   <binding name="title"><literal>FALCIER ed altri: Norme in favore dei dipendenti delle unità sanitarie locali che svolgono mansioni superiori per incarico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1433</literal></binding>
+   <binding name="date"><literal>19840315</literal></binding>
+   <binding name="title"><literal>PICCOLI ed altri: Interventi urgenti e straordinari diretti ad assicurare nel 1984, e comunque entro 12 mesi, la sopravvivenza di almeno tre milioni di persone minacciate dalla fame, dalla denutrizione e dal sottosviluppo nelle regioni dei Paesi in via di sviluppo dove si registrano i più alti tassi di mortalità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2556</literal></binding>
+   <binding name="date"><literal>19850214</literal></binding>
+   <binding name="title"><literal>D&#39;ACQUISTO ed altri: Norme per l&#39;inquadramento nella fascia dei professori associati di talune categorie di professori incaricati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>517</literal></binding>
+   <binding name="date"><literal>19830921</literal></binding>
+   <binding name="title"><literal>MAZZOTTA ed altri: Modifiche al primo comma dell&#39;articolo 2095 del codice civile</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2852</literal></binding>
+   <binding name="date"><literal>19950710</literal></binding>
+   <binding name="title"><literal>BERNINI ed altri: Norme sull&#39;internazionalizzazione delle imprese e riforma dell&#39;Istituto nazionale per il commercio estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2425</literal></binding>
+   <binding name="date"><literal>19950426</literal></binding>
+   <binding name="title"><literal>LODOLO D&#39;ORIA ed altri: Norme per favorire il lavoro negli istituti penitenziari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2734</literal></binding>
+   <binding name="date"><literal>19950621</literal></binding>
+   <binding name="title"><literal>SAVARESE ed altri: Norme in materia di divieto di fumare in taluni locali pubblici e di comunicazioni aventi per oggetto prodotti da fumo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2751</literal></binding>
+   <binding name="date"><literal>19950622</literal></binding>
+   <binding name="title"><literal>PERALE ed altri: Norme per il potenziamento dell&#39;amministrazione giudiziaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2887</literal></binding>
+   <binding name="date"><literal>19950714</literal></binding>
+   <binding name="title"><literal>MAMMOLA ed altri: Proroga dei termini previsti dal decreto-legge 27 agosto 1993, n. 323, convertito, con modificazioni, dalla legge 25 ottobre 1993, n. 422, in materia di trasmissioni televisive codificate via etere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2998</literal></binding>
+   <binding name="date"><literal>19950731</literal></binding>
+   <binding name="title"><literal>USIGLIO ed altri: Norme per l&#39;attuazione degli articoli 39 e 40 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3003</literal></binding>
+   <binding name="date"><literal>19950801</literal></binding>
+   <binding name="title"><literal>CHIESA ed altri: Norme sull&#39;uso del casco nelle competizioni ciclistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3158</literal></binding>
+   <binding name="date"><literal>19950921</literal></binding>
+   <binding name="title"><literal>CABRINI ed altri: Norme per la diffusione e la valorizzazione dell&#39;imprenditoria giovanile in agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3320</literal></binding>
+   <binding name="date"><literal>19951025</literal></binding>
+   <binding name="title"><literal>PERALE ed altri: Modifiche alla legge 3 febbraio 1989, n. 39, concernente la disciplina della professione di mediatore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3530</literal></binding>
+   <binding name="date"><literal>19951206</literal></binding>
+   <binding name="title"><literal>TARDITI ed altri: Istituzione del ruolo ed esaurimento dei magistrati di completamento per vice procuratori onorari della Repubblica e per vice pretori onorari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3547</literal></binding>
+   <binding name="date"><literal>19951212</literal></binding>
+   <binding name="title"><literal>CACCAVALE ed altri: Istituzione del ruolo ad esaurimento dei sottotenenti d&#39;indagine della Polizia di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3756</literal></binding>
+   <binding name="date"><literal>19960125</literal></binding>
+   <binding name="title"><literal>CHIESA ed altri: Legge quadro per l&#39;innovazione e la promozione dell&#39;offerta turistica</literal></binding>
+  </result>
+ </results>
+</sparql>

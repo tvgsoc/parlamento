@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2353</literal></binding>
+   <binding name="date"><literal>19880217</literal></binding>
+   <binding name="title"><literal>RENZULLI ed altri: Norme speciali di tutela del gruppo linguistico sloveno delle province di Trieste, Udine, Gorizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2536</literal></binding>
+   <binding name="date"><literal>19880330</literal></binding>
+   <binding name="title"><literal>CRAXI ed altri: Disciplina dell&#39;intervento organico in attuazione dell&#39;articolo 13 dello Statuto speciale della Regione autonoma della Sardegna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>545</literal></binding>
+   <binding name="date"><literal>19870703</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Modifica dell&#39;articolo 34 della legge 25 maggio 1970, n. 352, recante norme sui referendum previsti dalla Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1040</literal></binding>
+   <binding name="date"><literal>19870707</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Programma di edilizia cooperativa per la locazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1041</literal></binding>
+   <binding name="date"><literal>19870717</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Programmi per l&#39;edilizia residenziale destinati alla locazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1882</literal></binding>
+   <binding name="date"><literal>19871113</literal></binding>
+   <binding name="title"><literal>ANDÒ ed altri: Nuova disciplina della responsabilità civile dei magistrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2091</literal></binding>
+   <binding name="date"><literal>19871218</literal></binding>
+   <binding name="title"><literal>PIERMARTINI ed altri: Norme per il disinquinamento del Tevere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2221</literal></binding>
+   <binding name="date"><literal>19880122</literal></binding>
+   <binding name="title"><literal>BELLOCCHIO ed altri: Riapertura dei termini per la concessione di medaglia d&#39;oro alla provincia di Caserta per merito acquisito durante la guerra di liberazione nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2306</literal></binding>
+   <binding name="date"><literal>19880205</literal></binding>
+   <binding name="title"><literal>MARTELLI ed altri: Norme e interventi per il bacino idrografico del Po e della Padania</literal></binding>
+  </result>
+ </results>
+</sparql>

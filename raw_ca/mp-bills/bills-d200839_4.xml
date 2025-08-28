@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>924</literal></binding>
+   <binding name="date"><literal>19640205</literal></binding>
+   <binding name="title"><literal>RUSSO: Inclusione della genetica nell&#39;elenco degli insegnamenti fondamentali della Facoltà di scienze, per la laurea in Scienze biologiche, e della Facoltà di agraria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1121</literal></binding>
+   <binding name="date"><literal>19640313</literal></binding>
+   <binding name="title"><literal>DE ZAN ed altri: Nuove disposizioni sulla pubblicità dei film vietati ai minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>311</literal></binding>
+   <binding name="date"><literal>19630726</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Modificazioni al regio decreto 18 novembre 1923, n. 2440, per quanto concerne il bilancio dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>317</literal></binding>
+   <binding name="date"><literal>19630726</literal></binding>
+   <binding name="title"><literal>ROMANATO ed altri: Modifiche alla legge 28 luglio 1961, n. 831, recante norme sul personale direttivo e docente della scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4506</literal></binding>
+   <binding name="date"><literal>19671028</literal></binding>
+   <binding name="title"><literal>DE MEO ed altri: Modifica dell&#39;articolo 37 della legge 29 luglio 1957, n. 634 (modificata dall&#39;articolo 6 della legge 29 settembre 1962, n. 1462) recante provvedimenti per il Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>467</literal></binding>
+   <binding name="date"><literal>19630925</literal></binding>
+   <binding name="title"><literal>SAMMARTINO ed altri: Interpretazione autentica dell&#39;articolo 10 della legge 29 luglio 1957, n. 634, recante provvedimenti per il Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4910</literal></binding>
+   <binding name="date"><literal>19680227</literal></binding>
+   <binding name="title"><literal>PEDINI ed altri: Istituzione presso il Ministero degli affari esteri di un Ufficio e di un Consiglio nazionale per il servizio volontario nella cooperazione tecnica internazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2177</literal></binding>
+   <binding name="date"><literal>19650312</literal></binding>
+   <binding name="title"><literal>DE MEO ed altri: Estensione all&#39;Ente autonomo Fiera di Foggia degli incentivi e delle agevolazioni creditizie per lo sviluppo industriale del Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>524</literal></binding>
+   <binding name="date"><literal>19631004</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Provvidenze a favore dei circhi italiani e norme sulla attività dello spettacolo viaggiante</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>801</literal></binding>
+   <binding name="date"><literal>19631204</literal></binding>
+   <binding name="title"><literal>PINTUS ed altri: Modificazioni allo stato giuridico ed all&#39;ordinamento della carriera dei segretari comunali e provinciali</literal></binding>
+  </result>
+ </results>
+</sparql>

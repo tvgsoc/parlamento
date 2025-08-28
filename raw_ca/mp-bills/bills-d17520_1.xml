@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1599</literal></binding>
+   <binding name="date"><literal>19501019</literal></binding>
+   <binding name="title"><literal>PIGNATONE e VOLPE: Modificazione alle norme per l&#39;ammissione alla carriera dei geometri del Corpo del Genio civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>463</literal></binding>
+   <binding name="date"><literal>19490402</literal></binding>
+   <binding name="title"><literal>PIGNATONE: Aggregazione alla pretura di Canicattì del comune di Castrofilippo, in provincia di Agrigento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>916</literal></binding>
+   <binding name="date"><literal>19491125</literal></binding>
+   <binding name="title"><literal>PIGNATONE ed altri: Concessione di mutui da parte della Cassa depositi e prestiti per la costruzione di case popolari in favore dell&#39;Ente siciliano case per i lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1440</literal></binding>
+   <binding name="date"><literal>19500711</literal></binding>
+   <binding name="title"><literal>AMBRICO ed altri: Modifica dello stato giuridico ed economico del personale amministrativo degli istituti tecnici e delle scuole di istruzione media tecnica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2496</literal></binding>
+   <binding name="date"><literal>19520131</literal></binding>
+   <binding name="title"><literal>VOLPE ed altri: Aumento del trattamento degli assegni vitalizi, degli operai ed impiegati tecnici ed amministrativi delle miniere di zolfo della Sicilia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3180</literal></binding>
+   <binding name="date"><literal>19530210</literal></binding>
+   <binding name="title"><literal>VOLPE ed altri: Autorizzazione all&#39;Ente zolfi italiani ad operare una trattenuta sul prezzo netto degli zolfi grezzi liquidato ai produttori da devolvere a favore della propria sezione di assistenza sociale</literal></binding>
+  </result>
+ </results>
+</sparql>

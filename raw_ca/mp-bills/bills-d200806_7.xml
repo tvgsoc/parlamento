@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1426</literal></binding>
+   <binding name="date"><literal>19770505</literal></binding>
+   <binding name="title"><literal>RIZ: Norme a favore del gruppo linguistico ladino che vive nella provincia di Trento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>292</literal></binding>
+   <binding name="date"><literal>19760810</literal></binding>
+   <binding name="title"><literal>RIZ ed altri: Modifica alle tabelle A e B annesse al decreto del Presidente della Repubblica 26 ottobre 1972, n. 644, relativo alla revisione delle circoscrizioni degli Uffici distrettuali delle imposte dirette e degli Uffici del registro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>295</literal></binding>
+   <binding name="date"><literal>19760810</literal></binding>
+   <binding name="title"><literal>RIZ ed altri: Modifiche al regio decreto 28 marzo 1929, n. 499, per il coordinamento con la legge 19 maggio 1975, n. 151, sul nuovo diritto di famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1039</literal></binding>
+   <binding name="date"><literal>19770120</literal></binding>
+   <binding name="title"><literal>GAMPER ed altri: Obbligatorietà dell&#39;iscrizione del gruppo sanguigno di appartenenza sui documenti di riconoscimento e sulle patenti di guida</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1364</literal></binding>
+   <binding name="date"><literal>19770413</literal></binding>
+   <binding name="title"><literal>BENEDIKTER ed altri: Eliminazione dei simboli fascisti nella provincia di Bolzano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2067</literal></binding>
+   <binding name="date"><literal>19780302</literal></binding>
+   <binding name="title"><literal>GAMPER ed altri: Modifica della legge 23 ottobre 1961, n. 1165 (Indennità speciale di seconda lingua ai magistrati, ai dipendenti civili dello Stato compresi quelli delle amministrazioni con ordinamento autonomo ed agli appartenenti alle forze armate ed ai corpi organizzati militarmente in servizio nella provincia di Bolzano o presso uffici sedenti in Trento ed aventi competenza regionale)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2191</literal></binding>
+   <binding name="date"><literal>19780517</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Esonero dal pagamento del canone di abbonamento radio-televisivo in favore dei mutilati e invalidi di guerra e per causa di servizio di prima categoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>87</literal></binding>
+   <binding name="date"><literal>19760713</literal></binding>
+   <binding name="title"><literal>BORTOLANI ed altri: Istituzione di una cassa di previdenza e assistenza a favore di talune categorie professionali</literal></binding>
+  </result>
+ </results>
+</sparql>

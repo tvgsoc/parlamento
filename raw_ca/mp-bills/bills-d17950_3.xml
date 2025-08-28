@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2925</literal></binding>
+   <binding name="date"><literal>19610324</literal></binding>
+   <binding name="title"><literal>BETTIOL ed altri: Modificazione alla legge 20 giugno 1955, n. 519, recante disposizioni sull&#39;ordinamento dell&#39;Avvocatura dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3418</literal></binding>
+   <binding name="date"><literal>19611117</literal></binding>
+   <binding name="title"><literal>BETTIOL ed altri: Insegnamento delle Istituzioni di diritto pubblico nella Facoltà di giurisprudenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>500</literal></binding>
+   <binding name="date"><literal>19581031</literal></binding>
+   <binding name="title"><literal>BETTIOL ed altri: Adeguamento dei ruoli organici delle carriere dipendenti dal Ministero degli affari esteri alle esigenze di servizio dell&#39;Amministrazione centrale, delle Rappresentanze e degli Uffici all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>194</literal></binding>
+   <binding name="date"><literal>19580801</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Norme in materia di cantieri di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>200</literal></binding>
+   <binding name="date"><literal>19580801</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Provvedimenti a favore dei menomati negli arti e degli altri invalidi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3084</literal></binding>
+   <binding name="date"><literal>19610613</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Istituzione del ruolo organico del personale delle biblioteche musicali annesse ai Conservatori di musica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>70</literal></binding>
+   <binding name="date"><literal>19580709</literal></binding>
+   <binding name="title"><literal>FODERARO ed altri: Istituzione dell&#39;Ente di previdenza ed assistenza per il clero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>71</literal></binding>
+   <binding name="date"><literal>19580709</literal></binding>
+   <binding name="title"><literal>FODERARO ed altri: Sistemazione giuridica del personale in servizio provvisorio presso il Corpo forestale dello Stato</literal></binding>
+  </result>
+ </results>
+</sparql>

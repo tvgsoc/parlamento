@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1310</literal></binding>
+   <binding name="date"><literal>19920715</literal></binding>
+   <binding name="title"><literal>MATTIOLI ed altri: Norme sulla tutela della salute e della sicurezza dei lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2289</literal></binding>
+   <binding name="date"><literal>19930223</literal></binding>
+   <binding name="title"><literal>BEEBE TARANTELLI ed altri: Istituzione della Consulta permanente per la salute mentale e provvedimenti per la programmazione, l&#39;attuazione ed il finanziamento dei servizi di salute mentale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2634</literal></binding>
+   <binding name="date"><literal>19930507</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Istituzione di una Commissione parlamentare di inchiesta sull&#39;attuazione delle leggi in materia di cooperazione dell&#39;Italia con i paesi in via di sviluppo</literal></binding>
+  </result>
+ </results>
+</sparql>

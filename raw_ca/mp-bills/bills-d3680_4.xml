@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>259</literal></binding>
+   <binding name="date"><literal>19630719</literal></binding>
+   <binding name="title"><literal>MANCINI e PRINCIPE: Istituzione del tribunale di Paola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>500</literal></binding>
+   <binding name="date"><literal>19630928</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Estensione dei benefici combattentistici in favore del personale dipendente da amministrazioni, aziende ed enti non statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>767</literal></binding>
+   <binding name="date"><literal>19631119</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Estensione delle disposizioni dell&#39;articolo 2 della legge 28 febbraio 1961, n. 128, agli insegnanti di ruolo di lingua straniera che completano le loro ore di insegnamento negli Istituti magistrali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>799</literal></binding>
+   <binding name="date"><literal>19631204</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Revisione dell&#39;organico degli ufficiali del ruolo di amministrazione del Corpo di commissariato aeronautico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>341</literal></binding>
+   <binding name="date"><literal>19630726</literal></binding>
+   <binding name="title"><literal>GUADALUPI ed altri: Regolamentazione delle assuntorie nelle ferrotranvie in regime di concessione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>673</literal></binding>
+   <binding name="date"><literal>19631029</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Norme per il collocamento a riposo del personale di ruolo dell&#39;Amministrazione civile dello Stato avente la qualifica di ex combattente</literal></binding>
+  </result>
+ </results>
+</sparql>

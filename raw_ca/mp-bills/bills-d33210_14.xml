@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6027</literal></binding>
+   <binding name="date"><literal>20050727</literal></binding>
+   <binding name="title"><literal>GASPARRI ed altri: &quot;Nuove norme per il contrasto al terrorismo e istituzione della Direzione nazionale antimafia e antiterrorismo e delle direzioni distrettuali antiterrorismo&quot; (6027)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5777</literal></binding>
+   <binding name="date"><literal>20050413</literal></binding>
+   <binding name="title"><literal>AIRAGHI ed altri: &quot;Istituzione del Giorno del ricordo delle vittime cadute nei gulag sovietici&quot; (5777)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5931</literal></binding>
+   <binding name="date"><literal>20050622</literal></binding>
+   <binding name="title"><literal>VOLONTÈ ed altri: &quot;Norme in materia di donazione del cordone ombelicale&quot; (5931)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5950</literal></binding>
+   <binding name="date"><literal>20050629</literal></binding>
+   <binding name="title"><literal>ASCIERTO e GASPARRI: &quot;Disciplina delle procedure concorsuali per l&#39;acquisto, da parte della pubblica amministrazione, di dispositivi per sistemi informativi e reti d&#39;interconnessione&quot; (5950)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5985</literal></binding>
+   <binding name="date"><literal>20050712</literal></binding>
+   <binding name="title"><literal>LANDI DI CHIAVENNA ed altri: &quot;Modifiche al testo unico delle disposizioni concernenti la disciplina dell&#39;immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286&quot; (5985)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6129</literal></binding>
+   <binding name="date"><literal>20051013</literal></binding>
+   <binding name="title"><literal>TRANTINO ed altri: &quot;Disciplina del reato di oltraggio a pubblico ufficiale&quot; (6129);</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>615</literal></binding>
+   <binding name="date"><literal>20010613</literal></binding>
+   <binding name="title"><literal>MENIA ed altri: &quot;Norme per l&amp;#8217;indennizzo dei beni perduti dai cittadini italiani nei territori dell&amp;#8217;Istria, di Fiume e della Dalmazia ceduti alla Jugoslavia&quot; (615)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>628</literal></binding>
+   <binding name="date"><literal>20010613</literal></binding>
+   <binding name="title"><literal>MENIA ed altri: &quot;Concessione di un finanziamento al Teatro &#39;Giuseppe Verdì di Trieste in occasione del bicentenario della sua fondazione e del centenario della morte di Giuseppe Verdi&quot; (628)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>629</literal></binding>
+   <binding name="date"><literal>20010613</literal></binding>
+   <binding name="title"><literal>MENIA ed altri: &quot;Interventi finanziari in favore del Teatro &#39;Giuseppe Verdì di Trieste&quot; (629)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>627</literal></binding>
+   <binding name="date"><literal>20010613</literal></binding>
+   <binding name="title"><literal>MENIA ed altri: &quot;Disposizioni in favore del personale dell&amp;#8217;Amministrazione penitenziaria e modifiche alla legge 15 dicembre 1990, n. 395, recante ordinamento del Corpo di polizia penitenziaria&quot; (627)</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1056</literal></binding>
+   <binding name="date"><literal>19540723</literal></binding>
+   <binding name="title"><literal>SCOTTI ed altri: Disposizioni a favore dei combattenti antifranchisti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1079</literal></binding>
+   <binding name="date"><literal>19540728</literal></binding>
+   <binding name="title"><literal>MACRELLI ed altri: Provvedimenti speciali per la riviera romagnola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1460</literal></binding>
+   <binding name="date"><literal>19550221</literal></binding>
+   <binding name="title"><literal>REALI e PAJETTA: Provvedimenti per la valorizzazione della foresta di Campigna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2057</literal></binding>
+   <binding name="date"><literal>19560214</literal></binding>
+   <binding name="title"><literal>TOGNONI ed altri: Agevolazioni fiscali ai contadini assegnatari di terre</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2469</literal></binding>
+   <binding name="date"><literal>19561001</literal></binding>
+   <binding name="title"><literal>POLLASTRINI ed altri: Estensione dei benefici della legge 10 agosto 1950, n. 646, all&#39;intero territorio della provincia di Rieti e finanziamento straordinario di lire 2.000.000.000 per la esecuzione di opere stradali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>313</literal></binding>
+   <binding name="date"><literal>19531028</literal></binding>
+   <binding name="title"><literal>PINO ed altri: Concessione di biglietti di viaggio a prezzo ridotto per gli scrittori e gli autori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3188</literal></binding>
+   <binding name="date"><literal>19570927</literal></binding>
+   <binding name="title"><literal>GULLO ed altri: Inclusione del 20 settembre nell&#39;elenco delle feste nazionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>650</literal></binding>
+   <binding name="date"><literal>19540218</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Istituzione dei ruoli organici del personale civile per il disimpegno dei servizi tecnici della meteorologia, delle telecomunicazioni e del controllo al traffico aereo dell&#39;Ispettorato delle telecomunicazioni ed assistenza al volo del Ministero della difesa-aeronautica</literal></binding>
+  </result>
+ </results>
+</sparql>

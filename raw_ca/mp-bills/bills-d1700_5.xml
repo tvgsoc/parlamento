@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3016</literal></binding>
+   <binding name="date"><literal>19710128</literal></binding>
+   <binding name="title"><literal>MASCOLO ed altri: Rivendica degli immobili già appartenenti ad aziende sociali, cooperative, associazioni politiche o sindacali e che furono trasferiti alle organizzazioni fasciste durante il periodo fascista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4012</literal></binding>
+   <binding name="date"><literal>19720218</literal></binding>
+   <binding name="title"><literal>RAFFAELLI ed altri: Rinvio al 1° gennaio 1973 dell&#39;entrata in vigore dell&#39;imposta sul valore aggiunto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2950</literal></binding>
+   <binding name="date"><literal>19701223</literal></binding>
+   <binding name="title"><literal>COLAJANNI ed altri: Norme sull&#39;intervento pubblico nel Mezzogiorno</literal></binding>
+  </result>
+ </results>
+</sparql>

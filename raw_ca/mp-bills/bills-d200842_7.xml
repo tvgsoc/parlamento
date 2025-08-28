@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1493</literal></binding>
+   <binding name="date"><literal>19770528</literal></binding>
+   <binding name="title"><literal>BELARDI MERLO ed altri: Determinazioni delle retribuzioni convenzionali ai fini del calcolo dei contributi previdenziali ed assistenziali per i lavoratori a domicilio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1850</literal></binding>
+   <binding name="date"><literal>19771110</literal></binding>
+   <binding name="title"><literal>BOTTARI ed altri: Riforma delle norme sull&#39;assistenza minorile contenute nel codice civile con particolare riferimento a quelle relative all&#39;adozione ordinaria, all&#39;adozione speciale, all&#39;affidamento familiare ed all&#39;affiliazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1919</literal></binding>
+   <binding name="date"><literal>19771202</literal></binding>
+   <binding name="title"><literal>BOTTARI ed altri: Nuove norme a tutela della libertà sessuale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1960</literal></binding>
+   <binding name="date"><literal>19771221</literal></binding>
+   <binding name="title"><literal>COCCIA ed altri: Istituzione del Corpo degli agenti penitenziari della Repubblica italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>720</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>SPAGNOLI ed altri: Abrogazione di norme del codice penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>451</literal></binding>
+   <binding name="date"><literal>19760923</literal></binding>
+   <binding name="title"><literal>FABBRI SERONI ed altri: Norme per la regolamentazione della interruzione volontaria di gravidanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>719</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>FABBRI SERONI ed altri: Norme contro la discriminazione nei confronti della donna in materia di assunzioni, di mansioni e di svolgimento di carriera</literal></binding>
+  </result>
+ </results>
+</sparql>

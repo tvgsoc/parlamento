@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1883</literal></binding>
+   <binding name="date"><literal>19510307</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Disciplina per l&#39;uso in Italia di onorificenze di alcuni Ordini cavallereschi liberi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2437</literal></binding>
+   <binding name="date"><literal>19511221</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Sugli ospedali psichiatrici e per la cura e profilassi delle malattie mentali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>716</literal></binding>
+   <binding name="date"><literal>19490722</literal></binding>
+   <binding name="title"><literal>CERAVOLO: Modificazioni al decreto legislativo luogotenenziale 8 febbraio 1946, n. 85, concernenti l&#39;assicurazione obbligatoria contro gli infortuni sul lavoro a favore dei sovrastanti di aziende agricole e forestali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1000</literal></binding>
+   <binding name="date"><literal>19491219</literal></binding>
+   <binding name="title"><literal>CHIESA TIBALDI ed altri: Istituzione di Consultorii prematrimoniali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1148</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>REGGIO D&#39;ACI ed altri: Perequazione del trattamento economico al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1385</literal></binding>
+   <binding name="date"><literal>19500623</literal></binding>
+   <binding name="title"><literal>SEMERARO ed altri: Disposizioni per un più sicuro e stabile impiego della mano d&#39;opera agricola disoccupata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1426</literal></binding>
+   <binding name="date"><literal>19500707</literal></binding>
+   <binding name="title"><literal>LARUSSA ed altri: Disposizioni concernenti il trattamento economico, la carriera e il collocamento a riposo dei segretari comunali e provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1430</literal></binding>
+   <binding name="date"><literal>19500708</literal></binding>
+   <binding name="title"><literal>LARUSSA ed altri: Modificazioni al decreto legislativo 1° marzo 1945, n. 82, relativo al riordinamento del Consiglio nazionale delle ricerche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2411</literal></binding>
+   <binding name="date"><literal>19511213</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Disposizioni integrative dell&#39;articolo 36 della legge 25 giugno 1949, n. 409, per agevolare la ricostruzione delle abitazioni distrutte dagli eventi bellici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2711</literal></binding>
+   <binding name="date"><literal>19520514</literal></binding>
+   <binding name="title"><literal>RIVERA ed altri: Provvedimento per adeguare i valori del reddito agrario delle zone povere e montuose alla capacità reale della loro produttività</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>311</literal></binding>
+   <binding name="date"><literal>19490131</literal></binding>
+   <binding name="title"><literal>CARONIA ed altri: Chiusura dei locali di meretricio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1811</literal></binding>
+   <binding name="date"><literal>19510209</literal></binding>
+   <binding name="title"><literal>GIAMMARCO ed altri: Autorizzazione al Ministro dei lavori pubblici della spesa di lire 19.809.700.000 per la costruzione di case popolari da assegnare a famiglie alloggiate in baracche in dipendenza dei terremoti del 28 dicembre 1908 e del 15 gennaio 1915</literal></binding>
+  </result>
+ </results>
+</sparql>

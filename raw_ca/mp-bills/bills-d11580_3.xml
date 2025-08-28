@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3962</literal></binding>
+   <binding name="date"><literal>19620712</literal></binding>
+   <binding name="title"><literal>LARUSSA ed altri: Agevolazioni per favorire la diffusione degli Alberghi per la gioventù sul territorio nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4395</literal></binding>
+   <binding name="date"><literal>19621221</literal></binding>
+   <binding name="title"><literal>RADI ed altri: Provvidenze a favore dei circhi italiani e norme sulla attività dello spettacolo viaggiante</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4396</literal></binding>
+   <binding name="date"><literal>19621222</literal></binding>
+   <binding name="title"><literal>SAMMARTINO ed altri: Modifiche ed integrazioni alle disposizioni di legge relative alla ricostruzione dei fabbricati distrutti o danneggiati dalla guerra</literal></binding>
+  </result>
+ </results>
+</sparql>

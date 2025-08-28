@@ -1,0 +1,593 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2986</literal></binding>
+   <binding name="date"><literal>19811123</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per il potenziamento qualificativo e quantitativo dell&#39;istituto degli assegni familiari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2998</literal></binding>
+   <binding name="date"><literal>19811127</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per la concessione di mutui agevolati a favore delle famiglie meno abbienti sottoposte a procedimenti di sfratto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3096</literal></binding>
+   <binding name="date"><literal>19820121</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per il decentramento degli sviluppi industriali, per risollevare le zone depresse e per decongestionare le zone a più alta concentrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3221</literal></binding>
+   <binding name="date"><literal>19820302</literal></binding>
+   <binding name="title"><literal>GREGGI: Disposizioni in materia di giorni festivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3222</literal></binding>
+   <binding name="date"><literal>19820302</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per la liberalizzazione dell&#39;uso delle autostrade</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3362</literal></binding>
+   <binding name="date"><literal>19820424</literal></binding>
+   <binding name="title"><literal>GREGGI: Modifiche all&#39;articolo 12 della legge 27 luglio 1978, n. 392, concernente le disciplina delle locazioni di immobili urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3491</literal></binding>
+   <binding name="date"><literal>19820617</literal></binding>
+   <binding name="title"><literal>GREGGI: Provvedimenti per contribuire al superamento della crisi edilizia abitativa e per favorire lo sviluppo dell&#39;agro-turismo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3534</literal></binding>
+   <binding name="date"><literal>19820706</literal></binding>
+   <binding name="title"><literal>GREGGI: Modifica del secondo comma dell&#39;articolo 187 della legge fallimentare approvata con regio decreto 16 marzo 1942, n. 267, e successive modificazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3560</literal></binding>
+   <binding name="date"><literal>19820716</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per l&#39;attuazione del secondo e terzo comma dell&#39;articolo 34 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3711</literal></binding>
+   <binding name="date"><literal>19821025</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme sulla educazione sessuale dei giovani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3847</literal></binding>
+   <binding name="date"><literal>19830110</literal></binding>
+   <binding name="title"><literal>GREGGI: Modifiche ed integrazioni alla legge 21 aprile 1962, n. 161, concernente la revisione dei film e dei lavori teatrali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4027</literal></binding>
+   <binding name="date"><literal>19830326</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per avviare il processo di moralizzazione della vita pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4110</literal></binding>
+   <binding name="date"><literal>19830427</literal></binding>
+   <binding name="title"><literal>GREGGI: Provvedimenti in favore delle vedove e degli orfani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4122</literal></binding>
+   <binding name="date"><literal>19830428</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per garantire una costante informazione del Parlamento sull&#39;attuazione delle leggi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4124</literal></binding>
+   <binding name="date"><literal>19830428</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per il finanziamento delle organizzazioni professionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4131</literal></binding>
+   <binding name="date"><literal>19830430</literal></binding>
+   <binding name="title"><literal>GREGGI: Nuove norme per la disciplina dell&#39;attività urbanistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4132</literal></binding>
+   <binding name="date"><literal>19830430</literal></binding>
+   <binding name="title"><literal>GREGGI: Provvedimenti per avviare a soluzione i problemi del traffico nelle grandi città</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4133</literal></binding>
+   <binding name="date"><literal>19830430</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme sulle trasmissioni radiotelevisive e sulla RAI-TV</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4134</literal></binding>
+   <binding name="date"><literal>19830430</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme sull&#39;uso degli strumenti di comunicazione sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4135</literal></binding>
+   <binding name="date"><literal>19830430</literal></binding>
+   <binding name="title"><literal>GREGGI: Concessione di mutui edilizi per la casa in proprietà alle famiglie dei lavoratori italiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4136</literal></binding>
+   <binding name="date"><literal>19830430</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per garantire migliori condizioni di libertà e dignità nella funzione dei parlamentari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4137</literal></binding>
+   <binding name="date"><literal>19830430</literal></binding>
+   <binding name="title"><literal>GREGGI: Abrogazione della XII e del secondo comma della XIII disposizione transitoria e finale della Costituzione. Integrazione all&#39;articolo 139 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4140</literal></binding>
+   <binding name="date"><literal>19830502</literal></binding>
+   <binding name="title"><literal>GREGGI: Integrazione all&#39;articolo 1 della legge costituzionale 9 febbraio 1948, n. 1, concernente norme sui giudizi di legittimità costituzionale e sulle garanzie d&#39;indipendenza della Corte costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4141</literal></binding>
+   <binding name="date"><literal>19830502</literal></binding>
+   <binding name="title"><literal>GREGGI: Tutela del buon costume e dei minori e abolizione della censura nelle manifestazioni cinematografiche, teatrali e radiotelevisive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4142</literal></binding>
+   <binding name="date"><literal>19830502</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per l&#39;attuazione dei principi costituzionali in materia di indennità per pubblica espropriazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4143</literal></binding>
+   <binding name="date"><literal>19830502</literal></binding>
+   <binding name="title"><literal>GREGGI: Provvedimenti per garantire la segretezza del voto ed un corretto conteggio dei voti espressi dagli elettori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4144</literal></binding>
+   <binding name="date"><literal>19830502</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per la determinazione della indennità spettante ai membri del Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4145</literal></binding>
+   <binding name="date"><literal>19830502</literal></binding>
+   <binding name="title"><literal>GREGGI: Definizione penale del comune sentimento del pudore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4146</literal></binding>
+   <binding name="date"><literal>19830502</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per intensificare la collaborazione tra le famiglie e la scuola e per la verifica del rendimento scolastico degli studenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4147</literal></binding>
+   <binding name="date"><literal>19830502</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per la definizione ed approvazione del piano urbanistico nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4150</literal></binding>
+   <binding name="date"><literal>19830504</literal></binding>
+   <binding name="title"><literal>GREGGI: Statuto dei parlamentari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4151</literal></binding>
+   <binding name="date"><literal>19830504</literal></binding>
+   <binding name="title"><literal>GREGGI: Norme per l&#39;attuazione dell&#39;articolo 39 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1043</literal></binding>
+   <binding name="date"><literal>19791127</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Istituzione dello schedario nazionale degli enti pubblici e privati finanziati con pubblico denaro e norme concernenti il controllo parlamentare sulle nomine dei loro organi direttivi, e per il potenziamento della vigilanza dello Stato e del controllo della Corte dei conti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1143</literal></binding>
+   <binding name="date"><literal>19791213</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Attribuzione ai dipendenti del Corpo dei vigili urbani della indennità speciale di pubblica sicurezza di cui alla legge 23 dicembre 1970, n. 1054</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>121</literal></binding>
+   <binding name="date"><literal>19790621</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Riordinamento della scuola materna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>122</literal></binding>
+   <binding name="date"><literal>19790621</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Riordinamento della scuola elementare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>123</literal></binding>
+   <binding name="date"><literal>19790621</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Riordinamento delle strutture universitarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1274</literal></binding>
+   <binding name="date"><literal>19800114</literal></binding>
+   <binding name="title"><literal>BAGHINO ed altri: Istituzione di una Commissione monocamerale d&#39;inchiesta sull&#39;effettivo godimento da parte di imprese editoriali e giornalistiche delle &quot;tangenti&quot; ENI</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1284</literal></binding>
+   <binding name="date"><literal>19800116</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Norme per il funzionamento delle Commissioni parlamentari di inchiesta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1364</literal></binding>
+   <binding name="date"><literal>19800204</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Norme per il coordinamento organico della legislazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1450</literal></binding>
+   <binding name="date"><literal>19800228</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Legge speciale per Napoli e piano quinquennale di sviluppo socio-economico e di risanamento della città</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>147</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Istituzione del servizio militare volontario femminile nelle Forze armate dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19800306</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Modifica all&#39;articolo 77 della Costituzione in materia di decretazione d&#39;urgenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>149</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Elezione del Presidente della Repubblica a suffragio universale diretto - Modifica agli articoli 83, 85 e 86 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1495</literal></binding>
+   <binding name="date"><literal>19800312</literal></binding>
+   <binding name="title"><literal>TRANTINO ed altri: Nuove norme penali contro la violenza sessuale e a tutela della moralità pubblica e del buon costume</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>150</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Modifiche al decreto del Presidente della Repubblica 31 agosto 1972, n. 670, recante il testo unico delle leggi costituzionali concernenti lo Statuto speciale per la regione Trentino-Alto Adige</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1510</literal></binding>
+   <binding name="date"><literal>19800313</literal></binding>
+   <binding name="title"><literal>GUARRA ed altri: Nuovo ordinamento delle attività urbanistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>152</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Riapertura dei termini per il collocamento a riposo dei dipendenti pubblici ex-combattenti ed assimilati ai sensi della legge 24 maggio 1970, n. 336</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>153</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Inchiesta parlamentare sull&#39;inquinamento dell&#39;ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>154</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Istituzione a Trieste dell&#39;area agevolata del confine orientale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>155</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Estensione del trattamento di pensione sociale ai cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1602</literal></binding>
+   <binding name="date"><literal>19800416</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA e GREGGI: Norme in materia di trattamento pensionistico di alcune categorie di personale non di ruolo già dipendente delle amministrazioni dello Stato successivamente trasferito alle regioni a statuto ordinario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1730</literal></binding>
+   <binding name="date"><literal>19800520</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Norme per l&#39;adeguamento delle pensioni dei segretari comunali e provinciali, collocati a riposo nel periodo 1° gennaio 1975-1° luglio 1978</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1739</literal></binding>
+   <binding name="date"><literal>19800521</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA e GREGGI: Norme per la equiparazione dell&#39;ammontare della indennità integrativa speciale del personale civile e militare dello Stato, sia in attività di servizio che in quiescenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1972</literal></binding>
+   <binding name="date"><literal>19800825</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sulle origini, sulla consistenza e sulle coperture politiche della manovra speculativa contro la lira</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>204</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Abrogazione del decreto legislativo presidenziale 25 giugno 1946, n. 13, relativo ai benefici in favore dei militari in servizio non isolato all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2053</literal></binding>
+   <binding name="date"><literal>19801010</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Norme per l&#39;adeguamento del trattamento pensionistico del personale statale civile e militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2065</literal></binding>
+   <binding name="date"><literal>19801022</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Interpretazione autentica dell&#39;articolo 3 della legge 24 maggio 1970, n. 336, e dell&#39;articolo 4 della legge 9 ottobre 1971, n. 824, concernente il calcolo delle indennità di anzianità a favore degli ex combattenti dipendenti da enti pubblici economici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>208</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Integrazione delle provvidenze previste dalla legge 9 marzo 1971, n. 98, in favore del personale dipendente da organismi militari operanti nel territorio nazionale nell&#39;ambito della Comunità atlantica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>209</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Aumento dell&#39;organico dei sottufficiali e dei militari di truppa dell&#39;Arma dei carabinieri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>211</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Modifiche al testo unico della legge comunale e provinciale approvato con regio decreto 3 marzo 1934, n. 383, e successive modificazioni, riguardanti l&#39;elezione popolare diretta del sindaco e del presidente della provincia, la nomina della giunta comunale e provinciale e l&#39;integrazione del consiglio comunale e provinciale con la rappresentanza delle categorie morali, economiche e sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2117</literal></binding>
+   <binding name="date"><literal>19801118</literal></binding>
+   <binding name="title"><literal>VALENSISE ed altri: Condono di sanzioni disciplinari ai dipendenti delle amministrazioni dello Stato, nonché agli esercenti pubbliche funzioni o attività professionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>212</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Applicazione del codice penale militare di guerra ai reati commessi con azioni di guerriglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2392</literal></binding>
+   <binding name="date"><literal>19810225</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Norme per la valutazione, ai fini della promozione a direttore di sezione e segretario principale, del servizio prestato alle dipendenze dello Stato nelle carriere esecutive ausiliare e nella categoria degli operai e nella posizione di ufficiale in servizio permanente effettivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2408</literal></binding>
+   <binding name="date"><literal>19810228</literal></binding>
+   <binding name="title"><literal>MENNITTI ed altri: Contributo dello Stato alla Associazione nazionale privi della vista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2481</literal></binding>
+   <binding name="date"><literal>19810326</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Norme a favore degli ex militari appartenenti alle forze di polizia e alle Forze armate, invalidi e mutilati per servizio, dipendenti dallo Stato e dalle Aziende pubbliche e private</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>253</literal></binding>
+   <binding name="date"><literal>19790704</literal></binding>
+   <binding name="title"><literal>BAGHINO ed altri: Adozione del sistema elettorale proporzionale nei comuni con più di 3.000 abitanti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>256</literal></binding>
+   <binding name="date"><literal>19790704</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Norme sulla attività della Corte dei conti nella sua funzione di controllo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>278</literal></binding>
+   <binding name="date"><literal>19790712</literal></binding>
+   <binding name="title"><literal>VALENSISE ed altri: Modifica degli articoli 22, 23, 27, 28 e 29 della legge 8 agosto 1977, n. 513, in merito all&#39;assegnazione degli alloggi di edilizia residenziale pubblica con tutela dei diritti già acquisiti dagli assegnatari della ex gestione INCIS</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>310</literal></binding>
+   <binding name="date"><literal>19790712</literal></binding>
+   <binding name="title"><literal>SERVELLO ed altri: Istituzione del Servizio sociale per l&#39;educazione fisica, lo sport e il tempo libero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>379</literal></binding>
+   <binding name="date"><literal>19790719</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Modifica del secondo comma dell&#39;articolo 68 e dell&#39;articolo 96 della Costituzione e modifica degli articoli 12, 13, 14 e 15 della legge costituzionale 11 marzo 1953, n. 1</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4036</literal></binding>
+   <binding name="date"><literal>19830329</literal></binding>
+   <binding name="title"><literal>SCALIA ed altri: Modifica degli articoli 2094 e 2095 del codice civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4067</literal></binding>
+   <binding name="date"><literal>19830420</literal></binding>
+   <binding name="title"><literal>SCALIA ed altri: Modifica degli articoli 2094 e 2095 del codice civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>439</literal></binding>
+   <binding name="date"><literal>19790726</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Riconoscimento del servizio militare prestato alle dipendenze delle forze armate della Repubblica sociale italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>440</literal></binding>
+   <binding name="date"><literal>19790726</literal></binding>
+   <binding name="title"><literal>TRANTINO ed altri: Cessazione degli effetti della XIII Disposizione transitoria della Costituzione relativa al divieto di ingresso e soggiorno in Italia dei membri di Casa Savoia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>544</literal></binding>
+   <binding name="date"><literal>19790810</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Riconoscimento dei contributi versati per la mutualità scolastica ai fini della pensione di invalidità e vecchiaia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>637</literal></binding>
+   <binding name="date"><literal>19791002</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Regolamentazione del lavoro a domicilio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>638</literal></binding>
+   <binding name="date"><literal>19791002</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Norme per la tutela del lavoro a tempo parziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>639</literal></binding>
+   <binding name="date"><literal>19791002</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Istituzione di un assegno mensile per le casalinghe</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>661</literal></binding>
+   <binding name="date"><literal>19791004</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Attribuzione ai direttori di divisione della qualifica superiore in sede di applicazione della legge 24 maggio 1970, n. 336, concernente norme a favore dei dipendenti civili dello Stato e degli enti pubblici ex combattenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>771</literal></binding>
+   <binding name="date"><literal>19791023</literal></binding>
+   <binding name="title"><literal>VALENSISE ed altri: Regolamentazione dei rapporti derivanti dalla partecipazione dei lavoratori al finanziamento delle imprese per effetto dello accantonamento dei fondi di anzianità
+</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>772</literal></binding>
+   <binding name="date"><literal>19791023</literal></binding>
+   <binding name="title"><literal>ABBATANGELO ed altri: Adeguamento del trattamento pensionistico per alcune categorie di segretari comunali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>773</literal></binding>
+   <binding name="date"><literal>19791023</literal></binding>
+   <binding name="title"><literal>PELLEGATTA ed altri: Nuove norme a favore dei biologi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>774</literal></binding>
+   <binding name="date"><literal>19791023</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Norme per la avocazione allo Stato dei profitti politici illegittimi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>790</literal></binding>
+   <binding name="date"><literal>19791025</literal></binding>
+   <binding name="title"><literal>VALENSISE ed altri: Nuove norme per la costituzione delle Comunità montane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>820</literal></binding>
+   <binding name="date"><literal>19791029</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Applicazione ed estensione della legge 24 maggio 1970, n. 336, e successive modificazioni, recante benefici per gli ex combattenti ed assimilati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>83</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Abolizione del servizio obbligatorio di leva e istituzione del servizio militare volontario. Trasformazione delle Forze armate in esercito professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>84</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Norme per l&#39;esercizio del diritto di voto dei cittadini italiani all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>888</literal></binding>
+   <binding name="date"><literal>19791108</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Obbligatorietà per gli enti pubblici non economici del deposito dei fondi di loro pertinenza presso la tesoreria centrale e le tesorerie provinciali dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>98</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Commissione parlamentare d&#39;inchiesta sulla mancata reiscrizione di ufficio nelle liste elettorali degli italiani all&#39;estero e per accertare le irregolarità e le responsabilità che possono aver impedito nella consultazione per il Parlamento Europeo l&#39;esercizio del voto agli italiani residenti nei paesi della Comunità europea</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>992</literal></binding>
+   <binding name="date"><literal>19791120</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Nuove norme per la promozione degli ufficiali iscritti nel ruolo d&#39;onore titolari di pensione con assegno di superinvalidità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>993</literal></binding>
+   <binding name="date"><literal>19791120</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: Costituzione all&#39;estero dei Comitati consolari per la emigrazione italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>120</literal></binding>
+   <binding name="date"><literal>19790621</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Ristrutturazione dell&#39;ordinamento scolastico italiano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>138</literal></binding>
+   <binding name="date"><literal>19790622</literal></binding>
+   <binding name="title"><literal>PAZZAGLIA ed altri: Inchiesta parlamentare sul sequestro e sulla uccisione dell&#39;onorevole Aldo Moro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>342</literal></binding>
+   <binding name="date"><literal>19790713</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Istituzione di una anagrafe patrimoniale e tributaria dei membri del Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>343</literal></binding>
+   <binding name="date"><literal>19790713</literal></binding>
+   <binding name="title"><literal>FRANCHI ed altri: Istituzione del Corpo di polizia. Riordinamento del servizio di pubblica sicurezza. Organi rappresentativi del personale. Istituzione del ruolo civile del personale del Corpo di Polizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>463</literal></binding>
+   <binding name="date"><literal>19790731</literal></binding>
+   <binding name="title"><literal>TATARELLA ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sull&#39;affare Sindona e sui legami con i partiti, la mafia, la massoneria</literal></binding>
+  </result>
+ </results>
+</sparql>

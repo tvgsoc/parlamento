@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1903</literal></binding>
+   <binding name="date"><literal>19600115</literal></binding>
+   <binding name="title"><literal>AMENDOLA ed altri: Controllo sui monopoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1952</literal></binding>
+   <binding name="date"><literal>19600128</literal></binding>
+   <binding name="title"><literal>COLOMBI ed altri: Norme per il trasferimento della proprietà dei poderi ai mezzadri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>220</literal></binding>
+   <binding name="date"><literal>19580802</literal></binding>
+   <binding name="title"><literal>NATOLI ed altri: Provvedimenti speciali per la città di Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2336</literal></binding>
+   <binding name="date"><literal>19600713</literal></binding>
+   <binding name="title"><literal>GULLO ed altri: Proposta di inchiesta parlamentare sul comportamento delle forze di polizia nei gravi fatti del luglio 1960</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3470</literal></binding>
+   <binding name="date"><literal>19611201</literal></binding>
+   <binding name="title"><literal>IOTTI ed altri: Soppressione degli articoli 559, 560, 561, 562 e 563 del codice penale, relativi all&#39;adulterio e al concubinato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5</literal></binding>
+   <binding name="date"><literal>19580612</literal></binding>
+   <binding name="title"><literal>NEGARVILLE ed altri: Divieto di installazione nel territorio nazionale di basi e di rampe di lancio per missili atomici e termonucleari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>736</literal></binding>
+   <binding name="date"><literal>19581218</literal></binding>
+   <binding name="title"><literal>FOA ed altri: Nuovo ordinamento dell&#39;Istituto Poligrafico dello Stato</literal></binding>
+  </result>
+ </results>
+</sparql>

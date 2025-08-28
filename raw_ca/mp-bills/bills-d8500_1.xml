@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1008</literal></binding>
+   <binding name="date"><literal>19491221</literal></binding>
+   <binding name="title"><literal>CARIGNANI ed altri: Riforma della legge 21 agosto 1912, concernente l&#39;assunzione obbligatoria al lavoro degli invalidi di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1482</literal></binding>
+   <binding name="date"><literal>19500721</literal></binding>
+   <binding name="title"><literal>LUPIS ed altri: Denuncia dei beni, diritti ed interessi dei cittadini italiani nei territori sui quali l&#39;Italia e stata privata della sovranità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2044</literal></binding>
+   <binding name="date"><literal>19510621</literal></binding>
+   <binding name="title"><literal>CALOSSO ed altri: Validità legale dei diplomi conseguiti in Istituti artistici e musicali stranieri da italiani o figli di italiani fuorusciti politici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2435</literal></binding>
+   <binding name="date"><literal>19511219</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Esenzione fiscale all&#39;Associazione nazionale mutilati civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2711</literal></binding>
+   <binding name="date"><literal>19520514</literal></binding>
+   <binding name="title"><literal>RIVERA ed altri: Provvedimento per adeguare i valori del reddito agrario delle zone povere e montuose alla capacità reale della loro produttività</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>409</literal></binding>
+   <binding name="date"><literal>19490312</literal></binding>
+   <binding name="title"><literal>ARMOSINO ed altri: Unificazione dell&#39;imposta consumo sui vini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>908</literal></binding>
+   <binding name="date"><literal>19491123</literal></binding>
+   <binding name="title"><literal>ARMOSINO ed altri: Ricostituzione del Comune di Vaglierano, in provincia di Asti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>97</literal></binding>
+   <binding name="date"><literal>19480914</literal></binding>
+   <binding name="title"><literal>VIOLA DI CÀ TASSON ed altri: Premio di riconoscenza ai possessori della polizza della guerra 1915-1918</literal></binding>
+  </result>
+ </results>
+</sparql>

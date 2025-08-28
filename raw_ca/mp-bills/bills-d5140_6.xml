@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>361</literal></binding>
+   <binding name="date"><literal>19720630</literal></binding>
+   <binding name="title"><literal>RUFFINI ed altri: Nuova disciplina in materia di pubblicazioni e spettacoli osceni e contrari al buon costume e modifica degli articoli 528 e 529 del codice penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>55</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>VILLA ed altri: Norme a favore degli ex combattenti ed assimilati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7</literal></binding>
+   <binding name="date"><literal>19720515</literal></binding>
+   <binding name="title"><literal>CICCARDINI ed altri: Elezione popolare diretta del sindaco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>82</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>BERNARDI ed altri: Ristrutturazione del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>107</literal></binding>
+   <binding name="date"><literal>19740125</literal></binding>
+   <binding name="title"><literal>ANSELMI ed altri: Nuova disciplina degli assegni familiari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3561</literal></binding>
+   <binding name="date"><literal>19750306</literal></binding>
+   <binding name="title"><literal>PICCOLI ed altri: Provvedimenti per la repressione della criminalità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>68</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>CASTELLI ed altri: Riforma del diritto di famiglia</literal></binding>
+  </result>
+ </results>
+</sparql>

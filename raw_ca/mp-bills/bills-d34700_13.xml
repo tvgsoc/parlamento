@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>617</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>VIGNERI: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica dell&#39;articolo 77 della Costituzione in materia di decretazione governativa d&#39;urgenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>618</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>VIGNERI: PROPOSTA DI LEGGE COSTITUZIONALE: Riconoscimento agli stranieri ed agli apolidi residenti in Italia dei diritti di riunione, di associazione e di elettorato attivo e passivo nelle elezioni comunali, provinciali e regionali. Modificheagli articoli 17, 18, 49, 50 e 54 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>619</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>VIGNERI ed altri: Istituzione del difensore civico nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>7502</literal></binding>
+   <binding name="date"><literal>20001215</literal></binding>
+   <binding name="title"><literal>VIGNERI: Introduzione dlel&#39;articolo 224-bis del decreto legislativo 30 aprile 1992, n. 285 (Nuovo codice della strada), concernente la sospensone della pena subordinata alla prestazione di attività non retribuita in caso di delitti commessi con violazione delle norme sulla circolazione stradale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>609</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>MASELLI ed altri: Norme per l&#39;edizione del carteggio dell&#39;arcivescovo di Milano S. Carlo Borromeo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>7257</literal></binding>
+   <binding name="date"><literal>20000726</literal></binding>
+   <binding name="title"><literal>BASSO ed altri: Modifica  all&#39;articolo 44 della legge 23 dicembre 1998, n. 448, in materia di esercizio del diritto di prelazione degli enti locali ai fini dell&#39;acquistodei beni immobili del Ministero della difesa</literal></binding>
+  </result>
+ </results>
+</sparql>

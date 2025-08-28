@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1549</literal></binding>
+   <binding name="date"><literal>19770616</literal></binding>
+   <binding name="title"><literal>BRUSCA ed altri: Nuovo ordinamento delle scuole di specializzazione medico-chirurgiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2801</literal></binding>
+   <binding name="date"><literal>19790322</literal></binding>
+   <binding name="title"><literal>BRUSCA ed altri: Istituzione delle scuole di medicina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1284</literal></binding>
+   <binding name="date"><literal>19770323</literal></binding>
+   <binding name="title"><literal>CHIOVINI FACCHI ed altri: Modifiche alla legge 23 dicembre 1975, n. 698: &quot;Scioglimento e trasferimento delle funzioni dell&#39;opera nazionale per la protezione della maternità e dell&#39;infanzia&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>451</literal></binding>
+   <binding name="date"><literal>19760923</literal></binding>
+   <binding name="title"><literal>FABBRI SERONI ed altri: Norme per la regolamentazione della interruzione volontaria di gravidanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>755</literal></binding>
+   <binding name="date"><literal>19761112</literal></binding>
+   <binding name="title"><literal>CHIOVINI FACCHI ed altri: Norme per il completamento del piano degli asili-nido previsto dalla legge 6 dicembre 1971, n. 1044</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>971</literal></binding>
+   <binding name="date"><literal>19761222</literal></binding>
+   <binding name="title"><literal>TRIVA ed altri: Istituzione del servizio sanitario nazionale</literal></binding>
+  </result>
+ </results>
+</sparql>

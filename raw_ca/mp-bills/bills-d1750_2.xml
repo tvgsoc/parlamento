@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1536</literal></binding>
+   <binding name="date"><literal>19550323</literal></binding>
+   <binding name="title"><literal>CODACCI PISANELLI e CAIATI: Interpretazione dell&#39;articolo 2 del decreto legislativo 6 aprile 1948, n. 521</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>143</literal></binding>
+   <binding name="date"><literal>19530922</literal></binding>
+   <binding name="title"><literal>TOZZI CONDIVI ed altri: Applicazione in favore dell&#39;Associazione italiana della Croce Rossa di un contributo sui premi di alcune assicurazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2492</literal></binding>
+   <binding name="date"><literal>19561023</literal></binding>
+   <binding name="title"><literal>QUINTIERI ed altri: Provvedimenti a favore delle famiglie numerose</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3127</literal></binding>
+   <binding name="date"><literal>19570731</literal></binding>
+   <binding name="title"><literal>SCARASCIA MUGNOZZA ed altri: Modificazioni al regolamento per la coltivazione indigena dei tabacchi ed alla disciplina dell&#39;Amministrazione autonoma dei monopoli di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>413</literal></binding>
+   <binding name="date"><literal>19531126</literal></binding>
+   <binding name="title"><literal>SEMERARO ed altri: Disposizioni per un più sicuro e stabile impiego della mano d&#39;opera agricola disoccupata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>414</literal></binding>
+   <binding name="date"><literal>19531126</literal></binding>
+   <binding name="title"><literal>SEMERARO ed altri: Estensione a favore di talune categorie di lavoratori agricoli delle disposizioni del decreto legislativo luogotenenziale 2 aprile 1946, n. 142, sul pagamento dei contributi unificati per le varie forme di previdenza e di assistenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1951</literal></binding>
+   <binding name="date"><literal>19551215</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Provvedimenti a favore degli agricoltori delle Puglie e della Calabria danneggiati dalle eccezionali avversità atmosferiche e stagionali</literal></binding>
+  </result>
+ </results>
+</sparql>

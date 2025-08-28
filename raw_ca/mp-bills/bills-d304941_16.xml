@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4492</literal></binding>
+   <binding name="date"><literal>20110707</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Modifiche al codice dei contratti pubblici relativi a lavori, servizi e forniture, di cui al decreto legislativo 12 aprile 2006, n. 163, e altre disposizioni per la promozione della qualità architettonica nonché in materia di disciplina della progettazione&quot; (4492)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4497</literal></binding>
+   <binding name="date"><literal>20110708</literal></binding>
+   <binding name="title"><literal>ANDREA ORLANDO ed altri: &quot;Delega al Governo in materia di riordino delle circoscrizioni degli uffici giudiziari&quot; (4497)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4805</literal></binding>
+   <binding name="date"><literal>20111129</literal></binding>
+   <binding name="title"><literal>ESPOSITO ed altri: &quot;Disposizioni per la valorizzazione e la promozione turistica delle valli e dei comuni montani sede dei siti dei Giochi olimpici invernali &#39;Torino 2006&#39;&quot; (4805)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4809</literal></binding>
+   <binding name="date"><literal>20111130</literal></binding>
+   <binding name="title"><literal>ANTONIO PEPE e CILLUFFO: &quot;Modifiche agli articoli 561 e 563 del codice civile, nonché disposizione di interpretazione autentica, in materia di restituzione degli immobili nel caso di riduzione della donazione&quot; (4809)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4855</literal></binding>
+   <binding name="date"><literal>20111220</literal></binding>
+   <binding name="title"><literal>LO MORO ed altri: &quot;Disposizioni concernenti le iniziative beneficiarie di contributi pubblici sulla base di patti territoriali o di contratti d&#39;area&quot; (4855)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5073</literal></binding>
+   <binding name="date"><literal>20120321</literal></binding>
+   <binding name="title"><literal>CENNI ed altri: &quot;Disposizioni per la riorganizzazione del sistema degli enti vigilati dal Ministero delle politiche agricole alimentari e forestali, nonché in materia di promozione dell&#39;agricoltura italiana nei mercati esteri e di accesso delle imprese agricole e di pesca ai servizi digitali delle pubbliche amministrazioni&quot; (5073)</literal></binding>
+  </result>
+ </results>
+</sparql>

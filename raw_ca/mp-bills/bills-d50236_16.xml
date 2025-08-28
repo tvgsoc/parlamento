@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4847</literal></binding>
+   <binding name="date"><literal>20111216</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE CALDERISI ed altri: &quot;Introduzione dell&#39;elezione del Presidente della Repubblica a suffragio universale e diretto e della forma di governo semipresidenziale&quot; (4847)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5124</literal></binding>
+   <binding name="date"><literal>20120413</literal></binding>
+   <binding name="title"><literal>PAGANO ed altri: &quot;Istituzione di un prestito straordinario per lo sviluppo delle piccole e medie imprese&quot; (5124)</literal></binding>
+  </result>
+ </results>
+</sparql>

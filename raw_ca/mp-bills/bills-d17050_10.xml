@@ -1,0 +1,106 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4688</literal></binding>
+   <binding name="date"><literal>19900322</literal></binding>
+   <binding name="title"><literal>ZANONE ed altri: Norme per l&#39;elezione diretta dei sindaci e per l&#39;elezione dei consigli comunali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4861</literal></binding>
+   <binding name="date"><literal>19900601</literal></binding>
+   <binding name="title"><literal>ZANONE: Protezione della fauna ed esercizio venatorio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5151</literal></binding>
+   <binding name="date"><literal>19901012</literal></binding>
+   <binding name="title"><literal>ZANONE: Nuove norme per l&#39;elezione della Camera dei deputati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1217</literal></binding>
+   <binding name="date"><literal>19870724</literal></binding>
+   <binding name="title"><literal>ZANONE e DE LORENZO: Tutela della fauna e dei diritti degli animali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4332</literal></binding>
+   <binding name="date"><literal>19891109</literal></binding>
+   <binding name="title"><literal>ALTISSIMO ed altri: Divieto di iscrizione ai partiti politici per i magistrati, i militari di carriera in servizio attivo, i funzionari, gli agenti di polizia e i rappresentanti diplomatici e consolari all&#39;estero e norme sull&#39;elettorato passivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4472</literal></binding>
+   <binding name="date"><literal>19900109</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Istituzione di una Commissione parlamentare per il controllo sull&#39;attuazione delle leggi e degli indirizzi del Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4486</literal></binding>
+   <binding name="date"><literal>19900117</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Attribuzione alla Corte costituzionale della competenza a verificare la regolare composizione delle Camere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4657</literal></binding>
+   <binding name="date"><literal>19900314</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Norme straordinarie in materia di adozione e di affidamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1003</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti il Governo e la pubblica amministrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1004</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione sull&#39;amministrazione della giustizia e sulla funzione giurisdizionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1005</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti l&#39;ordinamento regionale e locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1006</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti i sindacati e il governo dell&#39;economia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1007</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti il Presidente della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1008</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti la composizione e le funzioni delle Camere del Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1009</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti i diritti civili e politici e le libertà fondamentali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1010</literal></binding>
+   <binding name="date"><literal>19870716</literal></binding>
+   <binding name="title"><literal>BATTISTUZZI ed altri: Modifica di norme della Costituzione concernenti le fonti normative e la disciplina dei referendum</literal></binding>
+  </result>
+ </results>
+</sparql>

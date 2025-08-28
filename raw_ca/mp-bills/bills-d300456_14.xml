@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1384</literal></binding>
+   <binding name="date"><literal>20010719</literal></binding>
+   <binding name="title"><literal>DE LAURENTIIS ed altri: &quot;Istituzione della provincia di Avezzano&quot; (1384)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>416</literal></binding>
+   <binding name="date"><literal>20010606</literal></binding>
+   <binding name="title"><literal>PISAPIA ed altri: &quot;Istituzione della giornata nazionale contro la pena di morte&quot; (416)</literal></binding>
+  </result>
+ </results>
+</sparql>

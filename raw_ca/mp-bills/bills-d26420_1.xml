@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1166</literal></binding>
+   <binding name="date"><literal>19500316</literal></binding>
+   <binding name="title"><literal>MATTEUCCI ed altri: Assunzione da parte dello Stato della spesa per la costruzione e l&#39;arredamento del nuovo Palazzo di giustizia di Rieti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1694</literal></binding>
+   <binding name="date"><literal>19501205</literal></binding>
+   <binding name="title"><literal>MATTEUCCI ed altri: Norme per la sospensione della esecuzione degli sfratti e la dilazione degli aumenti dei canoni delle locazioni degli immobili urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>330</literal></binding>
+   <binding name="date"><literal>19490208</literal></binding>
+   <binding name="title"><literal>MATTEUCCI ed altri: Provvedimenti a favore dei danneggiati dal terremoto del 31 dicembre 1948</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1829</literal></binding>
+   <binding name="date"><literal>19510215</literal></binding>
+   <binding name="title"><literal>GERACI ed altri: Abbattimento delle baracche esistenti sul territorio dei comuni terremotati e costruzione di alloggi popolari in loro sostituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1877</literal></binding>
+   <binding name="date"><literal>19510302</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Concessione speciale ferroviaria in occasione di nozze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>201</literal></binding>
+   <binding name="date"><literal>19481204</literal></binding>
+   <binding name="title"><literal>MERLONI ed altri: Disposizioni a favore delle popolazioni della provincia di Grosseto colpite dal terremoto del 3 novembre 1948</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2274</literal></binding>
+   <binding name="date"><literal>19511030</literal></binding>
+   <binding name="title"><literal>BASSO ed altri: Sul comportamento delle pubbliche autorità nei confronti del banditismo siciliano e sulle relative cause di natura sociale, economica e politica.</literal></binding>
+  </result>
+ </results>
+</sparql>

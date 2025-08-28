@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1812</literal></binding>
+   <binding name="date"><literal>19771027</literal></binding>
+   <binding name="title"><literal>BUCALOSSI ed altri: Disposizioni per la realizzazione in Firenze dell&#39;Istituto universitario europeo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>302</literal></binding>
+   <binding name="date"><literal>19760811</literal></binding>
+   <binding name="title"><literal>BUCALOSSI e DEL PENNINO: Ordinamento della professione di chimico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1213</literal></binding>
+   <binding name="date"><literal>19770302</literal></binding>
+   <binding name="title"><literal>MARIOTTI e BUCALOSSI: Norme sull&#39;ammissione agli esami di Stato per l&#39;esercizio della professione di dottore commercialista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1597</literal></binding>
+   <binding name="date"><literal>19770704</literal></binding>
+   <binding name="title"><literal>BIASINI ed altri: Soppressione dell&#39;Ente autonomo territoriale provincia: modifica degli articoli 114, 118, 119, 128, 132, 133 e della VIII disposizione di attuazione della Costituzione; abrogazione dell&#39;articolo 129 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1685</literal></binding>
+   <binding name="date"><literal>19770728</literal></binding>
+   <binding name="title"><literal>BIASINI ed altri: Legge-quadro per l&#39;istituzione dei comprensori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1814</literal></binding>
+   <binding name="date"><literal>19771027</literal></binding>
+   <binding name="title"><literal>MARIOTTI ed altri: Trasferimenti dei professori universitari di ruolo per l&#39;anno accademico 1977-78</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2456</literal></binding>
+   <binding name="date"><literal>19781011</literal></binding>
+   <binding name="title"><literal>AMALFITANO ed altri: Norme per l&#39;erogazione di contributi statali ad enti culturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2693</literal></binding>
+   <binding name="date"><literal>19790131</literal></binding>
+   <binding name="title"><literal>REGGIANI e BUCALOSSI: Contributo annuo dello Stato a favore della Fondazione Filippo Turati, con sede a Pistoia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>711</literal></binding>
+   <binding name="date"><literal>19761109</literal></binding>
+   <binding name="title"><literal>SINESIO ed altri: Esercizio del voto degli italiani all&#39;estero</literal></binding>
+  </result>
+ </results>
+</sparql>

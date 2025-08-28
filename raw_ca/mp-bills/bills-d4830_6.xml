@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3962</literal></binding>
+   <binding name="date"><literal>19750723</literal></binding>
+   <binding name="title"><literal>TARABINI ed altri: Norme in materia di comando del personale con rapporto di pubblico impiego</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4046</literal></binding>
+   <binding name="date"><literal>19751008</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Ordinamento della professione di commercialista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4408</literal></binding>
+   <binding name="date"><literal>19760401</literal></binding>
+   <binding name="title"><literal>BORTOLANI ed altri: Istituzione di una cassa di previdenza e assistenza a favore di talune categorie professionali</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1121</literal></binding>
+   <binding name="date"><literal>19640313</literal></binding>
+   <binding name="title"><literal>DE ZAN ed altri: Nuove disposizioni sulla pubblicità dei film vietati ai minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1276</literal></binding>
+   <binding name="date"><literal>19640423</literal></binding>
+   <binding name="title"><literal>VICENTINI ed altri: Modificazione dell&#39;articolo 1 del decreto-legge 23 febbraio 1964, n. 27, convertito, con modificazioni, nella legge 12 aprile 1964, n. 191, per quanto concerne le Banche popolari cooperative</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2255</literal></binding>
+   <binding name="date"><literal>19650409</literal></binding>
+   <binding name="title"><literal>LEVI ARIAN ed altri: Autorizzazione di spesa per la ricostruzione della linea ferroviaria Cuneo-Breil sur Roya-Ventimiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2483</literal></binding>
+   <binding name="date"><literal>19650626</literal></binding>
+   <binding name="title"><literal>BARBI ed altri: Corresponsione dell&#39;indennizzo ai titolari di beni, diritti e interessi situati nei territori giuliani e dalmati passati sotto sovranità od amministrazione jugoslava. Impiego degli indennizzi negli investimenti industriali e nell&#39;attività edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>428</literal></binding>
+   <binding name="date"><literal>19630913</literal></binding>
+   <binding name="title"><literal>RUSSO SPENA ed altri: Modificazioni ed aggiunte alla legge 13 marzo 1958, n. 308, recante norme per l&#39;assunzione obbligatoria al lavoro dei sordomuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>47</literal></binding>
+   <binding name="date"><literal>19630528</literal></binding>
+   <binding name="title"><literal>VILLA ed altri: Concessione agli ex combattenti che abbiano maturato il 60° anno di età di una pensione per la vecchiaia</literal></binding>
+  </result>
+ </results>
+</sparql>

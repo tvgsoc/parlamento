@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2708</literal></binding>
+   <binding name="date"><literal>19740205</literal></binding>
+   <binding name="title"><literal>MANCA: Modifica del primo comma dell&#39;articolo 3 della legge 25 luglio 1971, n. 545, recante norme sul riordinamento delle circoscrizioni territoriali delle conservatorie dei registri immobiliari e disposizioni connesse</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2814</literal></binding>
+   <binding name="date"><literal>19740304</literal></binding>
+   <binding name="title"><literal>MANCA: Provvedimenti urgenti per il risanamento ed il consolidamento del colle di Todi e del suo centro storico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3031</literal></binding>
+   <binding name="date"><literal>19740611</literal></binding>
+   <binding name="title"><literal>MANCA: Riapertura dei termini di cui all&#39;articolo 6 della legge 31 marzo 1971, n. 214, recante provvidenze per talune categorie di ex dipendenti del Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4165</literal></binding>
+   <binding name="date"><literal>19751209</literal></binding>
+   <binding name="title"><literal>MANCA ed altri: Adeguamento delle sanzioni contro la riproduzione abusiva di musica registrata ed incisa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2261</literal></binding>
+   <binding name="date"><literal>19730704</literal></binding>
+   <binding name="title"><literal>MASCIADRI ed altri: Norme per la riorganizzazione ed il funzionamento del servizio repressione frodi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2631</literal></binding>
+   <binding name="date"><literal>19731220</literal></binding>
+   <binding name="title"><literal>IANNIELLO ed altri: Norme a favore dei dipendenti dell&#39;Azienda delle ferrovie dello Stato in servizio durante il periodo 1940-1945</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4052</literal></binding>
+   <binding name="date"><literal>19751010</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Norme sull&#39;abusivismo in edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>937</literal></binding>
+   <binding name="date"><literal>19721013</literal></binding>
+   <binding name="title"><literal>VAGHI ed altri: Riconoscimenti combattentistici in favore dei ferrovieri in servizio durante la guerra 1940-45</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1482</literal></binding>
+   <binding name="date"><literal>19730117</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Disciplina delle limitazioni alla inviolabilità delle comunicazioni telefoniche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4302</literal></binding>
+   <binding name="date"><literal>19760205</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Modifica all&#39;articolo 81 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, concernente norme sul trattamento di quiescenza di dipendenti civili e militari dello Stato</literal></binding>
+  </result>
+ </results>
+</sparql>

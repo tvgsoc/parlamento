@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2835</literal></binding>
+   <binding name="date"><literal>19651210</literal></binding>
+   <binding name="title"><literal>GONELLA ed altri: Concessione e finanziamento dell&#39;idrovia Milano Nord-Mincio-Mare Adriatico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4782</literal></binding>
+   <binding name="date"><literal>19680118</literal></binding>
+   <binding name="title"><literal>GONELLA ed altri: Integrazione delle norme della legge 11 marzo 1958, n. 238, istitutiva presso gli enti esercenti il credito fondiario di sezioni autonome per il finanziamento di opere pubbliche e impianti di pubblica utilità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1121</literal></binding>
+   <binding name="date"><literal>19640313</literal></binding>
+   <binding name="title"><literal>DE ZAN ed altri: Nuove disposizioni sulla pubblicità dei film vietati ai minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1347</literal></binding>
+   <binding name="date"><literal>19640508</literal></binding>
+   <binding name="title"><literal>CANESTRARI ed altri: Deroga dell&#39;articolo 12 del decreto legislativo luogotenenziale 21 agosto 1945 n. 518 per la presentazione della proposta di concessione della medaglia d&#39;argento al valor militare al comune di Vestenanova, in provincia di Verona</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3332</literal></binding>
+   <binding name="date"><literal>19660715</literal></binding>
+   <binding name="title"><literal>BELCI ed altri: Integrazione delle norme dell&#39;articolo 351 del Codice di procedura penale, concernente il diritto di astenersi dal testimoniare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4910</literal></binding>
+   <binding name="date"><literal>19680227</literal></binding>
+   <binding name="title"><literal>PEDINI ed altri: Istituzione presso il Ministero degli affari esteri di un Ufficio e di un Consiglio nazionale per il servizio volontario nella cooperazione tecnica internazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>234</literal></binding>
+   <binding name="date"><literal>19630718</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Nuovi provvedimenti per le aree depresse dell&#39;Italia centrale e settentrionale</literal></binding>
+  </result>
+ </results>
+</sparql>

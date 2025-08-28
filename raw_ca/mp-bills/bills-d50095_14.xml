@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2109</literal></binding>
+   <binding name="date"><literal>20011216</literal></binding>
+   <binding name="title"><literal>CARLUCCI ed altri: &quot;Disciplina del settore dello spettacolo&quot; (2109)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2966</literal></binding>
+   <binding name="date"><literal>20020708</literal></binding>
+   <binding name="title"><literal>BALDI: &quot;Istituzione dell&amp;#8217;Osservatorio delle donne italiane all&amp;#8217;estero&quot; (2966)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4970</literal></binding>
+   <binding name="date"><literal>20040506</literal></binding>
+   <binding name="title"><literal>CARLUCCI: &quot;Disposizioni per l&#39;esercizio dell&#39;attività estrattiva con criteri di rispetto ambientale nell&#39;area del Parco nazionale dell&#39;Alta Murgia&quot; (4970)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5098</literal></binding>
+   <binding name="date"><literal>20040701</literal></binding>
+   <binding name="title"><literal>CAMPA ed altri: &quot;Modifiche agli articoli 71, 72, 73 e 74 del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, in materia di soppressione del turno di ballottaggio elettorale&quot; (5098)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2658</literal></binding>
+   <binding name="date"><literal>20020419</literal></binding>
+   <binding name="title"><literal>LISI ed altri: &quot;Istituzione della Commissione parlamentare per l&amp;#8217;anziano e dell&amp;#8217;Osservatorio nazionale per l&amp;#8217;anziano&quot; (2658)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2668</literal></binding>
+   <binding name="date"><literal>20020419</literal></binding>
+   <binding name="title"><literal>TAORMINA ed altri: &quot;Disposizioni per la semplificazione del sistema giudiziario penale&quot; (2668)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2964</literal></binding>
+   <binding name="date"><literal>20020708</literal></binding>
+   <binding name="title"><literal>CARLUCCI ed altri: &quot;Disciplina di indirizzo delle attività di spettacolo&quot; (2964)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4550</literal></binding>
+   <binding name="date"><literal>20031211</literal></binding>
+   <binding name="title"><literal>PALUMBO ed altri: &quot;Modifiche alla disciplina del rapporto di lavoro dei medici del Servizio sanitario nazionale&quot; (4550)</literal></binding>
+  </result>
+ </results>
+</sparql>

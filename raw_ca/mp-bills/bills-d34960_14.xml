@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3525</literal></binding>
+   <binding name="date"><literal>20030114</literal></binding>
+   <binding name="title"><literal>ADORNATO: &quot;Istituzione della festa nazionale del libro e della lettura e misure per la promozione della lettura&quot; (3525);</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2010</literal></binding>
+   <binding name="date"><literal>20011122</literal></binding>
+   <binding name="title"><literal>ADORNATO ed altri: &quot;Norme concernenti il governo delle istituzioni scolastiche&quot; (2010)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1779</literal></binding>
+   <binding name="date"><literal>20011018</literal></binding>
+   <binding name="title"><literal>SANTULLI ed altri: &quot;Istituzione della provincia di Aversa&quot; (1779)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3499</literal></binding>
+   <binding name="date"><literal>20021222</literal></binding>
+   <binding name="title"><literal>SANZA ed altri: &quot;Introduzione del sistema &#39;risparmio casà in Italia&quot; (3499)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2588</literal></binding>
+   <binding name="date"><literal>20020403</literal></binding>
+   <binding name="title"><literal>SANTULLI ed altri: &quot;Ordinamento della professione di educatore fisico e sportivo&quot; (2588)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2668</literal></binding>
+   <binding name="date"><literal>20020419</literal></binding>
+   <binding name="title"><literal>TAORMINA ed altri: &quot;Disposizioni per la semplificazione del sistema giudiziario penale&quot; (2668)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3486</literal></binding>
+   <binding name="date"><literal>20021217</literal></binding>
+   <binding name="title"><literal>CAMPA ed altri: &quot;Norme per il diritto di accesso ai servizi e alle risorse telematiche pubbliche e di pubblica utilità da parte dei cittadini diversamente abili&quot; (3486)</literal></binding>
+  </result>
+ </results>
+</sparql>

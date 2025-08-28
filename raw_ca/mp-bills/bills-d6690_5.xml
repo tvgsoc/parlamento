@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2263</literal></binding>
+   <binding name="date"><literal>19700126</literal></binding>
+   <binding name="title"><literal>BATTISTELLA ed altri: Estensione delle provvidenze di cui alla legge 3 febbraio 1963, n. 77, ai lavoratori dipendenti da aziende di escavazione e lavorazione di materiali lapidei e di ghiaia e sabbia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1695</literal></binding>
+   <binding name="date"><literal>19690709</literal></binding>
+   <binding name="title"><literal>BARDELLI ed altri: Norme sui licenziamenti individuali dei lavoratori agricoli dipendenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Modifiche e integrazioni alla legge 18 marzo 1968, n. 238, ed al successivo decreto del Presidente della Repubblica 27 aprile 1968, n. 488 - Aumento e nuovo sistema di calcolo delle pensioni a carico dell&#39;assicurazione generale obbligatoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>869</literal></binding>
+   <binding name="date"><literal>19690122</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Istituzione di un ente tessile e provvedimenti per la ristrutturazione e la riorganizzazione dell&#39;industria tessile</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1201</literal></binding>
+   <binding name="date"><literal>19500401</literal></binding>
+   <binding name="title"><literal>FIRRAO ed altri: Costruzione dei tratti Torregaveta Miseno con diramazione a Monte di Procida della ferrovia Cumana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1420</literal></binding>
+   <binding name="date"><literal>19500706</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Costituzione del comune di Volla ed aggregazione della frazione Massa di Somma al comune di San Sebastiano al Vesuvio, in provincia di Napoli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1421</literal></binding>
+   <binding name="date"><literal>19500706</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Ricostituzione della pretura a Palma Campania</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1839</literal></binding>
+   <binding name="date"><literal>19510222</literal></binding>
+   <binding name="title"><literal>MORO ed altri: Concessione di un assegno annuo di lire 780.000 a Maria Montessori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2043</literal></binding>
+   <binding name="date"><literal>19510621</literal></binding>
+   <binding name="title"><literal>SULLO ed altri: Agevolazioni fiscali per opere concesse dalla Cassa per il Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2069</literal></binding>
+   <binding name="date"><literal>19510704</literal></binding>
+   <binding name="title"><literal>RESTA ed altri: Norme per la risoluzione delle controversie relative al rapporto d&#39;impiego dei dipendenti da enti pubblici economici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2773</literal></binding>
+   <binding name="date"><literal>19520616</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Modifiche degli articoli 28 e 32 del testo unico 5 aprile 1951, n. 203, delle leggi per la composizione e la elezione degli organi delle Amministrazioni comunali e dell&#39;articolo 16 della legge 8 marzo 1951, n. 122, contenente norme per la elezione dei Consigli provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3110</literal></binding>
+   <binding name="date"><literal>19521223</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Finalità e funzionamento della Mostra d&#39;oltremare e del lavoro nel mondo</literal></binding>
+  </result>
+ </results>
+</sparql>

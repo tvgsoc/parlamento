@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3394</literal></binding>
+   <binding name="date"><literal>20100413</literal></binding>
+   <binding name="title"><literal>BRUNO e LUCIANO DUSSIN: &quot;Salvaguardia degli effetti prodotti dal decreto-legge 5 marzo 2010, n. 29, recante interpretazione autentica di disposizioni del procedimento elettorale e relativa disciplina di attuazione, non convertito in legge&quot; (3394)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1121</literal></binding>
+   <binding name="date"><literal>20080522</literal></binding>
+   <binding name="title"><literal>PALMIERI ed altri: &quot;Disposizioni recanti agevolazioni fiscali e altri benefìci per le famiglie numerose&quot; (1121)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1285</literal></binding>
+   <binding name="date"><literal>20080611</literal></binding>
+   <binding name="title"><literal>DI CENTA ed altri: &quot;Modifiche alla legge 24 dicembre 2003, n. 363, in materia di sicurezza nella pratica degli sport invernali da discesa e da fondo&quot; (1285)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1305</literal></binding>
+   <binding name="date"><literal>20080617</literal></binding>
+   <binding name="title"><literal>PAGANO ed altri: &quot;Modifiche al codice penale per la prevenzione e la repressione della pedofilia e introduzione del reato di pedofilia culturale&quot; (1305)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1409</literal></binding>
+   <binding name="date"><literal>20080630</literal></binding>
+   <binding name="title"><literal>CALABRIA ed altri: &quot;Istituzione della Giornata nazionale della solidarietà sociale&quot; (1409)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1955</literal></binding>
+   <binding name="date"><literal>20081126</literal></binding>
+   <binding name="title"><literal>LUPI ed altri: &quot;Disposizioni per la destinazione di una quota del 5 per mille dell&#39;imposta sul reddito delle persone fisiche a finalità scelte dai contribuenti&quot; (1955)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4420</literal></binding>
+   <binding name="date"><literal>20110614</literal></binding>
+   <binding name="title"><literal>BINETTI: &quot;Introduzione dell&#39;articolo 317-ter del codice civile, concernente il diritto di visita dei nonni&quot; (4420)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4492</literal></binding>
+   <binding name="date"><literal>20110707</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Modifiche al codice dei contratti pubblici relativi a lavori, servizi e forniture, di cui al decreto legislativo 12 aprile 2006, n. 163, e altre disposizioni per la promozione della qualità architettonica nonché in materia di disciplina della progettazione&quot; (4492)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4499</literal></binding>
+   <binding name="date"><literal>20110711</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE CALDERISI ed altri: &quot;Modifiche agli articoli 114 e 133 della Costituzione in materia di istituzione, modificazione e soppressione delle province&quot; (4499)</literal></binding>
+  </result>
+ </results>
+</sparql>

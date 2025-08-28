@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4513</literal></binding>
+   <binding name="date"><literal>19870311</literal></binding>
+   <binding name="title"><literal>LAGORIO ed altri: Istituzione di un &quot;Parco nazionale della pace&quot; a S. Anna di Stazzema</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4417</literal></binding>
+   <binding name="date"><literal>19870205</literal></binding>
+   <binding name="title"><literal>ANTONI ed altri: Riapertura dei termini per la concessione di Medaglia d&#39;Oro alla provincia di La Spezia per merito acquisito durante la guerra di liberazione nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4588</literal></binding>
+   <binding name="date"><literal>19870407</literal></binding>
+   <binding name="title"><literal>PIERMARTINI ed altri: Riforma delle camere di commercio</literal></binding>
+  </result>
+ </results>
+</sparql>

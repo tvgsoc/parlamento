@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>740</literal></binding>
+   <binding name="date"><literal>19681206</literal></binding>
+   <binding name="title"><literal>BENSI: Interpretazione autentica degli articoli 24 e 25 della legge 13 luglio 1965, n. 882, recante norme sull&#39;ordinamento della banda del Corpo della guardia di finanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2824</literal></binding>
+   <binding name="date"><literal>19701109</literal></binding>
+   <binding name="title"><literal>MARCHETTI ed altri: Norme per la concessione di un contingente di benzina agevolata a favore dei proprietari di autoveicoli residenti in comuni delle province di Como, Novara, Sondrio e Varese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>310</literal></binding>
+   <binding name="date"><literal>19680731</literal></binding>
+   <binding name="title"><literal>USVARDI e BENSI: Disciplina dell&#39;approvvigionamento e della vendita al pubblico del latte alimentare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3181</literal></binding>
+   <binding name="date"><literal>19710304</literal></binding>
+   <binding name="title"><literal>ZAPPA ed altri: Riforma dell&#39;assistenza pubblica e organizzazione dei servizi sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3522</literal></binding>
+   <binding name="date"><literal>19710713</literal></binding>
+   <binding name="title"><literal>SCALFARI ed altri: Giudizio di conformità costituzionale delle materie oggetto di referendum abrogativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3692</literal></binding>
+   <binding name="date"><literal>19711015</literal></binding>
+   <binding name="title"><literal>BRIZIOLI ed altri: Regolamentazione dell&#39;aborto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3694</literal></binding>
+   <binding name="date"><literal>19711015</literal></binding>
+   <binding name="title"><literal>LEPRE ed altri: Riduzione e frazionamento del servizio di leva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3716</literal></binding>
+   <binding name="date"><literal>19711021</literal></binding>
+   <binding name="title"><literal>QUERCI ed altri: Nuovo ordinamento della professione di giornalista</literal></binding>
+  </result>
+ </results>
+</sparql>

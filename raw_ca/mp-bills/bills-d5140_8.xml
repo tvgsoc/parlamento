@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2339</literal></binding>
+   <binding name="date"><literal>19810211</literal></binding>
+   <binding name="title"><literal>LA LOGGIA ed altri: Riforma delle partecipazioni statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3829</literal></binding>
+   <binding name="date"><literal>19821221</literal></binding>
+   <binding name="title"><literal>USELLINI ed altri: Norme per un più equo trattamento fiscale dei redditi familiari, per la riduzione del costo del lavoro e per la prevenzione dell&#39;evasione fiscale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3830</literal></binding>
+   <binding name="date"><literal>19821222</literal></binding>
+   <binding name="title"><literal>RUBINO ed altri: Concessione alla regione Sicilia del contributo di solidarietà nazionale per il quinquennio 1982-1986 a norma dell&#39;articolo 38 del relativo statuto e norme per la determinazione dell&#39;ammontare</literal></binding>
+  </result>
+ </results>
+</sparql>

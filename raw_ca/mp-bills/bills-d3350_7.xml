@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2622</literal></binding>
+   <binding name="date"><literal>19781222</literal></binding>
+   <binding name="title"><literal>D&#39;ALESSIO ed altri: Modifiche alla legge 10 dicembre 1973, n. 804, e provvedimenti urgenti per i dirigenti militari e per gli ufficiali delle Forze armate nel quadro della riforma dell&#39;ordinamento della difesa e dell&#39;avanzamento del personale militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2649</literal></binding>
+   <binding name="date"><literal>19790117</literal></binding>
+   <binding name="title"><literal>ANGELINI ed altri: Promozioni in soprannumero dei marescialli dell&#39;esercito e dell&#39;aeronautica e dei capi della marina militare e provvedimenti urgenti per il reclutamento, l&#39;avanzamento ed il trattamento economico dei volontari e dei sottufficiali delle forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2684</literal></binding>
+   <binding name="date"><literal>19790130</literal></binding>
+   <binding name="title"><literal>D&#39;ALESSIO ed altri: Provvedimenti urgenti per gli ufficiali dei ruoli speciali e del ruolo servizi dell&#39;Aeronautica militare nonché per l&#39;inquadramento del personale militare addetto al controllo ed all&#39;assistenza del traffico aereo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2688</literal></binding>
+   <binding name="date"><literal>19790131</literal></binding>
+   <binding name="title"><literal>CORALLO ed altri: Norme per la determinazione del fabbisogno edilizio per l&#39;accesso del personale militare alla abitazione nell&#39;ambito del piano decennale per l&#39;edilizia residenziale ed in relazione al programma di alloggi di servizio per gli appartenenti alle Forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>657</literal></binding>
+   <binding name="date"><literal>19761026</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Istituzione di una commissione intercamerale per le partecipazioni statali e norme per l&#39;esercizio dei poteri di indirizzo e controllo ad essa affidati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>231</literal></binding>
+   <binding name="date"><literal>19760804</literal></binding>
+   <binding name="title"><literal>MALAGUGINI ed altri: Inchiesta parlamentare sull&#39;incidente avvenuto il 20 luglio 1976 nello stabilimento ICMESA sito in comune di Seveso (Milano) e sulle attività industriali comportanti l&#39;impiego e la produzione di materiali, procedimenti o strumenti pericolosi</literal></binding>
+  </result>
+ </results>
+</sparql>

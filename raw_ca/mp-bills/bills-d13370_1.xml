@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1613</literal></binding>
+   <binding name="date"><literal>19501028</literal></binding>
+   <binding name="title"><literal>PETRONE: Costituzione del comune di Acquavella, in provincia di Salerno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>305</literal></binding>
+   <binding name="date"><literal>19490129</literal></binding>
+   <binding name="title"><literal>PETRONE: Incompatibilità per i membri del Parlamento a ricoprire cariche in determinati enti e società</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>164</literal></binding>
+   <binding name="date"><literal>19481117</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Assistenza ad alcune categorie di gestanti e puerpere e ai loro bambini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>568</literal></binding>
+   <binding name="date"><literal>19490519</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Riforma del &quot;Fondo per l&#39;indennità agli impiegati&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>864</literal></binding>
+   <binding name="date"><literal>19491029</literal></binding>
+   <binding name="title"><literal>RICCIO ed altri: Estensione all&#39;Ente Autonomo &quot;Mostra d&#39;oltremare e del lavoro italiano nel mondo&quot; dell&#39;articolo 27 della legge 26 ottobre 1940, n. 1543, concernente ricostruzione di beni immobili</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>201</literal></binding>
+   <binding name="date"><literal>19531001</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Istituzione di una Commissione interparlamentare per il completamento delle indagini e l&#39;attuazione delle proposte suggerite dalla &quot;Commissione parlamentare d&#39;inchiesta sulla miseria in Italia e sui mezzi per combatterla&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>190</literal></binding>
+   <binding name="date"><literal>19530929</literal></binding>
+   <binding name="title"><literal>CECCHERINI e VIGORELLI: Abrogazione del termine di scadenza della legge 14 febbraio 1953, n. 49</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>233</literal></binding>
+   <binding name="date"><literal>19531007</literal></binding>
+   <binding name="title"><literal>SAMPIETRO ed altri: Norme di riforma dei contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>467</literal></binding>
+   <binding name="date"><literal>19531204</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Provvedimenti a favore dell&#39;assistenza scolastica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>531</literal></binding>
+   <binding name="date"><literal>19531219</literal></binding>
+   <binding name="title"><literal>L&#39;ELTORE ed altri: Devoluzione a favore dei Consorzi provinciali antitubercolari di una quota parte dei residui attivi della gestione dell&#39;assicurazione obbligatoria contro la tubercolosi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>615</literal></binding>
+   <binding name="date"><literal>19540126</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Passaggio nel quadro transitorio del ruolo del personale di gruppo B, degli ufficiali dell&#39;Amministrazione delle poste e telecomunicazioni ex ausiliari provenienti da pubblico concorso</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>525</literal></binding>
+   <binding name="date"><literal>19531218</literal></binding>
+   <binding name="title"><literal>BERLINGUER ed altri: Disciplina della indennità post-sanatoriale a favore dei coloni e mezzadri</literal></binding>
+  </result>
+ </results>
+</sparql>

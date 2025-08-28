@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3570</literal></binding>
+   <binding name="date"><literal>19750307</literal></binding>
+   <binding name="title"><literal>CODACCI PISANELLI ed altri: Interpretazione autentica dell&#39;articolo 2 del decreto legislativo 6 aprile 1948, n. 521, riguardante il risarcimento per la perdita di beni in Tunisia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4046</literal></binding>
+   <binding name="date"><literal>19751008</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Ordinamento della professione di commercialista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4144</literal></binding>
+   <binding name="date"><literal>19751127</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Norme in materia urbanistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>429</literal></binding>
+   <binding name="date"><literal>19720707</literal></binding>
+   <binding name="title"><literal>MERLI ed altri: Concessione di un contributo annuo per il finanziamento del Centro di studi americani di Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>557</literal></binding>
+   <binding name="date"><literal>19720726</literal></binding>
+   <binding name="title"><literal>PICCOLI ed altri: Emendamento al terzo comma dell&#39;articolo 64 della Costituzione</literal></binding>
+  </result>
+ </results>
+</sparql>

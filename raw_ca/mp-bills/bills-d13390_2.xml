@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2904</literal></binding>
+   <binding name="date"><literal>19570506</literal></binding>
+   <binding name="title"><literal>CORTESE ed altri: Trattamento di quiescenza a favore del personale militare della C.R.I. e del S.M.O.M chiamato o trattenuto in servizio in forza del decreto legislativo del Capo provvisorio dello Stato 30 novembre 1946, n. 736, per esigenze di carattere eccezionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2406</literal></binding>
+   <binding name="date"><literal>19560718</literal></binding>
+   <binding name="title"><literal>ALDISIO ed altri: Istituzione di una Sezione speciale della Corte Costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2571</literal></binding>
+   <binding name="date"><literal>19561127</literal></binding>
+   <binding name="title"><literal>GARLATO ed altri: Istituzione della provincia di Pordenone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2788</literal></binding>
+   <binding name="date"><literal>19570315</literal></binding>
+   <binding name="title"><literal>ALDISIO ed altri: Contributi per le opere dell&#39;Ente siciliano di elettricità (E.S.E.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2901</literal></binding>
+   <binding name="date"><literal>19570506</literal></binding>
+   <binding name="title"><literal>GUERRIERI ed altri: Disposizioni per la previdenza e assistenza sociale delle ostetriche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2993</literal></binding>
+   <binding name="date"><literal>19570628</literal></binding>
+   <binding name="title"><literal>PECORARO ed altri: Obbligatorietà dell&#39;insegnamento e dell&#39;esame di medicina del lavoro nella Facoltà di medicina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>310</literal></binding>
+   <binding name="date"><literal>19531028</literal></binding>
+   <binding name="title"><literal>PECORARO ed altri: Provvedimenti a favore della città di Palermo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3465</literal></binding>
+   <binding name="date"><literal>19580128</literal></binding>
+   <binding name="title"><literal>NEGRARI ed altri: Sostituzione dell&#39;articolo 3 della legge 24 marzo 1942, n. 315, relativo alla destinazione dei proventi derivanti all&#39;U.N.I.R.E.) dall&#39;esercizio delle scommesse sulle corse dei cavalli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3466</literal></binding>
+   <binding name="date"><literal>19580128</literal></binding>
+   <binding name="title"><literal>NEGRARI ed altri: Regolamentazione e disciplina del tiro a segno nazionale e costituzione della Federazione italiana del tiro a segno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>425</literal></binding>
+   <binding name="date"><literal>19531127</literal></binding>
+   <binding name="title"><literal>CARONIA ed altri: Contributo annuo di lire 16.180.000 a favore del &quot;Centro internazionale radio-medico&quot; (CIRM)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>520</literal></binding>
+   <binding name="date"><literal>19531217</literal></binding>
+   <binding name="title"><literal>ALDISIO ed altri: Provvidenze a favore delle zone alluvionate della Sicilia</literal></binding>
+  </result>
+ </results>
+</sparql>

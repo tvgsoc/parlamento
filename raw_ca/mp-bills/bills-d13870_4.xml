@@ -1,0 +1,41 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1923</literal></binding>
+   <binding name="date"><literal>19641210</literal></binding>
+   <binding name="title"><literal>PELLEGRINO ed altri: Estensione ai dipendenti degli enti locali del diritto di usufruire della concessione ferroviaria speciale D</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2128</literal></binding>
+   <binding name="date"><literal>19650225</literal></binding>
+   <binding name="title"><literal>LAJOLO ed altri: Riforma della Rai radiotelevisione italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2229</literal></binding>
+   <binding name="date"><literal>19650401</literal></binding>
+   <binding name="title"><literal>D&#39;ALESSIO ed altri: Disposizioni in materia di contratti stipulati dall&#39;Opera nazionale per i combattenti per il trasferimento dei poderi a coltivatori assegnatari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4462</literal></binding>
+   <binding name="date"><literal>19671013</literal></binding>
+   <binding name="title"><literal>GIACHINI ed altri: Istituzione degli Enti regionali portuali
+- Gestione pubblica dei porti -</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>908</literal></binding>
+   <binding name="date"><literal>19640131</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Passaggio in enfiteusi ed affrancazione, a favore dei coltivatori insediati, delle terre condotte con contratti agrari di qualsiasi tipo nel Mezzogiorno, nelle Isole, nel Lazio</literal></binding>
+  </result>
+ </results>
+</sparql>

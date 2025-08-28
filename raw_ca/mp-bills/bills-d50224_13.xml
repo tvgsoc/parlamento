@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5629</literal></binding>
+   <binding name="date"><literal>19990202</literal></binding>
+   <binding name="title"><literal>MACCANICO: PROPOSTA DI LEGGE COSTITUZIONALE: Disposizioni in materia di elezione delPresidente della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5630</literal></binding>
+   <binding name="date"><literal>19990202</literal></binding>
+   <binding name="title"><literal>MACCANICO: Delega al Governo per l&#39;accorpamento delle consultazioni elettorali e referendarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5915</literal></binding>
+   <binding name="date"><literal>19990415</literal></binding>
+   <binding name="title"><literal>MACCANICO: PROPOSTA DI LEGGE COSTITUZIONALE: Introduzione dell&#39;articolo 77-bis e modifica all&#39;articolo 134 della Costituzione in materia di regolamenti del Governo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6107</literal></binding>
+   <binding name="date"><literal>19990602</literal></binding>
+   <binding name="title"><literal>MACCANICO: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche alla Costituzione concernentila composizione e le funzioni del Senato della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5186</literal></binding>
+   <binding name="date"><literal>19980730</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 48 della Costituzione concernente l&#39;istituzione della circoscrizione Estero per l&#39;esercizio del diritto di voto dei cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5186-B</literal></binding>
+   <binding name="date"><literal>19980730</literal></binding>
+   <binding name="title"><literal>TREMAGLIA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica all&#39;articolo 48 della Costituzione concernente l&#39;istituzione della circoscrizione Estero per l&#39;esercizio del diritto di voto dei cittadini italiani residenti all&#39;estero (approvata, in prima deliberazione, dalla Camera e dal Senato) (S. 3841)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5745</literal></binding>
+   <binding name="date"><literal>19990225</literal></binding>
+   <binding name="title"><literal>RUZZANTE ed altri: Modifica all&#39;articolo 46 della legge 27 dicembre 1997, n. 449, in materiadi espletamento del servizio sostitutivo di leva presso i Corpi di polizia municipale ed in attività di vigilanza dei musei e delle bellezze naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6540</literal></binding>
+   <binding name="date"><literal>19991110</literal></binding>
+   <binding name="title"><literal>GIULIANO ed altri: Istituzione della provincia di Aversa</literal></binding>
+  </result>
+ </results>
+</sparql>

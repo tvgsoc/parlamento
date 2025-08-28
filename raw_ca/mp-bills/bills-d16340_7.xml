@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1406</literal></binding>
+   <binding name="date"><literal>19770428</literal></binding>
+   <binding name="title"><literal>GIGLIA ed altri: Proroga della delega di cui all&#39;articolo 21 della legge 2 maggio 1976, n. 183, riguardante il testo unico delle leggi sugli interventi nel Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>620</literal></binding>
+   <binding name="date"><literal>19761019</literal></binding>
+   <binding name="title"><literal>BARDELLI ed altri: Norme in materia di contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>724</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>DI GIULIO ed altri: Riordinamento dell&#39;Azienda di Stato per gli interventi nel mercato agricolo (AIMA)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>887</literal></binding>
+   <binding name="date"><literal>19761203</literal></binding>
+   <binding name="title"><literal>TERRANOVA ed altri: Estensione del trattamento economico integrativo e previdenziale agli esercenti le funzioni notarili di cui all&#39;articolo 6 della legge 16 febbraio 1913, n. 89, sull&#39;ordinamento del notariato e degli archivi notarili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>677</literal></binding>
+   <binding name="date"><literal>19761028</literal></binding>
+   <binding name="title"><literal>PISONI ed altri: Trasferimento alle regioni delle funzioni in materia di terre incolte o insufficientemente coltivate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>854</literal></binding>
+   <binding name="date"><literal>19761129</literal></binding>
+   <binding name="title"><literal>ESPOSTO ed altri: Norme relative alle associazioni dei produttori agricoli e al loro riconoscimento da parte delle Regioni</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,418 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1195</literal></binding>
+   <binding name="date"><literal>19721122</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Nuove norme per Venezia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1287</literal></binding>
+   <binding name="date"><literal>19721207</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Riforma dell&#39;ordinamento universitario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3544</literal></binding>
+   <binding name="date"><literal>19750305</literal></binding>
+   <binding name="title"><literal>ACHILLI: Provvedimenti per lo sviluppo economico dei comuni i cui territori siano compresi nel Parco nazionale d&#39;Abruzzo e per la salvaguardia del parco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3807</literal></binding>
+   <binding name="date"><literal>19750523</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Locazione degli immobili urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4052</literal></binding>
+   <binding name="date"><literal>19751010</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Norme sull&#39;abusivismo in edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4106</literal></binding>
+   <binding name="date"><literal>19751111</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Norme per lo snellimento delle procedure in materia di esecuzione di opere pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1075</literal></binding>
+   <binding name="date"><literal>19721026</literal></binding>
+   <binding name="title"><literal>MARZOTTO CAOTORTA ed altri: Disposizioni per il riscatto e l&#39;ammodernamento delle ferrovie Nord Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>109</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>ZAFFANELLA ed altri: Interventi per gli handicappati psichici, fisici, sensoriali ed i disadattati sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1168</literal></binding>
+   <binding name="date"><literal>19721117</literal></binding>
+   <binding name="title"><literal>GIOMO ed altri: Concessione di un contributo statale annuo di lire cento milioni in favore della &quot;Società incoraggiamento arti e mestieri&quot; ente morale in Milano, per la gestione dell&#39;Istituto tecnico industriale serale &quot;Ettore Conti&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1398</literal></binding>
+   <binding name="date"><literal>19721220</literal></binding>
+   <binding name="title"><literal>LEZZI e ACHILLI: Concessione di contributo straordinario al Comitato per le celebrazioni del bicentenario della morte di Luigi Vanvitelli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1599</literal></binding>
+   <binding name="date"><literal>19730201</literal></binding>
+   <binding name="title"><literal>VITTORELLI ed altri: Concessione di un contributo annuo di lire 80.000.000 a favore della Fondazione Giacomo Brodolini con sede a Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1655</literal></binding>
+   <binding name="date"><literal>19730211</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Disciplina dell&#39;aborto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2053</literal></binding>
+   <binding name="date"><literal>19730413</literal></binding>
+   <binding name="title"><literal>GIOLITTI ed altri: Disposizioni concernenti l&#39;informazione al Parlamento sulle nomine effettuate dal Governo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2187</literal></binding>
+   <binding name="date"><literal>19730525</literal></binding>
+   <binding name="title"><literal>BERTOLDI ed altri: Norme per il coordinamento della finanza regionale con la finanza statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>229</literal></binding>
+   <binding name="date"><literal>19720608</literal></binding>
+   <binding name="title"><literal>ROGNONI ed altri: Modifiche delle norme riguardanti la previdenza e l&#39;assistenza forense</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2290</literal></binding>
+   <binding name="date"><literal>19730723</literal></binding>
+   <binding name="title"><literal>BALLARDINI ed altri: Principi fondamentali in materia di istruzione professionale del personale addetto agli asili-nido</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2495</literal></binding>
+   <binding name="date"><literal>19731113</literal></binding>
+   <binding name="title"><literal>MARIOTTI ed altri: Norme in materia di assistenza ai ciechi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>257</literal></binding>
+   <binding name="date"><literal>19720614</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Norme modificative della disciplina delle società per azioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2579</literal></binding>
+   <binding name="date"><literal>19731206</literal></binding>
+   <binding name="title"><literal>ZAFFANELLA ed altri: Rifinanziamento dei lavori di costruzione dell&#39;idrovia Milano-Cremona-Po</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>259</literal></binding>
+   <binding name="date"><literal>19720614</literal></binding>
+   <binding name="title"><literal>CALVETTI ed altri: Norme recanti snellimenti procedurali per la esecuzione di opere pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2710</literal></binding>
+   <binding name="date"><literal>19740205</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Modificazioni dell&#39;articolo 126 del decreto del Presidente della Repubblica 18 febbraio 1971, n. 18, concernente modifica e aggiornamento di disposizioni legislative in materia doganale, in attuazione della delega conferita al Governo con legge 23 gennaio 1968, n. 29</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2877</literal></binding>
+   <binding name="date"><literal>19740328</literal></binding>
+   <binding name="title"><literal>SALVI ed altri: Istituzione dell&#39;ateneo di Stato a Brescia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>302</literal></binding>
+   <binding name="date"><literal>19720626</literal></binding>
+   <binding name="title"><literal>ANDERLINI ed altri: Concessione di un contributo annuo di lire 50 milioni a favore dell&#39;Istituto per lo studio della società contemporanea (ISSOCO)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3069</literal></binding>
+   <binding name="date"><literal>19740703</literal></binding>
+   <binding name="title"><literal>CASTIGLIONE ed altri: Formazione nell&#39;istituto magistrale delle insegnanti di scuola materna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3147</literal></binding>
+   <binding name="date"><literal>19740726</literal></binding>
+   <binding name="title"><literal>ARTALI ed altri: Modifica dell&#39;articolo 11 della legge 18 dicembre 1951, n. 1551, per l&#39;abolizione del contributo previsto a carico degli studenti universitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3166</literal></binding>
+   <binding name="date"><literal>19740802</literal></binding>
+   <binding name="title"><literal>CABRAS ed altri: Nuove norme sui programmi di fabbricazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3197</literal></binding>
+   <binding name="date"><literal>19740810</literal></binding>
+   <binding name="title"><literal>VINEIS ed altri: Integrazioni della legge 2 maggio 1974, n. 195, sul contributo dello Stato al finanziamento dei partiti politici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3292</literal></binding>
+   <binding name="date"><literal>19741204</literal></binding>
+   <binding name="title"><literal>ARTALI ed altri: Integrazione dell&#39;articolo 13 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, concernente provvedimenti per la cooperazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3339</literal></binding>
+   <binding name="date"><literal>19741219</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Modifica dell&#39;articolo 135 della Costituzione e dell&#39;articolo 3 della legge costituzionale 22 gennaio 1967, n. 2</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3387</literal></binding>
+   <binding name="date"><literal>19750117</literal></binding>
+   <binding name="title"><literal>GIOLITTI ed altri: Interpretazione autentica, integrazione e modifica della disciplina del trattamento economico del personale dirigente statale e del personale di magistratura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3403</literal></binding>
+   <binding name="date"><literal>19750123</literal></binding>
+   <binding name="title"><literal>CONCAS ed altri: Delega al consorzio fra le regioni interessate delle funzioni amministrative esercitate dal magistrato per il Po e uffici collegati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3494</literal></binding>
+   <binding name="date"><literal>19750221</literal></binding>
+   <binding name="title"><literal>VITTORELLI ed altri: Istituzione di consulte consolari presso gli uffici consolari italiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3624</literal></binding>
+   <binding name="date"><literal>19750325</literal></binding>
+   <binding name="title"><literal>SAVOLDI ed altri: Disciplina della chiamata alle armi per servizio di leva dei cittadini eletti parlamentari o consiglieri regionali o nominati membri di giunte provinciali, sindaci o assessori comunali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3643</literal></binding>
+   <binding name="date"><literal>19750327</literal></binding>
+   <binding name="title"><literal>SALVATORE ed altri: Norme per la ristrutturazione dell&#39;AIMA (Azienda di Stato per gli interventi nel mercato agricolo) e la costituzione di un ente per le pubbliche gestioni in agricoltura (ENPGA)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3664</literal></binding>
+   <binding name="date"><literal>19750409</literal></binding>
+   <binding name="title"><literal>MARIOTTI ed altri: Istituzione del Ministero della ricerca scientifica e dello sviluppo tecnologico e del Consiglio nazionale universitario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3850</literal></binding>
+   <binding name="date"><literal>19750626</literal></binding>
+   <binding name="title"><literal>CASTIGLIONE ed altri: Anticipazione dell&#39;iter scolastico e sviluppo della scuola statale dell&#39;infanzia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3851</literal></binding>
+   <binding name="date"><literal>19750626</literal></binding>
+   <binding name="title"><literal>CANEPA ed altri: Principi fondamentali in materia di istruzione e formazione professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3852</literal></binding>
+   <binding name="date"><literal>19750626</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Istituzione della scuola secondaria superiore unitaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3862</literal></binding>
+   <binding name="date"><literal>19750701</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Riordinamento dell&#39;amministrazione della pubblica sicurezza e del Corpo delle guardie di pubblica sicurezza. Istituzione del servizio civile denominato &quot;Corpo di polizia della Repubblica italiana&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>40</literal></binding>
+   <binding name="date"><literal>19720524</literal></binding>
+   <binding name="title"><literal>SALVATORE ed altri: Norme per la trasformazione della mezzadria, colonia parziaria e dei contratti atipici di concessione di fondi rustici in contratti di affitto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4034</literal></binding>
+   <binding name="date"><literal>19751003</literal></binding>
+   <binding name="title"><literal>ARTALI ed altri: Modifiche alla legge 15 dicembre 1972, n. 772, recante norme per il riconoscimento dell&#39;obiezione di coscienza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4312</literal></binding>
+   <binding name="date"><literal>19760218</literal></binding>
+   <binding name="title"><literal>MARIOTTI ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sulla vendita di aerei militari e da trasporto da parte della società multinazionale Lockheed nonché sulle forniture e commesse di altri mezzi militari e approvvigionamenti alle forze armate della Repubblica italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4344</literal></binding>
+   <binding name="date"><literal>19760301</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Modifiche alla legge 25 gennaio 1962, n. 20, recante norme sui procedimenti e giudizi di accusa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4436</literal></binding>
+   <binding name="date"><literal>19760407</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Modifica all&#39;articolo 15 della legge 17 febbraio 1968, n. 108, concernente &quot;Norme per la elezione dei consigli regionali delle regioni a statuto ordinario&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4440</literal></binding>
+   <binding name="date"><literal>19760408</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Riposo sabatico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4455</literal></binding>
+   <binding name="date"><literal>19760414</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Libertà di espressione e comunicazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4456</literal></binding>
+   <binding name="date"><literal>19760414</literal></binding>
+   <binding name="title"><literal>MARIOTTI ed altri: Modificazione della legge 22 maggio 1975, n. 152, recante disposizioni a tutela dell&#39;ordine pubblico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>45</literal></binding>
+   <binding name="date"><literal>19720524</literal></binding>
+   <binding name="title"><literal>FRASCA ed altri: Estensione per la Calabria dei compiti della Commissione parlamentare d&#39;inchiesta sul fenomeno della mafia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>597</literal></binding>
+   <binding name="date"><literal>19720728</literal></binding>
+   <binding name="title"><literal>MACCHIAVELLI ed altri: Riconoscimento di Enti ospedalieri per gli ospedali evangelici di Genova, Napoli, Torino, Pomaretto e Torre Pellice e dell&#39;ospedale israelitico di Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>608</literal></binding>
+   <binding name="date"><literal>19720728</literal></binding>
+   <binding name="title"><literal>VINEIS ed altri: Costituzione di una Commissione parlamentare d&#39; inchiesta sui responsabili, promotori, finanziatori e fiancheggiatori della riorganizzazione del disciolto partito fascista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>618</literal></binding>
+   <binding name="date"><literal>19720731</literal></binding>
+   <binding name="title"><literal>SALVATORE ed altri: Determinazione del canone di fitto per l&#39;annata agraria 1971-72</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>651</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>MANCINI ed altri: Istituzione della Scuola superiore per la specializzazione del personale direttivo delle Regioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>679</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Abrogazione di alcune norme del codice penale e modifica del decreto legislativo 22 gennaio 1948, n. 66, concernenti norme per assicurare la libera circolazione nelle strade ferrate ed ordinarie e la libera navigazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>701</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>TORTORELLA ed altri: Proposta di inchiesta parlamentare sugli episodi di violenza e di terrorismo determinati da motivi politici, verificatisi a Milano dal 1969 ad oggi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>704</literal></binding>
+   <binding name="date"><literal>19720804</literal></binding>
+   <binding name="title"><literal>LAURICELLA ed altri: Modifiche ed integrazioni alla legge 15 febbraio 1963, n. 133, istitutiva dell&#39;ISES - Istituto per lo sviluppo della edilizia sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2723</literal></binding>
+   <binding name="date"><literal>19740206</literal></binding>
+   <binding name="title"><literal>STRAZZI ed altri: Dispensa dalla ferma di leva per i giovani coniugati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3075</literal></binding>
+   <binding name="date"><literal>19740704</literal></binding>
+   <binding name="title"><literal>BALLARDINI ed altri: Riduzione dei termini e semplificazione del procedimento elettorale. Modifica del testo unico delle leggi per la elezione della Camera dei deputati approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, della legge 6 febbraio 1948, n. 29, e della legge 4 aprile 1956, n. 212</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3118</literal></binding>
+   <binding name="date"><literal>19740718</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme per la istituzione di centri di medicina preventiva e di controllo delle nascite</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3278</literal></binding>
+   <binding name="date"><literal>19741121</literal></binding>
+   <binding name="title"><literal>STRAZZI ed altri: Proroga del termine stabilito dalla legge 17 maggio 1973, n. 205, e dalla legge 14 ottobre 1974, n. 504, in favore delle popolazioni dell&#39;Italia centrale danneggiate da terremoti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3495</literal></binding>
+   <binding name="date"><literal>19750221</literal></binding>
+   <binding name="title"><literal>VITTORELLI ed altri: Istituzione di un Comitato interministeriale per l&#39;emigrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3496</literal></binding>
+   <binding name="date"><literal>19750221</literal></binding>
+   <binding name="title"><literal>MARIOTTI ed altri: Riduzione del periodo della campagna elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3497</literal></binding>
+   <binding name="date"><literal>19750221</literal></binding>
+   <binding name="title"><literal>MARIOTTI ed altri: Limitazione dei mezzi e riduzione dei termini della propaganda elettorale. Modifiche alla legge 4 aprile 1956, n. 212</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>39</literal></binding>
+   <binding name="date"><literal>19720524</literal></binding>
+   <binding name="title"><literal>BERTOLDI ed altri: Contributo dello Stato al finanziamento dei partiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>44</literal></binding>
+   <binding name="date"><literal>19720525</literal></binding>
+   <binding name="title"><literal>FRASCA ed altri: Disciplina dell&#39;ammasso dell&#39;essenza di bergamotto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>616</literal></binding>
+   <binding name="date"><literal>19720731</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Riconoscimento dell&#39;obiezione di coscienza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>617</literal></binding>
+   <binding name="date"><literal>19720731</literal></binding>
+   <binding name="title"><literal>SALVATORE ed altri: Norme di attuazione delle disposizioni comunitarie sulla indennità di cessazione dell&#39;attività agricola e la destinazione dei terreni a fini di miglioramento delle strutture</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>754</literal></binding>
+   <binding name="date"><literal>19720911</literal></binding>
+   <binding name="title"><literal>CONCAS ed altri: Modificazione all&#39;articolo 277 del codice di procedura penale concernente il mandato di cattura obbligatorio e la libertà provvisoria condizionata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>97</literal></binding>
+   <binding name="date"><literal>19740125</literal></binding>
+   <binding name="title"><literal>ZAFFANELLA ed altri: Aumento dei minimi di pensione, della pensione sociale e perequazione delle pensioni INPS liquidate anteriormente al 1° maggio 1969</literal></binding>
+  </result>
+ </results>
+</sparql>

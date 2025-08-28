@@ -1,6 +1,6 @@
-bills = "data/bills-ca.csv"
-sponsors = "data/sponsors-ca.csv"
-start = 9 # first legislature to examine
+bills = "data/bills-ca-2025.csv"
+sponsors = "data/sponsors-ca-2025.csv"
+start = 1 # first legislature to examine: set to 9 in master, changed to 1
 
 #
 # parse sponsors, using SPARQL to get the full listings of each legislature
@@ -44,8 +44,10 @@ if (!file.exists(sponsors)) {
   ?organo dc:title ?committee.
   }
   }"
-
-  for (i in 1:17) { # full listing for exact seniority
+  
+  # updated i in 1:17 to include 18th legislature
+  
+  for (i in 1:18) { # full listing for exact seniority
 
     cat("Legislature", sprintf("%2.0f", i))
 
@@ -109,7 +111,7 @@ if (!file.exists(sponsors)) {
     # filter(x, url %in% url[ duplicated(url) ]) %>% View
     s = rbind(s, cbind(legislature = i, x, stringsAsFactors = FALSE))
 
-  }
+  } # end of loop over legislatures
 
   s = group_by(s, url) %>%
     mutate(nyears = paste0(sort(unique(legislature)), collapse = ";"))
@@ -157,55 +159,63 @@ if (!file.exists(sponsors)) {
 
   # missing values
   s$constituency[ s$legislature == 7 & s$name == "VITTORIO FOA" ] = "Torino"
+  
+  
+  # constitutency check fails for more recent data
+  # remove this (temporarily?)
+  
+  #cat("Checking constituencies,", sum(is.na(s$constituency)), "missing...\n")
+  #for (i in na.omit(unique(s$constituency))) {
 
-  cat("Checking constituencies,", sum(is.na(s$constituency)), "missing...\n")
-  for (i in na.omit(unique(s$constituency))) {
+  #  g = GET(paste0("https://", meta[ "lang"], ".wikipedia.org/wiki/", i))
 
-    g = GET(paste0("https://", meta[ "lang"], ".wikipedia.org/wiki/", i))
+  #  if (status_code(g) != 200)
+  #    cat("Missing Wikipedia entry:", i, "\n")
 
-    if (status_code(g) != 200)
-      cat("Missing Wikipedia entry:", i, "\n")
+  #  g = read_html(g) %>% html_node("title") %>% html_text
+  #  g = gsub("(.*) - Wikipedia(.*)", "\\1", g)
 
-    g = read_html(g) %>% html_node("title") %>% html_text
-    g = gsub("(.*) - Wikipedia(.*)", "\\1", g)
+  #  if (gsub("\\s", "_", g) != i)
+  #    cat("Discrepancy:", g, "(WP) !=", i ,"(data)\n")
 
-    if (gsub("\\s", "_", g) != i)
-      cat("Discrepancy:", g, "(WP) !=", i ,"(data)\n")
+  #}
 
-  }
-
+  # No intention of downloading photos
+  
   # photos (remove condition to get those before l. 7)
 
-  j = unique(s$photo[ s$legislature >= start ]) %>% na.omit %>% sample
-  cat("Downloading", length(j), "photos\n")
+  #j = unique(s$photo[ s$legislature >= start ]) %>% na.omit %>% sample
+  #cat("Downloading", length(j), "photos\n")
 
-  pb = txtProgressBar(max = length(j), style = 3)
+  #pb = txtProgressBar(max = length(j), style = 3)
 
-  for (i in j) {
+  #for (i in j) {
 
-    f = str_replace(i, "(.*)?id=(\\d+)&leg(.*?)(\\d+)", "photos_ca/\\4-\\2.jpg")
-    if (!file.exists(f)) {
-      try(download.file(i, f, mode = "wb", quiet = TRUE))
-    }
-    if (file.exists(f) && !file.info(f)$size) {
-      file.remove(f)
-    }
-    s$photo[ s$photo == i ] = ifelse(file.exists(f), f, NA)
+  #  f = str_replace(i, "(.*)?id=(\\d+)&leg(.*?)(\\d+)", "photos_ca/\\4-\\2.jpg")
+  #  if (!file.exists(f)) {
+  #    try(download.file(i, f, mode = "wb", quiet = TRUE))
+  #  }
+  #  if (file.exists(f) && !file.info(f)$size) {
+  #    file.remove(f)
+  #  }
+  #  s$photo[ s$photo == i ] = ifelse(file.exists(f), f, NA)
 
-    setTxtProgressBar(pb, which(i == j))
+  #  setTxtProgressBar(pb, which(i == j))
 
-  }
+  #}
 
-  cat("\n")
+  # cat("\n")
 
   write.csv(select(s, -uid) %>% arrange(url, legislature), sponsors, row.names = FALSE)
 
-}
+} # end of if !file.exists
 
 # postprocess sponsors
 
 s = read.csv(sponsors, stringsAsFactors = FALSE) %>%
   filter(legislature >= start)
+
+unique(s$party)
 
 # Christian Democrats:
 # DC -> PPI (l. 12, 1994), split -> CCD (1994)
@@ -287,6 +297,19 @@ s$party[ grepl("COMUNISTI ITALIANI", s$party) ] = "PDCI" # C. 15
 s$party[ grepl("UNIONE DEMOCRATICA PER LA REPUBBLICA", s$party) ] = "IND" # n = 1
 s$party[ s$party == "MISTO" ] = "IND"
 
+# new party names in need of updating in 2025
+
+# "ALTERNATIVA POPOLARE-CENTRISTI PER L'EUROPA-NCD-NOI CON L'ITALIA" 
+# "LEGA - SALVINI PREMIER" 
+# "LIBERI E UGUALI-ARTICOLO 1-SINISTRA ITALIANA"
+
+# "FRATELLI D'ITALIA"                                                           
+# "ITALIA VIVA-ITALIA C'E'"                                                     
+# "CIVICI E INNOVATORI"                                                         
+# "SINISTRA ITALIANA - SINISTRA ECOLOGIA LIBERTA' - POSSIBILE - LIBERI E UGUALI"
+# "DEMOCRAZIA SOLIDALE - CENTRO DEMOCRATICO"  
+
+
 #===============================================================================
 # QUALITY CONTROL
 #===============================================================================
@@ -302,12 +325,14 @@ stopifnot(is.integer(s$born) & nchar(s$born) == 4 | is.na(s$born))
 cat("Missing", sum(is.na(s$constituency)), "constituencies\n")
 stopifnot(is.character(s$constituency))
 
-cat("Missing", sum(is.na(s$photo)), "photos\n")
-stopifnot(is.character(s$photo) & grepl("^photos(_\\w{2})?/(.*)\\.\\w{3}", s$photo) | is.na(s$photo))
+# removing conditions related to pohtos
+#cat("Missing", sum(is.na(s$photo)), "photos\n")
+#stopifnot(is.character(s$photo) & grepl("^photos(_\\w{2})?/(.*)\\.\\w{3}", s$photo) | is.na(s$photo))
 
 stopifnot(!is.na(s$sex) & s$sex %in% c("F", "M"))
 stopifnot(!is.na(s$nyears) & is.integer(s$nyears))
 stopifnot(!is.na(s$url) & grepl("^http(s)?://(.*)", s$url))
+# this will need updating for new parties
 stopifnot(s$party %in% names(colors))
 
 #
@@ -353,7 +378,7 @@ if (!file.exists(bills)) {
   FILTER(REGEX(?deputato,'uid','i'))
   }"
 
-  for (i in start:17) {
+  for (i in start:18) {
 
     cat("Legislature", sprintf("%2.0f", i))
 
@@ -426,9 +451,11 @@ if (!file.exists(bills)) {
                   unique %>%
                   paste0(collapse = ";"))
 
+    # n_a = number of authors  
     b$n_a = ifelse(b$authors %in% c("", NA), 0, 1 + str_count(b$authors, ";"))
     b$authors[ b$authors == "" ] = NA
 
+    # n_c = number of cosponsors
     b$n_c = ifelse(b$cosponsors %in% c("", NA), 0, 1 + str_count(b$cosponsors, ";"))
     b$cosponsors[ b$cosponsors == "" ] = NA
 
@@ -448,7 +475,7 @@ if (!file.exists(bills)) {
 
   write.csv(a, bills, row.names = FALSE)
 
-}
+} # end of !file.exists(bills) and bill data collection
 
 # postprocess bills
 

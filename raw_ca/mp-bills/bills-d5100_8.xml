@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1078</literal></binding>
+   <binding name="date"><literal>19791204</literal></binding>
+   <binding name="title"><literal>VIRGILI ed altri: Indennità speciale di seconda lingua e indennità speciale di studio e apprendimento della seconda lingua ai magistrati, ai dipendenti civili dello Stato compresi quelli delle amministrazioni con ordinamento autonomo ed agli appartenenti alle forze armate ed ai corpi organizzati militarmente in servizio nella provincia di Bolzano o presso uffici sedenti in Trento ed aventi competenza regionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>496</literal></binding>
+   <binding name="date"><literal>19790802</literal></binding>
+   <binding name="title"><literal>GARAVAGLIA ed altri: Revisione delle norme sull&#39;adozione e l&#39;affidamento familiare</literal></binding>
+  </result>
+ </results>
+</sparql>

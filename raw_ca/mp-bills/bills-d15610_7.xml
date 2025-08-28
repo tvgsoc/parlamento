@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1215</literal></binding>
+   <binding name="date"><literal>19770302</literal></binding>
+   <binding name="title"><literal>BELLOCCHIO ed altri: Istituzione dell&#39;Azienda di Stato per i sali ed i tabacchi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1365</literal></binding>
+   <binding name="date"><literal>19770413</literal></binding>
+   <binding name="title"><literal>BRINI ed altri: Princi&#39;pi generali in materia di artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1720</literal></binding>
+   <binding name="date"><literal>19770914</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Modifiche al decreto-legge 8 aprile 1974, n. 95, recante disposizioni relative al mercato mobiliare e al trattamento fiscale dei titoli azionari, convertito con modificazioni nella legge 7 giugno 1974, n. 216</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2778</literal></binding>
+   <binding name="date"><literal>19790309</literal></binding>
+   <binding name="title"><literal>TORTORELLA ed altri: Nuovo ordinamento per la cinematografia italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>473</literal></binding>
+   <binding name="date"><literal>19760928</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Provvedimenti per la finanza locale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>859</literal></binding>
+   <binding name="date"><literal>19761130</literal></binding>
+   <binding name="title"><literal>TONI ed altri: Modifiche e integrazioni della legge 4 agosto 1955, n. 722, relativa alla autorizzazione a effettuare annualmente quattro lotterie nazionali e alla ripartizione degli utili delle stesse</literal></binding>
+  </result>
+ </results>
+</sparql>

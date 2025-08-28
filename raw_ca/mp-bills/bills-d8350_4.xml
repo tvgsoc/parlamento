@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4375</literal></binding>
+   <binding name="date"><literal>19670920</literal></binding>
+   <binding name="title"><literal>FULCI: Modifica alla tabella n. 6 annessa al decreto-legge luogotenenziale 19 agosto 1917, n. 1399, recante divieto di costruzione nelle frazioni Ganzirri e Faro Superiore del Comune di Messina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4373</literal></binding>
+   <binding name="date"><literal>19670920</literal></binding>
+   <binding name="title"><literal>BOZZI ed altri: Modifica delle pene previste dal Codice penale per i reati di cui agli articoli: 630 (sequestro di persona a scopo di rapina o di estorsione); 378 (favoreggiamento personale); 379 (favoreggiamento reale); 582 (lesioni personali) e 590 (lesioni colpose)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4406</literal></binding>
+   <binding name="date"><literal>19671003</literal></binding>
+   <binding name="title"><literal>MALAGODI ed altri: Celebrazione del centenario del 20 settembre 1870 e riconoscimento del 20 settembre come solennità civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4461</literal></binding>
+   <binding name="date"><literal>19671013</literal></binding>
+   <binding name="title"><literal>BIGNARDI ed altri: Ordinamento delle radiotrasmissioni circolari e concessione del servizio alla Rai-Radiotelevisione italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4516</literal></binding>
+   <binding name="date"><literal>19671031</literal></binding>
+   <binding name="title"><literal>BASILE ed altri: Disposizioni speciali per la città di Messina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4604</literal></binding>
+   <binding name="date"><literal>19671123</literal></binding>
+   <binding name="title"><literal>BASILE ed altri: Disposizioni speciali per il terremoto di Mistretta</literal></binding>
+  </result>
+ </results>
+</sparql>

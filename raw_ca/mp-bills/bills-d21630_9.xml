@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>994</literal></binding>
+   <binding name="date"><literal>19831214</literal></binding>
+   <binding name="title"><literal>MOTETTA ed altri: Istituzione della provincia del Verbano-Cusio-Ossola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1388</literal></binding>
+   <binding name="date"><literal>19840308</literal></binding>
+   <binding name="title"><literal>SANLORENZO ed altri: Norme per l&#39;acquisizione e l&#39;utilizzo dei dati da parte delle regioni per la programmazione democratica dello sviluppo industriale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1640</literal></binding>
+   <binding name="date"><literal>19840502</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Nuove disposizioni sul Club alpino italiano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2767</literal></binding>
+   <binding name="date"><literal>19850403</literal></binding>
+   <binding name="title"><literal>PORTATADINO ed altri: Disciplina dei voli turistici in zone di montagna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3043</literal></binding>
+   <binding name="date"><literal>19850617</literal></binding>
+   <binding name="title"><literal>TAGLIABUE ed altri: Contributi per mutui destinati all&#39;acquisto, alla costruzione e alla ristrutturazione di immobili ad uso di abitazione per i lavoratori frontalieri, confinanti, stagionali e annuali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>347</literal></binding>
+   <binding name="date"><literal>19830811</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Modifiche ed integrazioni della legge 5 agosto 1978, n. 468, concernente la riforma di alcune norme di contabilità generale dello Stato in materia di bilancio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4635</literal></binding>
+   <binding name="date"><literal>19870423</literal></binding>
+   <binding name="title"><literal>TAGLIABUE ed altri: Destinazione di parte dei proventi derivanti dalla tassa per la licenza di porto d&#39;armi per uso di caccia alle associazioni venatorie per lo svolgimento dei compiti previsti dall&#39;articolo 30 della legge 27 dicembre 1977, n. 968, e per interventi per la tutela ed il ripristino di fauna ed ambiente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>621</literal></binding>
+   <binding name="date"><literal>19831006</literal></binding>
+   <binding name="title"><literal>TREBBI ALOARDI ed altri: Aumento del contributo previsto dalla legge 5 marzo 1961, n. 212, a favore dei comuni e delle province insigniti di decorazione di medaglia d&#39;oro e al valor militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>71</literal></binding>
+   <binding name="date"><literal>19830712</literal></binding>
+   <binding name="title"><literal>ALBORGHETTI ed altri: Modifiche ed integrazioni alla legge 27 luglio 1978, n. 392, concernente disciplina delle locazioni di immobili urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>978</literal></binding>
+   <binding name="date"><literal>19831206</literal></binding>
+   <binding name="title"><literal>RONZANI ed altri: Istituzione della provincia di Biella</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1500</literal></binding>
+   <binding name="date"><literal>19840328</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Misure per lo sviluppo economico e sociale del Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>391</literal></binding>
+   <binding name="date"><literal>19830812</literal></binding>
+   <binding name="title"><literal>OLIVI ed altri: Legge quadro per l&#39;artigianato</literal></binding>
+  </result>
+ </results>
+</sparql>

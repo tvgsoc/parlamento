@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>542</literal></binding>
+   <binding name="date"><literal>19631009</literal></binding>
+   <binding name="title"><literal>PRETI e ORLANDI: Disposizioni per la concessione della pensione a particolare categorie di ex ufficiali e sottufficiali delle Forze armate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>755</literal></binding>
+   <binding name="date"><literal>19631114</literal></binding>
+   <binding name="title"><literal>PRETI e VIZZINI: Integrazioni e modifiche alla legge 19 luglio 1962, n. 959, concernente la sistemazione del personale temporaneo nell&#39;Amministrazione finanziaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>367</literal></binding>
+   <binding name="date"><literal>19630810</literal></binding>
+   <binding name="title"><literal>PRETI: Estensione dei benefici di cui all&#39;articolo 31 - secondo comma - della legge 19 luglio 1962, n. 959, al personale assunto per mansioni di custodia della rete dei canali Cavour e retribuito dalle Imprese addette ai lavori di manutenzione dei canali predetti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>753</literal></binding>
+   <binding name="date"><literal>19631112</literal></binding>
+   <binding name="title"><literal>PRETI e VIZZINI: Riapertura dei termini previsti dalla legge 27 dicembre 1953, n. 968, relativa alla concessione di indennizzi e contributi per danni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>583</literal></binding>
+   <binding name="date"><literal>19631012</literal></binding>
+   <binding name="title"><literal>ROMITA ed altri: Istituzione di un fondo per il risarcimento dei danni alle colture agricole dovuti a calamità naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>601</literal></binding>
+   <binding name="date"><literal>19631016</literal></binding>
+   <binding name="title"><literal>SARAGAT ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sul disastro della diga del Vajont</literal></binding>
+  </result>
+ </results>
+</sparql>

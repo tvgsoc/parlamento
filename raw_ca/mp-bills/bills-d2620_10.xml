@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5440</literal></binding>
+   <binding name="date"><literal>19910207</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Linee di indirizzo per una politica per la famiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5867</literal></binding>
+   <binding name="date"><literal>19910720</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Modifiche al testo unico delle leggi recanti norme per le elezione della Camera dei deputati, approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e alla legge 6 febbraio 1948, n. 29, recante norme per la elezione del Senato della Repubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5868</literal></binding>
+   <binding name="date"><literal>19910720</literal></binding>
+   <binding name="title"><literal>FORLANI ed altri: Modifica degli articoli 88, 92, 93, 94 e 95 e introduzione degli articoli 70-bis e 77-bis della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3482</literal></binding>
+   <binding name="date"><literal>19881221</literal></binding>
+   <binding name="title"><literal>MERLONI ed altri: Potenziamento della rete stradale e autostradale adriatica nelle regioni Marche e Abruzzo (corridoio adriatico)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3692</literal></binding>
+   <binding name="date"><literal>19890306</literal></binding>
+   <binding name="title"><literal>MERLONI ed altri: Istituzione nell&#39;ambito della soprintendenza archeologica di Ancona del Centro operativo di Pergola con annesso Antiquarium</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4662</literal></binding>
+   <binding name="date"><literal>19900314</literal></binding>
+   <binding name="title"><literal>ERMELLI CUPELLI ed altri: Disposizioni per il recupero e la valorizzazione del patrimonio storico, artistico ed ambientale di Urbino, nonché dei territori dei comuni dell&#39;area culturale del ducato di Montefeltro e della Rovere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5672</literal></binding>
+   <binding name="date"><literal>19910515</literal></binding>
+   <binding name="title"><literal>STEFANINI ed altri: Celebrazioni del II Centenario della nascita di Gioacchino Rossini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>140</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Concessione di un contributo straordinario per il progetto &quot;Leopardi nel mondo&quot; dal 150° anniversario della morte al secondo centenario della nascita (1987-1998)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1916</literal></binding>
+   <binding name="date"><literal>19871119</literal></binding>
+   <binding name="title"><literal>MATULLI ed altri: Misure per la salvaguardia di Firenze e la sistemazione del sistema imbrifero del fiume Arno</literal></binding>
+  </result>
+ </results>
+</sparql>

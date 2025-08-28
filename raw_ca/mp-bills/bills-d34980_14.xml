@@ -1,0 +1,436 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3914</literal></binding>
+   <binding name="date"><literal>20030428</literal></binding>
+   <binding name="title"><literal>AGOSTINI ed altri: &quot;Disposizioni in materia di estensione delle tutele contro i licenziamenti ingiustificati&quot; (3914)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4051</literal></binding>
+   <binding name="date"><literal>20030611</literal></binding>
+   <binding name="title"><literal>AGOSTINI ed altri: &quot;Disposizioni in materia di convenzioni della CONSIP Spa&quot; (4051)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4322</literal></binding>
+   <binding name="date"><literal>20031001</literal></binding>
+   <binding name="title"><literal>AGOSTINI ed altri: &quot;Nuova disciplina della Cassa depositi e prestiti&quot; (4322)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4884</literal></binding>
+   <binding name="date"><literal>20040419</literal></binding>
+   <binding name="title"><literal>AGOSTINI ed altri: &quot;Modifica all&#39;articolo 3 del decreto-legge 2 marzo 1989, n. 69, convertito, con modificazioni, dalla legge 27 aprile 1989, n. 154, recante misure per il recupero del drenaggio fiscale&quot; (4884)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4885</literal></binding>
+   <binding name="date"><literal>20040419</literal></binding>
+   <binding name="title"><literal>AGOSTINI ed altri: &quot;Misure per l&#39;adeguamento degli stipendi e delle pensioni&quot; (4885)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5064</literal></binding>
+   <binding name="date"><literal>20040617</literal></binding>
+   <binding name="title"><literal>AGOSTINI ed altri: &quot;Disciplina delle obbligazioni bancarie garantite e incentivi alla sottoscrizione di mutui ipotecari&quot; (5064)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5940</literal></binding>
+   <binding name="date"><literal>20050627</literal></binding>
+   <binding name="title"><literal>AGOSTINI ed altri: &quot;Riforma delle professioni intellettuali&quot; (5940)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5941</literal></binding>
+   <binding name="date"><literal>20050627</literal></binding>
+   <binding name="title"><literal>AGOSTINI ed altri: &quot;Disposizioni per migliorare la sicurezza della rete autostradale e la qualità del servizio&quot; (5941)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2821</literal></binding>
+   <binding name="date"><literal>20020605</literal></binding>
+   <binding name="title"><literal>AGOSTINI ed altri: &quot;Delega al Governo per l&amp;#8217;emanazione di disposizioni a tutela degli acquirenti della prima casa in caso di insolvenza del venditore&quot; (2821)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1102</literal></binding>
+   <binding name="date"><literal>20010703</literal></binding>
+   <binding name="title"><literal>LABATE ed altri: &quot;Istituzione dell&amp;#8217;Agenzia italiana della proprietà industriale&quot; (1102)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1302</literal></binding>
+   <binding name="date"><literal>20010712</literal></binding>
+   <binding name="title"><literal>KESSLER ed altri: &quot;Modifiche al codice penale in materia di prescrizione del reato&quot; (1302)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1942</literal></binding>
+   <binding name="date"><literal>20011114</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Disposizioni in materia di cooperative e consorzi di garanzia collettiva e di società di mutua garanzia&quot; (1942)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1944</literal></binding>
+   <binding name="date"><literal>20011114</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Disposizioni in materia di prestiti, finanziamenti e mutui e di tasso effettivo globale&quot; (1944)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1945</literal></binding>
+   <binding name="date"><literal>20011114</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Riforma delle società fiduciarie&quot; (1945)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1946</literal></binding>
+   <binding name="date"><literal>20011114</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Assegnazione di un contributo alla provincia di Enna per la tutela del lago di Pergusa&quot; (1946)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1959</literal></binding>
+   <binding name="date"><literal>20011115</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Disposizioni in materia di cambiali finanziarie&quot; (1959)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2436-4543-4551-4586-4622-4639-4705-4746-4747-4785-4971-5179-ter-5294-B</literal></binding>
+   <binding name="date"><literal>20051013</literal></binding>
+   <binding name="title"><literal>S. 3328. - ARMANI ed altri; BENVENUTO ed altri: LETTIERI e BENVENUTO; LA MALFA ed altri; DILIBERTO ed altri; FASSINO ed altri; DISEGNO DI LEGGE D&#39;INIZIATIVA DEL GOVERNO; ANTONIO PEPE ed altri; LETTA ed altri; LETTIERI ed altri; COSSA ed altri; DISEGNO DI LEGGE D&#39;INIZIATIVA DEL GOVERNO; GRANDI ed altri: &quot;Disposizioni per la tutela del risparmio e la disciplina dei mercati finanziari&quot; (approvato, in un testo unificato, dalla Camera e modificato dal Senato) (2436-4543-4551-4586-4622-4639-4705-4746-4747-4785-4971-5179-ter-5294-B).</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2714</literal></binding>
+   <binding name="date"><literal>20020508</literal></binding>
+   <binding name="title"><literal>ZANOTTI ed altri: &quot;Modifiche al testo unico sulle tossicodipendenze, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, in materia di utilizzo a fini terapeutici dei farmaci contenenti derivati naturali e sintetici della pianta &amp;#8216;cannabis indica&amp;#8217;&quot; (2714)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2755</literal></binding>
+   <binding name="date"><literal>20020516</literal></binding>
+   <binding name="title"><literal>GRILLINI ed altri: &quot;Norme contro le discriminazioni motivate dall&amp;#8217;orientamento sessuale&quot; (2755)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2863</literal></binding>
+   <binding name="date"><literal>20020617</literal></binding>
+   <binding name="title"><literal>GRILLINI ed altri: &quot;Disposizioni per la prevenzione dell&amp;#8217;AIDS e delle malattie a trasmissione sessuale&quot; (2863)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3133</literal></binding>
+   <binding name="date"><literal>20020916</literal></binding>
+   <binding name="title"><literal>FASSINO ed altri: &quot;Carta dei diritti delle lavoratrici e dei lavoratori&quot; (3133)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3134</literal></binding>
+   <binding name="date"><literal>20020916</literal></binding>
+   <binding name="title"><literal>RUTELLI ed altri: &quot;Diritti di sicurezza sociale in materia di tutela del lavoro e del reddito&quot; (3134)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3261</literal></binding>
+   <binding name="date"><literal>20021011</literal></binding>
+   <binding name="title"><literal>CENNAMO ed altri: &quot;Disposizioni in materia di riorganizzazione delle attività informatiche del Ministero dell&#39;economia e delle finanze&quot; (3261)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3262</literal></binding>
+   <binding name="date"><literal>20021011</literal></binding>
+   <binding name="title"><literal>CENNAMO ed altri: &quot;Disposizioni in materia di funzioni della Commissione parlamentare di vigilanza sull&#39;anagrafe tributaria&quot; (3262)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3619</literal></binding>
+   <binding name="date"><literal>20030204</literal></binding>
+   <binding name="title"><literal>TURCO ed altri: &quot;Istituzione del reddito minimo di inserimento&quot; (3619)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3712</literal></binding>
+   <binding name="date"><literal>20030226</literal></binding>
+   <binding name="title"><literal>VIGNI ed altri: &quot;Disposizioni per il recupero del patrimonio edilizio ed urbanistico&quot; (3712)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3783</literal></binding>
+   <binding name="date"><literal>20030317</literal></binding>
+   <binding name="title"><literal>CRISCI ed altri: &quot;Istituzione del marchio etico per il riconoscimento delle imprese socialmente responsabili&quot; (3783)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3912</literal></binding>
+   <binding name="date"><literal>20030428</literal></binding>
+   <binding name="title"><literal>INNOCENTI ed altri: &quot;Disposizioni in materia di tutela dei diritti nelle prestazioni di lavoro continuative&quot; (3912)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3913</literal></binding>
+   <binding name="date"><literal>20030428</literal></binding>
+   <binding name="title"><literal>GASPERONI ed altri: &quot;Disposizioni in materia di salvaguardia dell&#39;occupazione e della qualità del lavoro, nonché di tutela dei redditi dei lavoratori&quot; (3913)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3915</literal></binding>
+   <binding name="date"><literal>20030428</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: &quot;Disposizioni in materia di definizione delle controversie attinenti ai licenziamenti e ai trasferimenti&quot; (3915)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3938</literal></binding>
+   <binding name="date"><literal>20030506</literal></binding>
+   <binding name="title"><literal>FASSINO ed altri: &quot;Istituzione della Giornata della memoria dell&#39;esodo dall&#39;Istria, da Fiume e dalle coste dalmate&quot; (3938)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3997</literal></binding>
+   <binding name="date"><literal>20030526</literal></binding>
+   <binding name="title"><literal>TOCCI ed altri: &quot;Misure di garanzia per i conduttori di immobili appartenenti al patrimonio pubblico soggetti a processi di dismissione&quot; (3997)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4202</literal></binding>
+   <binding name="date"><literal>20030728</literal></binding>
+   <binding name="title"><literal>SANDI ed altri: &quot;Istituzione del Fondo a favore delle collettività montane&quot; (4202)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4311</literal></binding>
+   <binding name="date"><literal>20030929</literal></binding>
+   <binding name="title"><literal>CRUCIANELLI ed altri: &quot;Disciplina della cooperazione allo sviluppo equo e sostenibile&quot; (4311)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4528</literal></binding>
+   <binding name="date"><literal>20031202</literal></binding>
+   <binding name="title"><literal>ZANOTTI ed altri: &quot;Modifica all&amp;#8217;articolo 17 del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, in materia di riconoscimento agli stranieri del diritto di elettorato attivo e passivo per le elezioni degli organi di decentramento comunale&quot; (4528)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4661</literal></binding>
+   <binding name="date"><literal>20040203</literal></binding>
+   <binding name="title"><literal>LABATE ed altri: &quot;Istituzione della festività nazionale del 12 ottobre, data della scoperta del continente americano&quot; (4661)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4666</literal></binding>
+   <binding name="date"><literal>20040204</literal></binding>
+   <binding name="title"><literal>FOLENA ed altri: &quot;Modifiche alla legge 24 gennaio 1979, n. 18, in materia di incompatibilità e ineleggibilità dei rappresentanti italiani al Parlamento europeo&quot; (4666)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4742</literal></binding>
+   <binding name="date"><literal>20040225</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri: &quot;Azioni positive per la realizzazione dell&#39;integrazione delle donne disabili nel mondo del lavoro&quot; (4742)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4752</literal></binding>
+   <binding name="date"><literal>20040226</literal></binding>
+   <binding name="title"><literal>VIGNI ed altri: &quot;Delega al Governo per la riforma fiscale ecologica e per interventi in materia di promozione dello sviluppo sostenibile e di modernizzazione ambientale dell&#39;economia&quot; (4752)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4886</literal></binding>
+   <binding name="date"><literal>20040419</literal></binding>
+   <binding name="title"><literal>GASPERONI ed altri: &quot;Modifiche all&#39;articolo 38 della legge 28 dicembre 2001, n. 448, concernenti l&#39;estensione dei beneficiari della maggiorazione pensionistica ivi prevista&quot; (4886)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4953</literal></binding>
+   <binding name="date"><literal>20040503</literal></binding>
+   <binding name="title"><literal>MOTTA ed altri: &quot;Modifiche al decreto-legge 27 gennaio 2004, n. 16, convertito, con modificazioni, dalla legge 27 marzo 2004, n. 77, recanti disposizioni a favore delle piccole e medie imprese coinvolte nella crisi delle grandi imprese in stato di insolvenza&quot; (4953)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4989</literal></binding>
+   <binding name="date"><literal>20040511</literal></binding>
+   <binding name="title"><literal>MONTECCHI ed altri: &quot;Agevolazioni fiscali in favore dei beneficiari e degli obbligati all&#39;assegno di separazione e di divorzio&quot; (4989)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5171</literal></binding>
+   <binding name="date"><literal>20040721</literal></binding>
+   <binding name="title"><literal>FASSINO ed altri: &quot;Delega al Governo per la riforma delle procedure della crisi di impresa&quot; (5171)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5478</literal></binding>
+   <binding name="date"><literal>20041209</literal></binding>
+   <binding name="title"><literal>CENNAMO ed altri: &quot;Modifiche all&#39;articolo 3 del decreto-legge 25 settembre 2001, n. 351, convertito, con modificazioni, dalla legge 23 novembre 2001, n. 410, in materia di prezzo di vendita degli immobili residenziali definiti &#39;di pregiò&quot; (5478)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5528</literal></binding>
+   <binding name="date"><literal>20050117</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Disposizioni a favore dei correntisti bancari in materia di anatocismo&quot; (5528)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5682</literal></binding>
+   <binding name="date"><literal>20050303</literal></binding>
+   <binding name="title"><literal>RUZZANTE ed altri: &quot;Disposizioni in materia di accesso al futuro per le giovani generazioni&quot; (5682)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5683</literal></binding>
+   <binding name="date"><literal>20050303</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE RUZZANTE ed altri: &quot;Modifiche alla Costituzione in materia di limiti di età per l&#39;elettorato attivo e passivo dei giovani&quot; (5683)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5798</literal></binding>
+   <binding name="date"><literal>20050426</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Interventi urgenti per il potenziamento della giustizia tributaria&quot; (5798)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5820</literal></binding>
+   <binding name="date"><literal>20050505</literal></binding>
+   <binding name="title"><literal>VIGNI ed altri: &quot;Modifiche alla legge 11 febbraio 1994, n. 109, in materia di accelerazione e semplificazione degli interventi realizzabili con risorse private&quot; (5820)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5846</literal></binding>
+   <binding name="date"><literal>20050518</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Riordinamento della giustizia tributaria&quot; (5846)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6022</literal></binding>
+   <binding name="date"><literal>20050726</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Disposizioni per la salvaguardia del potere d&#39;acquisto dei trattamenti pensionistici e per l&#39;abolizione del divieto di cumulo tra redditi da lavoro autonomo e pensioni&quot; (6022)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6124</literal></binding>
+   <binding name="date"><literal>20051006</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Agevolazioni in favore degli investitori danneggiati da crack finanziari&quot; (6124)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6214</literal></binding>
+   <binding name="date"><literal>20051212</literal></binding>
+   <binding name="title"><literal>CALZOLAIO ed altri: &quot;Attivazione di un indicatore del prodotto interno lordo in senso ambientale&quot; (6214)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6215</literal></binding>
+   <binding name="date"><literal>20051212</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Interpretazione autentica del comma 3 dell&#39;articolo 33 della legge 23 dicembre 2000, n. 388, in materia di agevolazioni tributarie sui trasferimenti di immobili in aree soggette a piani urbanistici particolareggiati&quot; (6215)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6327</literal></binding>
+   <binding name="date"><literal>20060208</literal></binding>
+   <binding name="title"><literal>TOCCI ed altri: &quot;Istituzione dell&#39;Autorità per la valutazione del sistema delle università e della ricerca&quot; (6327)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6337</literal></binding>
+   <binding name="date"><literal>20060209</literal></binding>
+   <binding name="title"><literal>NICOLA ROSSI ed altri: &quot;Disposizioni in materia di rapporti fra l&#39;amministrazione finanziaria e i contribuenti&quot; (6337)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>970</literal></binding>
+   <binding name="date"><literal>20010627</literal></binding>
+   <binding name="title"><literal>FASSINO ed altri: &quot;Delega al Governo per la riforma delle procedure della crisi di impresa&quot; (970)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1943</literal></binding>
+   <binding name="date"><literal>20011114</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Disposizioni per favorire l&amp;#8217;azionariato diffuso dei lavoratori dipendenti&quot; (1943)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2024</literal></binding>
+   <binding name="date"><literal>20011126</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Determinazione dell&amp;#8217;aliquota dell&amp;#8217;imposta sul valore aggiunto applicabile alle forniture di gas metano per uso domestico&quot; (2024)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2500</literal></binding>
+   <binding name="date"><literal>20020308</literal></binding>
+   <binding name="title"><literal>CENNAMO ed altri: &quot;Istituzione del Consorzio &amp;#8216;La città vesuviana&amp;#8217;&quot; (2500)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3296</literal></binding>
+   <binding name="date"><literal>20021022</literal></binding>
+   <binding name="title"><literal>GRILLINI ed altri: &quot;Disciplina del patto civile di solidarietà e delle unioni di fatto&quot; (3296)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3493</literal></binding>
+   <binding name="date"><literal>20021219</literal></binding>
+   <binding name="title"><literal>VIGNI ed altri: &quot;Disposizioni in materia di raccolta del risparmio per la sostenibilità ambientale attraverso l&#39;istituzione di fondi ecologici&quot; (3493)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3494</literal></binding>
+   <binding name="date"><literal>20021219</literal></binding>
+   <binding name="title"><literal>VIGNI ed altri: &quot;Disposizioni in materia di incentivi per la certificazione di qualità ambientale EMAS e in materia di detassazione dei redditi di impresa destinati agli investimenti ambientali&quot; (3494)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3713</literal></binding>
+   <binding name="date"><literal>20030226</literal></binding>
+   <binding name="title"><literal>LABATE ed altri: &quot;Disposizioni in materia di diritto di accesso ai servizi e alle risorse informatiche pubbliche per i cittadini diversamente abili&quot; (3713)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3847</literal></binding>
+   <binding name="date"><literal>20030402</literal></binding>
+   <binding name="title"><literal>BUFFO ed altri: &quot;Introduzione dell&#39;articolo 30-bis della legge 30 luglio 2002, n. 189, in materia di concessione dell&#39;asilo politico alle donne vittime di violenza&quot; (3847)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3911</literal></binding>
+   <binding name="date"><literal>20030428</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Istituzione di una Commissione parlamentare di vigilanza sulle società &#39;Patrimonio dello Stato Spà e &#39;Infrastrutture Spà&quot; (3911)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4509</literal></binding>
+   <binding name="date"><literal>20031120</literal></binding>
+   <binding name="title"><literal>VIGNI ed altri: &quot;Disposizioni per la tutela dei beni culturali e ambientali inseriti nella &amp;#8216;Lista del patrimonio mondiale&amp;#8217; dell&amp;#8217;UNESCO&quot; (4509)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4639</literal></binding>
+   <binding name="date"><literal>20040128</literal></binding>
+   <binding name="title"><literal>FASSINO ed altri: &quot;Disposizioni per la tutela del risparmio e in materia di vigilanza&quot; (4639)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5224</literal></binding>
+   <binding name="date"><literal>20040803</literal></binding>
+   <binding name="title"><literal>LABATE ed altri: &quot;Nuove norme in materia di informazione e di pubblicità sui medicinali ad uso umano&quot; (5224)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5313</literal></binding>
+   <binding name="date"><literal>20041001</literal></binding>
+   <binding name="title"><literal>BENVENUTO ed altri: &quot;Modifica dell&#39;articolo 13 della legge 27 luglio 2000, n. 212, concernente l&#39;istituto del Garante del contribuente&quot; (5313)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>969</literal></binding>
+   <binding name="date"><literal>20010627</literal></binding>
+   <binding name="title"><literal>FASSINO ed altri: &quot;Delega al Governo per la riforma del diritto societario&quot; (969)</literal></binding>
+  </result>
+ </results>
+</sparql>

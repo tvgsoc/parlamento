@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1879</literal></binding>
+   <binding name="date"><literal>19551117</literal></binding>
+   <binding name="title"><literal>LECCISI ed altri: Durata dei brevetti d&#39;invenzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>144</literal></binding>
+   <binding name="date"><literal>19530922</literal></binding>
+   <binding name="title"><literal>ROBERTI ed altri: Efficacia giuridica del contratto collettivo di lavoro in attuazione dell&#39;articolo 39 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1778</literal></binding>
+   <binding name="date"><literal>19550927</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Estensione del credito alle attività pescherecce del Meridione e delle Isole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2339</literal></binding>
+   <binding name="date"><literal>19560625</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Conferimenti di incarichi e supplenze nelle scuole secondarie ai maestri di ruolo laureati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2850</literal></binding>
+   <binding name="date"><literal>19570409</literal></binding>
+   <binding name="title"><literal>CERVONE ed altri: Sistemazione degli amanuensi giudiziari assunti a norma dell&#39;articolo 99 del decreto-legge 8 maggio 1924, n. 745</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>292</literal></binding>
+   <binding name="date"><literal>19531022</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Norme per la estinzione e l&#39;annullamento di provvedimenti di epurazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3167</literal></binding>
+   <binding name="date"><literal>19570918</literal></binding>
+   <binding name="title"><literal>ANFUSO ed altri: Nuove norme sulla gestione e l&#39;organizzazione della Esposizione biennale internazionale d&#39;arte di Venezia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3582</literal></binding>
+   <binding name="date"><literal>19580221</literal></binding>
+   <binding name="title"><literal>ROBERTI ed altri: Riconoscimento giuridico delle Forze armate della Repubblica Sociale Italiana</literal></binding>
+  </result>
+ </results>
+</sparql>

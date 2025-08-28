@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1095</literal></binding>
+   <binding name="date"><literal>19770202</literal></binding>
+   <binding name="title"><literal>MANCA e SALVATORE: Modifica dell&#39;articolo 2 della legge 6 giugno 1973, n. 306, concernente l&#39;istituzione dell&#39;Istituto sperimentale per il tabacco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>436</literal></binding>
+   <binding name="date"><literal>19760920</literal></binding>
+   <binding name="title"><literal>MANCA: Riapertura dei termini di cui all&#39;articolo 6 della legge 31 marzo 1971, n. 214, recante provvidenze per talune categorie di ex dipendenti del Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1690</literal></binding>
+   <binding name="date"><literal>19770728</literal></binding>
+   <binding name="title"><literal>SERVADEI ed altri: Nuovo ordinamento dell&#39;Ente nazionale italiano per il turismo (ENIT)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1784</literal></binding>
+   <binding name="date"><literal>19771006</literal></binding>
+   <binding name="title"><literal>SALADINO ed altri: Nuove norme sulle caratteristiche dei vini tipici denominati marsala e sul territorio di produzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1882</literal></binding>
+   <binding name="date"><literal>19771123</literal></binding>
+   <binding name="title"><literal>ACCAME ed altri: Riduzione ad otto mesi della ferma di leva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1900</literal></binding>
+   <binding name="date"><literal>19771128</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Costituzione del Comitato nazionale dello sport</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2149</literal></binding>
+   <binding name="date"><literal>19780428</literal></binding>
+   <binding name="title"><literal>DE POI ed altri: Conversione in istituto statale dell&#39;accademia di belle arti &quot;Pietro Vannucci&quot; di Perugia e assunzione del personale insegnante e non insegnante nel ruolo statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>710</literal></binding>
+   <binding name="date"><literal>19761109</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Provvedimenti urgenti per il risanamento della crisi economica e finanziaria degli enti locali e per l&#39;istituzione di tributi locali a favore dei comuni e delle province</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>726</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>PRINCIPE ed altri: Riordinamento dei compiti e delle strutture del Corpo forestale dello Stato e dell&#39;Azienda di Stato per le foreste demaniali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1154</literal></binding>
+   <binding name="date"><literal>19770216</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sulla illiceità di alcune forme di discriminazione basate sul sesso e sullo stato civile e per la promozione della parità di condizioni tra uomini e donne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>26</literal></binding>
+   <binding name="date"><literal>19760705</literal></binding>
+   <binding name="title"><literal>MAGNANI NOYA ed altri: Norme sull&#39;interruzione della gravidanza</literal></binding>
+  </result>
+ </results>
+</sparql>

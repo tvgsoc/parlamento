@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1278</literal></binding>
+   <binding name="date"><literal>19541130</literal></binding>
+   <binding name="title"><literal>TINZL ed altri: Norme per il riconoscimento dei titoli di dentista conseguiti in Austria o in Germania da coloro che riacquistano o hanno riacquistato la cittadinanza italiana ai sensi del decreto legislativo 2 febbraio 1948, n. 23, e per l&#39;abilitazione dei medesimi all&#39;esercizio della odontoiatria e protesi dentaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3512</literal></binding>
+   <binding name="date"><literal>19580204</literal></binding>
+   <binding name="title"><literal>TINZL ed altri: Modifica degli articoli 116 e 131 della Costituzione e Statuto speciale per il Sudtirol - Tirolo del sud</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1754</literal></binding>
+   <binding name="date"><literal>19550729</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione dell&#39;Alto Commissariato per il lavoro all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2161</literal></binding>
+   <binding name="date"><literal>19560328</literal></binding>
+   <binding name="title"><literal>BERLOFFA ed altri: Inclusione delle Casse mutue provinciali di Trento e Bolzano tra gli Enti erogatori dell&#39;assistenza di malattia ai pensionati di invalidità e vecchiaia di cui alla legge 4 agosto 1955, n. 692</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3510</literal></binding>
+   <binding name="date"><literal>19580204</literal></binding>
+   <binding name="title"><literal>EBNER ed altri: Norme per l&#39;uso della lingua tedesca negli uffici giudiziari della provincia di Bolzano e nell&#39;ufficio della Corte d&#39;appello di Trento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>805</literal></binding>
+   <binding name="date"><literal>19540412</literal></binding>
+   <binding name="title"><literal>EBNER ed altri: Ricostruzione della carriera e della pensione agli insegnanti di lingua tedesca</literal></binding>
+  </result>
+ </results>
+</sparql>

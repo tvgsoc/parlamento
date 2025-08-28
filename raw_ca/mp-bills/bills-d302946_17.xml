@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3296</literal></binding>
+   <binding name="date"><literal>20150909</literal></binding>
+   <binding name="title"><literal>ZOGGIA ed altri: &quot;Modifica all&#39;articolo 1 della legge 7 aprile 2014, n. 56, per la semplificazione dell&#39;elezione diretta del sindaco e del consiglio metropolitano&quot; (3296)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4774</literal></binding>
+   <binding name="date"><literal>20171207</literal></binding>
+   <binding name="title"><literal>DI LELLO ed altri: &quot;Modifiche al testo unico delle disposizioni legislative e regolamentari in materia edilizia, di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, e altre disposizioni per contrastare l&#39;abusivismo edilizio&quot; (4774)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3831</literal></binding>
+   <binding name="date"><literal>20160516</literal></binding>
+   <binding name="title"><literal>LA MARCA ed altri: &quot;Istituzione della Giornata nazionale degli italiani nel mondo&quot; (3831)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3471</literal></binding>
+   <binding name="date"><literal>20151203</literal></binding>
+   <binding name="title"><literal>FITZGERALD NISSOLI ed altri: &quot;Modifica all&#39;articolo 17 della legge 5 febbraio 1992, n. 91, in materia di riacquisto della cittadinanza da parte dei soggetti nati in Italia, che l&#39;hanno perduta a seguito di espatrio&quot; (3471)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3901</literal></binding>
+   <binding name="date"><literal>20160614</literal></binding>
+   <binding name="title"><literal>D&#39;INCECCO ed altri: &quot;Modifica all&#39;articolo 15 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di detraibilità delle spese sostenute per l&#39;acquisto di alimenti a fini medici speciali&quot; (3901)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3804</literal></binding>
+   <binding name="date"><literal>20160504</literal></binding>
+   <binding name="title"><literal>DONATI ed altri: &quot;Disposizioni per la promozione, il sostegno e la valorizzazione delle associazioni e delle manifestazioni di rievocazione storica&quot; (3804)</literal></binding>
+  </result>
+ </results>
+</sparql>

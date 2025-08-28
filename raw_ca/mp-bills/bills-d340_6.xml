@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2554</literal></binding>
+   <binding name="date"><literal>19731129</literal></binding>
+   <binding name="title"><literal>ASSANTE ed altri: Risarcimento del danno da circolazione dei veicoli a motore e dei natanti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>579</literal></binding>
+   <binding name="date"><literal>19720728</literal></binding>
+   <binding name="title"><literal>ASSANTE ed altri: Modificazioni e integrazioni alle vigenti disposizioni relative al risarcimento dei danni di guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1497</literal></binding>
+   <binding name="date"><literal>19730119</literal></binding>
+   <binding name="title"><literal>ASSANTE ed altri: Norme per la salvaguardia della libertà e della segretezza delle comunicazioni telefoniche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1155</literal></binding>
+   <binding name="date"><literal>19721116</literal></binding>
+   <binding name="title"><literal>CITTADINI ed altri: Interpretazione autentica dell&#39;articolo 6 della legge 25 febbraio 1963 n. 327 recante sui contratti a miglioria in uso nelle province del Lazio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1156</literal></binding>
+   <binding name="date"><literal>19721116</literal></binding>
+   <binding name="title"><literal>CARUSO ed altri: Modifica del terzo comma dell&#39;articolo 228 del testo unico della legge comunale e provinciale approvato con regio decreto 3 marzo 1934, n. 383, in materia di riconoscimento del servizio prestato dagli impiegati e salariati dei comuni e delle province e loro consorzi presso altre amministrazioni e del servizio non di ruolo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1871</literal></binding>
+   <binding name="date"><literal>19730315</literal></binding>
+   <binding name="title"><literal>BIAMONTE ed altri: Modifiche alla legge 2 aprile 1968, n. 482, sulla disciplina generale delle assunzioni obbligatorie presso le pubbliche amministrazioni e le aziende private</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>246</literal></binding>
+   <binding name="date"><literal>19720612</literal></binding>
+   <binding name="title"><literal>CITTADINI ed altri: Interpretazione autentica dell&#39;articolo 68, secondo comma, della legge 22 ottobre 1971, n. 865, concernente l&#39;edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2528</literal></binding>
+   <binding name="date"><literal>19731123</literal></binding>
+   <binding name="title"><literal>GIANNANTONI ed altri: Istituzione di due nuove università statali nel Lazio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3155</literal></binding>
+   <binding name="date"><literal>19740731</literal></binding>
+   <binding name="title"><literal>BRINI ed altri: Proroga e modifiche della legge 30 luglio 1959, n. 623, e successive modificazioni, per incentivi a sostegno degli investimenti delle piccole e medie industrie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4264</literal></binding>
+   <binding name="date"><literal>19760116</literal></binding>
+   <binding name="title"><literal>BRINI ed altri: Principi generali in materia di artigianato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3024</literal></binding>
+   <binding name="date"><literal>19740606</literal></binding>
+   <binding name="title"><literal>SPAGNOLI ed altri: Riforma del sistema elettorale e della composizione del Consiglio superiore della magistratura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>38</literal></binding>
+   <binding name="date"><literal>19720524</literal></binding>
+   <binding name="title"><literal>BARCA ed altri: Liquidazione degli enti superflui ed anagrafe degli enti che usano pubblico denaro</literal></binding>
+  </result>
+ </results>
+</sparql>

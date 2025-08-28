@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1476</literal></binding>
+   <binding name="date"><literal>19640618</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Disciplina dello sfruttamento delle varietà vegetali ornamentali a riproduzione agamica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2130</literal></binding>
+   <binding name="date"><literal>19650225</literal></binding>
+   <binding name="title"><literal>GAGLIARDI ed altri: Integrazioni e modificazioni della legislazione a favore dei perseguitati politici italiani antifascisti o razziali e dei loro familiari superstiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2175</literal></binding>
+   <binding name="date"><literal>19650312</literal></binding>
+   <binding name="title"><literal>TAGLIAFERRI ed altri: Interpretazione autentica dell&#39;articolo 9 della legge 27 aprile 1962, n. 231 in materia di gestione degli immobili di tipo popolare ed economico ceduti in proprietà con pagamento rateale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2369</literal></binding>
+   <binding name="date"><literal>19650520</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Norme per lo sviluppo dell&#39;economia montana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2425</literal></binding>
+   <binding name="date"><literal>19650603</literal></binding>
+   <binding name="title"><literal>ABATE ed altri: Determinazione della indennità spettante ai membri del Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>245</literal></binding>
+   <binding name="date"><literal>19630719</literal></binding>
+   <binding name="title"><literal>VESTRI ed altri: Nomina in ruolo del personale volontario in servizio temporaneo nel Corpo nazionale dei vigili del fuoco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3826</literal></binding>
+   <binding name="date"><literal>19670223</literal></binding>
+   <binding name="title"><literal>AMASIO ed altri: Risarcimento del danno alle vittime della circolazione dei veicoli a motore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3853</literal></binding>
+   <binding name="date"><literal>19670302</literal></binding>
+   <binding name="title"><literal>BOLDRINI ed altri: Inchiesta parlamentare su attività extra-istituzionali di alcuni organi militari di sicurezza dello Stato</literal></binding>
+  </result>
+ </results>
+</sparql>

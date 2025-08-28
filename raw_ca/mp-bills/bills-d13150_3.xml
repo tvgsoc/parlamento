@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1525</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>ALICATA ed altri: Norme sulla produzione, la diffusione e l&#39;esercizio cinematografico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2126</literal></binding>
+   <binding name="date"><literal>19600408</literal></binding>
+   <binding name="title"><literal>MARANGONE ed altri: Riorganizzazione dell&#39;Ente autonomo &quot;La Biennale di Venezia&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>670</literal></binding>
+   <binding name="date"><literal>19581205</literal></binding>
+   <binding name="title"><literal>ALBARELLO ed altri: Disciplina delle informazioni politiche e legislative alla Radio e alla Televisione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>724</literal></binding>
+   <binding name="date"><literal>19581217</literal></binding>
+   <binding name="title"><literal>MARANGONE ed altri: Norme generali sulla istruzione artistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>906</literal></binding>
+   <binding name="date"><literal>19590303</literal></binding>
+   <binding name="title"><literal>ALBARELLO ed altri: Integrazione della legge 4 aprile 1956, n. 212, per la disciplina della propaganda elettorale a mezzo della radio e della televisione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>24</literal></binding>
+   <binding name="date"><literal>19580618</literal></binding>
+   <binding name="title"><literal>LUZZATTO ed altri: Modificazioni alla legge 8 marzo 1951, n. 122, recante norme per la elezione dei Consigli provinciali</literal></binding>
+  </result>
+ </results>
+</sparql>

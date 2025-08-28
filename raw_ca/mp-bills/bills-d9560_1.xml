@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1948</literal></binding>
+   <binding name="date"><literal>19510419</literal></binding>
+   <binding name="title"><literal>NATALI: Modificazioni e aggiunte al decreto legislativo del Capo provvisorio dello Stato 10 aprile 1947, n. 261, contenente disposizioni per l&#39;alloggio dei rimasti senza tetto in seguito ad eventi bellici e per l&#39;attuazione dei piani di ricostruzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1503</literal></binding>
+   <binding name="date"><literal>19500726</literal></binding>
+   <binding name="title"><literal>TORRETTA ed altri: Norme relative ai concorsi speciali riservati a candidati appartenenti ad alcune categorie di perseguitati politici e razziali, e sistemazione dei vincitori nei ruoli del Ministero della pubblica istruzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2120</literal></binding>
+   <binding name="date"><literal>19510803</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Per la protezione della società scolastica contro la tubercolosi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2204</literal></binding>
+   <binding name="date"><literal>19510928</literal></binding>
+   <binding name="title"><literal>BORIONI ed altri: Riparazione dei danni causati dal terremoto 1° settembre 1951 nei comuni delle provincie di Macerata ed Ascoli Piceno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2240</literal></binding>
+   <binding name="date"><literal>19511017</literal></binding>
+   <binding name="title"><literal>TORRETTA ed altri: Norme relative alla sistemazione, agli effetti del trattamento di quiescenza, dei perseguitati politici e razziali vincitori dei concorsi a cattedre di Istituti di istruzione media e per i posti di direttore di scuole di avviamento professionale, di direttore didattico e di insegnante elementare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2323</literal></binding>
+   <binding name="date"><literal>19511120</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Provvedimenti straordinari a favore dell&#39;Opera Nazionale Maternità e Infanzia per assistere i bambini delle zone alluvionate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2348</literal></binding>
+   <binding name="date"><literal>19511127</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Proroga delle disposizioni concernenti i termini e le modalità di versamento dei contributi unificati  dell&#39;agricoltura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2949</literal></binding>
+   <binding name="date"><literal>19521014</literal></binding>
+   <binding name="title"><literal>MASSOLA ed altri: Riorganizzazione dell&#39;Ente Zolfi Italiani, assistenza ai lavoratori dello zolfo e istituzione dell&#39;Azienda nazionale per le ricerche e miniere zolfifere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3188</literal></binding>
+   <binding name="date"><literal>19530211</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Abolizione dell&#39;imposta di consumo sui vini comuni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>32</literal></binding>
+   <binding name="date"><literal>19480614</literal></binding>
+   <binding name="title"><literal>NOCE LONGO ed altri: Per la tutela della maternità</literal></binding>
+  </result>
+ </results>
+</sparql>

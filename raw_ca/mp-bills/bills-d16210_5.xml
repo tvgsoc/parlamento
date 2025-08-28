@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1557</literal></binding>
+   <binding name="date"><literal>19690603</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Modifica dell&#39;articolo 16 della legge 16 novembre 1962, n. 1622, sul riordinamento dei ruoli degli ufficiali in servizio permanente effettivo dell&#39;esercito</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1575</literal></binding>
+   <binding name="date"><literal>19690611</literal></binding>
+   <binding name="title"><literal>LENOCI ed altri: Estensione della legge 3 aprile 1958, n. 469, ai mutilati e invalidi di guerra ascritti dalla seconda all&#39;ottava categoria che non fruiscono di assistenza malattia da parte di enti mutualistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>223</literal></binding>
+   <binding name="date"><literal>19680719</literal></binding>
+   <binding name="title"><literal>BEMPORAD ed altri: Concessione di un contributo straordinario per il V Congresso internazionale di igiene e medicina preventiva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3977</literal></binding>
+   <binding name="date"><literal>19720127</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Norme modificative della disciplina delle società per azioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>FORTUNA ed altri: Casi di scioglimento del matrimonio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>231</literal></binding>
+   <binding name="date"><literal>19680722</literal></binding>
+   <binding name="title"><literal>NAPOLI ed altri: Estensione dell&#39;assistenza sanitaria e farmaceutica ai congiunti dei caduti, dei dispersi e delle vittime civili di guerra</literal></binding>
+  </result>
+ </results>
+</sparql>

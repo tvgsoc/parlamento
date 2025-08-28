@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4524</literal></binding>
+   <binding name="date"><literal>19671031</literal></binding>
+   <binding name="title"><literal>PIETROBONO e D&#39;ALESSIO: Sgravi fiscali per i contribuenti danneggiati dalla guerra</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4584</literal></binding>
+   <binding name="date"><literal>19671118</literal></binding>
+   <binding name="title"><literal>PIETROBONO e FASOLI: Deroga dell&#39;articolo 12 del decreto legislativo luogotenenziale 21 agosto 1945, n. 518, per la presentazione della proposta di concessione di medaglia d&#39;oro al valor militare al comune di Vallerotonda, in provincia di Frosinone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2229</literal></binding>
+   <binding name="date"><literal>19650401</literal></binding>
+   <binding name="title"><literal>D&#39;ALESSIO ed altri: Disposizioni in materia di contratti stipulati dall&#39;Opera nazionale per i combattenti per il trasferimento dei poderi a coltivatori assegnatari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2262</literal></binding>
+   <binding name="date"><literal>19650409</literal></binding>
+   <binding name="title"><literal>CINCIARI RODANO ed altri: Riscatto dell&#39;anzianità di servizio ai salariati dell&#39;Azienda autonoma dei monopoli di Stato inquadrati in ruolo con la legge 23 marzo 1962 n. 143</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2425</literal></binding>
+   <binding name="date"><literal>19650603</literal></binding>
+   <binding name="title"><literal>ABATE ed altri: Determinazione della indennità spettante ai membri del Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>245</literal></binding>
+   <binding name="date"><literal>19630719</literal></binding>
+   <binding name="title"><literal>VESTRI ed altri: Nomina in ruolo del personale volontario in servizio temporaneo nel Corpo nazionale dei vigili del fuoco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2836</literal></binding>
+   <binding name="date"><literal>19651210</literal></binding>
+   <binding name="title"><literal>DI VITTORIO BERTI ed altri: Norme per agevolare i ricongiungimenti familiari dei lavoratori emigrati all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3550</literal></binding>
+   <binding name="date"><literal>19661110</literal></binding>
+   <binding name="title"><literal>BOLDRINI ed altri: Aumento delle paghe dei militari e graduati di truppa delle forze armate e aumento della paga degli allievi carabinieri, allievi finanzieri, allievi guardie di pubblica sicurezza, allievi agenti di custodia, allievi guardie forestali e allievi vigili del fuoco</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3849</literal></binding>
+   <binding name="date"><literal>19670302</literal></binding>
+   <binding name="title"><literal>AMENDOLA ed altri: Norme per la trasformazione dei rapporti colonici e per lo sviluppo agrario miglioratario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3853</literal></binding>
+   <binding name="date"><literal>19670302</literal></binding>
+   <binding name="title"><literal>BOLDRINI ed altri: Inchiesta parlamentare su attività extra-istituzionali di alcuni organi militari di sicurezza dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4418</literal></binding>
+   <binding name="date"><literal>19671005</literal></binding>
+   <binding name="title"><literal>DE MEO ed altri: Termine per la presentazione delle domande di rinvio del servizio militare per motivi di studio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>823</literal></binding>
+   <binding name="date"><literal>19631213</literal></binding>
+   <binding name="title"><literal>PEZZINO ed altri: Inchiesta parlamentare sull&#39;emigrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>908</literal></binding>
+   <binding name="date"><literal>19640131</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Passaggio in enfiteusi ed affrancazione, a favore dei coltivatori insediati, delle terre condotte con contratti agrari di qualsiasi tipo nel Mezzogiorno, nelle Isole, nel Lazio</literal></binding>
+  </result>
+ </results>
+</sparql>

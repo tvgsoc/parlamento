@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3325</literal></binding>
+   <binding name="date"><literal>19931110</literal></binding>
+   <binding name="title"><literal>CASTELLAZZI: PROPOSTA DI LEGGE COSTITUZIONALE: Introduzione dell&#39;articolo 133 bis della Costituzione e istituzione del Consiglio per la politica monetaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3380</literal></binding>
+   <binding name="date"><literal>19931124</literal></binding>
+   <binding name="title"><literal>CASTELLAZZI ed altri: Tutela del coniuge superstite</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3008</literal></binding>
+   <binding name="date"><literal>19930803</literal></binding>
+   <binding name="title"><literal>MEO ZILIO ed altri: Norme per agevolare il rimpatrio degli italiani residenti all&#39;estero in occasione delle elezioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3041</literal></binding>
+   <binding name="date"><literal>19930805</literal></binding>
+   <binding name="title"><literal>NEGRI ed altri: Modifiche alle disposizioni penali recate dalla normativa in materia elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3087</literal></binding>
+   <binding name="date"><literal>19930907</literal></binding>
+   <binding name="title"><literal>PERABONI ed altri: Nuove norme in materia di cessione di crediti vantati da imprese nei confronti della pubblica amministrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3106</literal></binding>
+   <binding name="date"><literal>19930913</literal></binding>
+   <binding name="title"><literal>MEO ZILIO ed altri: Modifica all&#39;articolo 270 del testo unico per la finanza locale, approvato con regio decreto 14 settembre 1931, n. 1175, in materia di tassa per lo smaltimento dei rifiuti solidi urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3115</literal></binding>
+   <binding name="date"><literal>19930915</literal></binding>
+   <binding name="title"><literal>ASQUINI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche agli articoli 38, 47 e 53 ed introduzione dell&#39;articolo 53 bis della Costituzione, concernenti i diritti dei cittadini in materia fiscale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3116</literal></binding>
+   <binding name="date"><literal>19930915</literal></binding>
+   <binding name="title"><literal>ASQUINI ed altri: Modifica all&#39;articolo 49 della legge costituzionale 31 gennaio 1963, n. 1(statuto speciale della regione Friuli-Venezia Giulia)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3133</literal></binding>
+   <binding name="date"><literal>19930920</literal></binding>
+   <binding name="title"><literal>PIVETTI ed altri: Norme per la tutela delle esigenze abitative dei giovani che intendono contrarre matrimonio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3181</literal></binding>
+   <binding name="date"><literal>19930930</literal></binding>
+   <binding name="title"><literal>BOSSI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifica dell&#39;articolo 104  della Costituzione concernente l&#39;elezione del Consiglio superiore della magistratura</literal></binding>
+  </result>
+ </results>
+</sparql>

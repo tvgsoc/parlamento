@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>710</literal></binding>
+   <binding name="date"><literal>19720807</literal></binding>
+   <binding name="title"><literal>BOFFARDI ed altri: Nuova disciplina ed estensione degli assegni familiari ed aumento delle loro misure</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>362</literal></binding>
+   <binding name="date"><literal>19720630</literal></binding>
+   <binding name="title"><literal>BUFFONE ed altri: Interpretazione autentica dell&#39;articolo 1 della legge 21 marzo 1969, n. 97, concernente la modifica dell&#39;articolo 39 della legge 12 novembre 1955, n. 1137, sull&#39;avanzamento degli ufficiali dell&#39;esercito, della marina e dell&#39;aeronautica</literal></binding>
+  </result>
+ </results>
+</sparql>

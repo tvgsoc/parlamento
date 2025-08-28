@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2175</literal></binding>
+   <binding name="date"><literal>19841018</literal></binding>
+   <binding name="title"><literal>COLOMBO e VITI: Trasferimento del comune di Policoro dal mandamento della pretura di Pisticci al mandamento della pretura di Rotondella</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1339</literal></binding>
+   <binding name="date"><literal>19840222</literal></binding>
+   <binding name="title"><literal>COLOMBO ed altri: Programma d&#39;intervento per il recupero dei rioni &quot;Sassi&quot; di Matera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19840119</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Norme concernenti la prevenzione, cura e riabilitazione delle alcooldipendenze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1463</literal></binding>
+   <binding name="date"><literal>19840320</literal></binding>
+   <binding name="title"><literal>VITI ed altri: Istituzione degli uffici scolastici regionali in Basilicata, Umbria, Trentino-Alto Adige e Molise</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1799</literal></binding>
+   <binding name="date"><literal>19840606</literal></binding>
+   <binding name="title"><literal>COLONI ed altri: Delega al Governo per la riforma dell&#39;Ente autonomo del porto di Trieste e la programmazione marittima e portuale regionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1898</literal></binding>
+   <binding name="date"><literal>19840712</literal></binding>
+   <binding name="title"><literal>MONGIELLO ed altri: Istituzione del terzo centro universitario pugliese a Foggia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3607</literal></binding>
+   <binding name="date"><literal>19860320</literal></binding>
+   <binding name="title"><literal>DE MITA ed altri: Aiuto pubblico, programmi di cooperazione e interventi di emergenza nei paesi in via di sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3318</literal></binding>
+   <binding name="date"><literal>19851128</literal></binding>
+   <binding name="title"><literal>VENTRE ed altri: Proroga dei termini previsti dall&#39;articolo 72 della legge 14 maggio 1981, n. 219, relativi alle agevolazioni per la ricostruzione di immobili nelle zone terremotate</literal></binding>
+  </result>
+ </results>
+</sparql>

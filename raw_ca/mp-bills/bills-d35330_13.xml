@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1498</literal></binding>
+   <binding name="date"><literal>19960613</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Istituzione di una Assemblea costituente per la revisione della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3122</literal></binding>
+   <binding name="date"><literal>19970129</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Ordinamento della Repubblica delle autonomie e introduzione della forma di governo semipresidenziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3414</literal></binding>
+   <binding name="date"><literal>19970313</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: Norme sul Governo dell&#39;istruzione pubblica fondata sulla libertà di educazione e di insegnamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4410</literal></binding>
+   <binding name="date"><literal>19971217</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: Disciplina in materia di conflitto di interessi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4410-B</literal></binding>
+   <binding name="date"><literal>19971217</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: Norme sui conflitti di interesse in incarichi di Governo e parlamentari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4416</literal></binding>
+   <binding name="date"><literal>19971218</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: Nuovo ordinamento dei gradi di istruzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5099</literal></binding>
+   <binding name="date"><literal>19980714</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: Disposizioni urgenti per l&#39;elevamento dell&#39;obbligo di istruzione scolastica o professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6062</literal></binding>
+   <binding name="date"><literal>19990524</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: Abolizione dell&#39;imposta sulle successioni e donazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6807</literal></binding>
+   <binding name="date"><literal>20000224</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: Disposizioni in materia di realizzazione delle infrastrutture e degli insediamenti industriali strategici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6836</literal></binding>
+   <binding name="date"><literal>20000303</literal></binding>
+   <binding name="title"><literal>BERLUSCONI: Norme per il sostegno e lo sviluppo in Italia della &quot;new economy&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6964</literal></binding>
+   <binding name="date"><literal>20000505</literal></binding>
+   <binding name="title"><literal>BERLUSCONI ed altri: Misure fiscali dirette ad agevolare le imprese attive nelle aree del Mezzogiorno d&#39;Italia in cui il tenore di vita è &quot;anormalmente basso&quot; od in cui è strutturata una &quot;grave forma di sottocupazione&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2388</literal></binding>
+   <binding name="date"><literal>19961002</literal></binding>
+   <binding name="title"><literal>CASINI ed altri: Norme per la prevenzione degli infortuni nell&#39;esercizio dello sci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>375</literal></binding>
+   <binding name="date"><literal>19960509</literal></binding>
+   <binding name="title"><literal>BALOCCHI ed altri: Riconoscimento  e disciplina della chiropratica come professione sanitaria primaria</literal></binding>
+  </result>
+ </results>
+</sparql>

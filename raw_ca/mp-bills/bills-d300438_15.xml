@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1888</literal></binding>
+   <binding name="date"><literal>20061109</literal></binding>
+   <binding name="title"><literal>MANTINI ed altri: &quot;Istituzione dell&#39;Ordine delle professioni sanitarie infermieristiche e dell&#39;Ordine della professione sanitaria di ostetrica&quot; (1888)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2876</literal></binding>
+   <binding name="date"><literal>20070709</literal></binding>
+   <binding name="title"><literal>COLASIO ed altri: &quot;Norme generali in materia di promozione delle attività cinematografiche e audiovisive, istituzione del Centro nazionale per il cinema e l&#39;audiovisivo, nonché delega al Governo per la disciplina del Fondo per il finanziamento del cinema e dell&#39;audiovisivo e per l&#39;introduzione di misure di incentivazione e agevolazione fiscale&quot; (2876)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>296</literal></binding>
+   <binding name="date"><literal>20060429</literal></binding>
+   <binding name="title"><literal>QUARTIANI ed altri: &quot;Legge per la montagna&quot; (296)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3106</literal></binding>
+   <binding name="date"><literal>20071003</literal></binding>
+   <binding name="title"><literal>SPERANDIO ed altri: &quot;Istituzione della Giornata nazionale in memoria delle vittime dei disastri industriali&quot; (3106)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>763</literal></binding>
+   <binding name="date"><literal>20060518</literal></binding>
+   <binding name="title"><literal>IANNUZZI ed altri: &quot;Modifiche all&#39;articolo 2 della legge 27 dicembre 2002, n. 289, in materia di agevolazioni fiscali per il recupero e la ristrutturazione del patrimonio edilizio&quot; (763)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1428</literal></binding>
+   <binding name="date"><literal>20060724</literal></binding>
+   <binding name="title"><literal>CAPEZZONE ed altri: &quot;Modifiche alla normativa sullo sportello unico per le imprese e in materia di dichiarazione di inizio attività&quot; (1428)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>15</literal></binding>
+   <binding name="date"><literal>20060628</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Misure per il sostegno e la valorizzazione dei comuni con popolazione pari o inferiore a 5.000 abitanti nonché dei comuni compresi nelle aree protette&quot; (15)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1588</literal></binding>
+   <binding name="date"><literal>20060803</literal></binding>
+   <binding name="title"><literal>NICOLA ROSSI ed altri: &quot;Disposizioni in materia di rapporti tra la pubblica amministrazione e i cittadini&quot; (1588)</literal></binding>
+  </result>
+ </results>
+</sparql>

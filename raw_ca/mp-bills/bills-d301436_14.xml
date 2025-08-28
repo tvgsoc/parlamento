@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6251</literal></binding>
+   <binding name="date"><literal>20051223</literal></binding>
+   <binding name="title"><literal>RAMPELLI ed altri: &quot;Disposizioni per il recupero e la valorizzazione delle città e dei nuclei di fondazione in Italia&quot; (6251)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6262</literal></binding>
+   <binding name="date"><literal>20060116</literal></binding>
+   <binding name="title"><literal>RAMPELLI: &quot;Disposizioni per evitare la dispersione nell&#39;ambiente di prodotti non biodegradabili di uso comune&quot; (6262)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6266</literal></binding>
+   <binding name="date"><literal>20060118</literal></binding>
+   <binding name="title"><literal>RAMPELLI: &quot;Interventi per promuovere la conoscenza della storia e per favorire una migliore qualità del suo insegnamento scolastico&quot; (6266)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6302</literal></binding>
+   <binding name="date"><literal>20060130</literal></binding>
+   <binding name="title"><literal>RAMPELLI: &quot;Istituzione del Parco nazionale dell&#39;Appia Antica&quot; (6302)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6328</literal></binding>
+   <binding name="date"><literal>20060208</literal></binding>
+   <binding name="title"><literal>RAMPELLI: &quot;Disposizioni per la salvaguardia e la valorizzazione dell&#39;architettura tradizionale e per la promozione di un nuovo rinascimento urbano&quot; (6328)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>6329</literal></binding>
+   <binding name="date"><literal>20060208</literal></binding>
+   <binding name="title"><literal>RAMPELLI: &quot;Disposizioni per promuovere la conoscenza della partecipazione italiana alle missioni internazionali di pace&quot; (6329)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2895</literal></binding>
+   <binding name="date"><literal>20020624</literal></binding>
+   <binding name="title"><literal>CATANOSO ed altri: &quot;Disposizioni per il riconoscimento e il sostegno delle comunità giovanili&quot; (2895)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3667</literal></binding>
+   <binding name="date"><literal>20030211</literal></binding>
+   <binding name="title"><literal>BUONTEMPO ed altri: &quot;Istituzione del Garante per l&#39;infanzia e l&#39;adolescenza&quot; (3667)</literal></binding>
+  </result>
+ </results>
+</sparql>

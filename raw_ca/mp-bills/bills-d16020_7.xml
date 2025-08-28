@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2162</literal></binding>
+   <binding name="date"><literal>19780504</literal></binding>
+   <binding name="title"><literal>MARTORELLI ed altri: Ordinamento giudiziario militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2768</literal></binding>
+   <binding name="date"><literal>19790306</literal></binding>
+   <binding name="title"><literal>MARTORELLI ed altri: Nuovo codice penale militare di pace</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1417</literal></binding>
+   <binding name="date"><literal>19770504</literal></binding>
+   <binding name="title"><literal>BARACETTI ed altri: Disposizioni in favore dei militari di leva in caso di invalidità per causa di servizio e, dei loro superstiti, in caso di morte</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1919</literal></binding>
+   <binding name="date"><literal>19771202</literal></binding>
+   <binding name="title"><literal>BOTTARI ed altri: Nuove norme a tutela della libertà sessuale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1993</literal></binding>
+   <binding name="date"><literal>19780112</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Riforma del servizio militare di leva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2786</literal></binding>
+   <binding name="date"><literal>19790315</literal></binding>
+   <binding name="title"><literal>GRAMEGNA ed altri: Proroga degli elenchi anagrafici, miglioramento delle strutture del collocamento e potenziamento degli uffici del lavoro nei bacini di impiego della mano d&#39;opera agricola nel Mezzogiorno d&#39;Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>209</literal></binding>
+   <binding name="date"><literal>19760729</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sulle forniture e commesse di armi, mezzi militari e approvvigionamenti destinati alle forze armate</literal></binding>
+  </result>
+ </results>
+</sparql>

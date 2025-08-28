@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1486</literal></binding>
+   <binding name="date"><literal>19500722</literal></binding>
+   <binding name="title"><literal>DONATINI ed altri: Provvidenze per la fabbriceria di Santa Maria del Fiore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>143</literal></binding>
+   <binding name="date"><literal>19481022</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1693</literal></binding>
+   <binding name="date"><literal>19501205</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Disciplina dell&#39;apprendistato, norme per l&#39;istruzione professionale e creazione dell&#39;Istituto nazionale per l&#39;addestramento professionale dei lavoratori (I.N.A.P.L.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1987</literal></binding>
+   <binding name="date"><literal>19510518</literal></binding>
+   <binding name="title"><literal>GIANNINI ed altri: Per l&#39;industrializzazione del teatro di prosa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>209</literal></binding>
+   <binding name="date"><literal>19481210</literal></binding>
+   <binding name="title"><literal>MONTICELLI ed altri: Autorizzazione della spesa di 60 milioni per danni causati dal terremoto del 3 novembre 1948, nella provincia di Grosseto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2711</literal></binding>
+   <binding name="date"><literal>19520514</literal></binding>
+   <binding name="title"><literal>RIVERA ed altri: Provvedimento per adeguare i valori del reddito agrario delle zone povere e montuose alla capacità reale della loro produttività</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2856</literal></binding>
+   <binding name="date"><literal>19520718</literal></binding>
+   <binding name="title"><literal>LIGUORI ed altri: Modificazioni concernenti l&#39;ordinamento dell&#39;imposta di soggiorno ed il credito alberghiero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2948</literal></binding>
+   <binding name="date"><literal>19521014</literal></binding>
+   <binding name="title"><literal>GIORDANI ed altri: Concessione di una pensione alla signora Vydia Morici, vedova di Giuseppe Donati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>699</literal></binding>
+   <binding name="date"><literal>19490716</literal></binding>
+   <binding name="title"><literal>LUCIFREDI ed altri: Proroga del termine per l&#39;effettuazione delle elezioni dei Consigli regionali e degli organi elettivi delle amministrazioni provinciali</literal></binding>
+  </result>
+ </results>
+</sparql>

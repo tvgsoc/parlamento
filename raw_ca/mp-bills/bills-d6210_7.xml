@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2059</literal></binding>
+   <binding name="date"><literal>19780222</literal></binding>
+   <binding name="title"><literal>ZACCAGNINI ed altri: Istituzione dei Comitati consolari elettivi e dei Comitati d&#39;Ambasciata</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>81</literal></binding>
+   <binding name="date"><literal>19760709</literal></binding>
+   <binding name="title"><literal>PEZZATI ed altri: Autorizzazione di spesa per completare l&#39;attivazione della linea ferroviaria Firenze-Faenza mediante il ripristino e la sistemazione della tratta Firenze-San Piero a Sieve</literal></binding>
+  </result>
+ </results>
+</sparql>

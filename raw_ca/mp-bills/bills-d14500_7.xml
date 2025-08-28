@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>714</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>CHIARANTE ed altri: Principi in materia di formazione professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>820</literal></binding>
+   <binding name="date"><literal>19761124</literal></binding>
+   <binding name="title"><literal>LODOLINI ed altri: Revisione del testo unico delle norme sugli assegni familiari approvato con il decreto del Presidente della Repubblica 30 maggio 1955, n. 797</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>968</literal></binding>
+   <binding name="date"><literal>19761222</literal></binding>
+   <binding name="title"><literal>ZOPPETTI ed altri: Disciplina del rapporto di lavoro e formazione</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2323</literal></binding>
+   <binding name="date"><literal>19511120</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Provvedimenti straordinari a favore dell&#39;Opera Nazionale Maternità e Infanzia per assistere i bambini delle zone alluvionate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3222</literal></binding>
+   <binding name="date"><literal>19530304</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Modifica all&#39;articolo 297 del Codice civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>715</literal></binding>
+   <binding name="date"><literal>19490722</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Analgesia nei parti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2120</literal></binding>
+   <binding name="date"><literal>19510803</literal></binding>
+   <binding name="title"><literal>VIVIANI ed altri: Per la protezione della società scolastica contro la tubercolosi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>32</literal></binding>
+   <binding name="date"><literal>19480614</literal></binding>
+   <binding name="title"><literal>NOCE LONGO ed altri: Per la tutela della maternità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>34</literal></binding>
+   <binding name="date"><literal>19480625</literal></binding>
+   <binding name="title"><literal>MARCHESI ed altri: Nomina di una Commissione di inchiesta parlamentare sulle condizioni delle scuole e degli istituti privati di istruzione media legalmente riconosciuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>406</literal></binding>
+   <binding name="date"><literal>19490311</literal></binding>
+   <binding name="title"><literal>LOZZA ed altri: Modificazione del decreto legislativo luogotenenziale 7 gennaio 1946, n. 1, concernente la ricostituzione delle amministrazioni comunali su basi elettive</literal></binding>
+  </result>
+ </results>
+</sparql>

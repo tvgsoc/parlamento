@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2105</literal></binding>
+   <binding name="date"><literal>19600323</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Provvidenze in dipendenza delle alluvioni e delle frane verificatesi nella Regione toscana dal 10 dicembre 1959 al marzo 1960</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>288</literal></binding>
+   <binding name="date"><literal>19580926</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Assunzione diretta dei pubblici servizi da parte dei comuni e delle province</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2740</literal></binding>
+   <binding name="date"><literal>19610126</literal></binding>
+   <binding name="title"><literal>CAPPUGI ed altri: Provvedimenti a favore dei danneggiati da terremoti nella zona del Mugello</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>98</literal></binding>
+   <binding name="date"><literal>19580716</literal></binding>
+   <binding name="title"><literal>CURTI ed altri: Modificazioni al testo unico delle leggi sulla finanza locale 14 settembre 1931, n. 1175, per l&#39;applicazione dei contributi di miglioria; alla legge 17 agosto 1942, n. 1150, per i piani regolatori particolareggiati e nuove norme per gli indennizzi ai proprietari soggetti ad esproprio per l&#39;attuazione dei piani medesimi</literal></binding>
+  </result>
+ </results>
+</sparql>

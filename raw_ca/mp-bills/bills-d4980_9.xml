@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1685</literal></binding>
+   <binding name="date"><literal>19840515</literal></binding>
+   <binding name="title"><literal>REICHLIN ed altri: Esenzione dalla ritenuta d&#39;imposta sugli interessi bancari corrisposti sui depositi e conti correnti derivati dalle rimesse di italiani emigrati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1836</literal></binding>
+   <binding name="date"><literal>19840626</literal></binding>
+   <binding name="title"><literal>CANNELONGA ed altri: Istituzione dell&#39;università degli studi di Foggia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1980</literal></binding>
+   <binding name="date"><literal>19840731</literal></binding>
+   <binding name="title"><literal>LODI FAUSTINI FUSTINI ed altri: Ristrutturazione dell&#39;Istituto nazionale della previdenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3819</literal></binding>
+   <binding name="date"><literal>19860605</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Indizione di un referendum consultivo sulla produzione di energia elettrica da impianti nucleari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>397</literal></binding>
+   <binding name="date"><literal>19830812</literal></binding>
+   <binding name="title"><literal>LODI FAUSTINI FUSTINI ed altri: Norme per il riordinamento del sistema pensionistico, per il miglioramento di taluni trattamenti di pensione e per la ristrutturazione dell&#39;INPS</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4001</literal></binding>
+   <binding name="date"><literal>19860922</literal></binding>
+   <binding name="title"><literal>VISCO ed altri: Norme volte a razionalizzare l&#39;imposizione sui redditi da capitale, unificare le aliquote di imposta, e disciplinare la tassazione dei guadagni di capitale realizzati sui valori mobiliari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4332</literal></binding>
+   <binding name="date"><literal>19870116</literal></binding>
+   <binding name="title"><literal>MINERVINI ed altri: Delega al Governo per la disciplina dei collegamenti di gruppo fra imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4523</literal></binding>
+   <binding name="date"><literal>19870313</literal></binding>
+   <binding name="title"><literal>VISCO ed altri: Norme volte a razionalizzare l&#39;imposizione sui redditi da capitale, riformare la tassazione sui contratti di borsa su titoli e valori, ridurre le aliquote dell&#39;imposta sostitutiva sulle operazioni di credito, riformare la scala delle aliquote e la struttura delle detrazioni dell&#39;imposta sul reddito delle persone fisiche per il 1987 e per il 1988</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4551</literal></binding>
+   <binding name="date"><literal>19870325</literal></binding>
+   <binding name="title"><literal>VISCO ed altri: Disposizioni in materia di rivalutazioni dei beni di impresa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4567</literal></binding>
+   <binding name="date"><literal>19870327</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Istituzione di una Commissione parlamentare di inchiesta sulle condizioni di lavoro, con riguardo ai problemi della salute e della sicurezza dei lavoratori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1500</literal></binding>
+   <binding name="date"><literal>19840328</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Misure per lo sviluppo economico e sociale del Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2580</literal></binding>
+   <binding name="date"><literal>19850221</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Modifiche al quinto comma dell&#39;articolo 2 della legge 22 dicembre 1984, n. 887, concernenti le detrazioni e gli scaglioni dell&#39;imposta sul reddito delle persone fisiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3059</literal></binding>
+   <binding name="date"><literal>19850718</literal></binding>
+   <binding name="title"><literal>VISCO ed altri: Norme volte a perequare la struttura dell&#39;imposta sul reddito delle persone fisiche, a ridurre l&#39;incidenza delle aliquote, semplificare la gestione amministrativa dell&#39;imposta e razionalizzare l&#39;imposizione sui redditi da capitale</literal></binding>
+  </result>
+ </results>
+</sparql>

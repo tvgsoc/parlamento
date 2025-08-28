@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>828</literal></binding>
+   <binding name="date"><literal>19631214</literal></binding>
+   <binding name="title"><literal>CAROCCI ed altri: Norme per l&#39;attuazione degli articoli 21 e 33 della Costituzione, in garanzia della libertà in materia di spettacoli cinematografici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1787</literal></binding>
+   <binding name="date"><literal>19641029</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Modifiche alla legge 5 marzo 1963, n. 246, concernente istituzione di una imposta sugli incrementi di valore delle aree fabbricabili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2425</literal></binding>
+   <binding name="date"><literal>19650603</literal></binding>
+   <binding name="title"><literal>ABATE ed altri: Determinazione della indennità spettante ai membri del Parlamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2473</literal></binding>
+   <binding name="date"><literal>19650624</literal></binding>
+   <binding name="title"><literal>ALATRI ed altri: Istituzione di cattedre per l&#39;insegnamento della lingua e letteratura russa nelle scuole statali dell&#39;istruzione secondaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2762</literal></binding>
+   <binding name="date"><literal>19651117</literal></binding>
+   <binding name="title"><literal>LEVI ARIAN ed altri: Istituzione di sezioni serali di scuole secondarie statali e norme sui rapporti di lavoro per i lavoratori studenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3726</literal></binding>
+   <binding name="date"><literal>19670119</literal></binding>
+   <binding name="title"><literal>DI BENEDETTO ed altri: Istituzione di una scuola superiore di archeologia nella città di Agrigento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4003</literal></binding>
+   <binding name="date"><literal>19670420</literal></binding>
+   <binding name="title"><literal>MINIO ed altri: Modifica dell&#39;articolo 291 del testo unico per la finanza locale approvato con regio decreto 14 settembre 1931, n. 1175</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4084</literal></binding>
+   <binding name="date"><literal>19670518</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Integrazione del fondo per il concorso statale nel pagamento degli interessi istituito presso la Cassa per il Credito alle imprese artigiane di cui alla legge 25 luglio 1952, n. 949</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4327</literal></binding>
+   <binding name="date"><literal>19670427</literal></binding>
+   <binding name="title"><literal>SCARPA ed altri: Norme relative all&#39;insegnamento della musica nella scuola pubblica, all&#39;ordinamento dei Conservatori ed all&#39;istituzione di corsi universitari di musicologia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1764</literal></binding>
+   <binding name="date"><literal>19641022</literal></binding>
+   <binding name="title"><literal>MINIO ed altri: Provvedimenti a favore dei comuni e delle provincie</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1724</literal></binding>
+   <binding name="date"><literal>19730222</literal></binding>
+   <binding name="title"><literal>DELL&#39;ANDRO: Partecipazione ai concorsi e agli scrutini per la promozione dei magistrati componenti il Consiglio superiore della magistratura e abrogazione dell&#39;articolo 35 della legge 24 marzo 1958, n. 195, dell&#39;articolo 1 della legge 13 luglio 1965, n. 838, e dell&#39;articolo 28 del decreto del Presidente della Repubblica 16 settembre 1958, n. 916</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1704</literal></binding>
+   <binding name="date"><literal>19730221</literal></binding>
+   <binding name="title"><literal>PISICCHIO ed altri: Corresponsione di un compenso forfettario permanente per le ore straordinarie festive e notturne non pagate, riordinamento dell&#39;indennità di istituto e revisione dell&#39;indennità giornaliera di disagiata residenza a favore degli ufficiali, sottufficiali, graduati e militi dell&#39;arma dei carabinieri, della pubblica sicurezza, della guardia di finanza e del Corpo delle guardie di custodia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2003</literal></binding>
+   <binding name="date"><literal>19730411</literal></binding>
+   <binding name="title"><literal>PISICCHIO ed altri: Provvedimenti di legge per la concessione della pensione indiretta ai superstiti di avvocati e procuratori esclusi dalla iscrizione alla Cassa nazionale ai sensi dell&#39;articolo 2 della legge 8 gennaio 1952, n. 6</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2019</literal></binding>
+   <binding name="date"><literal>19730412</literal></binding>
+   <binding name="title"><literal>OLIVI ed altri: Modifica dell&#39;articolo 328 del codice penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2106</literal></binding>
+   <binding name="date"><literal>19730509</literal></binding>
+   <binding name="title"><literal>OLIVI ed altri: Modifiche agli articoli 361, 362, 363, 364 e 365 del codice penale e 2 del codice di procedura penale in tema di omessa denuncia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>379</literal></binding>
+   <binding name="date"><literal>19720705</literal></binding>
+   <binding name="title"><literal>LOSPINOSO SEVERINI ed altri: Disciplina delle controversie individuali di lavoro e delle controversie in materia di previdenza ed assistenza obbligatoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1802</literal></binding>
+   <binding name="date"><literal>19730307</literal></binding>
+   <binding name="title"><literal>PISICCHIO ed altri: Norme concernenti corsi integrativi magistrali e dei licei artistici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19730529</literal></binding>
+   <binding name="title"><literal>BECCIU ed altri: Modifiche al decreto del Presidente della Repubblica 15 dicembre 1959, n. 1229, e successive modificazioni, concernente l&#39;ordinamento degli ufficiali giudiziari</literal></binding>
+  </result>
+ </results>
+</sparql>

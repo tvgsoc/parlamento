@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1013</literal></binding>
+   <binding name="date"><literal>19690206</literal></binding>
+   <binding name="title"><literal>BORGHI e RAMPA: Trattamento assistenziale e previdenziale del personale impiegatizio e salariato del convitto &quot;Vittoria Colonna&quot; in Fano dell&#39;Ente nazionale di assistenza magistrale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1043</literal></binding>
+   <binding name="date"><literal>19690217</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Modifica dell&#39;articolo 17, secondo e terzo comma, della legge 8 marzo 1968, n. 152, concernente materia previdenziale per il personale degli enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1676</literal></binding>
+   <binding name="date"><literal>19690707</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Organizzazione del settore dell&#39;assistenza sociale e interventi per le persone in condizione o situazione di incapacità e, in particolare, per i disadattati psichici, fisici, sensoriali e sociali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>671</literal></binding>
+   <binding name="date"><literal>19681114</literal></binding>
+   <binding name="title"><literal>PICCINELLI ed altri: Modifiche alla legge 3 gennaio 1960, n. 5, concernente la riduzione dell&#39;età pensionabile per i lavoratori delle miniere, cave e torbiere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>778</literal></binding>
+   <binding name="date"><literal>19681218</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Aumento del contributo al programma delle Nazioni Unite per lo sviluppo (UNDP)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>782</literal></binding>
+   <binding name="date"><literal>19681218</literal></binding>
+   <binding name="title"><literal>PICCINELLI ed altri: Modifica alle norme sulla prevenzione e l&#39;assicurazione obbligatoria contro la silicosi e l&#39;asbestosi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>864</literal></binding>
+   <binding name="date"><literal>19690122</literal></binding>
+   <binding name="title"><literal>BORGHI ed altri: Valutazione del servizio non di ruolo degli insegnanti di scuola primaria e secondaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1014</literal></binding>
+   <binding name="date"><literal>19690206</literal></binding>
+   <binding name="title"><literal>BORGHI ed altri: Modifiche alla legge 25 luglio 1966, n. 574, concernente i concorsi magistrali e l&#39;assunzione in ruolo degli insegnanti elementari</literal></binding>
+  </result>
+ </results>
+</sparql>

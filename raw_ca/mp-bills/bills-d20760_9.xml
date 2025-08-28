@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1205</literal></binding>
+   <binding name="date"><literal>19840127</literal></binding>
+   <binding name="title"><literal>AUGELLO ed altri: Modifiche ed integrazioni alla legge 27 luglio 1978, n. 392, concernente la disciplina delle locazioni di immobili urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>213</literal></binding>
+   <binding name="date"><literal>19830719</literal></binding>
+   <binding name="title"><literal>BALESTRACCI ed altri: Modificazioni della legge 17 febbraio 1968, n. 108, recante norme per la elezione dei consigli regionali delle regioni a statuto ordinario</literal></binding>
+  </result>
+ </results>
+</sparql>

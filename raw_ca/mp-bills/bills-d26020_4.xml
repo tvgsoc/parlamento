@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2724</literal></binding>
+   <binding name="date"><literal>19651029</literal></binding>
+   <binding name="title"><literal>GEX ed altri: Liberalizzazione dell&#39;uso delle aree di atterraggio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3016</literal></binding>
+   <binding name="date"><literal>19660316</literal></binding>
+   <binding name="title"><literal>GEX ed altri: Norme integrative della legge 21 novembre 1955, n. 1108, recante disposizioni sulle concessioni di viaggio sulle ferrovie dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>849</literal></binding>
+   <binding name="date"><literal>19631220</literal></binding>
+   <binding name="title"><literal>GEX: Indennità speciale di seconda lingua ai magistrati, ai dipendenti civili dello Stato, compresi quelli delle Amministrazioni con ordinamento autonomo, ed agli appartenenti alle Forze armate ed ai Corpi organizzati militarmente in servizio nella Regione autonoma della Valle d&#39;Aosta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1611</literal></binding>
+   <binding name="date"><literal>19640901</literal></binding>
+   <binding name="title"><literal>SIMONACCI ed altri: Disciplina dell&#39;insegnamento dello sci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1795</literal></binding>
+   <binding name="date"><literal>19641030</literal></binding>
+   <binding name="title"><literal>MITTERDORFER ed altri: Nuove provvidenze a favore dell&#39;economia montana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2255</literal></binding>
+   <binding name="date"><literal>19650409</literal></binding>
+   <binding name="title"><literal>LEVI ARIAN ed altri: Autorizzazione di spesa per la ricostruzione della linea ferroviaria Cuneo-Breil sur Roya-Ventimiglia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2765</literal></binding>
+   <binding name="date"><literal>19651119</literal></binding>
+   <binding name="title"><literal>FUSARO ed altri: Riconoscimento del diploma di insegnamento delle lingue e letterature straniere rilasciato dalla Scuola superiore per interpreti e traduttori</literal></binding>
+  </result>
+ </results>
+</sparql>

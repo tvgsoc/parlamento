@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2370</literal></binding>
+   <binding name="date"><literal>19511130</literal></binding>
+   <binding name="title"><literal>CERABONA ed altri: Norme su la revisione dei  redditi diminuiti in seguito agli eventi naturali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3188</literal></binding>
+   <binding name="date"><literal>19530211</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Abolizione dell&#39;imposta di consumo sui vini comuni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>330</literal></binding>
+   <binding name="date"><literal>19490208</literal></binding>
+   <binding name="title"><literal>MATTEUCCI ed altri: Provvedimenti a favore dei danneggiati dal terremoto del 31 dicembre 1948</literal></binding>
+  </result>
+ </results>
+</sparql>

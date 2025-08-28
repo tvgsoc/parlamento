@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>225</literal></binding>
+   <binding name="date"><literal>19481214</literal></binding>
+   <binding name="title"><literal>MICHELINI ed altri: Revisione del titolo V della parte II della Costituzione, relativo a &quot;Le Regioni, le Provincie, i Comuni&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>602</literal></binding>
+   <binding name="date"><literal>19490609</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Estensione ai profughi dai territori ceduti e dall&#39;estero di alcuni benefici a favore dei reduci, dei combattenti, dei mutilati ed invalidi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>603</literal></binding>
+   <binding name="date"><literal>19490609</literal></binding>
+   <binding name="title"><literal>ALMIRANTE ed altri: Provvidenze in favore dei profughi provenienti dai territori ceduti e dall&#39;estero, in materia di alloggi</literal></binding>
+  </result>
+ </results>
+</sparql>

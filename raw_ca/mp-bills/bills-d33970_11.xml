@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1167</literal></binding>
+   <binding name="date"><literal>19920701</literal></binding>
+   <binding name="title"><literal>CARIGLIA ed altri: Norme per l&#39;esercizio del diritto di voto dei cittadini italiani all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>654</literal></binding>
+   <binding name="date"><literal>19920508</literal></binding>
+   <binding name="title"><literal>CARIGLIA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Modifiche agli articoli 75 e 138 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>655</literal></binding>
+   <binding name="date"><literal>19220508</literal></binding>
+   <binding name="title"><literal>CARIGLIA ed altri: Modifiche agli articoli 64, 92, 93 e 94 e introduzione dell&#39;articolo 94-bis della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>656</literal></binding>
+   <binding name="date"><literal>19920508</literal></binding>
+   <binding name="title"><literal>CARIGLIA ed altri: Norme di attuazione dell&#39;articolo 49 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>657</literal></binding>
+   <binding name="date"><literal>19920508</literal></binding>
+   <binding name="title"><literal>CARIGLIA ed altri: Disciplina dei sondaggi pre-elettorali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>658</literal></binding>
+   <binding name="date"><literal>19920508</literal></binding>
+   <binding name="title"><literal>CARIGLIA ed altri: Disciplina del finanziamento e dell&#39;attività patrimoniale dei partiti politici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>659</literal></binding>
+   <binding name="date"><literal>19920508</literal></binding>
+   <binding name="title"><literal>CARIGLIA ed altri: Modifiche alla legge 7 agosto 1990, n. 241, in materia di garanzia del diritto di informazione dei cittadini</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>660</literal></binding>
+   <binding name="date"><literal>19920508</literal></binding>
+   <binding name="title"><literal>CARIGLIA ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sui finanziamenti ai partiti politici</literal></binding>
+  </result>
+ </results>
+</sparql>

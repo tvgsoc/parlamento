@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>81</literal></binding>
+   <binding name="date"><literal>19680618</literal></binding>
+   <binding name="title"><literal>FERRI ed altri: Delega al Presidente della Repubblica per la concessione di amnistia per i reati commessi in occasione delle agitazioni studentesche e sindacali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2497</literal></binding>
+   <binding name="date"><literal>19700513</literal></binding>
+   <binding name="title"><literal>VESPIGNANI ed altri: Ordinamento delle aziende pubbliche, locali e regionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>217</literal></binding>
+   <binding name="date"><literal>19680718</literal></binding>
+   <binding name="title"><literal>GUERRINI ed altri: Modifiche alla legge 18 marzo 1968, n. 238, e al successivo decreto del Presidente della Repubblica del 27 aprile 1968, n. 488. Aumento e nuovo sistema di calcolo delle pensioni a carico dell&#39;assicurazione generale obbligatoria</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1037</literal></binding>
+   <binding name="date"><literal>19500131</literal></binding>
+   <binding name="title"><literal>COLI: Abrogazione del capoverso dell&#39;articolo 1 della legge 1° dicembre 1949, n. 868, recante norme per le promozioni per merito comparativo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1054</literal></binding>
+   <binding name="date"><literal>19500131</literal></binding>
+   <binding name="title"><literal>COLI e MONTICELLI: Per la determinazione della qualità di piccolo proprietario</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1152</literal></binding>
+   <binding name="date"><literal>19500310</literal></binding>
+   <binding name="title"><literal>COLI: Proroga delle agevolazioni fiscali previste dal decreto legislativo luogotenenziale 7 giugno 1945, n. 322</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1458</literal></binding>
+   <binding name="date"><literal>19500713</literal></binding>
+   <binding name="title"><literal>COLI: Ricostituzione del comune di Sorbolongo, in provincia di Pesaro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2022</literal></binding>
+   <binding name="date"><literal>19510613</literal></binding>
+   <binding name="title"><literal>COLI: Per favorire l&#39;occupazione di manodopera nel miglioramento della rete stradale nazionale e provinciale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2775</literal></binding>
+   <binding name="date"><literal>19520616</literal></binding>
+   <binding name="title"><literal>COLI e CAPALOZZA: Concessione di una sanatoria sulle domande di contributo statale ai sensi della legge 25 giugno 1949, n. 409, e del decreto-legge 10 aprile 1947, n. 261, per le riparazioni e ricostruzioni edilizie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>766</literal></binding>
+   <binding name="date"><literal>19490920</literal></binding>
+   <binding name="title"><literal>COLI: Norme per la rivalutazione delle rendite vitalizie in denaro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>93</literal></binding>
+   <binding name="date"><literal>19480913</literal></binding>
+   <binding name="title"><literal>COLI: Provvedimenti per incrementare la ripresa edilizia da parte di privati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1053</literal></binding>
+   <binding name="date"><literal>19500131</literal></binding>
+   <binding name="title"><literal>CAPALOZZA e COLI: Sospensione dell&#39;applicabilità dell&#39;articolo 30, secondo comma, della legge 29 dicembre 1949, n. 958</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1304</literal></binding>
+   <binding name="date"><literal>19500527</literal></binding>
+   <binding name="title"><literal>TOZZI CONDIVI ed altri: Autorizzazione alla spesa di 800 milioni per la concessione di sussidi per la riparazione dei danni causati dal terremoto del 3 ottobre 1943 nei comuni delle provincie di Ascoli Piceno, Macerata e Teramo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1405</literal></binding>
+   <binding name="date"><literal>19500628</literal></binding>
+   <binding name="title"><literal>CONCETTI ed altri: Norme per l&#39;applicazione della tregua mezzadrile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>143</literal></binding>
+   <binding name="date"><literal>19481022</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+ </results>
+</sparql>

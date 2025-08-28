@@ -1,0 +1,53 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>143</literal></binding>
+   <binding name="date"><literal>19530922</literal></binding>
+   <binding name="title"><literal>TOZZI CONDIVI ed altri: Applicazione in favore dell&#39;Associazione italiana della Croce Rossa di un contributo sui premi di alcune assicurazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>201</literal></binding>
+   <binding name="date"><literal>19531001</literal></binding>
+   <binding name="title"><literal>VIGORELLI ed altri: Istituzione di una Commissione interparlamentare per il completamento delle indagini e l&#39;attuazione delle proposte suggerite dalla &quot;Commissione parlamentare d&#39;inchiesta sulla miseria in Italia e sui mezzi per combatterla&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>233</literal></binding>
+   <binding name="date"><literal>19531007</literal></binding>
+   <binding name="title"><literal>SAMPIETRO ed altri: Norme di riforma dei contratti agrari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>29</literal></binding>
+   <binding name="date"><literal>19530725</literal></binding>
+   <binding name="title"><literal>VIOLA DI CÀ TASSON ed altri: Estensione di benefici di natura combattentistica a favore del personale dipendente dagli Istituti e dagli Enti di diritto pubblico soggetti a vigilanza o a controllo dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>32</literal></binding>
+   <binding name="date"><literal>19530725</literal></binding>
+   <binding name="title"><literal>VIOLA DI CÀ TASSON ed altri: Proroga del termine fissato dall&#39;articolo 118 legge 10 agosto 1950, n. 648, per la presentazione delle domande per ottenere la pensione di guerra
+</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>421</literal></binding>
+   <binding name="date"><literal>19531127</literal></binding>
+   <binding name="title"><literal>PRETI ed altri: Abrogazione dell&#39;articolo 553 del Codice penale relativo alla propaganda antiprocreativa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>169</literal></binding>
+   <binding name="date"><literal>19530924</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Norme integrative sulla istituzione dei ruoli speciali transitori nelle Amministrazioni dello Stato</literal></binding>
+  </result>
+ </results>
+</sparql>

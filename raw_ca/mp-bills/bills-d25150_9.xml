@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3683</literal></binding>
+   <binding name="date"><literal>19860416</literal></binding>
+   <binding name="title"><literal>MANCINI ed altri: Estensione agli effetti da minorazioni di natura psichica della legge 2 aprile 1968, n. 482, concernente le assunzioni obbligatorie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3995</literal></binding>
+   <binding name="date"><literal>19860916</literal></binding>
+   <binding name="title"><literal>BATTAGLIA ed altri: Modifica della legge costituzionale 9 febbraio 1948, n. 1, concernente la legittimazione della Corte dei conti a sollevare la questione di illegittimità costituzionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4219</literal></binding>
+   <binding name="date"><literal>19861202</literal></binding>
+   <binding name="title"><literal>POGGIOLINI ed altri: Norme per il recepimento della direttiva n. 86/457/CEE relativa alla formazione specifica in medicina generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4324</literal></binding>
+   <binding name="date"><literal>19870114</literal></binding>
+   <binding name="title"><literal>POGGIOLINI ed altri: Riconoscimento dell&#39;Ente nazionale per l&#39;assistenza magistrale (ENAM) e dell&#39;Ente nazionale per l&#39;assistenza agli orfani dei sanitari italiani (ONAOSI) quali enti pubblici previdenziali a carattere nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4430</literal></binding>
+   <binding name="date"><literal>19870210</literal></binding>
+   <binding name="title"><literal>BATTAGLIA ed altri: Nuove norme per le nomine negli istituti di credito di diritto pubblico, negli enti finanziari di natura pubblica, nelle casse di risparmio e nelle camere di commercio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4612</literal></binding>
+   <binding name="date"><literal>19870413</literal></binding>
+   <binding name="title"><literal>BORRI ed altri: Tutela della denominazione di origine &quot;prosciutto di Parma&quot;</literal></binding>
+  </result>
+ </results>
+</sparql>

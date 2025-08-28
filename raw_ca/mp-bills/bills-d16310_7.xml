@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2801</literal></binding>
+   <binding name="date"><literal>19790322</literal></binding>
+   <binding name="title"><literal>BRUSCA ed altri: Istituzione delle scuole di medicina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>449</literal></binding>
+   <binding name="date"><literal>19760923</literal></binding>
+   <binding name="title"><literal>DI GIULIO ed altri: Istituzione di una Commissione parlamentare di inchiesta sulla ricostruzione e la ripresa socio-economica della Valle del Belice, colpita dai terremoti del gennaio 1968</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1390</literal></binding>
+   <binding name="date"><literal>19770421</literal></binding>
+   <binding name="title"><literal>LOMBARDO ed altri: Determinazione della misura del contributo a favore della Regione siciliana a norma dell&#39;articolo 38 dello Statuto e concessione del contributo per il quinquennio 1977-1981</literal></binding>
+  </result>
+ </results>
+</sparql>

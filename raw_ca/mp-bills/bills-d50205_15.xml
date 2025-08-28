@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1396</literal></binding>
+   <binding name="date"><literal>20060718</literal></binding>
+   <binding name="title"><literal>FASSINO ed altri: &quot;Diritto delle bambine e dei bambini all&#39;educazione e all&#39;istruzione dalla nascita fino a sei anni&quot; (1396)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2890</literal></binding>
+   <binding name="date"><literal>20070712</literal></binding>
+   <binding name="title"><literal>FILIPPESCHI ed altri: &quot;Norme sulla democrazia interna, sulla selezione delle candidature e sul finanziamento dei partiti politici&quot; (2890)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>33</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>GRILLINI ed altri: &quot;Disciplina del patto civile di solidarietà&quot; (33)</literal></binding>
+  </result>
+ </results>
+</sparql>

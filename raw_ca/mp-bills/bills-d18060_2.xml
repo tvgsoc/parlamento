@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>258</literal></binding>
+   <binding name="date"><literal>19531014</literal></binding>
+   <binding name="title"><literal>BRUSASCA: Sostituzione del secondo comma dell&#39;articolo 11 della legge 29 aprile 1953, n. 430, concernente la soppressione del Ministero dell&#39;Africa italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3459</literal></binding>
+   <binding name="date"><literal>19580124</literal></binding>
+   <binding name="title"><literal>BRUSASCA: Modifica delle tabelle A e B allegate alla legge 12 agosto 1957, n. 757, concernente l&#39;imposta generale sull&#39;entrata una tantum sui prodotti tessili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1130</literal></binding>
+   <binding name="date"><literal>19540804</literal></binding>
+   <binding name="title"><literal>DIECIDUE ed altri: Provvidenze a favore dell&#39;Opera di Santa Croce in Firenze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1552</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>SAVIO ed altri: Provvedimenti a favore della scuola elementare in montagna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1657</literal></binding>
+   <binding name="date"><literal>19550613</literal></binding>
+   <binding name="title"><literal>BUBBIO ed altri: Costituzione e funzionamento del Consorzio intercomunale per l&#39;Acquedotto delle Langhe in provincia di Cuneo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>215</literal></binding>
+   <binding name="date"><literal>19531002</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Estensione dell&#39;assistenza malattia ai coltivatori diretti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3281</literal></binding>
+   <binding name="date"><literal>19571112</literal></binding>
+   <binding name="title"><literal>QUARELLO ed altri: Costituzione di mutue regionali od interprovinciali per l&#39;assicurazione contro i danni della grandine</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>759</literal></binding>
+   <binding name="date"><literal>19540402</literal></binding>
+   <binding name="title"><literal>GORINI ed altri: Norme integrative per la bonifica delle Valli di Comacchio e degli altri territori vallivi del Delta Padano</literal></binding>
+  </result>
+ </results>
+</sparql>

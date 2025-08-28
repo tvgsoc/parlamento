@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1637</literal></binding>
+   <binding name="date"><literal>19730206</literal></binding>
+   <binding name="title"><literal>BERNARDI ed altri: Istituzione del ruolo degli operatori economici del turismo e regolamentazione della loro attività</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2440</literal></binding>
+   <binding name="date"><literal>19731026</literal></binding>
+   <binding name="title"><literal>LETTIERI ed altri: Adeguamento dell&#39;indennità per servizio di istituto a favore dei sottufficiali, delle guardie scelte e delle guardie del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2753</literal></binding>
+   <binding name="date"><literal>19740214</literal></binding>
+   <binding name="title"><literal>TESINI ed altri: Norme per il riconoscimento giuridico delle associazioni sportive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2992</literal></binding>
+   <binding name="date"><literal>19740530</literal></binding>
+   <binding name="title"><literal>DE LEONARDIS ed altri: Concessione di un contributo straordinario per l&#39;organizzazione in Milano del XII Congresso della Società internazionale per lo studio delle sostanze grasse</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3570</literal></binding>
+   <binding name="date"><literal>19750307</literal></binding>
+   <binding name="title"><literal>CODACCI PISANELLI ed altri: Interpretazione autentica dell&#39;articolo 2 del decreto legislativo 6 aprile 1948, n. 521, riguardante il risarcimento per la perdita di beni in Tunisia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4033</literal></binding>
+   <binding name="date"><literal>19751002</literal></binding>
+   <binding name="title"><literal>BORTOLANI ed altri: Incentivazione dell&#39;associazionismo dei produttori agricoli nel settore del riso e modifica dell&#39;Ente nazionale risi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>107</literal></binding>
+   <binding name="date"><literal>19740125</literal></binding>
+   <binding name="title"><literal>ANSELMI ed altri: Nuova disciplina degli assegni familiari</literal></binding>
+  </result>
+ </results>
+</sparql>

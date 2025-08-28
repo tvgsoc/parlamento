@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>103</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>REICHLIN ed altri: Riforma del sistema previdenziale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2033</literal></binding>
+   <binding name="date"><literal>19921216</literal></binding>
+   <binding name="title"><literal>REICHLIN ed altri: Nuove norme in materia di concessioni demaniali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2017</literal></binding>
+   <binding name="date"><literal>19921211</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Abolizione dell&#39;intervento straordinario nel Mezzogiorno e nuove misure per l&#39;industrializzazione e per garantire livelli adeguati di servizi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2746</literal></binding>
+   <binding name="date"><literal>19930608</literal></binding>
+   <binding name="title"><literal>CAMPATELLI ed altri: Norme sulla compensazione di crediti vantati da imprese nei confronti dell&#39;Ente partecipazioni e finanziamento industria manifatturiera (EFIM) e delle società partecipate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2754</literal></binding>
+   <binding name="date"><literal>19930608</literal></binding>
+   <binding name="title"><literal>CAMPATELLI ed altri: Norme in materia di accordi mutualistici contrattuali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2863</literal></binding>
+   <binding name="date"><literal>19930701</literal></binding>
+   <binding name="title"><literal>SOLAROLI ed altri: Aumento della detrazione ICI per l&#39;abitazione principale e istituzione di un fondo sociale per gli inquilini meno abbienti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3153</literal></binding>
+   <binding name="date"><literal>19930923</literal></binding>
+   <binding name="title"><literal>SOLAROLI ed altri: Norme per il risanamento della spesa sanitaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3265</literal></binding>
+   <binding name="date"><literal>19931020</literal></binding>
+   <binding name="title"><literal>SOLAROLI ed altri: Norme sull&#39;estinzione dei crediti di imposta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3507</literal></binding>
+   <binding name="date"><literal>19931216</literal></binding>
+   <binding name="title"><literal>SORIERO ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sulla distrubuzione territoriale della spesa pubblica</literal></binding>
+  </result>
+ </results>
+</sparql>

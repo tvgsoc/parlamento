@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2910</literal></binding>
+   <binding name="date"><literal>19701214</literal></binding>
+   <binding name="title"><literal>GUI ed altri: Intervento dello Stato per il restauro della cinta murata della città di Montagnana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3695</literal></binding>
+   <binding name="date"><literal>19711015</literal></binding>
+   <binding name="title"><literal>GUI ed altri: Concessione di un contributo annuo all&#39;Ente nazionale Francesco Petrarca in Padova</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2615</literal></binding>
+   <binding name="date"><literal>19700624</literal></binding>
+   <binding name="title"><literal>GUI ed altri: Proroga del contributo di lire 30 milioni alla Società europea di cultura</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2508</literal></binding>
+   <binding name="date"><literal>19700515</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Modifiche al decreto legislativo del Capo provvisorio dello Stato 13 settembre 1946, n. 233, concernente la disciplina dell&#39;esercizio delle professioni sanitarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2570</literal></binding>
+   <binding name="date"><literal>19700610</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Modifica ed integrazione dell&#39;articolo 45 del regio decreto 29 luglio 1927, n. 1443, in materia di coltivazione di cave</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2622</literal></binding>
+   <binding name="date"><literal>19700625</literal></binding>
+   <binding name="title"><literal>BIANCHI ed altri: Collocamento del personale straordinario del Ministero del tesoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2954</literal></binding>
+   <binding name="date"><literal>19710104</literal></binding>
+   <binding name="title"><literal>ROMANATO ed altri: Norme per la tutela delle bellezze naturali e ambientali e per le attività estrattive nel territorio dei Colli Euganei</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3055</literal></binding>
+   <binding name="date"><literal>19710209</literal></binding>
+   <binding name="title"><literal>SCARASCIA MUGNOZZA ed altri: Norme sull&#39;insegnamento della danza e sulla Accademia nazionale di danza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3086</literal></binding>
+   <binding name="date"><literal>19710217</literal></binding>
+   <binding name="title"><literal>ANSELMI ed altri: Nuova disciplina degli assegni familiari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3309</literal></binding>
+   <binding name="date"><literal>19710419</literal></binding>
+   <binding name="title"><literal>ARNAUD ed altri: Concessione di un contributo finanziario annuo a favore dell&#39;Ente italiano di servizio sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3558</literal></binding>
+   <binding name="date"><literal>19710722</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Disposizioni in materia di assistenza ai sordomuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3699</literal></binding>
+   <binding name="date"><literal>19711015</literal></binding>
+   <binding name="title"><literal>SCAGLIA ed altri: Estensione agli insegnanti di lingue straniere degli Istituti tecnici delle norme della legge 28 febbraio 1961, n. 128</literal></binding>
+  </result>
+ </results>
+</sparql>

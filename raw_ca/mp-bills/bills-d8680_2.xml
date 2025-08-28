@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2047</literal></binding>
+   <binding name="date"><literal>19560203</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Provvidenze per l&#39;annata 1955-56 a favore dei fittavoli, coloni, compartecipanti di terreni olivetati, e degli olivicoltori coltivatori diretti del Mezzogiorno e delle isole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2057</literal></binding>
+   <binding name="date"><literal>19560214</literal></binding>
+   <binding name="title"><literal>TOGNONI ed altri: Agevolazioni fiscali ai contadini assegnatari di terre</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2339</literal></binding>
+   <binding name="date"><literal>19560625</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Conferimenti di incarichi e supplenze nelle scuole secondarie ai maestri di ruolo laureati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2340</literal></binding>
+   <binding name="date"><literal>19560625</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Modifica dell&#39;articolo 95 del testo unico delle leggi di pubblica sicurezza approvato con regio decreto 18 giugno 1931, n. 773</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2838</literal></binding>
+   <binding name="date"><literal>19570403</literal></binding>
+   <binding name="title"><literal>MESSINETTI ed altri: Istituzione della provincia di Crotone</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3015</literal></binding>
+   <binding name="date"><literal>19570706</literal></binding>
+   <binding name="title"><literal>VILLANI ed altri: Provvedimenti a favore degli allevamenti zootecnici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3568</literal></binding>
+   <binding name="date"><literal>19580220</literal></binding>
+   <binding name="title"><literal>SPALLONE ed altri: Garanzia da svalutazioni monetarie delle rimesse dei lavoratori emigrati all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>856</literal></binding>
+   <binding name="date"><literal>19540506</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Inchiesta parlamentare sugli Enti di riforma</literal></binding>
+  </result>
+ </results>
+</sparql>

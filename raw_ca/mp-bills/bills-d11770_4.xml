@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4003</literal></binding>
+   <binding name="date"><literal>19670420</literal></binding>
+   <binding name="title"><literal>MINIO ed altri: Modifica dell&#39;articolo 291 del testo unico per la finanza locale approvato con regio decreto 14 settembre 1931, n. 1175</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1764</literal></binding>
+   <binding name="date"><literal>19641022</literal></binding>
+   <binding name="title"><literal>MINIO ed altri: Provvedimenti a favore dei comuni e delle provincie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1599</literal></binding>
+   <binding name="date"><literal>19640807</literal></binding>
+   <binding name="title"><literal>D&#39;ONOFRIO ed altri: Riforma dell&#39;ordinamento comunale e provinciale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1740</literal></binding>
+   <binding name="date"><literal>19641016</literal></binding>
+   <binding name="title"><literal>BORSARI ed altri: Norme per la regolamentazione della gestione delle &quot;Imposte sui consumi&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1787</literal></binding>
+   <binding name="date"><literal>19641029</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Modifiche alla legge 5 marzo 1963, n. 246, concernente istituzione di una imposta sugli incrementi di valore delle aree fabbricabili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2008</literal></binding>
+   <binding name="date"><literal>19650128</literal></binding>
+   <binding name="title"><literal>BORSARI ed altri: Abolizione dell&#39;attuale controllo di merito e della distinzione in spese obbligatorie e facoltative degli Enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2229</literal></binding>
+   <binding name="date"><literal>19650401</literal></binding>
+   <binding name="title"><literal>D&#39;ALESSIO ed altri: Disposizioni in materia di contratti stipulati dall&#39;Opera nazionale per i combattenti per il trasferimento dei poderi a coltivatori assegnatari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3586</literal></binding>
+   <binding name="date"><literal>19661123</literal></binding>
+   <binding name="title"><literal>SOLIANO ed altri: Trattamento tributario per la piccola proprietà contadina e dei territori montani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4681</literal></binding>
+   <binding name="date"><literal>19671218</literal></binding>
+   <binding name="title"><literal>RAFFAELLI e MINIO: Destinazione degli utili della Cassa depositi e prestiti, finora devoluti al Tesoro, al finanziamento delle opere pubbliche degli Enti locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1078</literal></binding>
+   <binding name="date"><literal>19640305</literal></binding>
+   <binding name="title"><literal>TAGLIAFERRI ed altri: Non applicabilità dei limiti fissati dagli articoli 300 e 333 del testo unico della legge comunale e provinciale alle operazioni di mutuo, previste per l&#39;attuazione della legge 18 aprile 1962, n. 167, e deroga, a questi fini, agli ordinamenti della Cassa depositi e prestiti e degli altri Istituti finanziari autorizzati, per quanto attiene all&#39;estensione dei cespiti delegabili a garanzia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3164</literal></binding>
+   <binding name="date"><literal>19660516</literal></binding>
+   <binding name="title"><literal>INGRAO ed altri: Modifica alle leggi 11 marzo 1958, n. 208 e 9 febbraio 1963 n. 148, sull&#39;indennità da corrispondersi agli amministratori dei comuni e province</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>754</literal></binding>
+   <binding name="date"><literal>19631113</literal></binding>
+   <binding name="title"><literal>RAFFAELLI ed altri: Integrazione dei bilanci comunali a seguito dell&#39;abolizione della imposta comunale di consumo sul vino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>908</literal></binding>
+   <binding name="date"><literal>19640131</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Passaggio in enfiteusi ed affrancazione, a favore dei coltivatori insediati, delle terre condotte con contratti agrari di qualsiasi tipo nel Mezzogiorno, nelle Isole, nel Lazio</literal></binding>
+  </result>
+ </results>
+</sparql>

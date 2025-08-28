@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2088</literal></binding>
+   <binding name="date"><literal>19560301</literal></binding>
+   <binding name="title"><literal>LUCIFREDI: Modifica dell&#39;articolo 47 del Testo unico delle leggi di registro approvato con regio decreto 30 dicembre 1923, n. 3269</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2554</literal></binding>
+   <binding name="date"><literal>19561116</literal></binding>
+   <binding name="title"><literal>LUCIFREDI: Integrazione della legge 25 febbraio 1956, n. 145, per l&#39;equiparazione, nei riguardi dell&#39;imposta di bollo, alle delegazioni non negoziabili, delle delegazioni di pagamento rilasciate dai comuni, province ed altri enti pubblici a favore del Ministero del tesoro, Direzioni generali della Cassa depositi e prestiti e degli Istituti di previdenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2961</literal></binding>
+   <binding name="date"><literal>19570611</literal></binding>
+   <binding name="title"><literal>LUCIFREDI ed altri: Provvidenze per la regolarizzazione del titolo di proprietà in favore della piccola proprietà rurale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1813</literal></binding>
+   <binding name="date"><literal>19551012</literal></binding>
+   <binding name="title"><literal>MARTINO ed altri: Modificazione della legge 9 giugno 1901, n. 211, concernente la costituzione dei Consorzi obbligatori di difesa antigrandine</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2202</literal></binding>
+   <binding name="date"><literal>19560420</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Provvedimenti a favore dei menomati negli arti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3571</literal></binding>
+   <binding name="date"><literal>19580220</literal></binding>
+   <binding name="title"><literal>FODERARO ed altri: Istituzione dell&#39;Ente di previdenza ed assistenza per il Clero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3644</literal></binding>
+   <binding name="date"><literal>19580306</literal></binding>
+   <binding name="title"><literal>BONOMI ed altri: Aumento del contingente di ammasso volontario dell&#39;olio di oliva di pressione della campagna 1957-58</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1898</literal></binding>
+   <binding name="date"><literal>19551125</literal></binding>
+   <binding name="title"><literal>CAIATI ed altri: Proroga e modificazione della legge 4 marzo 1952, n. 137, per l&#39;assistenza a favore dei profughi</literal></binding>
+  </result>
+ </results>
+</sparql>

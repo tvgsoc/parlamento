@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3232</literal></binding>
+   <binding name="date"><literal>19571017</literal></binding>
+   <binding name="title"><literal>CANDELLI: Nuove norme per il trattamento economico e per l&#39;assunzione di allievi operai presso gli stabilimenti militari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3304</literal></binding>
+   <binding name="date"><literal>19571121</literal></binding>
+   <binding name="title"><literal>CANDELLI: Assunzione di 500 salariati non di ruolo alle dipendenze degli stabilimenti militari di Taranto dipendenti dal Ministero della difesa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>47</literal></binding>
+   <binding name="date"><literal>19530728</literal></binding>
+   <binding name="title"><literal>CANDELLI ed altri: Mutui per il risanamento edilizio, igienico, sanitario di Taranto vecchia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1658</literal></binding>
+   <binding name="date"><literal>19550613</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Provvidenze a favore dei coloni, mezzadri, coltivatori diretti e braccianti danneggiati dalle brinate, siccità o altre avversità atmosferiche di carattere straordinario verificatesi nell&#39;aprile 1955</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1875</literal></binding>
+   <binding name="date"><literal>19551111</literal></binding>
+   <binding name="title"><literal>BARONTINI ed altri: Norme relative al rapporto di lavoro degli operai non di ruolo in servizio nelle Amministrazioni dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2047</literal></binding>
+   <binding name="date"><literal>19560203</literal></binding>
+   <binding name="title"><literal>MICELI ed altri: Provvidenze per l&#39;annata 1955-56 a favore dei fittavoli, coloni, compartecipanti di terreni olivetati, e degli olivicoltori coltivatori diretti del Mezzogiorno e delle isole</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2318</literal></binding>
+   <binding name="date"><literal>19560619</literal></binding>
+   <binding name="title"><literal>BARONTINI ed altri: Istituzione delle mense negli uffici centrali e periferici del Ministero della difesa e negli stabilimenti da esso dipendenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2377</literal></binding>
+   <binding name="date"><literal>19560711</literal></binding>
+   <binding name="title"><literal>BARONTINI ed altri: Istituzione di un ruolo tecnico dei capi reparto nell&#39;Amministrazione della Difesa in sostituzione del gruppo dei capi operai</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>437</literal></binding>
+   <binding name="date"><literal>19531201</literal></binding>
+   <binding name="title"><literal>GUADALUPI ed altri: Estensione delle disposizioni di cui al decreto legislativo del Capo provvisorio dello Stato 12 dicembre 1947, n. 1488, e al decreto legislativo 7 maggio 1948, n. 809, a tutti i salariati già dipendenti dalle Amministrazioni dell&#39;esercito e della marina licenziati in applicazione del regio decreto 19 aprile 1923, n. 945</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>678</literal></binding>
+   <binding name="date"><literal>19540303</literal></binding>
+   <binding name="title"><literal>GUADALUPI ed altri: Autorizzazione alla Cassa depositi e prestiti a concedere mutui, assistiti dal contributo dello Stato, al comune di Brindisi per il risanamento igienico-urbanistico e per l&#39;abbattimento delle baracche esistenti sul territorio di quel comune e la costruzione di alloggi popolari in loro sostituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>810</literal></binding>
+   <binding name="date"><literal>19540412</literal></binding>
+   <binding name="title"><literal>DI VITTORIO ed altri: Disciplina dell&#39;onere dei contributi unificati nelle aziende a mezzadria e colonìa</literal></binding>
+  </result>
+ </results>
+</sparql>

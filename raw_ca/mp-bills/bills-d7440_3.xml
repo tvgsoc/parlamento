@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2033</literal></binding>
+   <binding name="date"><literal>19600217</literal></binding>
+   <binding name="title"><literal>CAVERI: Ricostituzione del distretto notarile di Aosta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>34</literal></binding>
+   <binding name="date"><literal>19580620</literal></binding>
+   <binding name="title"><literal>CAVERI: Norme per l&#39;elezione del Consiglio regionale della Valle d&#39;Aosta</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1759</literal></binding>
+   <binding name="date"><literal>19591126</literal></binding>
+   <binding name="title"><literal>COGGIOLA ed altri: Provvedimenti riguardanti le aziende municipalizzate dei trasporti urbani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2605</literal></binding>
+   <binding name="date"><literal>19601125</literal></binding>
+   <binding name="title"><literal>COGGIOLA ed altri: Norme per la rivalutazione, a difesa dei risparmiatori, dei titoli e delle obbligazioni con reddito fisso a medio e lungo termine di futura emissione in riferimento all&#39;indice nazionale del costo della vita</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2744</literal></binding>
+   <binding name="date"><literal>19610127</literal></binding>
+   <binding name="title"><literal>ALBERTINI ed altri: Modifiche agli articoli 233, 235, 244, 245 e 246 del Codice civile relativi alla legittimazione attiva e termine nelle azioni di disconoscimento di paternità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>606</literal></binding>
+   <binding name="date"><literal>19581127</literal></binding>
+   <binding name="title"><literal>SECRETO ed altri: Trasferimento di 150 cottimisti nel contingente avventizi di terza categoria dell&#39;Amministrazione del catasto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>728</literal></binding>
+   <binding name="date"><literal>19581218</literal></binding>
+   <binding name="title"><literal>ANGELINO ed altri: Norme per l&#39;utilizzazione del gas di petrolio liquefatto per l&#39;autotrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2883</literal></binding>
+   <binding name="date"><literal>19610310</literal></binding>
+   <binding name="title"><literal>BERLINGUER ed altri: Estensione delle facilitazioni di viaggio previste per le elezioni politiche a favore degli elettori del Consiglio o Assemblea regionale delle Regioni autonome della Sardegna, Sicilia, Valle d&#39;Aosta e Trentino Alto Adige</literal></binding>
+  </result>
+ </results>
+</sparql>

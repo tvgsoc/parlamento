@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4492</literal></binding>
+   <binding name="date"><literal>19900118</literal></binding>
+   <binding name="title"><literal>AMATO ed altri: Celebrazione del 750° anniversario dell&#39;università degli studi di Siena</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5962</literal></binding>
+   <binding name="date"><literal>19910919</literal></binding>
+   <binding name="title"><literal>AMATO e ROSINI: Norme relative alla previdenza complementare e all&#39;istituzione dei &quot;Fondi pensione&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4529</literal></binding>
+   <binding name="date"><literal>19900130</literal></binding>
+   <binding name="title"><literal>CRISTONI ed altri: Norme in materia di produzione, distribuzione e uso di prodotti chimici per la coltivazione agro-industriale e la conservazione di derrate alimentari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4679</literal></binding>
+   <binding name="date"><literal>19900319</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Finanziamento di iniziative formative inserite in progetti di utilità collettiva, destinate prevalentemente alle donne</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5038</literal></binding>
+   <binding name="date"><literal>19900803</literal></binding>
+   <binding name="title"><literal>RENZULLI ed altri: Norme per l&#39;attivazione degli interventi per la tutela della salute mentale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5329</literal></binding>
+   <binding name="date"><literal>19901219</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Istituzione dell&#39;assegno di maternità</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5336</literal></binding>
+   <binding name="date"><literal>19901220</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifiche e integrazioni alla legge 4 maggio 1983, n. 184, recante disciplina dell&#39;adozione e dell&#39;affidamento dei minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5446</literal></binding>
+   <binding name="date"><literal>19910212</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: Modifica dell&#39;articolo 88, secondo comma, della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5455</literal></binding>
+   <binding name="date"><literal>19910214</literal></binding>
+   <binding name="title"><literal>CAPPIELLO ed altri: Modifiche alle norme penali per la tutela dei minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6223</literal></binding>
+   <binding name="date"><literal>19911220</literal></binding>
+   <binding name="title"><literal>FARIGU ed altri: Istituzione di contributi per le associazioni di promozione sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>816</literal></binding>
+   <binding name="date"><literal>19870710</literal></binding>
+   <binding name="title"><literal>ANIASI ed altri: Riordinamento dell&#39;Ente autonomo &quot;Esposizione universale di Roma&quot;</literal></binding>
+  </result>
+ </results>
+</sparql>

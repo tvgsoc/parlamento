@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2519</literal></binding>
+   <binding name="date"><literal>19781109</literal></binding>
+   <binding name="title"><literal>RUSSO: Assunzione da parte dell&#39;Amministrazione autonoma dei monopoli di Stato dei dipendenti di ditte appaltatrici, non inclusi nelle leggi 22 dicembre 1975, n. 727 e 8 agosto 1977, n. 557</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>224</literal></binding>
+   <binding name="date"><literal>19760729</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: Modifiche ed integrazioni alla legge 22 dicembre 1975, n. 727, recante norme sulla sistemazione di lavoratori dipendenti da imprese e cooperative appaltatrici di servizi presso l&#39;Amministrazione autonoma dei monopoli di Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>792</literal></binding>
+   <binding name="date"><literal>19761118</literal></binding>
+   <binding name="title"><literal>SCALIA ed altri: Delega al Governo per l&#39;emanazione di norme per il voto degli italiani all&#39;estero</literal></binding>
+  </result>
+ </results>
+</sparql>

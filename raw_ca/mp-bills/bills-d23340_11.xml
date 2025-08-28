@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1376</literal></binding>
+   <binding name="date"><literal>19920724</literal></binding>
+   <binding name="title"><literal>DI DONATO ed altri: Modifica delle norme poste a tutela del segreto nel procedimento penale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1415</literal></binding>
+   <binding name="date"><literal>19920729</literal></binding>
+   <binding name="title"><literal>DI DONATO e MASTRANTUONO: Nuove norme in tema di rettifica di notizie giornalistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1604</literal></binding>
+   <binding name="date"><literal>19920923</literal></binding>
+   <binding name="title"><literal>DI DONATO ed altri: Norme sull&#39;ordinamento interno dei partiti politici e sul finanziamento dell&#39;attività politica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1288</literal></binding>
+   <binding name="date"><literal>19920713</literal></binding>
+   <binding name="title"><literal>LA GANGA ed altri: Elezione diretta del sindaco e del presidente della provincia, e nuove norme per l&#39;elezione dei consigli comunali e provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1411</literal></binding>
+   <binding name="date"><literal>19920729</literal></binding>
+   <binding name="title"><literal>FERRARINI ed altri: Norme generali in materia di lavori pubblici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>154</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>ARTIOLI ed altri: Modifiche alle norme penali per la tutela dei minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>241</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>MASTRANTUONO ed altri: Modifiche alla legge 27 dicembre 1985, n. 816, e nuove norme sulla condizione giuridico-economica degli amministratori locali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>243</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>LA GANGA ed altri: Modifiche e integrazioni alla legge 8 giugno 1990, n. 142, concernenti accordi organizzativi nelle aree metropolitane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2665</literal></binding>
+   <binding name="date"><literal>19930514</literal></binding>
+   <binding name="title"><literal>LABRIOLA ed altri: PROPOSTA DI LEGGE COSTITUZIONALE: Abrogazione del terzo comma dell&#39;articolo 138 della Costituzione</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2118</literal></binding>
+   <binding name="date"><literal>19871223</literal></binding>
+   <binding name="title"><literal>AUGELLO ed altri: Norma transitoria in materia di gestione delle farmacie urbane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2151</literal></binding>
+   <binding name="date"><literal>19880113</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Legge-quadro sull&#39;ordinamento del settore fieristico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3068</literal></binding>
+   <binding name="date"><literal>19880728</literal></binding>
+   <binding name="title"><literal>ANSELMI ed altri: Riforma della previdenza agricola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3387</literal></binding>
+   <binding name="date"><literal>19881123</literal></binding>
+   <binding name="title"><literal>RICCIUTI ed altri: Disposizioni per recuperare l&#39;efficienza dell&#39;attività dello Stato e degli enti locali nel settore delle opere pubbliche e della ricerca scientifica e tecnologica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3811</literal></binding>
+   <binding name="date"><literal>19890412</literal></binding>
+   <binding name="title"><literal>PIERMARTINI ed altri: Norme per interventi di recupero ambientale di Civita di Bagnoregio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3989</literal></binding>
+   <binding name="date"><literal>19890531</literal></binding>
+   <binding name="title"><literal>CACCIA ed altri: Istituzione di una Commissione parlamentare di inchiesta sul disastro aereo di Ustica del 27 giugno 1980</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4605</literal></binding>
+   <binding name="date"><literal>19900222</literal></binding>
+   <binding name="title"><literal>TORCHIO ed altri: Legge-quadro sulla navigazione interna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4759</literal></binding>
+   <binding name="date"><literal>19900417</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: Contributi alle imprese radiofoniche private che abbiano svolto attività di informazione di interesse generale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4976</literal></binding>
+   <binding name="date"><literal>19900718</literal></binding>
+   <binding name="title"><literal>GALLONI ed altri: Norme per garantire l&#39;applicazione dell&#39;articolo 49 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6008</literal></binding>
+   <binding name="date"><literal>19911022</literal></binding>
+   <binding name="title"><literal>MALFATTI ed altri: Interventi di sostegno ai territori meridionali della regione Marche e della regione Lazio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6044</literal></binding>
+   <binding name="date"><literal>19911023</literal></binding>
+   <binding name="title"><literal>SANESE ed altri: Norme per la promozione dei territori montani</literal></binding>
+  </result>
+ </results>
+</sparql>

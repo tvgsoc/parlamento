@@ -1,0 +1,70 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3475</literal></binding>
+   <binding name="date"><literal>19750218</literal></binding>
+   <binding name="title"><literal>MATTEOTTI ed altri: Disciplina giuridica della rappresentazione in pubblico delle opere teatrali e cinematografiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3408</literal></binding>
+   <binding name="date"><literal>19750124</literal></binding>
+   <binding name="title"><literal>TESINI ed altri: Abbuoni dell&#39;imposta sugli spettacoli sportivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3435</literal></binding>
+   <binding name="date"><literal>19750206</literal></binding>
+   <binding name="title"><literal>CORTI ed altri: Norme sulla interruzione della gravidanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4135</literal></binding>
+   <binding name="date"><literal>19751126</literal></binding>
+   <binding name="title"><literal>PERDONÀ ed altri: Istituzione dell&#39;Università degli studi di Verona</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4460</literal></binding>
+   <binding name="date"><literal>19760414</literal></binding>
+   <binding name="title"><literal>CIAMPAGLIA ed altri: Proroga al 31 maggio 1976 del termine per la presentazione della dichiarazione dei reddito relativi all&#39;anno 1975</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3279</literal></binding>
+   <binding name="date"><literal>19741121</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Organismi associativi fra piccole e medie imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3413</literal></binding>
+   <binding name="date"><literal>19750128</literal></binding>
+   <binding name="title"><literal>BELLUSCIO ed altri: Miglioramenti economici in favore degli appartenenti alle forze di polizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3460</literal></binding>
+   <binding name="date"><literal>19750212</literal></binding>
+   <binding name="title"><literal>MASSARI ed altri: Istituzione di una deduzione fissa dai redditi tassabili dei soggetti cui é stato fatto obbligo di cumulare ai redditi propri quelli della moglie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3498</literal></binding>
+   <binding name="date"><literal>19750221</literal></binding>
+   <binding name="title"><literal>CARIGLIA ed altri: Modifiche alla legge 4 aprile 1956, n. 212, concernente norme per la disciplina della propaganda elettorale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3499</literal></binding>
+   <binding name="date"><literal>19750221</literal></binding>
+   <binding name="title"><literal>CARIGLIA ed altri: Modifiche al titolo III del decreto del Presidente della Repubblica 30 marzo 1957, n. 361 (testo unico delle leggi per la elezione della Camera dei deputati)</literal></binding>
+  </result>
+ </results>
+</sparql>

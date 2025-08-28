@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1299</literal></binding>
+   <binding name="date"><literal>19500525</literal></binding>
+   <binding name="title"><literal>PERRONE CAPANO ed altri: Fondatezza, o meno, delle accuse mosse dall&#39;onorevole Ettore Viola nei confronti di onorevoli membri del Parlamento e del Governo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1407</literal></binding>
+   <binding name="date"><literal>19500703</literal></binding>
+   <binding name="title"><literal>ADONNINO ed altri: Per l&#39;elezione dei delegati alla prima sessione dell&#39;Assemblea Costituente Mondiale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2040</literal></binding>
+   <binding name="date"><literal>19510620</literal></binding>
+   <binding name="title"><literal>PERLINGIERI ed altri: Concessione di una pensione straordinaria alla vedova di Arnaldo Lucci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2844</literal></binding>
+   <binding name="date"><literal>19520716</literal></binding>
+   <binding name="title"><literal>NASI ed altri: Modificazione della XII Norma transitoria della Costituzione e proroga dell&#39;articolo 93 del testo unico 5 febbraio 1948, n. 26</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3079</literal></binding>
+   <binding name="date"><literal>19521214</literal></binding>
+   <binding name="title"><literal>SCOCA ed altri: Organizzazione della raccolta di fondi per la lotta contro i tumori</literal></binding>
+  </result>
+ </results>
+</sparql>

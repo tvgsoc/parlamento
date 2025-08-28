@@ -1,0 +1,94 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2384</literal></binding>
+   <binding name="date"><literal>19700305</literal></binding>
+   <binding name="title"><literal>D&#39;ANGELO ed altri: Modifiche al decreto del Presidente della Repubblica 30 giugno 1965, n. 1124, concernenti la scala mobile per le prestazioni economiche dell&#39;assistenza obbligatoria contro gli infortuni sul lavoro e le malattie professionali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1127</literal></binding>
+   <binding name="date"><literal>19690304</literal></binding>
+   <binding name="title"><literal>MARMUGI ed altri: Norme concernenti la gestione degli impianti per la distribuzione dei carburanti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2090</literal></binding>
+   <binding name="date"><literal>19691204</literal></binding>
+   <binding name="title"><literal>TOGNONI ed altri: Modifica alla legge 30 aprile 1969, n. 153, concernente la scala mobile per le pensioni della previdenza sociale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2091</literal></binding>
+   <binding name="date"><literal>19691204</literal></binding>
+   <binding name="title"><literal>BERLINGUER ed altri: Nuove norme sull&#39;orario di lavoro e riposo settimanale ed annuale dei lavoratori dipendenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2995</literal></binding>
+   <binding name="date"><literal>19710121</literal></binding>
+   <binding name="title"><literal>MARMUGI ed altri: Scorporamento degli appalti dei lavori di edilizia di pertinenza dell&#39;artigianato e norme per l&#39;esecuzione delle opere pubbliche assegnate a ditte artigiane ed ai loro consorzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3936</literal></binding>
+   <binding name="date"><literal>19720113</literal></binding>
+   <binding name="title"><literal>COLAJANNI ed altri: Disciplina degli enti di gestione delle partecipazioni statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3993</literal></binding>
+   <binding name="date"><literal>19720207</literal></binding>
+   <binding name="title"><literal>POCHETTI ed altri: Nuove norme sulla assicurazione per la disoccupazione involontaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3994</literal></binding>
+   <binding name="date"><literal>19720208</literal></binding>
+   <binding name="title"><literal>GRAMEGNA ed altri: Nuove norme per la Cassa integrazione guadagni dei lavoratori dell&#39;industria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4032</literal></binding>
+   <binding name="date"><literal>19720223</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Ordinamento delle gestioni portuali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>822</literal></binding>
+   <binding name="date"><literal>19690109</literal></binding>
+   <binding name="title"><literal>AMASIO ed altri: Risarcimento del danno alle vittime della circolazione dei veicoli a motore</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>943</literal></binding>
+   <binding name="date"><literal>19690130</literal></binding>
+   <binding name="title"><literal>LEVI ARIAN ed altri: Istituzione di sezioni serali di scuole medie e secondarie statali e norme sui rapporti di lavoro per i lavoratori studenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2</literal></binding>
+   <binding name="date"><literal>19680605</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Modifiche e integrazioni alla legge 18 marzo 1968, n. 238, ed al successivo decreto del Presidente della Repubblica 27 aprile 1968, n. 488 - Aumento e nuovo sistema di calcolo delle pensioni a carico dell&#39;assicurazione generale obbligatoria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2950</literal></binding>
+   <binding name="date"><literal>19701223</literal></binding>
+   <binding name="title"><literal>COLAJANNI ed altri: Norme sull&#39;intervento pubblico nel Mezzogiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>869</literal></binding>
+   <binding name="date"><literal>19690122</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Istituzione di un ente tessile e provvedimenti per la ristrutturazione e la riorganizzazione dell&#39;industria tessile</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2029</literal></binding>
+   <binding name="date"><literal>19921216</literal></binding>
+   <binding name="title"><literal>ALESSI ed altri: Immissione nei ruoli organici del Ministero degli affari esteri del personale a contratto in servizio all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>244</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>LA GANGA ed altri: Esenzione dal canone di abbonamento alle radiotelediffusioni per enti, associazioni e categorie privilegiate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>245</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>LA GANGA ed altri: Nuove norme sulla partecipazione dei minori a spettacoli o a riprese cinematografiche o radiotelevisive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2718</literal></binding>
+   <binding name="date"><literal>19930527</literal></binding>
+   <binding name="title"><literal>NENCINI ed altri: Nuove norme per la tutela del carattere storico, architettonico, monumentale ed ambientale di Firenze, città d&#39;arte</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5846</literal></binding>
+   <binding name="date"><literal>19910717</literal></binding>
+   <binding name="title"><literal>CARRUS ed altri: Rifinanziamento degli interventi recati dalla legge 1° marzo 1986, n. 64, concernente &quot;Disciplina organica dell&#39;intervento straordinario nel Mezzogiorno&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5912</literal></binding>
+   <binding name="date"><literal>19910801</literal></binding>
+   <binding name="title"><literal>ZARRO ed altri: Norme per l&#39;immediata autonomia delle università distaccate in attuazione del piano quadriennale di sviluppo dell&#39;università</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5916</literal></binding>
+   <binding name="date"><literal>19910801</literal></binding>
+   <binding name="title"><literal>FOSCHI ed altri: Disposizioni urgenti sulla gestione del Fondo speciale per la cooperazione allo sviluppo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6040</literal></binding>
+   <binding name="date"><literal>19911018</literal></binding>
+   <binding name="title"><literal>MATTARELLA ed altri: Misure urgenti per la disciplina della propaganda elettorale con riferimento al sistema delle telecomunicazioni di massa</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6041</literal></binding>
+   <binding name="date"><literal>19911022</literal></binding>
+   <binding name="title"><literal>BIASCI ed altri: Inquadramento dei tecnici laureati della ex carriera direttiva delle università nel ruolo dei ricercatori universitari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6191</literal></binding>
+   <binding name="date"><literal>19911213</literal></binding>
+   <binding name="title"><literal>TESINI ed altri: Legge quadro sulla educazione permanente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6194</literal></binding>
+   <binding name="date"><literal>19911213</literal></binding>
+   <binding name="title"><literal>FRONZA CREPAZ ed altri: Campagne informative per la promozione dell&#39;affidamento dei minori</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6238</literal></binding>
+   <binding name="date"><literal>19911221</literal></binding>
+   <binding name="title"><literal>BORRI ed altri: Modifiche al testo unico delle norme sulla circolazione stradale, approvato con decreto del Presidente della Repubblica 15 giugno 1959, n. 393, concernenti la definizione di ciclomotori, nonché disposizioni relative alla loro guida</literal></binding>
+  </result>
+ </results>
+</sparql>

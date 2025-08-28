@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>476</literal></binding>
+   <binding name="date"><literal>19630926</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Istituzione di una commissione parlamentare di inchiesta sulla ricerca scientifica e tecnologica in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4489</literal></binding>
+   <binding name="date"><literal>19671019</literal></binding>
+   <binding name="title"><literal>BUTTÈ ed altri: Modificazione alla legge 18 aprile 1962, n. 194, concernente norme relative al sistema aeroportuale di Milano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>247</literal></binding>
+   <binding name="date"><literal>19630719</literal></binding>
+   <binding name="title"><literal>CUCCHI ed altri: Attribuzione al pretore della competenza a differire l&#39;esecuzione degli sfratti</literal></binding>
+  </result>
+ </results>
+</sparql>

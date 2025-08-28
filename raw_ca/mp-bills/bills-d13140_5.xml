@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>266</literal></binding>
+   <binding name="date"><literal>19680725</literal></binding>
+   <binding name="title"><literal>PIRASTU ed altri: Istituzione di una Commissione parlamentare di inchiesta sul fenomeno del banditismo in Sardegna in relazione alle condizioni sociali dell&#39;isola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2953</literal></binding>
+   <binding name="date"><literal>19710104</literal></binding>
+   <binding name="title"><literal>ORILIA ed altri: Riconoscimento della carriera di concetto per le professioni paramediche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3198</literal></binding>
+   <binding name="date"><literal>19710311</literal></binding>
+   <binding name="title"><literal>CARDIA ed altri: Agevolazioni di viaggio per i connazionali che rimpatriano temporaneamente nelle isole del territorio nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3218</literal></binding>
+   <binding name="date"><literal>19710318</literal></binding>
+   <binding name="title"><literal>FINELLI ed altri: Stato giuridico ed economico dei segretari comunali e provinciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3431</literal></binding>
+   <binding name="date"><literal>19710528</literal></binding>
+   <binding name="title"><literal>TAORMINA ed altri: Provvedimenti per le società di mutuo soccorso o mutue volontarie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1176</literal></binding>
+   <binding name="date"><literal>19690312</literal></binding>
+   <binding name="title"><literal>LONGO ed altri: Norme per lo sviluppo democratico dell&#39;economia montana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2784</literal></binding>
+   <binding name="date"><literal>19701023</literal></binding>
+   <binding name="title"><literal>ORILIA ed altri: Esenzione dagli obblighi di leva per i cittadini residenti nella zona del Belice</literal></binding>
+  </result>
+ </results>
+</sparql>

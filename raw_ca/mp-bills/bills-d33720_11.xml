@@ -1,0 +1,34 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1209</literal></binding>
+   <binding name="date"><literal>19920704</literal></binding>
+   <binding name="title"><literal>COLAIANNI ed altri: Norme per l&#39;esercizio dell&#39;opzione fiscale in materia di spese per la difesa militare e di contenimento della spesa per armamenti e istituzione del Dipartimento per la difesa civile non armata presso la Presidenza del Consiglio dei ministri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1281</literal></binding>
+   <binding name="date"><literal>19920709</literal></binding>
+   <binding name="title"><literal>GARAVINI ed altri: Costituzione dei consigli unitari dei delegati nei luoghi di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>190</literal></binding>
+   <binding name="date"><literal>19920423</literal></binding>
+   <binding name="title"><literal>PERINEI ed altri: Modifiche al decreto legislativo 15 agosto 1991, n. 277, recante attuazione di direttive comunitarie in materia di protezione dei lavoratori dai rischi derivanti da esposizione ad agenti nocivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>858</literal></binding>
+   <binding name="date"><literal>19920526</literal></binding>
+   <binding name="title"><literal>RONCHI ed altri: Norme per l&#39;esercizio dell&#39;opzione fiscale in materia di spese per la difesa e istituzione del dipartimento per la difesa civile non violenta presso la Presidenza del Consiglio dei ministri</literal></binding>
+  </result>
+ </results>
+</sparql>

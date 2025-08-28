@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2525</literal></binding>
+   <binding name="date"><literal>19520220</literal></binding>
+   <binding name="title"><literal>TERRANOVA: Integrazione delle norme della legge 21 novembre 1950, n. 1030, recante agevolazioni ai comuni nel finanziamento occorrente per l&#39;aumento e il miglioramento della produzione e distribuzione di energia elettrica da parte delle aziende elettriche municipalizzate</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1148</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>REGGIO D&#39;ACI ed altri: Perequazione del trattamento economico al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2411</literal></binding>
+   <binding name="date"><literal>19511213</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Disposizioni integrative dell&#39;articolo 36 della legge 25 giugno 1949, n. 409, per agevolare la ricostruzione delle abitazioni distrutte dagli eventi bellici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2435</literal></binding>
+   <binding name="date"><literal>19511219</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Esenzione fiscale all&#39;Associazione nazionale mutilati civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2437</literal></binding>
+   <binding name="date"><literal>19511221</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Sugli ospedali psichiatrici e per la cura e profilassi delle malattie mentali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2641</literal></binding>
+   <binding name="date"><literal>19520403</literal></binding>
+   <binding name="title"><literal>PERLINGIERI ed altri: Norme d&#39;integrazione e modifica della legge 3 agosto 1949, n. 589, sulle opere pubbliche d&#39;interesse degli Enti locali</literal></binding>
+  </result>
+ </results>
+</sparql>

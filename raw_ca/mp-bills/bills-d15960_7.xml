@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1350</literal></binding>
+   <binding name="date"><literal>19770406</literal></binding>
+   <binding name="title"><literal>BARCA ed altri: Costituzione di un ente di gestione per le partecipazioni pubbliche nel gruppo Montedison</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2618</literal></binding>
+   <binding name="date"><literal>19781221</literal></binding>
+   <binding name="title"><literal>DI GIULIO ed altri: Riforma dell&#39;Istituto nazionale delle assicurazioni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2778</literal></binding>
+   <binding name="date"><literal>19790309</literal></binding>
+   <binding name="title"><literal>TORTORELLA ed altri: Nuovo ordinamento per la cinematografia italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>657</literal></binding>
+   <binding name="date"><literal>19761026</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Istituzione di una commissione intercamerale per le partecipazioni statali e norme per l&#39;esercizio dei poteri di indirizzo e controllo ad essa affidati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>231</literal></binding>
+   <binding name="date"><literal>19760804</literal></binding>
+   <binding name="title"><literal>MALAGUGINI ed altri: Inchiesta parlamentare sull&#39;incidente avvenuto il 20 luglio 1976 nello stabilimento ICMESA sito in comune di Seveso (Milano) e sulle attività industriali comportanti l&#39;impiego e la produzione di materiali, procedimenti o strumenti pericolosi</literal></binding>
+  </result>
+ </results>
+</sparql>

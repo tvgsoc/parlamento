@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6066</literal></binding>
+   <binding name="date"><literal>20050913</literal></binding>
+   <binding name="title"><literal>MAZZOCCHI ed altri: &quot;Disposizioni per il sostegno di spese promozionali delle piccole e medie imprese&quot; (6066)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6132</literal></binding>
+   <binding name="date"><literal>20051013</literal></binding>
+   <binding name="title"><literal>BIONDI ed altri: &quot;Disposizioni in materia di tutela e valorizzazione delle società sportive fondate da almeno settanta anni&quot; (6132)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>6321</literal></binding>
+   <binding name="date"><literal>20060202</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE SERENA ed altri: &quot;Disposizioni in materia di pubblicità dei bilanci degli organi costituzionali e di rilievo costituzionale&quot; (6321)</literal></binding>
+  </result>
+ </results>
+</sparql>

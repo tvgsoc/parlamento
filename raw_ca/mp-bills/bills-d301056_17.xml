@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>327</literal></binding>
+   <binding name="date"><literal>20130318</literal></binding>
+   <binding name="title"><literal>GIACOMELLI ed altri: &quot;Disciplina organica del diritto di asilo, dello status di rifugiato e della protezione sussidiaria, nonché disposizioni di attuazione delle direttive 2003/9/CE, 2005/85/CE e 2011/95/UE&quot; (327)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1653</literal></binding>
+   <binding name="date"><literal>20131003</literal></binding>
+   <binding name="title"><literal>VALIANTE ed altri: &quot;Disposizioni per la valorizzazione dei terreni demaniali dei comuni mediante la loro assegnazione per uso agricolo&quot; (1653)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1244</literal></binding>
+   <binding name="date"><literal>20130620</literal></binding>
+   <binding name="title"><literal>PROPOSTA DI LEGGE COSTITUZIONALE BIFFONI ed altri: &quot;Introduzione dell&#39;articolo 21-bis della Costituzione, in materia di riconoscimento del diritto universale di accesso alla rete internet&quot; (1244)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1431</literal></binding>
+   <binding name="date"><literal>20130726</literal></binding>
+   <binding name="title"><literal>RIGONI ed altri: &quot;Disposizioni in favore delle popolazioni colpite dagli eventi alluvionali e sismici nelle province di Arezzo, Massa-Carrara, Lucca, Grosseto, Livorno, Pisa, Pistoia e Siena il 25 e 26 ottobre 2011, il 10 e 11 novembre 2012 e nel mese di giugno 2013&quot; (1431)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1843</literal></binding>
+   <binding name="date"><literal>20131125</literal></binding>
+   <binding name="title"><literal>FIORONI ed altri: &quot;Istituzione di una Commissione parlamentare di inchiesta sul rapimento e sulla morte di Aldo Moro&quot; (1843)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>276</literal></binding>
+   <binding name="date"><literal>20130315</literal></binding>
+   <binding name="title"><literal>BRESSA ed altri: &quot;Introduzione degli articoli 613-bis e 613-ter del codice penale e altre disposizioni in materia di tortura&quot; (276)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>370</literal></binding>
+   <binding name="date"><literal>20130320</literal></binding>
+   <binding name="title"><literal>FERRANTI ed altri: &quot;Modifiche al codice di procedura penale e alla legge 26 luglio 1975, n. 354, e altre disposizioni per ridurre il sovraffollamento delle carceri e assicurare la finalità rieducativa delle pene&quot; (370)</literal></binding>
+  </result>
+ </results>
+</sparql>

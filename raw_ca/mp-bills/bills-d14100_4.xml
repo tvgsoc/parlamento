@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3933</literal></binding>
+   <binding name="date"><literal>19670317</literal></binding>
+   <binding name="title"><literal>CROCCO ed altri: Disciplina delle indennità mensili dovute al personale dell&#39;Ispettorato generale dell&#39;aviazione civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4911</literal></binding>
+   <binding name="date"><literal>19680227</literal></binding>
+   <binding name="title"><literal>CROCCO: Istituzione della qualifica di guardia particolare giurata nelle tabelle nazionali di qualifica del personale di autofilotranvie</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1198</literal></binding>
+   <binding name="date"><literal>19640407</literal></binding>
+   <binding name="title"><literal>LEONE ed altri: Modifiche alla legge 26 gennaio 1963, n. 52, sul riordinamento del Corpo del genio aeronautico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2167</literal></binding>
+   <binding name="date"><literal>19650311</literal></binding>
+   <binding name="title"><literal>TANTALO ed altri: Istituzione della Cassa nazionale di previdenza e di assistenza per gli atleti ed i tecnici tesserati delle Federazioni sportive</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2724</literal></binding>
+   <binding name="date"><literal>19651029</literal></binding>
+   <binding name="title"><literal>GEX ed altri: Liberalizzazione dell&#39;uso delle aree di atterraggio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3000</literal></binding>
+   <binding name="date"><literal>19660305</literal></binding>
+   <binding name="title"><literal>VIZZINI ed altri: Abrogazione dell&#39;articolo 553 del Codice penale e modifiche agli articoli 112 e 114 del testo unico delle leggi di pubblica sicurezza 18 giugno 1931, n. 773 e dell&#39;articolo 2 del regio decreto legislativo 31 maggio 1946, n. 561, per quanto riguarda i divieti alla propaganda anticoncezionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3739</literal></binding>
+   <binding name="date"><literal>19670124</literal></binding>
+   <binding name="title"><literal>SAMMARTINO ed altri: Estensione delle disposizioni di cui alla legge 21 novembre 1955, n. 1108, al personale dell&#39;Ispettorato generale dell&#39;aviazione civile</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4240</literal></binding>
+   <binding name="date"><literal>19670711</literal></binding>
+   <binding name="title"><literal>MACCHIAVELLI ed altri: Esercizio del diritto di voto da parte dei marittimi imbarcati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4544</literal></binding>
+   <binding name="date"><literal>19671108</literal></binding>
+   <binding name="title"><literal>MACCHIAVELLI ed altri: Modifiche alla legge 27 luglio 1967, n. 658, sul riordinamento della previdenza marinara</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>601</literal></binding>
+   <binding name="date"><literal>19631016</literal></binding>
+   <binding name="title"><literal>SARAGAT ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sul disastro della diga del Vajont</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4038</literal></binding>
+   <binding name="date"><literal>19670428</literal></binding>
+   <binding name="title"><literal>DI GIANNANTONIO ed altri: Provvidenze in favore dei mutilati e invalidi civili</literal></binding>
+  </result>
+ </results>
+</sparql>

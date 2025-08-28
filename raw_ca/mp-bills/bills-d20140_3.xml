@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>200</literal></binding>
+   <binding name="date"><literal>19580801</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Provvedimenti a favore dei menomati negli arti e degli altri invalidi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2829</literal></binding>
+   <binding name="date"><literal>19610216</literal></binding>
+   <binding name="title"><literal>AMATUCCI ed altri: Istituzione della Cassa di assicurazione contro le malattie degli avvocati e procuratori e dei loro rispettivi familiari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2879</literal></binding>
+   <binding name="date"><literal>19610309</literal></binding>
+   <binding name="title"><literal>DE MARTINO ed altri: Disposizioni per la sistemazione urbanistica della zona di Paestum</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3418</literal></binding>
+   <binding name="date"><literal>19611117</literal></binding>
+   <binding name="title"><literal>BETTIOL ed altri: Insegnamento delle Istituzioni di diritto pubblico nella Facoltà di giurisprudenza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4540</literal></binding>
+   <binding name="date"><literal>19630128</literal></binding>
+   <binding name="title"><literal>SAMMARTINO ed altri: Interpretazione autentica dell&#39;articolo 10 della legge 29 luglio 1957, n. 634</literal></binding>
+  </result>
+ </results>
+</sparql>

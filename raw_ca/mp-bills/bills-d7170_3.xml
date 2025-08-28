@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2410</literal></binding>
+   <binding name="date"><literal>19600721</literal></binding>
+   <binding name="title"><literal>CALAMO ed altri: Contributi statali per la costruzione d&#39;impianti sportivi da parte dei medi e piccoli comuni</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3038</literal></binding>
+   <binding name="date"><literal>19610520</literal></binding>
+   <binding name="title"><literal>JACOMETTI ed altri: Modifiche alle norme sul Comitato olimpico nazionale italiano (C.O.N.I.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>307</literal></binding>
+   <binding name="date"><literal>19580929</literal></binding>
+   <binding name="title"><literal>LOMBARDI ed altri: Ordinamento dell&#39;Azienda autonoma delle ferrovie dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3839</literal></binding>
+   <binding name="date"><literal>19620530</literal></binding>
+   <binding name="title"><literal>AVOLIO ed altri: Riconoscimento della qualifica di &quot;militarizzati&quot; ai ferrovieri della Campania, Sicilia, e Sardegna in servizio dal 10 giugno 1940 al 4 giugno 1944</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1822</literal></binding>
+   <binding name="date"><literal>19591212</literal></binding>
+   <binding name="title"><literal>GUADALUPI ed altri: Interpretazione dell&#39;articolo 21 della legge 29 luglio 1957, n. 634, e successive modificazioni, per quanto concerne la elaborazione di progetti di istituzione di aree di sviluppo industriale e relativi statuti e specificazione degli Enti interessati alla partecipazione dei Consorzi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>593</literal></binding>
+   <binding name="date"><literal>19581126</literal></binding>
+   <binding name="title"><literal>GIOLITTI ed altri: Proroga dei termini relativi all&#39;applicazione delle norme per la disciplina della circolazione stradale contenute negli articoli 25, 32 e 33 del decreto del Presidente della Repubblica 27 ottobre 1958, n. 956</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>609</literal></binding>
+   <binding name="date"><literal>19581127</literal></binding>
+   <binding name="title"><literal>GATTO ed altri: Inchiesta parlamentare sulla &quot;mafia&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>865</literal></binding>
+   <binding name="date"><literal>19590221</literal></binding>
+   <binding name="title"><literal>VENTURINI ed altri: Modifiche alle norme concernenti la disciplina della cessione in proprietà degli alloggi di tipo popolare ed economico, contenute nel decreto del Presidente della Repubblica 17 gennaio 1959, n. 2</literal></binding>
+  </result>
+ </results>
+</sparql>

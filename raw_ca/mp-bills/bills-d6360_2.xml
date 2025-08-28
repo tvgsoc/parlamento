@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1190</literal></binding>
+   <binding name="date"><literal>19541026</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Carriera e trattamento economico del personale direttivo e insegnante delle scuole e degli istituti di istruzione secondaria di ogni ordine e grado</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1375</literal></binding>
+   <binding name="date"><literal>19541223</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Modifica delle disposizioni di legge concernenti i diritti erariali sugli introiti degli ingressi a spettacoli sportivi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1570</literal></binding>
+   <binding name="date"><literal>19550414</literal></binding>
+   <binding name="title"><literal>CECCHERINI ed altri: Concessione di una pensione straordinaria agli scalatori del K 2 Compagnoni Achille e Lacedelli Lino ed alla sorella dello scalatore Puchoz</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2993</literal></binding>
+   <binding name="date"><literal>19570628</literal></binding>
+   <binding name="title"><literal>PECORARO ed altri: Obbligatorietà dell&#39;insegnamento e dell&#39;esame di medicina del lavoro nella Facoltà di medicina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3247</literal></binding>
+   <binding name="date"><literal>19571025</literal></binding>
+   <binding name="title"><literal>GRECO ed altri: Trattamento economico-giuridico dei sottufficiali dell&#39;Esercito, della Marina, dell&#39;Aeronautica e dei Corpi della guardia di finanza, della pubblica sicurezza, degli agenti di custodia e del Corpo forestale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>370</literal></binding>
+   <binding name="date"><literal>19531119</literal></binding>
+   <binding name="title"><literal>LA SPADA ed altri: Proroga del termine per richiedere la Croce al Merito della guerra 1940-45</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,82 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>493</literal></binding>
+   <binding name="date"><literal>19760930</literal></binding>
+   <binding name="title"><literal>GIANNANTONI ed altri: Norme sul corpo accademico, sulla elezione dei rettori dell&#39;università e dei presidi di facoltà e sulla durata del mandato dei rappresentanti eletti nelle università</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1169</literal></binding>
+   <binding name="date"><literal>19770217</literal></binding>
+   <binding name="title"><literal>BERLINGUER ed altri: Norme per il coordinamento e sviluppo della ricerca scientifica e tecnologica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1323</literal></binding>
+   <binding name="date"><literal>19770331</literal></binding>
+   <binding name="title"><literal>PELLEGATTA ed altri: Nuove norme sul funzionamento della scuola materna statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>191</literal></binding>
+   <binding name="date"><literal>19760729</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Norme in materia di elettorato attivo e passivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2135</literal></binding>
+   <binding name="date"><literal>19780421</literal></binding>
+   <binding name="title"><literal>GIOVAGNOLI SPOSETTI ed altri: Ammissione degli studenti delle università di Viterbo e di Cassino nelle università statali o riconosciute dallo Stato e riconoscimento degli esami sostenuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2801</literal></binding>
+   <binding name="date"><literal>19790322</literal></binding>
+   <binding name="title"><literal>BRUSCA ed altri: Istituzione delle scuole di medicina</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>509</literal></binding>
+   <binding name="date"><literal>19761005</literal></binding>
+   <binding name="title"><literal>BINI ed altri: Iniziative per l&#39;informazione sui problemi della sessualità nella scuola pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>638</literal></binding>
+   <binding name="date"><literal>19761020</literal></binding>
+   <binding name="title"><literal>OTTAVIANO ed altri: Modifica della legge 10 novembre 1973, n. 755, concernente la gestione unitaria del sistema aeroportuale della capitale e costruzione di una nuova aerostazione nell&#39;aeroporto intercontinentale &quot;Leonardo da Vinci&quot; di Roma-Fiumicino</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1068</literal></binding>
+   <binding name="date"><literal>19770126</literal></binding>
+   <binding name="title"><literal>RAICICH ed altri: Norme generali sull&#39;istruzione. Ordinamento della scuola secondaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>230</literal></binding>
+   <binding name="date"><literal>19760803</literal></binding>
+   <binding name="title"><literal>CHIARANTE ed altri: Norme riguardanti la pubblicità degli organi collegiali della scuola e le date di svolgimento delle elezioni scolastiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>604</literal></binding>
+   <binding name="date"><literal>19761015</literal></binding>
+   <binding name="title"><literal>PELLEGATTA ed altri: Nuove norme sul calendario scolastico e misure per il funzionamento della scuola e per la qualificazione dell&#39;organizzazione didattica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>714</literal></binding>
+   <binding name="date"><literal>19761110</literal></binding>
+   <binding name="title"><literal>CHIARANTE ed altri: Principi in materia di formazione professionale</literal></binding>
+  </result>
+ </results>
+</sparql>

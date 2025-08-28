@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1029</literal></binding>
+   <binding name="date"><literal>19940725</literal></binding>
+   <binding name="title"><literal>SOLAROLI ed altri: Concessione di un contributo alla regione Emilia Romagna per le eccezionali avversità atmosferiche dell&#39;11, 12 e 13 giugno 1994 che hanno interessato i territori delle province di Reggio Emilia, Modena e Bologna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>995</literal></binding>
+   <binding name="date"><literal>19940721</literal></binding>
+   <binding name="title"><literal>CHIAVACCI ed altri: Nuove norme in materia di obiezione di coscienza</literal></binding>
+  </result>
+ </results>
+</sparql>

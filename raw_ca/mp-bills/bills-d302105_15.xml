@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>109</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>CORDONI ed altri:  &quot;Azioni positive per la realizzazione dell&#39;integrazione delle donne disabili nel mondo del lavoro&quot; (109)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>298</literal></binding>
+   <binding name="date"><literal>20060429</literal></binding>
+   <binding name="title"><literal>QUARTIANI ed altri: &quot;Istituzione del Fondo nazionale per il sostegno della ricerca e dell&#39;innovazione tecnologica nel settore della generazione di energia elettrica tramite fonti rinnovabili&quot; (298)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>299</literal></binding>
+   <binding name="date"><literal>20060429</literal></binding>
+   <binding name="title"><literal>QUARTIANI ed altri: &quot;Modifica all&#39;articolo 7 del decreto legislativo 30 aprile 1992, n. 285, in materia di sosta di veicoli&quot; (299)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>310</literal></binding>
+   <binding name="date"><literal>20060429</literal></binding>
+   <binding name="title"><literal>GRILLINI ed altri: &quot;Disposizioni per la prevenzione dell&#39;AIDS e delle malattie a trasmissione sessuale&quot; (310)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>311</literal></binding>
+   <binding name="date"><literal>20060429</literal></binding>
+   <binding name="title"><literal>GRILLINI ed altri: &quot;Istituzione della Giornata nazionale contro l&#39;omofobia&quot; (311)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>15</literal></binding>
+   <binding name="date"><literal>20060628</literal></binding>
+   <binding name="title"><literal>REALACCI ed altri: &quot;Misure per il sostegno e la valorizzazione dei comuni con popolazione pari o inferiore a 5.000 abitanti nonché dei comuni compresi nelle aree protette&quot; (15)</literal></binding>
+  </result>
+ </results>
+</sparql>

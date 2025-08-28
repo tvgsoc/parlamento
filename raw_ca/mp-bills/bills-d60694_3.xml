@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>845</literal></binding>
+   <binding name="date"><literal>19590205</literal></binding>
+   <binding name="title"><literal>SCALFARO ed altri: Disposizioni in favore dei cappellani degli Istituti di prevenzione e pena</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>194</literal></binding>
+   <binding name="date"><literal>19580801</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Norme in materia di cantieri di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>200</literal></binding>
+   <binding name="date"><literal>19580801</literal></binding>
+   <binding name="title"><literal>SORGI ed altri: Provvedimenti a favore dei menomati negli arti e degli altri invalidi civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4363</literal></binding>
+   <binding name="date"><literal>19621213</literal></binding>
+   <binding name="title"><literal>RUSSO SPENA ed altri: Modificazioni ed aggiunte alla legge 13 marzo 1958, n. 308, recante norme per l&#39;assunzione obbligatoria al lavoro dei sordomuti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>459</literal></binding>
+   <binding name="date"><literal>19581025</literal></binding>
+   <binding name="title"><literal>STORTI ed altri: Variazioni ed aggiunte alle disposizioni contenute nel testo unico approvato con decreto del Presidente della Repubblica 5 giugno 1952, n. 656, e successive modificazioni, in materia di trattamento di quiescenza ai direttori di ufficio locale postale telegrafico, ai titolari di agenzia, agli ufficiali, ai ricevitori ed ai portalettere</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>732</literal></binding>
+   <binding name="date"><literal>19581218</literal></binding>
+   <binding name="title"><literal>TERRAGNI ed altri: Obbligatorietà degli smussi stradali a carico dei Comuni onde accrescere la visibilità al traffico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>47</literal></binding>
+   <binding name="date"><literal>19580621</literal></binding>
+   <binding name="title"><literal>BERLOFFA ed altri: Assicurazione obbligatoria contro le malattie per i titolari di piccole imprese commerciali a conduzione familiare e per i venditori ambulanti</literal></binding>
+  </result>
+ </results>
+</sparql>

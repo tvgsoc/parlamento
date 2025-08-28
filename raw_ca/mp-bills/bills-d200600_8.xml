@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2822</literal></binding>
+   <binding name="date"><literal>19810915</literal></binding>
+   <binding name="title"><literal>CARLOTTO ed altri: Norme per l&#39;incentivazione dell&#39;attività delle imprese esercenti trasporto a fune in concessione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2863</literal></binding>
+   <binding name="date"><literal>19811008</literal></binding>
+   <binding name="title"><literal>SOBRERO ed altri: Autorizzazione alla spesa di lire 30 miliardi per il completamento dell&#39;acquedotto consorziale delle Langhe ed Alpi cuneesi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2882</literal></binding>
+   <binding name="date"><literal>19811015</literal></binding>
+   <binding name="title"><literal>GOTTARDO ed altri: Provvedimenti urgenti per il credito agevolato alle imprese da parte degli istituti di medio credito regionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3159</literal></binding>
+   <binding name="date"><literal>19820211</literal></binding>
+   <binding name="title"><literal>MENSORIO ed altri: Riapertura dei termini per l&#39;esercizio dell&#39;opzione del regime di impegno dei professori di ruolo nelle università, di cui all&#39;articolo 11 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382, ed all&#39;articolo 6 della legge 30 ottobre 1981, n. 615</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3274</literal></binding>
+   <binding name="date"><literal>19820319</literal></binding>
+   <binding name="title"><literal>MORA ed altri: Disciplina del prelievo preventivo di campioni di prodotti alimentari all&#39;importazione ai fini dell&#39;attestazione di conformità alle norme in materia di alimentazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3549</literal></binding>
+   <binding name="date"><literal>19820708</literal></binding>
+   <binding name="title"><literal>DUJANY ed altri: Provvedimenti per la tutela e la promozione della lingua e della cultura della minoranza etnico-linguistica occitana in Italia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>496</literal></binding>
+   <binding name="date"><literal>19790802</literal></binding>
+   <binding name="title"><literal>GARAVAGLIA ed altri: Revisione delle norme sull&#39;adozione e l&#39;affidamento familiare</literal></binding>
+  </result>
+ </results>
+</sparql>

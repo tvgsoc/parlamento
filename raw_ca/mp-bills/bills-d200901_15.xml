@@ -1,0 +1,28 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>134</literal></binding>
+   <binding name="date"><literal>20060428</literal></binding>
+   <binding name="title"><literal>SPINI ed altri: &quot;Norme sulla libertà religiosa e abrogazione della legislazione sui culti ammessi&quot; (134)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>423</literal></binding>
+   <binding name="date"><literal>20060508</literal></binding>
+   <binding name="title"><literal>CECCUZZI: &quot;Disposizioni per la prosecuzione degli interventi per la salvaguardia del carattere storico, monumentale e artistico della città di Siena&quot; (423)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>425</literal></binding>
+   <binding name="date"><literal>20060508</literal></binding>
+   <binding name="title"><literal>CECCUZZI: &quot;Disposizioni per la salvaguardia del patrimonio storico e architettonico della città di San Gimignano&quot; (425)</literal></binding>
+  </result>
+ </results>
+</sparql>

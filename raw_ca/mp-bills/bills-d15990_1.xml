@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1257</literal></binding>
+   <binding name="date"><literal>19500509</literal></binding>
+   <binding name="title"><literal>MARTINELLI e REPOSSI: Ricostituzione dei comuni di Rezzonico, Sant&#39;Abbondio e San Siro, in provincia di Como</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1515</literal></binding>
+   <binding name="date"><literal>19500728</literal></binding>
+   <binding name="title"><literal>MARTINELLI e REPOSSI: Ricostituzione del comune di Crandola, in provincia di Como</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>219</literal></binding>
+   <binding name="date"><literal>19481211</literal></binding>
+   <binding name="title"><literal>MARTINELLI e REPOSSI: Ricostituzione dei comuni di Colonno, Ossuccio, Sala Comacina, Carugo, Arosio, Magreglio, Barni, Novedrate, Vercana, Livo, S. Nazzaro Valle Cavargna, Bulgarograsso, Veniano, Locate Varesino, Dorio e Bene Lario, in provincia di Como</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1149</literal></binding>
+   <binding name="date"><literal>19500309</literal></binding>
+   <binding name="title"><literal>PIERANTOZZI ed altri: Miglioramenti economici al clero congruato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1232</literal></binding>
+   <binding name="date"><literal>19500421</literal></binding>
+   <binding name="title"><literal>SAGGIN ed altri: Disposizioni relative ai sindaci delle società commerciali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1256</literal></binding>
+   <binding name="date"><literal>19500509</literal></binding>
+   <binding name="title"><literal>REPOSSI e MARTINELLI: Ricostituzione dei comuni di Mozzate e Carbonate, in provincia di Como</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1693</literal></binding>
+   <binding name="date"><literal>19501205</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Disciplina dell&#39;apprendistato, norme per l&#39;istruzione professionale e creazione dell&#39;Istituto nazionale per l&#39;addestramento professionale dei lavoratori (I.N.A.P.L.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2026</literal></binding>
+   <binding name="date"><literal>19510613</literal></binding>
+   <binding name="title"><literal>FANFANI ed altri: Miglioramento del trattamento economico ai lavoratori dei cantieri scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>592</literal></binding>
+   <binding name="date"><literal>19490607</literal></binding>
+   <binding name="title"><literal>MORO ed altri: Disciplina dell&#39;apprendistato e dell&#39;istruzione professionale degli artigiani</literal></binding>
+  </result>
+ </results>
+</sparql>

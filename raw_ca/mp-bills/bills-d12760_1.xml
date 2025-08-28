@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1191</literal></binding>
+   <binding name="date"><literal>19500328</literal></binding>
+   <binding name="title"><literal>COPPA e PERLINGIERI: Modificazione all&#39;articolo 10 del decreto legislativo 26 ottobre 1946, n. 262</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1734</literal></binding>
+   <binding name="date"><literal>19501222</literal></binding>
+   <binding name="title"><literal>COPPA ed altri: Per la liberazione condizionale dei condannati per collaborazionismo e reati connessi, in occasione della chiusura dell&#39;Anno Santo e per la pacificazione nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2643</literal></binding>
+   <binding name="date"><literal>19520403</literal></binding>
+   <binding name="title"><literal>COPPA ed altri: Istituzione di un diritto comunale sui minerali estratti nel comune dell&#39;Isola di Ponza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1201</literal></binding>
+   <binding name="date"><literal>19500401</literal></binding>
+   <binding name="title"><literal>FIRRAO ed altri: Costruzione dei tratti Torregaveta Miseno con diramazione a Monte di Procida della ferrovia Cumana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1693</literal></binding>
+   <binding name="date"><literal>19501205</literal></binding>
+   <binding name="title"><literal>SABATINI ed altri: Disciplina dell&#39;apprendistato, norme per l&#39;istruzione professionale e creazione dell&#39;Istituto nazionale per l&#39;addestramento professionale dei lavoratori (I.N.A.P.L.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1774</literal></binding>
+   <binding name="date"><literal>19510123</literal></binding>
+   <binding name="title"><literal>VIVIANI e COPPA: Sospensione degli sfratti per le case di abitazione nel comune di Napoli per la durata di un anno, per i disoccupati, pensionati e iscritti agli elenchi dei poveri dell&#39;E.C.A. e del comune</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2435</literal></binding>
+   <binding name="date"><literal>19511219</literal></binding>
+   <binding name="title"><literal>FEDERICI AGAMBEN ed altri: Esenzione fiscale all&#39;Associazione nazionale mutilati civili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2437</literal></binding>
+   <binding name="date"><literal>19511221</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Sugli ospedali psichiatrici e per la cura e profilassi delle malattie mentali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2756</literal></binding>
+   <binding name="date"><literal>19520606</literal></binding>
+   <binding name="title"><literal>LEONETTI ed altri: Modifica dell&#39;aliquota dell&#39;imposta di soggiorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2933</literal></binding>
+   <binding name="date"><literal>19521009</literal></binding>
+   <binding name="title"><literal>SANSONE e COPPA: Disposizione a favore dei sanitari perseguitati dal fascismo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2946</literal></binding>
+   <binding name="date"><literal>19521014</literal></binding>
+   <binding name="title"><literal>BELLONI ed altri: Disciplina della odontoiatria e dell&#39;arte ausiliaria dell&#39;odontotecnica in difesa della salute pubblica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>311</literal></binding>
+   <binding name="date"><literal>19490131</literal></binding>
+   <binding name="title"><literal>CARONIA ed altri: Chiusura dei locali di meretricio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>42</literal></binding>
+   <binding name="date"><literal>19480707</literal></binding>
+   <binding name="title"><literal>PASTORE ed altri: Concessione di una pensione straordinaria alla vedova dell&#39;onorevole Achille Grandi</literal></binding>
+  </result>
+ </results>
+</sparql>

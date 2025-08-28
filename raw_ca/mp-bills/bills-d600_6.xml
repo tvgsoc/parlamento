@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1599</literal></binding>
+   <binding name="date"><literal>19730201</literal></binding>
+   <binding name="title"><literal>VITTORELLI ed altri: Concessione di un contributo annuo di lire 80.000.000 a favore della Fondazione Giacomo Brodolini con sede a Roma</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2322</literal></binding>
+   <binding name="date"><literal>19730802</literal></binding>
+   <binding name="title"><literal>VITTORELLI ed altri: Concessione di un contributo straordinario all&#39;Amministrazione comunale di Borgosesia per realizzare un centro di raccolta di cimeli, documentazioni e testimonianze attestanti il contributo della Valsesia alla lotta di liberazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3494</literal></binding>
+   <binding name="date"><literal>19750221</literal></binding>
+   <binding name="title"><literal>VITTORELLI ed altri: Istituzione di consulte consolari presso gli uffici consolari italiani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3495</literal></binding>
+   <binding name="date"><literal>19750221</literal></binding>
+   <binding name="title"><literal>VITTORELLI ed altri: Istituzione di un Comitato interministeriale per l&#39;emigrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1184</literal></binding>
+   <binding name="date"><literal>19721121</literal></binding>
+   <binding name="title"><literal>RUSSO ed altri: Aumento del contributo all&#39;AEDE (Association européenne des enseignants)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2261</literal></binding>
+   <binding name="date"><literal>19730704</literal></binding>
+   <binding name="title"><literal>MASCIADRI ed altri: Norme per la riorganizzazione ed il funzionamento del servizio repressione frodi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2888</literal></binding>
+   <binding name="date"><literal>19740402</literal></binding>
+   <binding name="title"><literal>STORCHI ed altri: Istituzione della Conferenza nazionale dell&#39;emigrazione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3197</literal></binding>
+   <binding name="date"><literal>19740810</literal></binding>
+   <binding name="title"><literal>VINEIS ed altri: Integrazioni della legge 2 maggio 1974, n. 195, sul contributo dello Stato al finanziamento dei partiti politici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4034</literal></binding>
+   <binding name="date"><literal>19751003</literal></binding>
+   <binding name="title"><literal>ARTALI ed altri: Modifiche alla legge 15 dicembre 1972, n. 772, recante norme per il riconoscimento dell&#39;obiezione di coscienza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4052</literal></binding>
+   <binding name="date"><literal>19751010</literal></binding>
+   <binding name="title"><literal>ACHILLI ed altri: Norme sull&#39;abusivismo in edilizia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3075</literal></binding>
+   <binding name="date"><literal>19740704</literal></binding>
+   <binding name="title"><literal>BALLARDINI ed altri: Riduzione dei termini e semplificazione del procedimento elettorale. Modifica del testo unico delle leggi per la elezione della Camera dei deputati approvato con decreto del Presidente della Repubblica 30 marzo 1957, n. 361, della legge 6 febbraio 1948, n. 29, e della legge 4 aprile 1956, n. 212</literal></binding>
+  </result>
+ </results>
+</sparql>

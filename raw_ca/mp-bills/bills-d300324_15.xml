@@ -1,0 +1,40 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1755</literal></binding>
+   <binding name="date"><literal>20061004</literal></binding>
+   <binding name="title"><literal>VINCENZO DE LUCA: &quot;Modifiche all&#39;articolo 17 del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, in materia di circoscrizioni di decentramento comunale&quot; (1755)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>1756</literal></binding>
+   <binding name="date"><literal>20061004</literal></binding>
+   <binding name="title"><literal>VINCENZO DE LUCA: &quot;Modifica dell&#39;articolo 120 del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, in materia di società di trasformazione urbana&quot; (1756)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2317</literal></binding>
+   <binding name="date"><literal>20070305</literal></binding>
+   <binding name="title"><literal>VINCENZO DE LUCA: &quot;Modifica all&#39;articolo 594 del codice penale in materia di ingiuria a un pubblico ufficiale&quot; (2317)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1781</literal></binding>
+   <binding name="date"><literal>20061009</literal></binding>
+   <binding name="title"><literal>BRUSCO ed altri: &quot;Concessione di un contributo dello Stato all&#39;associazione culturale &#39;Maiori Film Festival&#39; di Maiori per il premio Roberto Rossellini&quot; (1781)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2254</literal></binding>
+   <binding name="date"><literal>20070214</literal></binding>
+   <binding name="title"><literal>TESSITORE ed altri: &quot;Aumento del contributo dello Stato in favore della Biblioteca italiana per ciechi «Regina Margherita» di Monza&quot; (2254)</literal></binding>
+  </result>
+ </results>
+</sparql>

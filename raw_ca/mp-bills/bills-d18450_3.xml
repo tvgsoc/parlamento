@@ -1,0 +1,88 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2023</literal></binding>
+   <binding name="date"><literal>19600216</literal></binding>
+   <binding name="title"><literal>CREMISINI: Tutela del diritto d&#39;invenzione dei processi per la produzione di sostanze medicamentose e norme per la concessione di &quot;licenze legali&quot; per l&#39;utilizzazione dei medesimi processi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2992</literal></binding>
+   <binding name="date"><literal>19610502</literal></binding>
+   <binding name="title"><literal>CREMISINI e BARBERI: Produzione e commercio dei prodotti medicinali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4503</literal></binding>
+   <binding name="date"><literal>19630123</literal></binding>
+   <binding name="title"><literal>CREMISINI e BARBERI: Norme per la cessione della registrazione di specialità medicinali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>773</literal></binding>
+   <binding name="date"><literal>19590109</literal></binding>
+   <binding name="title"><literal>CREMISINI e CASALINUOVO: Concessioni a favore dei datori volontari di sangue appartenenti all&#39;Associazione volontari italiani sangue (A.V.I.S.)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1504</literal></binding>
+   <binding name="date"><literal>19590723</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Riconoscimento giuridico della professione di spedizioniere doganale ed istituzione degli albi degli spedizionieri doganali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1515</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Sistemazione economico-giuridica di talune situazioni del personale impiegatizio in servizio presso gli Enti locali, scaturite dall&#39;applicazione del decreto legislativo 5 febbraio 1948, n. 61 e della legge 8 marzo 1949 n. 99</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1522</literal></binding>
+   <binding name="date"><literal>19590724</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Modifica delle vigenti norme sulla assicurazione facoltativa per l&#39;invalidità, la vecchiaia ed i superstiti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2446</literal></binding>
+   <binding name="date"><literal>19600806</literal></binding>
+   <binding name="title"><literal>SPADAZZI ed altri: Modifiche alla tabella unica degli stipendi allegata al decreto del Presidente della Repubblica 11 gennaio 1956, n. 19</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>321</literal></binding>
+   <binding name="date"><literal>19581002</literal></binding>
+   <binding name="title"><literal>CASALINUOVO ed altri: Nuove norme per l&#39;ammissione nei ruoli degli idonei nei concorsi speciali e per il ruolo in soprannumero dei maestri elementari</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4395</literal></binding>
+   <binding name="date"><literal>19621221</literal></binding>
+   <binding name="title"><literal>RADI ed altri: Provvidenze a favore dei circhi italiani e norme sulla attività dello spettacolo viaggiante</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>466</literal></binding>
+   <binding name="date"><literal>19581027</literal></binding>
+   <binding name="title"><literal>CAFIERO ed altri: Modificazioni alla legge 12 novembre 1955, n. 1137, sull&#39;avanzamento degli ufficiali dell&#39;Esercito, della Marina e dell&#39;Aeronautica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>663</literal></binding>
+   <binding name="date"><literal>19581204</literal></binding>
+   <binding name="title"><literal>PREZIOSI ed altri: Interpretazione autentica dell&#39;articolo 68 del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>797</literal></binding>
+   <binding name="date"><literal>19590123</literal></binding>
+   <binding name="title"><literal>CASALINUOVO ed altri: Introduzione dell&#39;orario unico per i dipendenti dagli Istituti previdenziali ed assistenziali, dagli Istituti di credito, dalle Imprese di assicurazione, dall&#39;Istituto di emissione e dagli Enti di diritto pubblico e dalle Aziende soggette comunque al controllo o vigilanza dello Stato</literal></binding>
+  </result>
+ </results>
+</sparql>

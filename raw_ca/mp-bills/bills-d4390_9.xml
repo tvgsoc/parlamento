@@ -1,0 +1,52 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2362</literal></binding>
+   <binding name="date"><literal>19841207</literal></binding>
+   <binding name="title"><literal>PAJETTA ed altri: Diritti dei lavoratori italiani dipendenti da imprese, nazionali o straniere, operanti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1388</literal></binding>
+   <binding name="date"><literal>19840308</literal></binding>
+   <binding name="title"><literal>SANLORENZO ed altri: Norme per l&#39;acquisizione e l&#39;utilizzo dei dati da parte delle regioni per la programmazione democratica dello sviluppo industriale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3271</literal></binding>
+   <binding name="date"><literal>19851108</literal></binding>
+   <binding name="title"><literal>SPAGNOLI ed altri: Istituzione di una Commissione parlamentare di inchiesta sul sequestro della motonave Achille Lauro e sui fatti successivi e connessi svoltisi sino al 12 ottobre 1985</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3347</literal></binding>
+   <binding name="date"><literal>19851212</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Riforma del Ministero degli affari esteri</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4417</literal></binding>
+   <binding name="date"><literal>19870205</literal></binding>
+   <binding name="title"><literal>ANTONI ed altri: Riapertura dei termini per la concessione di Medaglia d&#39;Oro alla provincia di La Spezia per merito acquisito durante la guerra di liberazione nazionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1511</literal></binding>
+   <binding name="date"><literal>19840402</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Modifiche e integrazioni alla legge 9 febbraio 1979, n. 38, concernente cooperazione dell&#39;Italia con i paesi in via di sviluppo - Interventi contro la fame nel mondo e per la sicurezza alimentare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2977</literal></binding>
+   <binding name="date"><literal>19850626</literal></binding>
+   <binding name="title"><literal>NATTA ed altri: Convocazione della seconda Conferenza nazionale dell&#39;emigrazione</literal></binding>
+  </result>
+ </results>
+</sparql>

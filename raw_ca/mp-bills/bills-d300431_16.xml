@@ -1,0 +1,22 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>5123</literal></binding>
+   <binding name="date"><literal>20120412</literal></binding>
+   <binding name="title"><literal>ANGELINO ALFANO ed altri: &quot;Misure per garantire la trasparenza e il controllo dei bilanci dei partiti e dei movimenti politici&quot; (5123)</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>5093</literal></binding>
+   <binding name="date"><literal>20120328</literal></binding>
+   <binding name="title"><literal>PALMIERI ed altri: &quot;Disposizioni per la realizzazione dell&#39;agenda digitale nazionale&quot; (5093)</literal></binding>
+  </result>
+ </results>
+</sparql>

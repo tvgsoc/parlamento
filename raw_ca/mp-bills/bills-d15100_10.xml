@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2191</literal></binding>
+   <binding name="date"><literal>19880120</literal></binding>
+   <binding name="title"><literal>CASATI ed altri: Ordinamento della scuola non statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2339</literal></binding>
+   <binding name="date"><literal>19880212</literal></binding>
+   <binding name="title"><literal>DE MITA ed altri: Disciplina organica dell&#39;intervento straordinario per lo sviluppo economico e sociale della Sardegna</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2467</literal></binding>
+   <binding name="date"><literal>19880311</literal></binding>
+   <binding name="title"><literal>BOTTA ed altri: Rifinanziamento della legge 6 febbraio 1985, n. 16, per il triennio 1988-1990 ed estensione del programma straordinario di interventi edilizi all&#39;organizzazione addestrativa e mobile dell&#39;Arma dei carabinieri, nonché alla realizzazione di alloggi di servizio per il personale dipendente</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>36</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>BASSANINI ed altri: Norme per il sostegno degli enti e associazioni che perseguono finalità umanitarie, scientifiche, culturali, religiose, politiche, sindacali, di promozione sociale e civile, di salvaguardia dell&#39;ambiente naturale e del patrimonio culturale e artistico</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>525</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>BELLOCCHIO ed altri: Misure urgenti per l&#39;adeguamento e l&#39;ammodernamento dei mezzi e dei servizi tecnologici della Guardia di finanza</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>674</literal></binding>
+   <binding name="date"><literal>19870708</literal></binding>
+   <binding name="title"><literal>CASATI ed altri: Ordinamento della scuola non statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1649</literal></binding>
+   <binding name="date"><literal>19871009</literal></binding>
+   <binding name="title"><literal>MARTINAZZOLI ed altri: Controllo della produzione, esportazione e transito di materiali d&#39;armamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2445</literal></binding>
+   <binding name="date"><literal>19880308</literal></binding>
+   <binding name="title"><literal>CARRUS ed altri: Nuove norme in materia di bilancio e di contabilità generale dello Stato</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>520</literal></binding>
+   <binding name="date"><literal>19870702</literal></binding>
+   <binding name="title"><literal>VISCO ed altri: Norme per la trasparenza nelle operazioni bancarie</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4046</literal></binding>
+   <binding name="date"><literal>19751008</literal></binding>
+   <binding name="title"><literal>CASTELLUCCI ed altri: Ordinamento della professione di commercialista</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4059</literal></binding>
+   <binding name="date"><literal>19751016</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Ulteriori provvedimenti per la sistemazione della città di Loreto</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4087</literal></binding>
+   <binding name="date"><literal>19751030</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Norme per stabilire un tetto massimo alle retribuzioni pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4144</literal></binding>
+   <binding name="date"><literal>19751127</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Norme in materia urbanistica</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4155</literal></binding>
+   <binding name="date"><literal>19751209</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Nuove norme sul funzionamento della scuola materna statale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4301</literal></binding>
+   <binding name="date"><literal>19760129</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Risanamento industriale, disciplina della mobilità della mano d&#39;opera</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4386</literal></binding>
+   <binding name="date"><literal>19760318</literal></binding>
+   <binding name="title"><literal>COSTAMAGNA ed altri: Principi fondamentali in materia di formazione professionale</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4501</literal></binding>
+   <binding name="date"><literal>19760428</literal></binding>
+   <binding name="title"><literal>DÈ COCCI ed altri: Riforma della legge 24 dicembre 1969, n. 990, sull&#39;assicurazione obbligatoria dei veicoli a motore e dei natanti per la responsabilità civile verso i terzi di cui all&#39;articolo 2054 del codice civile</literal></binding>
+  </result>
+ </results>
+</sparql>

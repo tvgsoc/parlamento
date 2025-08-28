@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3746</literal></binding>
+   <binding name="date"><literal>19670126</literal></binding>
+   <binding name="title"><literal>ASTOLFI ed altri: Opere per la chiusura della Sacca di Scardovari e per la bonifica delle Valli dell&#39;Isola della Donzella in territorio del Comune di Porto Tolle</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2538</literal></binding>
+   <binding name="date"><literal>19650714</literal></binding>
+   <binding name="title"><literal>ILLUMINATI ed altri: Riliquidazione delle pensioni e aumento dell&#39;indennità di buonuscita al personale insegnante, direttivo ed ispettivo della scuola</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3586</literal></binding>
+   <binding name="date"><literal>19661123</literal></binding>
+   <binding name="title"><literal>SOLIANO ed altri: Trattamento tributario per la piccola proprietà contadina e dei territori montani</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3743</literal></binding>
+   <binding name="date"><literal>19670125</literal></binding>
+   <binding name="title"><literal>BALCONI ed altri: Inchiesta parlamentare sullo stato degli istituti che ospitano bambini ed adolescenti</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3980</literal></binding>
+   <binding name="date"><literal>19670412</literal></binding>
+   <binding name="title"><literal>BUSETTO ed altri: Modificazioni e integrazioni alla legge 23 dicembre 1966, n. 1141, che ha convertito in legge, con modificazioni, il decreto legge 9 novembre 1966, n. 914, recante provvidenze in favore delle popolazioni colpite dalle alluvioni e mareggiate dell&#39;autunno 1966 e alla legge 23 dicembre 1966, n. 1142, che ha convertito in legge, con modificazioni, il decreto legge 18 novembre 1966, n. 976, concernente ulteriori interventi e provvidenze per la ricostruzione e la ripresa economica dei territori colpiti dalle alluvioni e mareggiate dell&#39;autunno 1966</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4003</literal></binding>
+   <binding name="date"><literal>19670420</literal></binding>
+   <binding name="title"><literal>MINIO ed altri: Modifica dell&#39;articolo 291 del testo unico per la finanza locale approvato con regio decreto 14 settembre 1931, n. 1175</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4084</literal></binding>
+   <binding name="date"><literal>19670518</literal></binding>
+   <binding name="title"><literal>LENTI ed altri: Integrazione del fondo per il concorso statale nel pagamento degli interessi istituito presso la Cassa per il Credito alle imprese artigiane di cui alla legge 25 luglio 1952, n. 949</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4411</literal></binding>
+   <binding name="date"><literal>19671003</literal></binding>
+   <binding name="title"><literal>BUSETTO ed altri: Estensione alle zone del Capoluogo e del mandamento di Piove di Sacco della provincia di Padova colpite dall&#39;alluvione del 4-5 settembre 1967 degli interventi e delle provvidenze previste a favore dei territori colpiti dalle alluvioni e dalle mareggiate dell&#39;autunno 1966</literal></binding>
+  </result>
+ </results>
+</sparql>

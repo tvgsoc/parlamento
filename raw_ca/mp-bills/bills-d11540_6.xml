@@ -1,0 +1,76 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>698</literal></binding>
+   <binding name="date"><literal>19720802</literal></binding>
+   <binding name="title"><literal>ARZILLI ed altri: Ulteriore contributo dello Stato per la costruzione di un bacino di carenaggio nel porto di Livorno</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1126</literal></binding>
+   <binding name="date"><literal>19721108</literal></binding>
+   <binding name="title"><literal>RAFFAELLI ed altri: Modifiche alle norme relative all&#39;imposta sui redditi di ricchezza mobile e all&#39;imposta complementare progressiva sul reddito complessivo derivanti da lavoro dipendente e da lavoro autonomo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1265</literal></binding>
+   <binding name="date"><literal>19721206</literal></binding>
+   <binding name="title"><literal>SCIPIONI ed altri: Uso di radio-telefoni operanti sulla frequenza dei 27 megacicli</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>184</literal></binding>
+   <binding name="date"><literal>19720530</literal></binding>
+   <binding name="title"><literal>D&#39;ALEMA ed altri: Disciplina degli enti di gestione delle partecipazioni statali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>415</literal></binding>
+   <binding name="date"><literal>19720706</literal></binding>
+   <binding name="title"><literal>CERAVOLO ed altri: Ordinamento delle gestioni portuali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>426</literal></binding>
+   <binding name="date"><literal>19720707</literal></binding>
+   <binding name="title"><literal>LODI FAUSTINI FUSTINI ed altri: Norme generali sull&#39;assistenza e beneficenza pubbliche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>474</literal></binding>
+   <binding name="date"><literal>19720713</literal></binding>
+   <binding name="title"><literal>SPAGNOLI ed altri: Norme in favore dei lavoratori dipendenti il cui rapporto di lavoro sia stato risolto per motivi politici e sindacali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1033</literal></binding>
+   <binding name="date"><literal>19721026</literal></binding>
+   <binding name="title"><literal>BALLARIN ed altri: Provvedimenti a favore della pesca marittima</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1159</literal></binding>
+   <binding name="date"><literal>19721116</literal></binding>
+   <binding name="title"><literal>FLAMIGNI ed altri: Abrogazione delle norme che limitano il diritto a contrarre il matrimonio del personale dei corpi di polizia, forze armate e corpi assimilati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2941</literal></binding>
+   <binding name="date"><literal>19740515</literal></binding>
+   <binding name="title"><literal>FLAMIGNI ed altri: Abrogazione delle norme che limitano il diritto a contrarre matrimonio del personale dei corpi di polizia, forze armate e corpi assimilati</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>470</literal></binding>
+   <binding name="date"><literal>19720713</literal></binding>
+   <binding name="title"><literal>BORTOT ed altri: Assicurazione obbligatoria contro le malattie professionali da inalazione di polvere</literal></binding>
+  </result>
+ </results>
+</sparql>

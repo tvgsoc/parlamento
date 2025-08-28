@@ -1,0 +1,46 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>3995</literal></binding>
+   <binding name="date"><literal>19670418</literal></binding>
+   <binding name="title"><literal>D&#39;AMBROSIO: Modifica dell&#39;articolo 59 della Costituzione</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4663</literal></binding>
+   <binding name="date"><literal>19671213</literal></binding>
+   <binding name="title"><literal>D&#39;AMBROSIO e MANNIRONI: Immissione nei ruoli della scuola primaria degli insegnanti idonei al concorso speciale bandito con ordinanza ministeriale in data 10 settembre 1966, n. 8199/337, prevista dalla legge 25 luglio 1966, n. 574</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>4793</literal></binding>
+   <binding name="date"><literal>19680122</literal></binding>
+   <binding name="title"><literal>D&#39;AMBROSIO: Ripristino della cattedra di teologia nelle università italiane</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3504</literal></binding>
+   <binding name="date"><literal>19661017</literal></binding>
+   <binding name="title"><literal>LUCCHESI ed altri: Modifica alle disposizioni sulla tenuta e regolarizzazione dei libri ed altri documenti di lavoro</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4178</literal></binding>
+   <binding name="date"><literal>19670623</literal></binding>
+   <binding name="title"><literal>BARBI ed altri: Modificazioni ed integrazioni dell&#39;articolo 6 della legge 14 febbraio 1963, n. 60, concernente la liquidazione del patrimonio edilizio della Gestione INA-Casa e dell&#39;articolo 40 del decreto del Presidente della Repubblica 11 ottobre 1963, n. 1471, concernente il Regolamento di attuazione della legge medesima</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4975</literal></binding>
+   <binding name="date"><literal>19680306</literal></binding>
+   <binding name="title"><literal>TOGNI ed altri: Ente di previdenza ed assistenza a favore dei consulenti del lavoro</literal></binding>
+  </result>
+ </results>
+</sparql>

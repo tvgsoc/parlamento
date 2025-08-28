@@ -1,0 +1,58 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2318</literal></binding>
+   <binding name="date"><literal>19810204</literal></binding>
+   <binding name="title"><literal>SPAGNOLI ed altri: Norme in materia di tutela delle minoranze linguistiche</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3119</literal></binding>
+   <binding name="date"><literal>19820127</literal></binding>
+   <binding name="title"><literal>CERRINA FERONI ed altri: Nuova disciplina dell&#39;amministrazione straordinaria delle grandi imprese in crisi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3138</literal></binding>
+   <binding name="date"><literal>19820204</literal></binding>
+   <binding name="title"><literal>TREBBI ALOARDI ed altri: Aumento del contributo previsto dalla legge 5 marzo 1961, n. 212, a favore dei comuni e delle province insigniti di decorazione di medaglia d&#39;oro e al valor militare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3380</literal></binding>
+   <binding name="date"><literal>19820429</literal></binding>
+   <binding name="title"><literal>PALOPOLI ed altri: Norme per il trasferimento alle regioni e per l&#39;ulteriore destinazione agli enti locali delle aziende termali già facenti capo al disciolto EAGAT e per la valorizzazione delle prestazioni termali</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3810</literal></binding>
+   <binding name="date"><literal>19821216</literal></binding>
+   <binding name="title"><literal>DAL MASO ed altri: Norme per il trasferimento all&#39;EFIM delle società di imbottigliamento di acque minerali, già inquadrate nell&#39;EAGAT</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4103</literal></binding>
+   <binding name="date"><literal>19830427</literal></binding>
+   <binding name="title"><literal>MIGLIORINI ed altri: Assegno sociale per i cittadini italiani residenti all&#39;estero</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>4119</literal></binding>
+   <binding name="date"><literal>19830428</literal></binding>
+   <binding name="title"><literal>NAPOLITANO ed altri: Modifiche ed integrazioni della legge 5 agosto 1978, n. 468, concernente la riforma di alcune norme di contabilità generale dello Stato in materia di bilancio</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1246</literal></binding>
+   <binding name="date"><literal>19800109</literal></binding>
+   <binding name="title"><literal>BRINI ed altri: Principi fondamentali in materia di artigianato</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>primo firmatario</literal></binding>
+   <binding name="ref"><literal>2962</literal></binding>
+   <binding name="date"><literal>19811112</literal></binding>
+   <binding name="title"><literal>MANCA ed altri: Disposizioni concernenti l&#39;esercizio degli impianti di riscaldamento</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2768</literal></binding>
+   <binding name="date"><literal>19810730</literal></binding>
+   <binding name="title"><literal>BARTOLINI ed altri: Norme per il rifinanziamento della legge 25 maggio 1978, n. 230, concernente la salvaguardia e il consolidamento della rupe di Orvieto e del colle di Todi</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2884</literal></binding>
+   <binding name="date"><literal>19811016</literal></binding>
+   <binding name="title"><literal>BABBINI ed altri: Legge-quadro per la programmazione del settore distributivo</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3619</literal></binding>
+   <binding name="date"><literal>19820804</literal></binding>
+   <binding name="title"><literal>CERRINA FERONI ed altri: Esenzioni fiscali per gli impianti elettrogeneratori con potenza sino a 3.000 chilowattora alimentati con fonti rinnovabili</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>38</literal></binding>
+   <binding name="date"><literal>19790620</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Riduzione ad otto mesi della ferma di leva</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>3953</literal></binding>
+   <binding name="date"><literal>19830223</literal></binding>
+   <binding name="title"><literal>SPINI ed altri: Istituzione dell&#39;Agenzia per la promozione dell&#39;innovazione presso le piccole imprese</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>811</literal></binding>
+   <binding name="date"><literal>19791029</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Istituzione di una Commissione parlamentare d&#39;inchiesta sulla siderurgia italiana</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>145</literal></binding>
+   <binding name="date"><literal>19790626</literal></binding>
+   <binding name="title"><literal>BALZAMO ed altri: Riordinamento dell&#39;istituto della pubblica sicurezza. Istituzione del servizio civile denominato &quot;Corpo di polizia della Repubblica italiana&quot;</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>225</literal></binding>
+   <binding name="date"><literal>19790628</literal></binding>
+   <binding name="title"><literal>CRAXI ed altri: Istituzione dei Comitati consolari elettivi dell&#39;emigrazione: partecipazione e gestione democratica degli emigranti</literal></binding>
+  </result>
+ </results>
+</sparql>

@@ -1,0 +1,64 @@
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="role"/>
+  <variable name="ref"/>
+  <variable name="date"/>
+  <variable name="title"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1119</literal></binding>
+   <binding name="date"><literal>19540803</literal></binding>
+   <binding name="title"><literal>DI GIACOMO ed altri: Istituzione della provincia di Isernia</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1130</literal></binding>
+   <binding name="date"><literal>19540804</literal></binding>
+   <binding name="title"><literal>DIECIDUE ed altri: Provvidenze a favore dell&#39;Opera di Santa Croce in Firenze</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>1984</literal></binding>
+   <binding name="date"><literal>19560118</literal></binding>
+   <binding name="title"><literal>GRASSO NICOLOSI ed altri: Graduatoria unica nei concorsi, incarichi, trasferimenti nella scuola elementare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2164</literal></binding>
+   <binding name="date"><literal>19560328</literal></binding>
+   <binding name="title"><literal>DE LAURO MATERA ed altri: Norme per l&#39;organizzazione dell&#39;istruzione primaria e stato giuridico del personale ispettivo, direttivo e insegnante della scuola elementare</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2165</literal></binding>
+   <binding name="date"><literal>19560328</literal></binding>
+   <binding name="title"><literal>LOZZA ed altri: Stato giuridico del personale direttivo e docente degli Istituti di istruzione secondaria</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2280</literal></binding>
+   <binding name="date"><literal>19560605</literal></binding>
+   <binding name="title"><literal>DEL VECCHIO GUELFI ed altri: Disciplina dei licenziamenti delle donne che si sposano</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2577</literal></binding>
+   <binding name="date"><literal>19561129</literal></binding>
+   <binding name="title"><literal>BEI CIUFOLI ed altri: Indennità di asilo per i bimbi delle lavoratrici</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>2990</literal></binding>
+   <binding name="date"><literal>19570627</literal></binding>
+   <binding name="title"><literal>BARBIERI ed altri: Contributo per la biblioteca ed il museo leonardeschi di Vinci</literal></binding>
+  </result>
+  <result>
+   <binding name="role"><literal>altro firmatario</literal></binding>
+   <binding name="ref"><literal>807</literal></binding>
+   <binding name="date"><literal>19540412</literal></binding>
+   <binding name="title"><literal>ROSSI ed altri: Per la tutela giuridica dei figli nati fuori dal matrimonio</literal></binding>
+  </result>
+ </results>
+</sparql>
