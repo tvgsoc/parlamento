@@ -1,23 +1,28 @@
 # hi Italy
 
+setwd("C:/Users/tsvan/Local Documents/_data/parlnet-sub/parlamento")
+
 source("load.r")
 source("functions.r")
 source("parties.r")
 
 # folders
 
-dir.create("data"  , showWarnings = FALSE)
-dir.create("plots" , showWarnings = FALSE)
+# skip folder creation - data already exists from earlier run, and I don't
+# plan to replicate plots
+#dir.create("data"  , showWarnings = FALSE)
+#dir.create("plots" , showWarnings = FALSE)
 
-if (file.exists("photos_ca.zip"))
-  unzip("photos_ca.zip")
+# skip photo download -- unlikely to ever want them
+#if (file.exists("photos_ca.zip"))
+#  unzip("photos_ca.zip")
 
-dir.create("photos_ca", showWarnings = FALSE)
+#dir.create("photos_ca", showWarnings = FALSE)
 
-if (file.exists("photos_se.zip"))
-  unzip("photos_se.zip")
+#if (file.exists("photos_se.zip"))
+#  unzip("photos_se.zip")
 
-dir.create("photos_se", showWarnings = FALSE)
+#dir.create("photos_se", showWarnings = FALSE)
 
 if (file.exists("raw_ca.zip"))
   unzip("raw_ca.zip")
@@ -36,8 +41,8 @@ dir.create("raw_se/mp-pages" , showWarnings = FALSE)
 
 # parameters
 
-plot = TRUE
-gexf = TRUE
+plot = FALSE # create plots?
+gexf = FALSE # download photos
 mode = "fruchtermanreingold"
 meta = c(
   "cty" = "Italy",
