@@ -4,6 +4,7 @@ library(dplyr)
 library(httr)
 library(stringr)
 library(XML)
+library(rvest) # added rvest package for read_html, probably this was done by XML before?
 
 # networks
 
